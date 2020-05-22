@@ -10,3 +10,10 @@
     have such as the ability to boost your combat rating and change your friendly/hostile
     status with factions of the game without having to save-edit. Intended to help
     content creators test their plugins.
+- name: Defense Drone Plugin
+  url: https://github.com/starmlerp/ESDefenseDronePlugin
+  version: d693e5681517ee9390e16e500f9e3c753c4858b0
+  author: starmlerp
+  description: |
+    This plugin adds a few human drones, intended to be added into vanilla game.
+    All credit to @Loyse for ship design.
