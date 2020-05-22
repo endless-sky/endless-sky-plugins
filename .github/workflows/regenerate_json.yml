@@ -1,0 +1,23 @@
+name: Generate JSON file
+
+on:
+  push:
+    paths: 
+      - plugins.yaml
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - run: |
+        pip3 install yq
+        cat plugins.yaml | yq '.' > generated/plugins.json
+    - uses: stefanzweifel/git-auto-commit-action@v4.2.0
+      with:
+        commit_message: Regenerate JSON file (${{ github.sha }})
+        file_pattern: ./generated/plugins.json
+        commit_user_name: Regenerate JSON file workflow
+        commit_user_email: github-actions.dont-use@github.com
