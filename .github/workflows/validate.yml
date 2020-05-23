@@ -14,4 +14,4 @@ jobs:
     - name: Install yamllint
       run: sudo apt-get install -y yamllint
     - name: Lint
-      run: yamllint plugins.yaml
+      run: yamllint -d relaxed plugins.yaml
