@@ -1,10 +1,25 @@
 [
-    {
-        "name": "World Forge",
-        "url": "https://github.com/EndlessSkyCommunity/world-forge",
-        "version": "22f036fcff384dcdd41c583783597eb994b9ab7a",
-        "iconUrl": "https://github.com/EndlessSkyCommunity/world-forge/raw/master/icon.png",
-        "author": "Amazinite",
-        "description": "A plugin for Endless Sky that allows the player to access everything in the game in one place. Includes features that the all-content plugin does not have such as the ability to boost your combat rating and change your friendly/hostile status with factions of the game without having to save-edit. Intended to help content creators test their plugins."
-    }
+  {
+    "name": "All Content Plugin",
+    "url": "https://github.com/endless-sky/all-content-plugin",
+    "version": "60f3979efcfc5184dc96ee0e1b178526e52ccb83",
+    "author": "endless-sky",
+    "iconUrl": "https://raw.githubusercontent.com/endless-sky/all-content-plugin/master/icon%402x.png",
+    "description": "This plugin was made to allow content creators to have access to all outfits in a single place,\nfor the purpose of designing and testing outfit loadouts for new ships.\nOf course, it can also be used by people who want to ruin the game for themselves\nby getting a massive fleet without needing to work for it.\n"
+  },
+  {
+    "name": "Defense Drone Plugin",
+    "url": "https://github.com/starmlerp/ESDefenseDronePlugin",
+    "version": "d693e5681517ee9390e16e500f9e3c753c4858b0",
+    "author": "starmlerp",
+    "description": "This plugin adds a few human drones, intended to be added into vanilla game.\nAll credit to @Loyse for ship design.\n"
+  },
+  {
+    "name": "World Forge",
+    "url": "https://github.com/EndlessSkyCommunity/world-forge",
+    "version": "22f036fcff384dcdd41c583783597eb994b9ab7a",
+    "iconUrl": "https://github.com/EndlessSkyCommunity/world-forge/raw/master/icon.png",
+    "author": "Amazinite",
+    "description": "A plugin for Endless Sky that allows the player to access everything\nin the game in one place. Includes features that the all-content plugin does not\nhave such as the ability to boost your combat rating and change your friendly/hostile\nstatus with factions of the game without having to save-edit. Intended to help\ncontent creators test their plugins.\n"
+  }
 ]
