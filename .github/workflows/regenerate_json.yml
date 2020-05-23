@@ -1,4 +1,4 @@
-name: Generate JSON file
+name: Generate JSON
 
 on:
   push:
@@ -13,11 +13,12 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - run: |
-        pip3 install yq
+        sudo pip3 install setuptools wheel
+        sudo pip3 install yq
         cat plugins.yaml | yq '.' > generated/plugins.json
     - uses: stefanzweifel/git-auto-commit-action@v4.2.0
       with:
-        commit_message: Regenerate JSON file (${{ github.sha }})
+        commit_message: Regenerate JSON (${{ github.sha }})
         file_pattern: ./generated/plugins.json
-        commit_user_name: Regenerate JSON file workflow
+        commit_user_name: Regenerate JSON workflow
         commit_user_email: github-actions.dont-use@github.com
