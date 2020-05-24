@@ -8,6 +8,13 @@
     "description": "This plugin was made to allow content creators to have access to all outfits in a single place,\nfor the purpose of designing and testing outfit loadouts for new ships.\nOf course, it can also be used by people who want to ruin the game for themselves\nby getting a massive fleet without needing to work for it.\n"
   },
   {
+    "name": "Ciu Kreo",
+    "url": "https://github.com/RestingImmortal/Ciu-Kreo",
+    "version": "c8deb9aee5c7e0b96657d21e76b81602acbcb8a1",
+    "author": "RestingImmortal",
+    "description": "A feature-rich all-content plugin with both content creators and general users in mind.\n"
+  },
+  {
     "name": "Defense Drone Plugin",
     "url": "https://github.com/starmlerp/ESDefenseDronePlugin",
     "version": "d693e5681517ee9390e16e500f9e3c753c4858b0",
