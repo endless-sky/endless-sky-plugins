@@ -12,6 +12,7 @@
     "url": "https://github.com/RestingImmortal/Ciu-Kreo",
     "version": "c8deb9aee5c7e0b96657d21e76b81602acbcb8a1",
     "author": "RestingImmortal",
+    "iconUrl": "https://raw.githubusercontent.com/RestingImmortal/Ciu-Kreo/master/icon.png",
     "description": "A feature-rich all-content plugin with both content creators and general users in mind.\n"
   },
   {
@@ -19,6 +20,7 @@
     "url": "https://github.com/starmlerp/ESDefenseDronePlugin",
     "version": "d693e5681517ee9390e16e500f9e3c753c4858b0",
     "author": "starmlerp",
+    "iconUrl": "https://raw.githubusercontent.com/starmlerp/ESDefenseDronePlugin/master/icon.png",
     "description": "This plugin adds a few human drones, intended to be added into vanilla game.\nAll credit to @Loyse for ship design.\n"
   },
   {
