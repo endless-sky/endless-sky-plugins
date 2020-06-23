@@ -24,6 +24,14 @@
     "description": "This plugin adds a few human drones, intended to be added into vanilla game.\nAll credit to @Loyse for ship design.\n"
   },
   {
+    "name": "Human Ship Expansion",
+    "url": "https://github.com/loiseeer/The-more-ships-plugin",
+    "version": "a8238f80b7d1f0ac3aefc9a75ed5ae0abdc55d27",
+    "iconUrl": "https://raw.githubusercontent.com/loiseeer/The-more-ships-plugin/master/icon.png",
+    "author": "Loyse",
+    "description": "Ships and outfits expansion for human space\n"
+  },
+  {
     "name": "World Forge",
     "url": "https://github.com/EndlessSkyCommunity/world-forge",
     "version": "22f036fcff384dcdd41c583783597eb994b9ab7a",
