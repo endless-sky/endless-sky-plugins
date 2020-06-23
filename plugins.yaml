@@ -71,9 +71,9 @@
   author: Darcy Manoel
   iconUrl: https://github.com/Darcman99/Endless-Sky-Mods/blob/Korath-Expansion/icon.png
   description: |
-    This plugin is intended to experiment with the Korath by creating new content for them 
-    in the form of ships, outfits, and missions. Any content I consider to fit well with 
-    vanilla is put alongside the existing Korath while any less fitting content is kept out of the 
+    This plugin is intended to experiment with the Korath by creating new content for them
+    in the form of ships, outfits, and missions. Any content I consider to fit well with
+    vanilla is put alongside the existing Korath while any less fitting content is kept out of the
     vanilla experience, only accessible through Omnis.
 - name: Omnis
   url: https://github.com/Darcman99/Endless-Sky-Mods/tree/Omnis
@@ -91,8 +91,8 @@
   author: Darcy Manoel
   iconUrl: https://github.com/Darcman99/Endless-Sky-Mods/blob/Quarg-Expansion/icon.png
   description: |
-    This plugin was made to get an early glimpse into the possible future of the Quarg faction. 
-    Any content I consider to fit well with vanilla is put alongside the existing Quarg while 
+    This plugin was made to get an early glimpse into the possible future of the Quarg faction.
+    Any content I consider to fit well with vanilla is put alongside the existing Quarg while
     any less fitting content is kept out of the vanilla experience, only accessible through Omnis.
 - name: World Forge
   url: https://github.com/EndlessSkyCommunity/world-forge
