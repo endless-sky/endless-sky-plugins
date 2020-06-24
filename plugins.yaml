@@ -1,17 +1,17 @@
 ---
 - name: Aben
-  url: https://github.com/Darcman99/Endless-Sky-Mods/tree/Aben
+  url: https://github.com/Adde-Endless-Sky/AES-Aben
   version: af15412102f33f985d50c27056f7c180f54a7fdf
   author: Darcy Manoel
-  iconUrl: https://raw.githubusercontent.com/Darcman99/Endless-Sky-Mods/Aben/icon.png
+  iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Aben/icon.png
   description: |
     New aliens that are incapable of spaceflight as far as the player is concerned,
     offers the player multiple missions in aiding the Aben which also benefit the player in turn.
 - name: Adde
-  url: https://github.com/Darcman99/Endless-Sky-Mods/tree/Misc
+  url: https://github.com/Adde-Endless-Sky/AES-Misc
   version: 790a0df1462701a3525e5527840eb590caf445a5
   author: Darcy Manoel
-  iconUrl: https://raw.githubusercontent.com/Darcman99/Endless-Sky-Mods/Misc/icon.png
+  iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Misc/icon.png
   description: |
     Any Adde content that doesn't fit in another or deserve it's own branch. This includes
     many new outfits and ships for various aspects of the vanilla game, even new missions here and there.
@@ -41,10 +41,10 @@
     This plugin adds a few human drones, intended to be added into vanilla game.
     All credit to @Loyse for ship design.
 - name: Fallen
-  url: https://github.com/Darcman99/Endless-Sky-Mods/tree/Fallen
+  url: https://github.com/Adde-Endless-Sky/AES-Fallen
   version: aa20e883ebef07c26165ff8f0607bb5635b765c1
   author: Darcy Manoel
-  iconUrl: https://raw.githubusercontent.com/Darcman99/Endless-Sky-Mods/Fallen/icon.png
+  iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Fallen/icon.png
   description: |
     A redesign of an old plugin that used to pop up from time to time way back when.
     Most of the outfits use the same stats, the ships will get new sprites, outfits might not.
@@ -57,39 +57,39 @@
   description: |
    Ships and outfits expansion for human space
 - name: Irm
-  url: https://github.com/Darcman99/Endless-Sky-Mods/tree/Irm
+  url: https://github.com/Adde-Endless-Sky/AES-Irm
   version: 692b8246c55dc8d86fc6f039e309fc70eb6953f9
   author: Darcy Manoel
-  iconUrl: https://raw.githubusercontent.com/Darcman99/Endless-Sky-Mods/Irm/icon.png
+  iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Irm/icon.png
   description: |
     New aliens to the north of human space that can only be described as technocratic isolationists.
     They will not begin or turn hostile towards the player under normal circumstances,
     but you would be one unlucky pilot if you were to find yourself on bad terms with the Irm.
 - name: Korath Expansion
-  url: https://github.com/Darcman99/Endless-Sky-Mods/tree/Korath-Expansion
+  url: https://github.com/Adde-Endless-Sky/AES-Korath-Expansion
   version: 6cc3caa035f4f6a11f6e64f82522b4b9b9e0b5ca
   author: Darcy Manoel
-  iconUrl: https://raw.githubusercontent.com/Darcman99/Endless-Sky-Mods/Korath-Expansion/icon.png
+  iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Korath-Expansion/icon.png
   description: |
     This plugin is intended to experiment with the Korath by creating new content for them
     in the form of ships, outfits, and missions. Any content I consider to fit well with
     vanilla is put alongside the existing Korath while any less fitting content is kept out of the
     vanilla experience, only accessible through Omnis.
 - name: Omnis
-  url: https://github.com/Darcman99/Endless-Sky-Mods/tree/Omnis
+  url: https://github.com/Adde-Endless-Sky/AES-Omnis
   version: 940e5dcd0751f3812686e81afea37862a777d00e
   author: Darcy Manoel
-  iconUrl: https://raw.githubusercontent.com/Darcman99/Endless-Sky-Mods/Omnis/icon.png
+  iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Omnis/icon.png
   description: |
     The most extensive all-content plugin to date. It includes many opportunities to test
     balance or ship builds against AI driven ships or fleets, all vanilla content and the content
     of many plugins available to use to put together different ship builds.
     Many more essential cheat tools are included into Omnis too!
 - name: Quarg Expansion
-  url: https://github.com/Darcman99/Endless-Sky-Mods/tree/Quarg-Expansion
+  url: https://github.com/Adde-Endless-Sky/AES-Quarg-Expansion
   version: 486ba6b45eede06ce0ced143e8cc1f8045515251
   author: Darcy Manoel
-  iconUrl: https://raw.githubusercontent.com/Darcman99/Endless-Sky-Mods/Quarg-Expansion/icon.png
+  iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Quarg-Expansion/icon.png
   description: |
     This plugin was made to get an early glimpse into the possible future of the Quarg faction.
     Any content I consider to fit well with vanilla is put alongside the existing Quarg while
