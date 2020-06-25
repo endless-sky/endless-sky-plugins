@@ -25,6 +25,29 @@
     for the purpose of designing and testing outfit loadouts for new ships.
     Of course, it can also be used by people who want to ruin the game for themselves
     by getting a massive fleet without needing to work for it.
+- name: Beccas Endless Expansion
+  url: https://github.com/beccabunny/Beccas-Endless-Expansion
+  version: 1.2.0
+  author: beccabunny
+  description: |
+    New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to
+    the vanilla ones! All you have to do is explore, fly in your ship and meet all the factions in the game.
+- name: Better Vanilla Pirates
+  url: https://github.com/ZBok/BetterVanillaPirates
+  version: v1.2
+  author: ZBok
+  iconUrl: https://raw.githubusercontent.com/ZBok/BetterVanillaPirates/master/icon.png
+  description: |
+    This plugin makes human pirates, bounty hunters and repeating combat missions
+    (spaceport + job board) far more varied, interesting, and challenging,
+    while adding combat missions that scale in difficulty all the way to the late game.
+- name: Boarding Missions
+  url: https://github.com/tmbutterworth/boarding-missions
+  version: 275fa5509c0576863b61f8ab33ead04d6b938007
+  author: tmbutterworth
+  description: |
+    This plug-in adds additional boarding missions to the game increasing the chances
+    for the player to receive a payment for assisting a disabled ship.
 - name: Ciu Kreo
   url: https://github.com/RestingImmortal/Ciu-Kreo
   version: c8deb9aee5c7e0b96657d21e76b81602acbcb8a1
@@ -40,6 +63,24 @@
   description: |
     This plugin adds a few human drones, intended to be added into vanilla game.
     All credit to @Loyse for ship design.
+- name: endless-sky-high-dpi
+  url: https://github.com/endless-sky/endless-sky-high-dpi
+  version: v0.9.12
+  author: endless-sky
+  iconUrl: https://raw.githubusercontent.com/endless-sky/endless-sky-high-dpi/master/icon.png
+  description: |
+    This plugin contains double resolution graphics, which are only used
+    if you have a high-dpi monitor or if you set the zoom level above 100%.
+    This will roughly double the amount of memory used by the game.
+- name: Epic Trucker
+  url: https://github.com/kelvallrogers/epic-trucker/
+  version: 0.3.0
+  author: KelvallRogers
+  iconUrl: https://raw.githubusercontent.com/KelvallRogers/epic-trucker/master/icon.png
+  description: |
+    This plug-in adds additional cargo and passenger (and both at once)
+    missions to the game increasing the scale and scope for a player who wants
+    to focus on running a huge trucker shipping delivery and passenger service.
 - name: Fallen
   url: https://github.com/Adde-Endless-Sky/AES-Fallen
   version: aa20e883ebef07c26165ff8f0607bb5635b765c1
@@ -49,6 +90,12 @@
     A redesign of an old plugin that used to pop up from time to time way back when.
     Most of the outfits use the same stats, the ships will get new sprites, outfits might not.
     This is in no way a revival, it's just a small nod to an old plugin.
+- name: Flamethrower Turret
+  url: https://github.com/ItsNickBarry/endless-sky-flamethrower-turret
+  version: 3fc1e52580c1e57a075d0d44ea6351c7a3da7122
+  author: Nick Barry
+  description: |
+    A plugin for Endless Sky which adds a turret variant of the flamethrower.
 - name: Human Ship Expansion
   url: https://github.com/loiseeer/The-more-ships-plugin
   version: a8238f80b7d1f0ac3aefc9a75ed5ae0abdc55d27
@@ -65,6 +112,13 @@
     New aliens to the north of human space that can only be described as technocratic isolationists.
     They will not begin or turn hostile towards the player under normal circumstances,
     but you would be one unlucky pilot if you were to find yourself on bad terms with the Irm.
+- name: Korath Automation Upgrade
+  url: https://github.com/Kriegstofu/Korath-Automation-Upgrade
+  version: c0d1ae6fe4ac29ecde43643e8abc24c9d2818841
+  author: Kriegstofu
+  description: |
+    After the Korath have salvaged the Kor Automata building cores, not only did they begin to replicate
+    automata ships, but they also integrated the best parts of both Kor Factions onto their Korath Raider.
 - name: Korath Expansion
   url: https://github.com/Adde-Endless-Sky/AES-Korath-Expansion
   version: 6cc3caa035f4f6a11f6e64f82522b4b9b9e0b5ca
@@ -94,6 +148,14 @@
     This plugin was made to get an early glimpse into the possible future of the Quarg faction.
     Any content I consider to fit well with vanilla is put alongside the existing Quarg while
     any less fitting content is kept out of the vanilla experience, only accessible through Omnis.
+- name: The Adamas Project
+  url: https://github.com/toilethinges/Adamas-Project
+  version: bb3ad8354cb5b8463eed20838bd0403ab939259b
+  author: toilethinges
+  iconUrl: https://raw.githubusercontent.com/toilethinges/Adamas-Project/master/icon.png
+  description: |
+    The Adamas Project is a medium-sized plugin introducing two alien species and
+    their regions of space, as well as some storyline involving the two.
 - name: The Enclave
   url: https://github.com/Makuta-Miras/The-Enclave
   version: v0.0.10
