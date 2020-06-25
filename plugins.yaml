@@ -32,6 +32,15 @@
   description: |
     New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to
     the vanilla ones! All you have to do is explore, fly in your ship and meet all the factions in the game.
+- name: Better Vanilla Pirates
+  url: https://github.com/ZBok/BetterVanillaPirates
+  version: v1.2
+  author: ZBok
+  iconUrl: https://raw.githubusercontent.com/ZBok/BetterVanillaPirates/master/icon.png
+  description: |
+    This plugin makes human pirates, bounty hunters and repeating combat missions
+    (spaceport + job board) far more varied, interesting, and challenging,
+    while adding combat missions that scale in difficulty all the way to the late game.
 - name: Ciu Kreo
   url: https://github.com/RestingImmortal/Ciu-Kreo
   version: c8deb9aee5c7e0b96657d21e76b81602acbcb8a1
