@@ -25,6 +25,29 @@
     for the purpose of designing and testing outfit loadouts for new ships.
     Of course, it can also be used by people who want to ruin the game for themselves
     by getting a massive fleet without needing to work for it.
+- name: Beccas Endless Expansion
+  url: https://github.com/beccabunny/Beccas-Endless-Expansion
+  version: 1.2.0
+  author: beccabunny
+  description: |
+    New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to
+    the vanilla ones! All you have to do is explore, fly in your ship and meet all the factions in the game.
+- name: Better Vanilla Pirates
+  url: https://github.com/ZBok/BetterVanillaPirates
+  version: v1.2
+  author: ZBok
+  iconUrl: https://raw.githubusercontent.com/ZBok/BetterVanillaPirates/master/icon.png
+  description: |
+    This plugin makes human pirates, bounty hunters and repeating combat missions
+    (spaceport + job board) far more varied, interesting, and challenging,
+    while adding combat missions that scale in difficulty all the way to the late game.
+- name: Boarding Missions
+  url: https://github.com/tmbutterworth/boarding-missions
+  version: 275fa5509c0576863b61f8ab33ead04d6b938007
+  author: tmbutterworth
+  description: |
+    This plug-in adds additional boarding missions to the game increasing the chances
+    for the player to receive a payment for assisting a disabled ship.
 - name: Ciu Kreo
   url: https://github.com/RestingImmortal/Ciu-Kreo
   version: c8deb9aee5c7e0b96657d21e76b81602acbcb8a1
@@ -40,6 +63,15 @@
   description: |
     This plugin adds a few human drones, intended to be added into vanilla game.
     All credit to @Loyse for ship design.
+- name: endless-sky-high-dpi
+  url: https://github.com/endless-sky/endless-sky-high-dpi
+  version: v0.9.12
+  author: endless-sky
+  iconUrl: https://raw.githubusercontent.com/endless-sky/endless-sky-high-dpi/master/icon.png
+  description: |
+    This plugin contains double resolution graphics, which are only used
+    if you have a high-dpi monitor or if you set the zoom level above 100%.
+    This will roughly double the amount of memory used by the game.
 - name: Epic Trucker
   url: https://github.com/kelvallrogers/epic-trucker/
   version: 0.3.0

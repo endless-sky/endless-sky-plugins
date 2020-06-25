@@ -23,6 +23,8 @@ for plugin in plugins:
         .replace("\n", " ") \
         .replace("\r", "") \
         .strip()
+    if "iconUrl" not in plugin:
+        plugin["iconUrl"] = "https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png"
     buffer += plugin_template.format(**plugin)
 
 with open(sys.argv[2], "w") as f:
