@@ -88,6 +88,14 @@
     "description": "This plugin was made to get an early glimpse into the possible future of the Quarg faction.\nAny content I consider to fit well with vanilla is put alongside the existing Quarg while\nany less fitting content is kept out of the vanilla experience, only accessible through Omnis.\n"
   },
   {
+    "name": "Ursa Polaris",
+    "url": "https://github.com/LocalGod79/UrsaPolaris",
+    "version": "929d209f09fa3a38862bcc54b62e4e6c261f9df9",
+    "author": "Iaz Poolar",
+    "iconUrl": "https://raw.githubusercontent.com/LocalGod79/UrsaPolaris/master/icon.png",
+    "description": "This plugin contains missions for your pilot to create a centrally located outfitter space station\nthat stocks outfits from across the galaxy, and unlock all outfits made available through the Free\nWorlds plot, regardless of your arc choices (which will almost always preclude you from at least one).\nIt additionally offers a few new end-game outfits with interesting balance points.\n"
+  },
+  {
     "name": "World Forge",
     "url": "https://github.com/EndlessSkyCommunity/world-forge",
     "version": "22f036fcff384dcdd41c583783597eb994b9ab7a",
