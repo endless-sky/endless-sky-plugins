@@ -15,3 +15,13 @@ jobs:
       run: sudo apt-get install -y yamllint
     - name: Lint
       run: yamllint -d relaxed plugins.yaml
+  
+  check_urls:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dependencies
+        run: pip3 install -r scripts/requirements.txt
+      - name: Check URLs
+        run: python3 scripts/check_urls.py plugins.yaml
