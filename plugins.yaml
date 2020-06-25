@@ -63,6 +63,15 @@
   description: |
     This plugin adds a few human drones, intended to be added into vanilla game.
     All credit to @Loyse for ship design.
+- name: endless-sky-high-dpi
+  url: https://github.com/endless-sky/endless-sky-high-dpi
+  version: v0.9.12
+  author: endless-sky
+  iconUrl: https://raw.githubusercontent.com/endless-sky/endless-sky-high-dpi/master/icon.png
+  description: |
+    This plugin contains double resolution graphics, which are only used
+    if you have a high-dpi monitor or if you set the zoom level above 100%.
+    This will roughly double the amount of memory used by the game.
 - name: Fallen
   url: https://github.com/Adde-Endless-Sky/AES-Fallen
   version: aa20e883ebef07c26165ff8f0607bb5635b765c1
