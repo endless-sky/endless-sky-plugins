@@ -88,6 +88,14 @@
     "description": "This plugin was made to get an early glimpse into the possible future of the Quarg faction.\nAny content I consider to fit well with vanilla is put alongside the existing Quarg while\nany less fitting content is kept out of the vanilla experience, only accessible through Omnis.\n"
   },
   {
+    "name": "The Adamas Project",
+    "url": "https://github.com/toilethinges/Adamas-Project",
+    "version": "bb3ad8354cb5b8463eed20838bd0403ab939259b",
+    "author": "toilethinges",
+    "iconUrl": "https://raw.githubusercontent.com/toilethinges/Adamas-Project/master/icon.png",
+    "description": "The Adamas Project is a medium-sized plugin introducing two alien species and\ntheir regions of space, as well as some storyline involving the two.\n"
+  },
+  {
     "name": "World Forge",
     "url": "https://github.com/EndlessSkyCommunity/world-forge",
     "version": "22f036fcff384dcdd41c583783597eb994b9ab7a",
