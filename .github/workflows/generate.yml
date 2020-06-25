@@ -1,0 +1,27 @@
+name: Generate files
+
+on:
+  push:
+    paths: 
+      - plugins.yaml
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install dependencies
+      run: |
+        sudo pip3 install setuptools wheel
+        sudo pip3 install yq
+        pip3 install -r scripts/requirements.txt
+    - name: Generate plugins.json
+      run: cat plugins.yaml | yq '.' > generated/plugins.json
+    - name: Generate PLUGINS.md
+      run: python3 scripts/generate_table.py plugins.yaml generated/PLUGINS.md
+    - uses: stefanzweifel/git-auto-commit-action@v4.2.0
+      with:
+        commit_message: Regenerate files (${{ github.sha }})
+        file_pattern: ./generated/*
+        commit_user_name: Generate files workflow
