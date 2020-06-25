@@ -70,6 +70,14 @@
     "description": "This plugin contains double resolution graphics, which are only used\nif you have a high-dpi monitor or if you set the zoom level above 100%.\nThis will roughly double the amount of memory used by the game.\n"
   },
   {
+    "name": "Epic Trucker",
+    "url": "https://github.com/kelvallrogers/epic-trucker/",
+    "version": "0.3.0",
+    "author": "KelvallRogers",
+    "iconUrl": "https://raw.githubusercontent.com/KelvallRogers/epic-trucker/master/icon.png",
+    "description": "This plug-in adds additional cargo and passenger (and both at once)\nmissions to the game increasing the scale and scope for a player who wants\nto focus on running a huge trucker shipping delivery and passenger service.\n"
+  },
+  {
     "name": "Fallen",
     "url": "https://github.com/Adde-Endless-Sky/AES-Fallen",
     "version": "aa20e883ebef07c26165ff8f0607bb5635b765c1",
