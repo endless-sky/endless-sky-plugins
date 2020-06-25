@@ -48,6 +48,13 @@
     "description": "A redesign of an old plugin that used to pop up from time to time way back when.\nMost of the outfits use the same stats, the ships will get new sprites, outfits might not.\nThis is in no way a revival, it's just a small nod to an old plugin.\n"
   },
   {
+    "name": "Flamethrower Turret",
+    "url": "https://github.com/ItsNickBarry/endless-sky-flamethrower-turret",
+    "version": "3fc1e52580c1e57a075d0d44ea6351c7a3da7122",
+    "author": "Nick Barry",
+    "description": "A plugin for Endless Sky which adds a turret variant of the flamethrower.\n"
+  },
+  {
     "name": "Human Ship Expansion",
     "url": "https://github.com/loiseeer/The-more-ships-plugin",
     "version": "a8238f80b7d1f0ac3aefc9a75ed5ae0abdc55d27",
