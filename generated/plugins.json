@@ -88,6 +88,14 @@
     "description": "This plugin was made to get an early glimpse into the possible future of the Quarg faction.\nAny content I consider to fit well with vanilla is put alongside the existing Quarg while\nany less fitting content is kept out of the vanilla experience, only accessible through Omnis.\n"
   },
   {
+    "name": "The Enclave",
+    "url": "https://github.com/Makuta-Miras/The-Enclave",
+    "version": "v0.0.10",
+    "author": "Storm Crow",
+    "iconUrl": "https://raw.githubusercontent.com/Makuta-Miras/The-Enclave/master/icon.png",
+    "description": "The Enclave focuses around the discovery of an isolated group of humans in a distant galaxy.\nSeparated from the rest of their species for over half a millennium, how have these people developed?\n"
+  },
+  {
     "name": "World Forge",
     "url": "https://github.com/EndlessSkyCommunity/world-forge",
     "version": "22f036fcff384dcdd41c583783597eb994b9ab7a",
