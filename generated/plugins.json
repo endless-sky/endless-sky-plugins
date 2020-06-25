@@ -24,6 +24,14 @@
     "description": "This plugin was made to allow content creators to have access to all outfits in a single place,\nfor the purpose of designing and testing outfit loadouts for new ships.\nOf course, it can also be used by people who want to ruin the game for themselves\nby getting a massive fleet without needing to work for it.\n"
   },
   {
+    "name": "Better Vanilla Pirates",
+    "url": "https://github.com/ZBok/BetterVanillaPirates",
+    "version": "v1.2",
+    "author": "ZBok",
+    "iconUrl": "https://raw.githubusercontent.com/ZBok/BetterVanillaPirates/master/icon.png",
+    "description": "This plugin makes human pirates, bounty hunters and repeating combat missions\n(spaceport + job board) far more varied, interesting, and challenging,\nwhile adding combat missions that scale in difficulty all the way to the late game.\n"
+  },
+  {
     "name": "Ciu Kreo",
     "url": "https://github.com/RestingImmortal/Ciu-Kreo",
     "version": "c8deb9aee5c7e0b96657d21e76b81602acbcb8a1",
