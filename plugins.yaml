@@ -65,6 +65,13 @@
     New aliens to the north of human space that can only be described as technocratic isolationists.
     They will not begin or turn hostile towards the player under normal circumstances,
     but you would be one unlucky pilot if you were to find yourself on bad terms with the Irm.
+- name: Korath Automation Upgrade
+  url: https://github.com/Kriegstofu/Korath-Automation-Upgrade
+  version: c0d1ae6fe4ac29ecde43643e8abc24c9d2818841
+  author: Kriegstofu
+  description: |
+    After the Korath have salvaged the Kor Automata building cores, not only did they begin to replicate
+    automata ships, but they also integrated the best parts of both Kor Factions onto their Korath Raider.
 - name: Korath Expansion
   url: https://github.com/Adde-Endless-Sky/AES-Korath-Expansion
   version: 6cc3caa035f4f6a11f6e64f82522b4b9b9e0b5ca
