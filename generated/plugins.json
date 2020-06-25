@@ -40,6 +40,14 @@
     "description": "This plugin adds a few human drones, intended to be added into vanilla game.\nAll credit to @Loyse for ship design.\n"
   },
   {
+    "name": "Epic Trucker",
+    "url": "https://github.com/kelvallrogers/epic-trucker/",
+    "version": "0.3.0",
+    "author": "KelvallRogers",
+    "iconUrl": "https://raw.githubusercontent.com/KelvallRogers/epic-trucker/master/icon.png",
+    "description": "This plug-in adds additional cargo and passenger (and both at once)\nmissions to the game increasing the scale and scope for a player who wants\nto focus on running a huge trucker shipping delivery and passenger service.\n"
+  },
+  {
     "name": "Fallen",
     "url": "https://github.com/Adde-Endless-Sky/AES-Fallen",
     "version": "aa20e883ebef07c26165ff8f0607bb5635b765c1",
