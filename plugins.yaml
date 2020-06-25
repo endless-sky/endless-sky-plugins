@@ -41,6 +41,13 @@
     This plugin makes human pirates, bounty hunters and repeating combat missions
     (spaceport + job board) far more varied, interesting, and challenging,
     while adding combat missions that scale in difficulty all the way to the late game.
+- name: Boarding Missions
+  url: https://github.com/tmbutterworth/boarding-missions
+  version: 275fa5509c0576863b61f8ab33ead04d6b938007
+  author: tmbutterworth
+  description: |
+    This plug-in adds additional boarding missions to the game increasing the chances
+    for the player to receive a payment for assisting a disabled ship.
 - name: Ciu Kreo
   url: https://github.com/RestingImmortal/Ciu-Kreo
   version: c8deb9aee5c7e0b96657d21e76b81602acbcb8a1
