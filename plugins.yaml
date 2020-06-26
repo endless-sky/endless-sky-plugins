@@ -129,6 +129,14 @@
     in the form of ships, outfits, and missions. Any content I consider to fit well with
     vanilla is put alongside the existing Korath while any less fitting content is kept out of the
     vanilla experience, only accessible through Omnis.
+- name: Mass-ive Fix
+  url: https://github.com/Anarchist2/Mass-ive-fix
+  version: 121d647925b4766e9bd5bce1f45cee625ccd0fb7
+  author: Anarchist2
+  iconUrl: https://raw.githubusercontent.com/Anarchist2/Mass-ive-fix/master/icon.png
+  description: |
+    A bunch of things in .9.11 ES and afterwards have differing mass and outfit space values. I fixed them.
+    View the Github page for the full changelog.
 - name: Omnis
   url: https://github.com/Adde-Endless-Sky/AES-Omnis
   version: 940e5dcd0751f3812686e81afea37862a777d00e
