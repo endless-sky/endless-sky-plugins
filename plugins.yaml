@@ -1,7 +1,7 @@
 ---
 - name: Aben
   url: https://github.com/Adde-Endless-Sky/AES-Aben
-  version: af15412102f33f985d50c27056f7c180f54a7fdf
+  version: 30156a1528c4192a964193e163909d108dd19f49
   author: Darcy Manoel
   iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Aben/master/icon.png
   description: |
@@ -9,7 +9,7 @@
     offers the player multiple missions in aiding the Aben which also benefit the player in turn.
 - name: Adde
   url: https://github.com/Adde-Endless-Sky/AES-Misc
-  version: 790a0df1462701a3525e5527840eb590caf445a5
+  version: c8ff3877a730f1efc13d87fa0698b16774d45c84
   author: Darcy Manoel
   iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Misc/master/icon.png
   description: |
@@ -83,7 +83,7 @@
     to focus on running a huge trucker shipping delivery and passenger service.
 - name: Fallen
   url: https://github.com/Adde-Endless-Sky/AES-Fallen
-  version: aa20e883ebef07c26165ff8f0607bb5635b765c1
+  version: bed702c257fb97d510985704abe230409f0a5a5b
   author: Darcy Manoel
   iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Fallen/master/icon.png
   description: |
@@ -105,7 +105,7 @@
    Ships and outfits expansion for human space
 - name: Irm
   url: https://github.com/Adde-Endless-Sky/AES-Irm
-  version: 692b8246c55dc8d86fc6f039e309fc70eb6953f9
+  version: 7a874951ed7df0af94ae9f9358dab8b68923d55d
   author: Darcy Manoel
   iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Irm/master/icon.png
   description: |
@@ -121,7 +121,7 @@
     automata ships, but they also integrated the best parts of both Kor Factions onto their Korath Raider.
 - name: Korath Expansion
   url: https://github.com/Adde-Endless-Sky/AES-Korath-Expansion
-  version: 6cc3caa035f4f6a11f6e64f82522b4b9b9e0b5ca
+  version: 11e59822713b0714c5df9184dad09f90b8aa7a4c
   author: Darcy Manoel
   iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Korath-Expansion/master/icon.png
   description: |
@@ -139,7 +139,7 @@
     View the Github page for the full changelog.
 - name: Omnis
   url: https://github.com/Adde-Endless-Sky/AES-Omnis
-  version: 940e5dcd0751f3812686e81afea37862a777d00e
+  version: 561168ba96011d32411f9c436514cd3ca02fb3fe
   author: Darcy Manoel
   iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Omnis/master/icon.png
   description: |
@@ -149,7 +149,7 @@
     Many more essential cheat tools are included into Omnis too!
 - name: Quarg Expansion
   url: https://github.com/Adde-Endless-Sky/AES-Quarg-Expansion
-  version: 486ba6b45eede06ce0ced143e8cc1f8045515251
+  version: cac4d7a4a610b36a9fa9751b2b22e8c04c5db100
   author: Darcy Manoel
   iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Quarg-Expansion/master/icon.png
   description: |
