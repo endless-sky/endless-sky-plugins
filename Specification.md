@@ -2,6 +2,8 @@
 
 The `plugins.yaml` file contains a list of objects, each representing a plug-in.
 
+YAML has been chosen because of its good readability while still being machine-readable and reasonably widespread. Compatibility with other formats is achieved through the CI, which converts the YAML file to other formats.
+
 ### Plug-Ins
 
 A Plug-In object consists of the following key-value pairs:
