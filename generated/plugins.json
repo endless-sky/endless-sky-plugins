@@ -140,6 +140,14 @@
     "description": "The most extensive all-content plugin to date. It includes many opportunities to test\nbalance or ship builds against AI driven ships or fleets, all vanilla content and the content\nof many plugins available to use to put together different ship builds.\nMany more essential cheat tools are included into Omnis too!\n"
   },
   {
+    "name": "Portraits for News in Endless Sky",
+    "url": "https://github.com/Anarchist2/ES-news-portraits",
+    "version": "fb4dbb0620e9c855a3f75765d7533a250f84c61d",
+    "author": "Anarchist2",
+    "iconUrl": "https://raw.githubusercontent.com/Anarchist2/ES-news-portraits/master/icon.png",
+    "description": "This plugin re-activates the portrait system for news in ES. All the images for portraits are already in the game, but became unused after portraits for news was disabled by default. Alien portraits (including transhuman portraits) are not considered canon.\n"
+  },
+  {
     "name": "Quarg Expansion",
     "url": "https://github.com/Adde-Endless-Sky/AES-Quarg-Expansion",
     "version": "cac4d7a4a610b36a9fa9751b2b22e8c04c5db100",
