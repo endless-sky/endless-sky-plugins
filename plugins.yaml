@@ -153,7 +153,7 @@
   author: Anarchist2
   iconUrl: https://raw.githubusercontent.com/Anarchist2/ES-news-portraits/master/icon.png
   description: |
-    This plugin re-activates the portrait system for news in ES. All the images for portraits are already in the game, but became unused after portraits for news was disabled by default. Alien portraits (including transhuman portraits) are not considered canon. 
+    This plugin re-activates the portrait system for news in ES. All the images for portraits are already in the game, but became unused after portraits for news was disabled by default. Alien portraits (including transhuman portraits) are not considered canon.
 - name: Quarg Expansion
   url: https://github.com/Adde-Endless-Sky/AES-Quarg-Expansion
   version: cac4d7a4a610b36a9fa9751b2b22e8c04c5db100
