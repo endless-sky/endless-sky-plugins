@@ -8,14 +8,6 @@
     "description": "New aliens that are incapable of spaceflight as far as the player is concerned,\noffers the player multiple missions in aiding the Aben which also benefit the player in turn.\n"
   },
   {
-    "name": "Adde",
-    "url": "https://github.com/Adde-Endless-Sky/AES-Misc",
-    "version": "c8ff3877a730f1efc13d87fa0698b16774d45c84",
-    "author": "Darcy Manoel",
-    "iconUrl": "https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Misc/master/icon.png",
-    "description": "Any Adde content that doesn't fit in another or deserve it's own branch. This includes\nmany new outfits and ships for various aspects of the vanilla game, even new missions here and there.\n"
-  },
-  {
     "name": "All Content Plugin",
     "url": "https://github.com/endless-sky/all-content-plugin",
     "version": "60f3979efcfc5184dc96ee0e1b178526e52ccb83",
@@ -116,14 +108,6 @@
     "description": "After the Korath have salvaged the Kor Automata building cores, not only did they begin to replicate\nautomata ships, but they also integrated the best parts of both Kor Factions onto their Korath Raider.\n"
   },
   {
-    "name": "Korath Expansion",
-    "url": "https://github.com/Adde-Endless-Sky/AES-Korath-Expansion",
-    "version": "11e59822713b0714c5df9184dad09f90b8aa7a4c",
-    "author": "Darcy Manoel",
-    "iconUrl": "https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Korath-Expansion/master/icon.png",
-    "description": "This plugin is intended to experiment with the Korath by creating new content for them\nin the form of ships, outfits, and missions. Any content I consider to fit well with\nvanilla is put alongside the existing Korath while any less fitting content is kept out of the\nvanilla experience, only accessible through Omnis.\n"
-  },
-  {
     "name": "Mass-ive Fix",
     "url": "https://github.com/Anarchist2/Mass-ive-fix",
     "version": "121d647925b4766e9bd5bce1f45cee625ccd0fb7",
@@ -146,14 +130,6 @@
     "author": "Anarchist2",
     "iconUrl": "https://raw.githubusercontent.com/Anarchist2/ES-news-portraits/master/icon.png",
     "description": "This plugin re-activates the portrait system for news in ES. All the images for portraits are already in the game, but became unused after portraits for news was disabled by default. Alien portraits (including transhuman portraits) are not considered canon.\n"
-  },
-  {
-    "name": "Quarg Expansion",
-    "url": "https://github.com/Adde-Endless-Sky/AES-Quarg-Expansion",
-    "version": "cac4d7a4a610b36a9fa9751b2b22e8c04c5db100",
-    "author": "Darcy Manoel",
-    "iconUrl": "https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Quarg-Expansion/master/icon.png",
-    "description": "This plugin was made to get an early glimpse into the possible future of the Quarg faction.\nAny content I consider to fit well with vanilla is put alongside the existing Quarg while\nany less fitting content is kept out of the vanilla experience, only accessible through Omnis.\n"
   },
   {
     "name": "The Adamas Project",
