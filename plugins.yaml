@@ -17,6 +17,12 @@
     for the purpose of designing and testing outfit loadouts for new ships.
     Of course, it can also be used by people who want to ruin the game for themselves
     by getting a massive fleet without needing to work for it.
+- name: Bardagh's Ship Variants
+  url: https://github.com/Bardagh/ship-variants/
+  version: 1.1
+  author: Bardagh
+  description: |
+    A plugin which adds variants of human ships to select shipyards. No stat changes, just loadouts. Right now it's mostly bare-bones versions so you don't have to pay for a bunch of outfits you're just going to sell - instead you get a (very) cheap engine & power system, a hyperdrive, & signature parts of the stock loadout like the luxury accommodations that come with the Blackbird & Star Queen.
 - name: Beccas Endless Expansion
   url: https://github.com/beccabunny/Beccas-Endless-Expansion
   version: 1.2.0
