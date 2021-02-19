@@ -53,6 +53,12 @@
   iconUrl: https://raw.githubusercontent.com/RestingImmortal/Ciu-Kreo/master/icon.png
   description: |
     A feature-rich all-content plugin with both content creators and general users in mind.
+- name: Colorful Void Sprites
+  url: https://github.com/Rob59er/Colorful-Void-Sprites
+  version: 3785b0a1dd33a625193038393f015ed0e1bcf413
+  author: Rob59er
+  description: |
+    This plugin adds void sprites of different colors into the game.
 - name: Defense Drone Plugin
   url: https://github.com/starmlerp/ESDefenseDronePlugin
   version: d693e5681517ee9390e16e500f9e3c753c4858b0
