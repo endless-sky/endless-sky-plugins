@@ -8,11 +8,25 @@
 import yaml
 import sys
 import os
+import dulwich.porcelain
+
+
+def ls_remote(url):
+    byte_dict = dulwich.porcelain.ls_remote(url)
+    string_dict = {}
+    for k, v in byte_dict.items():
+        string_dict[k.decode("utf-8")] = v.decode("utf-8")
+    return string_dict
 
 
 def get_latest_version(au_type, au_url, au_branch):
     if au_type == "commit":
-        return "master"  # TODO
+        refs = ls_remote(au_url)
+        ref = refs.get("refs/heads/" + au_branch)
+        if not ref:
+            raise LookupError("Branch %s doesn't exist" % au_branch)
+        return ref
+
     else:
         raise NotImplementedError("Unknown autoupdate type '%s'" % au_type)
 
