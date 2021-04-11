@@ -27,6 +27,16 @@ def get_latest_version(au_type, au_url, au_branch):
             raise LookupError("Branch %s doesn't exist" % au_branch)
         return ref
 
+    if au_type == "tag":
+        refs = ls_remote(au_url)
+        tags = []
+        for ref in refs:
+            if ref.startswith("refs/tags/"):
+                tag = ref.replace("refs/tags/", "")
+                tags.append(tag)
+        tags.sort()
+        return tags[-1]
+
     else:
         raise NotImplementedError("Unknown autoupdate type '%s'" % au_type)
 
