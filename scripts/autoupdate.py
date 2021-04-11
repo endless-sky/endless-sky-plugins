@@ -39,7 +39,7 @@ def update(file):
     au = manifest["autoupdate"]
     au_type = au["type"]
     au_url = au.get("update_url", manifest["homepage"])
-    # TODO: Repos can have different default branches, ex. "main", "development"
+    # TODO: dulwich needs to support this first: https://github.com/dulwich/dulwich/issues/863
     au_branch = au.get("branch", "master")
     update_kvs = {}
     for k, v in au.items():
