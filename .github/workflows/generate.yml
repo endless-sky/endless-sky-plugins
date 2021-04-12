@@ -22,7 +22,8 @@ jobs:
       run: |
         mkdir generated/plugins
         for f in manifests/*.yaml; do
-          yq '.' $f > "generated/plugins/$(basename $f .yaml).json"
+          stripped=$(basename "$f" .yaml)
+          yq '.' "$f" > "generated/plugins/$stripped.json"
         done
     - name: Generate PLUGINS.md
       run: python3 scripts/generate_table.py generated/plugins.yaml generated/PLUGINS.md
