@@ -9,7 +9,50 @@ import yaml
 import sys
 import os
 import dulwich.porcelain
+import re
+import semver
 
+BASEVERSION = re.compile(
+    r"""[vV]?
+        (?P<major>0|[1-9]\d*)
+        (\.
+        (?P<minor>0|[1-9]\d*)
+        (\.
+            (?P<patch>0|[1-9]\d*)
+        )?
+        )?
+    """,
+    re.VERBOSE,
+)
+
+
+def coerce(version):
+    """
+    Stolen from the python-semver docs.
+
+    Convert an incomplete version string into a semver-compatible VersionInfo
+    object
+
+    * Tries to detect a "basic" version string (``major.minor.patch``).
+    * If not enough components can be found, missing components are
+        set to zero to obtain a valid semver version.
+
+    :param str version: the version string to convert
+    :return: a tuple with a :class:`VersionInfo` instance (or ``None``
+        if it's not a version) and the rest of the string which doesn't
+        belong to a basic version.
+    :rtype: tuple(:class:`VersionInfo` | None, str)
+    """
+    match = BASEVERSION.search(version)
+    if not match:
+        return (None, version)
+
+    ver = {
+        key: 0 if value is None else value for key, value in match.groupdict().items()
+    }
+    ver = semver.VersionInfo(**ver)
+    rest = match.string[match.end() :]  # noqa:E203
+    return ver, rest
 
 def ls_remote(url):
     byte_dict = dulwich.porcelain.ls_remote(url)
@@ -29,13 +72,15 @@ def get_latest_version(au_type, au_url, au_branch):
 
     if au_type == "tag":
         refs = ls_remote(au_url)
-        tags = []
+        versions = []
         for ref in refs:
             if ref.startswith("refs/tags/"):
                 tag = ref.replace("refs/tags/", "")
-                tags.append(tag)
-        tags.sort()
-        return tags[-1]
+                versions.append((tag, coerce(tag)))
+
+        # Sort by the second tuple item, which is a parser semver object
+        # Then return the associated string (so any `v` prefix that `coerce` stripped doesn't get discarded)
+        return max(versions, key=lambda t: t[1])[0]
 
     else:
         raise NotImplementedError("Unknown autoupdate type '%s'" % au_type)
