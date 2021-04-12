@@ -16,5 +16,5 @@ for filename in os.listdir(manifest_dir):
         manifests.append(yaml.load(f, Loader=yaml.FullLoader))
 
 with open(sys.argv[2], "w") as f:
-    yaml.dump_all(manifests, f, sort_keys=False)
+    yaml.dump(manifests, f, sort_keys=False)
 
