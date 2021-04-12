@@ -8,7 +8,7 @@ import sys
 
 
 with open(sys.argv[1], "r") as f:
-    plugins = list(yaml.load_all(f, Loader=yaml.FullLoader))
+    plugins = yaml.load(f, Loader=yaml.FullLoader)
 
 buffer = \
     """
