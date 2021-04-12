@@ -1,14 +1,14 @@
 #!/usr/bin/python3
 
 # Generates a markdown file containing a table of all plug-ins.
-# Usage: ./generate_table.py plugins.yaml PLUGINS.md
+# Usage: ./generate_table.py generated/plugins.yaml PLUGINS.md
 
 import yaml
 import sys
 
 
 with open(sys.argv[1], "r") as f:
-    plugins = yaml.load(f, Loader=yaml.FullLoader)
+    plugins = list(yaml.load_all(f, Loader=yaml.FullLoader))
 
 buffer = \
     """
@@ -16,7 +16,7 @@ buffer = \
 |-|------|--------|-------------|"""
 
 plugin_template = """
-| ![Icon]({iconUrl}) | [{name}]({url}) | {author} | {description} |"""
+| ![Icon]({iconUrl}) | [{name}]({url}) | {authors} | {description} |"""
 
 for plugin in plugins:
     plugin["description"] = plugin["description"] \

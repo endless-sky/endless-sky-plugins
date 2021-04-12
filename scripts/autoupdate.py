@@ -2,8 +2,8 @@
 
 # Checks wether a new plug-in version exists, if yes updates the manifest according to `autoupdate`.
 # Usage:
-# $ python3 autoupdate.py myPlugin.yaml # update this specific file
-# $ python3 autoupdate.py myPluginFolder/ # update every manifest in this folder
+# $ ./autoupdate.py myPlugin.yaml # update this specific file
+# $ ./autoupdate.py myPluginFolder/ # update every manifest in this folder
 
 import yaml
 import sys
