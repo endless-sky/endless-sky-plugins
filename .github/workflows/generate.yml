@@ -3,7 +3,7 @@ name: Generate files
 on:
   push:
     paths: 
-      - plugins.yaml
+      - manifests/
 
 jobs:
   generate:
