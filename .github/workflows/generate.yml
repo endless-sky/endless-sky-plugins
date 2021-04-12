@@ -2,8 +2,6 @@ name: Generate files
 
 on:
   push:
-    paths: 
-      - manifests/
 
 jobs:
   generate:
