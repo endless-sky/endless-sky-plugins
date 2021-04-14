@@ -45,7 +45,7 @@
     type: commit
     url: https://github.com/RestingImmortal/Ciu-Kreo/archive/$version.zip
     iconUrl: https://github.com/RestingImmortal/Ciu-Kreo/raw/$version/icon.png
-- name: High DPI
+- name: All Content Plugin
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/all-content-plugin
   license: GPL-3.0-or-later
