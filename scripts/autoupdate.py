@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Checks wether a new plug-in version exists, if yes updates the manifest according to `autoupdate`.
+# Check whether a new plug-in version exists. When one is found, updates the manifest according to `autoupdate`.
 # Usage:
 # $ ./autoupdate.py myPlugin.yaml # update this specific file
 # $ ./autoupdate.py myPluginFolder/ # update every manifest in this folder
