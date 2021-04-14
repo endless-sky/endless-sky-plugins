@@ -83,8 +83,8 @@ def get_latest_version(au_type, au_url, au_branch):
         # Then return the associated string (so any `v` prefix that `coerce` stripped doesn't get discarded)
         return max(versions, key=lambda t: t[1])[0]
 
-    else:
-        raise NotImplementedError("Unknown autoupdate type '%s'" % au_type)
+
+    raise NotImplementedError("Unknown autoupdate type '%s'" % au_type)
 
 
 def update(file):
