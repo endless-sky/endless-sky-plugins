@@ -17,4 +17,3 @@ for filename in os.listdir(manifest_dir):
 
 with open(sys.argv[2], "w") as f:
     yaml.dump(manifests, f, sort_keys=False)
-

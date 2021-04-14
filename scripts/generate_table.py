@@ -10,8 +10,7 @@ import sys
 with open(sys.argv[1], "r") as f:
     plugins = yaml.load(f, Loader=yaml.FullLoader)
 
-buffer = \
-    """
+buffer = """
 | | Name | Author | Description |
 |-|------|--------|-------------|"""
 
@@ -19,12 +18,13 @@ plugin_template = """
 | ![Icon]({iconUrl}) | [{name}]({url}) | {authors} | {description} |"""
 
 for plugin in plugins:
-    plugin["description"] = plugin["description"] \
-        .replace("\n", " ") \
-        .replace("\r", "") \
-        .strip()
+    plugin["description"] = (
+        plugin["description"].replace("\n", " ").replace("\r", "").strip()
+    )
     if "iconUrl" not in plugin:
-        plugin["iconUrl"] = "https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png"
+        plugin[
+            "iconUrl"
+        ] = "https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png"
     buffer += plugin_template.format(**plugin)
 
 with open(sys.argv[2], "w") as f:

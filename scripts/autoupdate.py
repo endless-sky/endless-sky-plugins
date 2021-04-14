@@ -54,6 +54,7 @@ def coerce(version):
     rest = match.string[match.end() :]  # noqa:E203
     return ver, rest
 
+
 def ls_remote(url):
     byte_dict = dulwich.porcelain.ls_remote(url)
     string_dict = {}
