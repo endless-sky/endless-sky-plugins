@@ -15,11 +15,11 @@ buffer = """
 |-|------|--------|-------------|"""
 
 plugin_template = """
-| ![Icon]({iconUrl}) | [{name}]({url}) | {authors} | {description} |"""
+| ![Icon]({iconUrl}) | [{name}]({url}) | {authors} | {shortDescription} |"""
 
 for plugin in plugins:
-    plugin["description"] = (
-        plugin["description"].replace("\n", " ").replace("\r", "").strip()
+    plugin["shortDescription"] = (
+        plugin["shortDescription"].replace("\n", " ").replace("\r", "").strip()
     )
     if "iconUrl" not in plugin:
         plugin[
