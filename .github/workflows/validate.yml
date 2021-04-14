@@ -2,7 +2,6 @@ name: Validate
 
 on: 
   push:
-  pull_request:
   schedule:
     - cron: "0 */6 * * *"
 
@@ -16,7 +15,10 @@ jobs:
     - name: Install yamllint
       run: sudo apt-get install -y yamllint
     - name: Lint
-      run: yamllint -d relaxed plugins.yaml
+      run: |
+        for f in manifests/*.yaml; do
+          yamllint -d relaxed $f
+        done
   
   check_urls:
     runs-on: ubuntu-latest
@@ -28,4 +30,4 @@ jobs:
           pip3 install setuptools wheel
           pip3 install -r scripts/requirements.txt
       - name: Check URLs
-        run: python3 scripts/check_urls.py plugins.yaml
+        run: python3 scripts/check_urls.py manifests/
