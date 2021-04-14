@@ -20,7 +20,7 @@ jobs:
       run: yq '.' generated/plugins.yaml > generated/plugins.json
     - name: Generate individual JSON files
       run: |
-        mkdir generated/plugins
+        mkdir -p generated/plugins
         for f in manifests/*.yaml; do
           stripped=$(basename "$f" .yaml)
           yq '.' "$f" > "generated/plugins/$stripped.json"
