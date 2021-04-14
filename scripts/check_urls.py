@@ -12,13 +12,16 @@ from urllib.request import urlopen, Request
 
 
 def check_url(url):
-    print("  Testing " + url)
     try:
         conn = urlopen(Request(url, method="HEAD"))
-        return True
+        status = "OK %s" % conn.status
+        ok = True
     except HTTPError as e:
-        print("  %s: %s" % (e.code, e.reason))
-        return False
+        status = "ERROR %s" % e.code
+        ok = False
+    
+    print("  %s\t%s" % (status, url))
+    return ok
 
 
 def check_plugin(file):
