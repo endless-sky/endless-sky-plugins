@@ -12,13 +12,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Install yamllint
-      run: sudo apt-get install -y yamllint
-    - name: Lint
-      run: |
-        for f in manifests/*.yaml; do
-          yamllint -d relaxed "$f"
-        done
+    - name: yaml-lint
+      uses: ibiqlik/action-yamllint@v3
+      with:
+        file_or_dir: manifests/
   
   check_urls:
     runs-on: ubuntu-latest
