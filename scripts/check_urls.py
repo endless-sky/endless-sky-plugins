@@ -27,10 +27,7 @@ def check_plugin(file):
         manifest = yaml.load(f, Loader=yaml.FullLoader)
 
     url_valid = check_url(manifest["url"])
-    if "iconUrl" in manifest:
-        icon_url_valid = check_url(manifest["iconUrl"])
-    else:
-        icon_url_valid = True
+    icon_url_valid = check_url(manifest["iconUrl"]) if manifest.get("iconUrl") else True
     return url_valid and icon_url_valid
 
 
