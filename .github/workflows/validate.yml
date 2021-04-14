@@ -17,7 +17,7 @@ jobs:
     - name: Lint
       run: |
         for f in manifests/*.yaml; do
-          yamllint -d relaxed $f
+          yamllint -d relaxed "$f"
         done
   
   check_urls:
