@@ -1,0 +1,5 @@
+extends: default
+
+rules:
+  line-length: disable # autoupdate will format the descriptions, and links can't be broken up
+  document-start: disable
