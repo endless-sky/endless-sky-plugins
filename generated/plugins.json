@@ -1,16 +1,18 @@
 [
   {
-    "name": "Beccas Endless Expansion",
-    "authors": "beccabunny",
-    "homepage": "https://github.com/beccabunny/Beccas-Endless-Expansion",
-    "license": "GPL-3.0-or-later",
-    "version": "1.2.0",
-    "shortDescription": "New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones!",
-    "description": "New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones! All you have to do is explore, fly in your ship and meet all the factions in the game.",
-    "url": "https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/1.2.0.zip",
+    "name": "High DPI",
+    "authors": "Michael Zahniser",
+    "homepage": "https://github.com/endless-sky/endless-sky-high-dpi",
+    "license": "CC-BY-SA-4.0",
+    "version": "v0.9.12",
+    "shortDescription": "High-DPI graphics for Endless Sky.",
+    "description": "This plugin contains double resolution graphics, which are only used if you have a high-dpi monitor or if you set the zoom level above 100%. This will roughly double the amount of memory used by the game.",
+    "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.9.12.zip",
+    "iconUrl": "https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.9.12/icon.png",
     "autoupdate": {
       "type": "tag",
-      "url": "https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/$version.zip"
+      "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png"
     }
   },
   {
@@ -27,6 +29,20 @@
       "type": "commit",
       "url": "https://github.com/EndlessSkyCommunity/world-forge/archive/$version.zip",
       "iconUrl": "https://github.com/EndlessSkyCommunity/world-forge/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Beccas Endless Expansion",
+    "authors": "beccabunny",
+    "homepage": "https://github.com/beccabunny/Beccas-Endless-Expansion",
+    "license": "GPL-3.0-or-later",
+    "version": "1.2.0",
+    "shortDescription": "New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones!",
+    "description": "New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones! All you have to do is explore, fly in your ship and meet all the factions in the game.",
+    "url": "https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/1.2.0.zip",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/$version.zip"
     }
   },
   {
@@ -59,22 +75,6 @@
       "type": "tag",
       "url": "https://github.com/endless-sky/all-content-plugin/archive/refs/tags/$version.zip",
       "iconUrl": "https://github.com/endless-sky/all-content-plugin/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "High DPI",
-    "authors": "Michael Zahniser",
-    "homepage": "https://github.com/endless-sky/endless-sky-high-dpi",
-    "license": "CC-BY-SA-4.0",
-    "version": "v0.9.12",
-    "shortDescription": "High-DPI graphics for Endless Sky.",
-    "description": "This plugin contains double resolution graphics, which are only used if you have a high-dpi monitor or if you set the zoom level above 100%. This will roughly double the amount of memory used by the game.",
-    "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.9.12.zip",
-    "iconUrl": "https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.9.12/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png"
     }
   }
 ]
