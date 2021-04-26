@@ -2,8 +2,6 @@ name: Generate files
 
 on:
   push:
-    paths: 
-      - plugins.yaml
 
 jobs:
   generate:
@@ -16,10 +14,19 @@ jobs:
         sudo pip3 install setuptools wheel
         sudo pip3 install yq
         pip3 install -r scripts/requirements.txt
+    - name: Generate plugins.yaml
+      run: python scripts/generate_full_index.py manifests/ generated/plugins.yaml
     - name: Generate plugins.json
-      run: cat plugins.yaml | yq '.' > generated/plugins.json
+      run: yq '.' generated/plugins.yaml > generated/plugins.json
+    - name: Generate individual JSON files
+      run: |
+        mkdir -p generated/plugins
+        for f in manifests/*.yaml; do
+          stripped=$(basename "$f" .yaml)
+          yq '.' "$f" > "generated/plugins/$stripped.json"
+        done
     - name: Generate PLUGINS.md
-      run: python3 scripts/generate_table.py plugins.yaml generated/PLUGINS.md
+      run: python3 scripts/generate_table.py generated/plugins.yaml generated/PLUGINS.md
     - uses: stefanzweifel/git-auto-commit-action@v4.2.0
       with:
         commit_message: Regenerate files (${{ github.sha }})

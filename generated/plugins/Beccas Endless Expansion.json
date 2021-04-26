@@ -1,0 +1,14 @@
+{
+  "name": "Beccas Endless Expansion",
+  "authors": "beccabunny",
+  "homepage": "https://github.com/beccabunny/Beccas-Endless-Expansion",
+  "license": "GPL-3.0-or-later",
+  "version": "1.2.0",
+  "shortDescription": "New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones!",
+  "description": "New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones! All you have to do is explore, fly in your ship and meet all the factions in the game.",
+  "url": "https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/1.2.0.zip",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/$version.zip"
+  }
+}
