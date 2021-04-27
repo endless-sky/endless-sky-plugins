@@ -1,6 +1,7 @@
 
 | | Name | Author | Description |
 |-|------|--------|-------------|
+| ![Icon](https://raw.githubusercontent.com/toilethinges/Adamas-Project/v0.1.0/icon.png) | [The Adamas Project](https://github.com/toilethinges/Adamas-Project/archive/refs/tags/v0.1.0.zip) | toilethinges & Bereskatuket(Kestrel1110) | Adds a very advanced race of aliens to the northeast section of the galaxy. |
 | ![Icon](https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.9.12/icon.png) | [High DPI](https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.9.12.zip) | Michael Zahniser | High-DPI graphics for Endless Sky. |
 | ![Icon](https://github.com/kestrel1110/Easier-Korath-Automatons/raw/1.0.0/icon.png) | [Easier Korath Automatons](https://github.com/kestrel1110/Easier-Korath-Automatons/archive/refs/tags/1.0.0.zip) | Bereskatuket (Kestrel1110) | Makes capturing Korath Automata easier. |
 | ![Icon](https://github.com/EndlessSkyCommunity/world-forge/raw/bf2940da78d567fd3d4006bb1fb8cbf5fd89960b/icon.png) | [World Forge](https://github.com/EndlessSkyCommunity/world-forge/archive/bf2940da78d567fd3d4006bb1fb8cbf5fd89960b.zip) | Amazinite | A plugin for Endless Sky that allows the player to access everything in the game in one place. |
