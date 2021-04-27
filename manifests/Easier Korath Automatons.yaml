@@ -8,6 +8,6 @@ description: Decreases self-destructing chances by half to make capturing the Ko
 url: https://github.com/kestrel1110/Easier-Korath-Automatons/archive/refs/tags/1.0.0.zip
 iconUrl: https://raw.githubusercontent.com/kestrel1110/Easier-Korath-Automatons/master/icon.png
 autoupdate:
-  type: commit
+  type: tag
   url: https://github.com/kestrel1110/Easier-Korath-Automatons/archive/$version.zip
   iconUrl: https://github.com/kestrel1110/Easier-Korath-Automatons/raw/$version/icon.png
