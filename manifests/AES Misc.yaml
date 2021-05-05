@@ -8,8 +8,8 @@ description: Any Adde content that doesn't fit in another or deserve it's own re
   This includes many new outfits and ships for various aspects of the vanilla game,
   even new missions here and there.
 url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/6ccae2e8f6253f8cb3c4c076bd785b65aaa3beec.zip
-iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Misc/master/icon.png
+iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Misc/6ccae2e8f6253f8cb3c4c076bd785b65aaa3beec/icon.png
 autoupdate:
   type: tag
   url: https://github.com/endless-sky/all-content-plugin/archive/refs/tags/$version.zip
-  iconUrl: https://github.com/endless-sky/all-content-plugin/raw/$version/icon.png
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Misc/raw/$version/icon.png

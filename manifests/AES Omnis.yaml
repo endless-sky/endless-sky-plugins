@@ -9,8 +9,8 @@ description: The most extensive all-content plugin to date. It includes many opp
   and the content of many plugins available to use to put together different ship builds.
   Many more tools are included into Omnis too!
 url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/3d989b0fc0b7f1a843870837aa9acb331836a317.zip
-iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Omnis/master/icon.png
+iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Omnis/3d989b0fc0b7f1a843870837aa9acb331836a317/icon.png
 autoupdate:
   type: tag
   url: https://github.com/endless-sky/all-content-plugin/archive/refs/tags/$version.zip
-  iconUrl: https://github.com/endless-sky/all-content-plugin/raw/$version/icon.png
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/$version/icon.png
