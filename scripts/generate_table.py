@@ -9,6 +9,7 @@ import sys
 
 with open(sys.argv[1], "r") as f:
     plugins = yaml.load(f, Loader=yaml.FullLoader)
+    plugins.sort(key=lambda p: p["name"])
 
 buffer = """
 | | Name | Author | Description |
