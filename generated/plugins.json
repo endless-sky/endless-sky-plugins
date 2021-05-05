@@ -94,6 +94,22 @@
     }
   },
   {
+    "name": "AES Fallen",
+    "authors": "Darcy Manoel",
+    "homepage": "https://github.com/Adde-Endless-Sky/AES-Fallen",
+    "license": "GPL-3.0-or-later",
+    "version": "ad47b294bb6c88dfcdbc16687598942808cbd83a",
+    "shortDescription": "Inspired by an old fan favourite plugin, Galactic Conquest.",
+    "description": "Inspired by an old and unfortunately unfinished fan favourite plugin that offered truly unique content. While this might not mimic the original in design, hopefully it can stoke a similarly unique experience.",
+    "url": "https://github.com/Adde-Endless-Sky/AES-Fallen/archive/ad47b294bb6c88dfcdbc16687598942808cbd83a.zip",
+    "iconUrl": "https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Fallen/ad47b294bb6c88dfcdbc16687598942808cbd83a/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Adde-Endless-Sky/AES-Fallen/archive/$version.zip",
+      "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Fallen/raw/$version/icon.png"
+    }
+  },
+  {
     "name": "All Content Plugin",
     "authors": "Michael Zahniser",
     "homepage": "https://github.com/endless-sky/all-content-plugin",
@@ -110,6 +126,54 @@
     }
   },
   {
+    "name": "AES Omnis",
+    "authors": "Darcy Manoel",
+    "homepage": "https://github.com/Adde-Endless-Sky/AES-Omnis",
+    "license": "GPL-3.0-or-later",
+    "version": "3d989b0fc0b7f1a843870837aa9acb331836a317",
+    "shortDescription": "The most extensive all-content plugin to date, for development or fun.",
+    "description": "The most extensive all-content plugin to date. It includes many opportunities to test balance or ship builds against AI driven ships or fleets, all vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!",
+    "url": "https://github.com/Adde-Endless-Sky/AES-Omnis/archive/3d989b0fc0b7f1a843870837aa9acb331836a317.zip",
+    "iconUrl": "https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Omnis/3d989b0fc0b7f1a843870837aa9acb331836a317/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Adde-Endless-Sky/AES-Omnis/archive/$version.zip",
+      "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Omnis/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "AES Aben",
+    "authors": "Darcy Manoel",
+    "homepage": "https://github.com/Adde-Endless-Sky/AES-Aben",
+    "license": "GPL-3.0-or-later",
+    "version": "3f569b3bf386981773b6a21b88542c039f5f5153",
+    "shortDescription": "Fills in space in the galaxy with a new alien species.",
+    "description": "New aliens that are incapable of spaceflight as far as the player is concerned, offers the player multiple missions in aiding the Aben which also benefit the player in turn.",
+    "url": "https://github.com/Adde-Endless-Sky/AES-Aben/archive/3f569b3bf386981773b6a21b88542c039f5f5153.zip",
+    "iconUrl": "https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Aben/3f569b3bf386981773b6a21b88542c039f5f5153/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Adde-Endless-Sky/AES-Aben/archive/$version.zip",
+      "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Aben/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "AES Irm",
+    "authors": "Darcy Manoel",
+    "homepage": "https://github.com/Adde-Endless-Sky/AES-Irm",
+    "license": "GPL-3.0-or-later",
+    "version": "fd8c862c4602dd4e113b31d448412e41fabf72dc",
+    "shortDescription": "A new alien species with tense diplomatic ties to their neighbours.",
+    "description": "New aliens to the north of human space that can only be described as technocratic isolationists. They will not begin or turn hostile towards the player under normal circumstances, but you would be one unlucky pilot if you were to find yourself on bad terms with the Irm.",
+    "url": "https://github.com/Adde-Endless-Sky/AES-Irm/archive/fd8c862c4602dd4e113b31d448412e41fabf72dc.zip",
+    "iconUrl": "https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Irm/fd8c862c4602dd4e113b31d448412e41fabf72dc/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Adde-Endless-Sky/AES-Irm/archive/$version.zip",
+      "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Irm/raw/$version/icon.png"
+    }
+  },
+  {
     "name": "Portraits for News",
     "authors": "Anarchist2",
     "homepage": "https://github.com/Anarchist2/ES-news-portraits",
@@ -123,6 +187,22 @@
       "type": "tag",
       "url": "https://github.com/Anarchist2/ES-news-portraits/archive/$version.zip",
       "iconUrl": "https://github.com/Anarchist2/ES-news-portraits/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "AES Misc",
+    "authors": "Darcy Manoel",
+    "homepage": "https://github.com/Adde-Endless-Sky/AES-Misc",
+    "license": "GPL-3.0-or-later",
+    "version": "6ccae2e8f6253f8cb3c4c076bd785b65aaa3beec",
+    "shortDescription": "A mix of varied content which can be seen throughout the galaxy.",
+    "description": "Any Adde content that doesn't fit in another or deserve it's own repository. This includes many new outfits and ships for various aspects of the vanilla game, even new missions here and there.",
+    "url": "https://github.com/Adde-Endless-Sky/AES-Misc/archive/6ccae2e8f6253f8cb3c4c076bd785b65aaa3beec.zip",
+    "iconUrl": "https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Misc/6ccae2e8f6253f8cb3c4c076bd785b65aaa3beec/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Adde-Endless-Sky/AES-Misc/archive/$version.zip",
+      "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Misc/raw/$version/icon.png"
     }
   }
 ]
