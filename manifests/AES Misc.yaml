@@ -2,13 +2,13 @@ name: AES Misc
 authors: Darcy Manoel
 homepage: https://github.com/Adde-Endless-Sky/AES-Misc
 license: GPL-3.0-or-later
-version: 6ccae2e8f6253f8cb3c4c076bd785b65aaa3beec
+version: 5d6e601d833d5f267f724d16a09c9ddd0d756f35
 shortDescription: A mix of varied content which can be seen throughout the galaxy.
 description: Any Adde content that doesn't fit in another or deserve it's own repository.
   This includes many new outfits and ships for various aspects of the vanilla game,
   even new missions here and there.
-url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/6ccae2e8f6253f8cb3c4c076bd785b65aaa3beec.zip
-iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Misc/6ccae2e8f6253f8cb3c4c076bd785b65aaa3beec/icon.png
+url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/5d6e601d833d5f267f724d16a09c9ddd0d756f35.zip
+iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Misc/5d6e601d833d5f267f724d16a09c9ddd0d756f35/icon.png
 autoupdate:
   type: tag
   url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/$version.zip
