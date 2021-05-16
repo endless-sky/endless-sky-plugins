@@ -11,4 +11,3 @@ autoupdate:
   type: tag
   url: https://github.com/kestrel1110/Exporianes/archive/$version.zip
   iconUrl: https://github.com/kestrel1110/Exporianes/raw/$version/icon.png
-
