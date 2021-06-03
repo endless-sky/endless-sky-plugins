@@ -4,11 +4,11 @@
     "authors": "Bereskatuket (Kestrel1110)",
     "homepage": "https://github.com/kestrel1110/Exporianes",
     "license": "GPL-3.0-or-later",
-    "version": "1.4",
+    "version": "1.5",
     "shortDescription": "Adds a new race of T4 Aliens.",
     "description": "Adds a new race of T4 aliens to the Milky-Way galaxy. They can be reached after completing the Emerald Sword missions and having a combat rating of 13.",
-    "url": "https://github.com/kestrel1110/Exporianes/archive/refs/tags/1.4.zip",
-    "iconUrl": "https://github.com/kestrel1110/Exporianes/raw/1.4/icon.png",
+    "url": "https://github.com/kestrel1110/Exporianes/archive/refs/tags/1.5.zip",
+    "iconUrl": "https://github.com/kestrel1110/Exporianes/raw/1.5/icon.png",
     "autoupdate": {
       "type": "tag",
       "url": "https://github.com/kestrel1110/Exporianes/archive/$version.zip",
@@ -123,6 +123,22 @@
     "autoupdate": {
       "type": "tag",
       "url": "https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/$version.zip"
+    }
+  },
+  {
+    "name": "ES-Advanced-Starts",
+    "authors": "Bereskatuket (Kestrel1110)",
+    "homepage": "https://github.com/kestrel1110/ES-Advanced-Starts",
+    "license": "GPL-3.0-or-later",
+    "version": "1.2",
+    "shortDescription": "Adds more starting options to Endless-Sky.",
+    "description": "Adds several new starts to Endless-Sky including Syndicate and Deep starts.",
+    "url": "https://github.com/kestrel1110/ES-Advanced-Starts/archive/refs/tags/1.2.zip",
+    "iconUrl": "https://github.com/kestrel1110/ES-Advanced-Starts/raw/1.2/icon.jpg",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/kestrel1110/ES-Advanced-Starts/archive/$version.zip",
+      "iconUrl": "https://github.com/kestrel1110/ES-Advanced-Starts/raw/$version/icon.png"
     }
   },
   {
