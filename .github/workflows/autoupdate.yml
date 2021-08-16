@@ -19,8 +19,10 @@ jobs:
         pip3 install -r scripts/requirements.txt
     - name: Run autoupdate
       run: |
+        cat $GITHUB_TOKEN | gh auth login --with-token
         git config user.email "actions@github.com"
         git config user.name "Github Actions"
+        
         for file in manifests/*
         do
           ./scripts/autoupdate.py "$file"
