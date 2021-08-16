@@ -26,7 +26,7 @@ jobs:
           if ! git diff-index --quiet HEAD --; then # if something has changed...
             echo "Things have changed, creating a PR"
             
-            version=$(cat "$file" | yq ".version")
+            version=$(cat "$file" | yq -r ".version")
             filename=${file##*/} # "Plugin Name.yml"
             name=${filename%.*} # "Plugin Name"
             
