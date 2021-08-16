@@ -31,12 +31,12 @@ jobs:
             version=$(cat "$file" | yq -r ".version")
             filename=${file##*/} # "Plugin Name.yml"
             name=${filename%.*} # "Plugin Name"
-            branchname=$(echo "$name-$version" | sed "s/ /_/")-$version
+            branchname=$(echo "$name-$version" | sed "s/ /_/")
             
             git checkout -B "$branchname"
             git add manifests/
             git commit -m "Update $name to $version"
-            git push --force
+            git push -u "origin/$branchname" --force
             gh pr create --fill
             git checkout -b master
           fi
