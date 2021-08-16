@@ -39,7 +39,7 @@ jobs:
             git commit -m "Update $name to $version"
             git push --set-upstream origin "$branchname" --force
             gh pr create --fill
-            git checkout -b master
+            git checkout master
           fi
         done
       env:
