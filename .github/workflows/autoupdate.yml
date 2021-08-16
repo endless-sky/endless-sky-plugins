@@ -38,7 +38,11 @@ jobs:
             git add manifests/
             git commit -m "Update $name to $version"
             git push --set-upstream origin "$branchname" --force
-            gh pr create --fill
+            
+            if ! gh pr ready "$branchname"; then # poor man's "does this PR exist?"
+              gh pr create --fill
+            fi
+
             git checkout master
           fi
         done
