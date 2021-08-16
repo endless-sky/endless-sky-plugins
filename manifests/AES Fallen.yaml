@@ -10,6 +10,6 @@ description: Inspired by an old and unfortunately unfinished fan favourite plugi
 url: https://github.com/Adde-Endless-Sky/AES-Fallen/archive/ad47b294bb6c88dfcdbc16687598942808cbd83a.zip
 iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Fallen/ad47b294bb6c88dfcdbc16687598942808cbd83a/icon.png
 autoupdate:
-  type: tag
+  type: commit
   url: https://github.com/Adde-Endless-Sky/AES-Fallen/archive/$version.zip
   iconUrl: https://github.com/Adde-Endless-Sky/AES-Fallen/raw/$version/icon.png

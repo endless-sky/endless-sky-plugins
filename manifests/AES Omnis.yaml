@@ -11,6 +11,6 @@ description: The most extensive all-content plugin to date. It includes many opp
 url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/3d989b0fc0b7f1a843870837aa9acb331836a317.zip
 iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Omnis/3d989b0fc0b7f1a843870837aa9acb331836a317/icon.png
 autoupdate:
-  type: tag
+  type: commit
   url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/$version.zip
   iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/$version/icon.png
