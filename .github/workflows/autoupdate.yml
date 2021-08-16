@@ -7,7 +7,7 @@ on:
 
 
 jobs:
-  greet:
+  autoupdate:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,13 +21,18 @@ jobs:
       run: |
         for file in manifests/*
         do
-          ./scripts/autoupdate.py "manifests/$file"
+          ./scripts/autoupdate.py "$file"
+          
           if ! git diff-index --quiet HEAD --; then # if something has changed...
             echo "Things have changed, creating a PR"
-            version=$(cat "manifests/$file" | yq ".version")
-            git checkout -B "$file-$version"
+            
+            version=$(cat "$file" | yq ".version")
+            filename=${file##*/} # "Plugin Name.yml"
+            name=${filename%.*} # "Plugin Name"
+            
+            git checkout -B "$name-$version"
             git add manifests/
-            git commit -m "Update $file to $version"
+            git commit -m "Update $name to $version"
             git push --force
             gh pr create --fill
             git checkout -b master
