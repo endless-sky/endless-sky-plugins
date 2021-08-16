@@ -1,0 +1,35 @@
+name: Autoupdate
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install dependencies
+      run: |
+        sudo pip3 install setuptools wheel
+        sudo pip3 install yq
+        pip3 install -r scripts/requirements.txt
+    - name: Run autoupdate
+      run: |
+        for file in manifests/*
+        do
+          ./scripts/autoupdate.py "manifests/$file"
+          if ! git diff-index --quiet HEAD --; then # if something has changed...
+            echo "Things have changed, creating a PR"
+            version=$(cat "manifests/$file" | yq ".version")
+            git checkout -B "$file-$version"
+            git add manifests/
+            git commit -m "Update $file to $version"
+            git push --force
+            gh pr create --fill
+            git checkout -b master
+          fi
+        done
