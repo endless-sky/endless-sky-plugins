@@ -9,7 +9,7 @@
   "url": "https://github.com/Adde-Endless-Sky/AES-Misc/archive/5d6e601d833d5f267f724d16a09c9ddd0d756f35.zip",
   "iconUrl": "https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Misc/5d6e601d833d5f267f724d16a09c9ddd0d756f35/icon.png",
   "autoupdate": {
-    "type": "tag",
+    "type": "commit",
     "url": "https://github.com/Adde-Endless-Sky/AES-Misc/archive/$version.zip",
     "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Misc/raw/$version/icon.png"
   }
