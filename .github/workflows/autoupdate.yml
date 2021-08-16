@@ -36,7 +36,7 @@ jobs:
             git checkout -B "$branchname"
             git add manifests/
             git commit -m "Update $name to $version"
-            git push --set-upstream origin --force
+            git push --set-upstream origin "$branchname" --force
             gh pr create --fill
             git checkout -b master
           fi
