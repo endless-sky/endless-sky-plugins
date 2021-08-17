@@ -34,13 +34,20 @@ jobs:
             name=${filename%.*} # "Plugin Name"
             branchname=$(echo "$name-$version" | sed "s/ /_/")
             
-            git checkout -B "$branchname"
-            git add manifests/
-            git commit -m "Update $name to $version"
-            git push --set-upstream origin "$branchname" --force
-            
-            if ! gh pr ready "$branchname"; then # poor man's "does this PR exist?"
-              gh pr create --fill
+            if git branch -al | grep -F "remotes/origin/$branchname" > /dev/null; then
+              git restore manifests/
+            else
+
+              git checkout -B "$branchname"
+              git add manifests/
+              git commit -m "Update $name to $version"
+              git push --set-upstream origin "$branchname"
+
+              # the poor man's "does this PR exist?"
+              if ! gh pr ready "$branchname"; then
+                gh pr create --fill
+              fi
+
             fi
 
             git checkout master
