@@ -21,6 +21,7 @@ jobs:
       run: |
         git config user.email "actions@github.com"
         git config user.name "Github Actions"
+        git fetch origin
         
         for file in manifests/*
         do
