@@ -35,7 +35,7 @@ jobs:
             version=$(cat "$file" | yq -r ".version")
             filename=${file##*/} # "Plugin Name.yml"
             name=${filename%.*} # "Plugin Name"
-            branchname=$(echo "$name-$version" | sed 's/[^a-zA-Z0-9]//g')
+            branchname=$(echo "$name-$version" | sed 's/[^a-zA-Z0-9]/_/g')
             
             if git branch -al | grep -F "remotes/origin/$branchname" > /dev/null; then
               echo "Branch $branchname already exists, discarding changes"
