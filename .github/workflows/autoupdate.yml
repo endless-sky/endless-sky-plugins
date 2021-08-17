@@ -28,14 +28,15 @@ jobs:
           ./scripts/autoupdate.py "$file"
           
           if ! git diff-index --quiet HEAD --; then # if something has changed...
-            echo "Things have changed, creating a PR"
+            echo "Things have changed, attempting to create a PR"
             
             version=$(cat "$file" | yq -r ".version")
             filename=${file##*/} # "Plugin Name.yml"
             name=${filename%.*} # "Plugin Name"
-            branchname=$(echo "$name-$version" | sed "s/ /_/")
+            branchname=$(echo "$name-$version" | sed 's/[^a-zA-Z0-9]//g')
             
             if git branch -al | grep -F "remotes/origin/$branchname" > /dev/null; then
+              echo "Branch $branchname already exists, discarding changes"
               git restore manifests/
             else
 
