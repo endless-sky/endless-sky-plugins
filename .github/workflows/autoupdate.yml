@@ -25,6 +25,7 @@ jobs:
         
         for file in manifests/*
         do
+          git reset --hard HEAD
           ./scripts/autoupdate.py "$file"
           
           if ! git diff-index --quiet HEAD --; then # if something has changed...
