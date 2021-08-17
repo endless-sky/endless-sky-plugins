@@ -25,10 +25,10 @@ jobs:
         
         for file in manifests/*
         do
-          git reset --hard HEAD
+          git reset --hard master
           ./scripts/autoupdate.py "$file"
           
-          if ! git diff-index --quiet HEAD --; then # if something has changed...
+          if [[ `git status --porcelain` ]]; then
             echo "Things have changed, attempting to create a PR"
             git status
             
