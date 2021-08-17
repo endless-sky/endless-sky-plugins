@@ -30,6 +30,7 @@ jobs:
           
           if ! git diff-index --quiet HEAD --; then # if something has changed...
             echo "Things have changed, attempting to create a PR"
+            git status
             
             version=$(cat "$file" | yq -r ".version")
             filename=${file##*/} # "Plugin Name.yml"
