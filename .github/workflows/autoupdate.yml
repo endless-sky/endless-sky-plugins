@@ -2,7 +2,7 @@ name: Autoupdate
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 
@@ -32,16 +32,16 @@ jobs:
             echo "Things have changed, attempting to create a PR"
             git status
             
-            version=$(cat "$file" | yq -r ".version")
+            version=$(cat "$file" | yq -r ".version") # "1.5.3"
             filename=${file##*/} # "Plugin Name.yml"
             name=${filename%.*} # "Plugin Name"
-            branchname=$(echo "$name-$version" | sed 's/[^a-zA-Z0-9]/_/g')
+            branchname=$(echo "$name-$version" | sed 's/[^a-zA-Z0-9]/_/g') # "Plugin_Name-1_5_3"
             
             if git branch -al | grep -F "remotes/origin/$branchname" > /dev/null; then
               echo "Branch $branchname already exists, discarding changes"
               git restore manifests/
-            else
 
+            else
               git checkout -B "$branchname"
               git add manifests/
               git commit -m "Update $name to $version"
