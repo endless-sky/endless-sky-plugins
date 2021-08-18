@@ -44,7 +44,7 @@ jobs:
             fi
             diff_url="$url/compare/$old_version...$version"
             
-            if git branch -al | grep -F "remotes/origin/$branchname" > /dev/null; then
+            if git branch -al | grep -Fq "remotes/origin/$branchname"; then
               echo "Branch $branchname already exists, discarding changes"
               git restore manifests/
 
