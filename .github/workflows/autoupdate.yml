@@ -33,8 +33,8 @@ jobs:
             git status
             
             version=$(cat "$file" | yq -r ".version") # "1.5.3"
-            filename=${file##*/} # "Plugin Name.yml"
-            name=${filename%.*} # "Plugin Name"
+            filename="${file##*/}" # "Plugin Name.yml"
+            name="${filename%.*}" # "Plugin Name"
             branchname=$(echo "auto/$name/$version" | sed 's/[^\w\d]/_/g') # "auto/Plugin_Name/1_5_3"
             
             if git branch -al | grep -F "remotes/origin/$branchname" > /dev/null; then
