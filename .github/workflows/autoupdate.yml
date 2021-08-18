@@ -29,7 +29,7 @@ jobs:
           old_version=$(cat "$file" | yq -r ".version") # "1.5.2"
           ./scripts/autoupdate.py "$file"
           
-          if [[ `git status --porcelain` ]];; then
+          if [[ `git status --porcelain` ]]; then
             echo "Things have changed, attempting to create a PR"
             
             version=$(cat "$file" | yq -r ".version") # "1.5.3"
