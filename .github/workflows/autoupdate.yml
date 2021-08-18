@@ -28,7 +28,7 @@ jobs:
           git reset --hard master
           ./scripts/autoupdate.py "$file"
           
-          if [[ `git status --porcelain` ]]; then
+          if git status --porcelain; then
             echo "Things have changed, attempting to create a PR"
             git status
             
