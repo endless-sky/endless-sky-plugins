@@ -49,7 +49,7 @@ jobs:
 
               # the poor man's "does this PR exist?"
               if ! gh pr ready "$branchname"; then
-                gh pr create --fill
+                gh pr create --fill --label Autoupdate
               fi
 
             fi
