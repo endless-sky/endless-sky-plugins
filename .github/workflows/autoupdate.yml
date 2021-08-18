@@ -31,16 +31,14 @@ jobs:
           
           if git status --porcelain; then
             echo "Things have changed, attempting to create a PR"
-            git status
             
-            manifest=$(cat "$file")
-            version=$(echo $manifest | yq -r ".version") # "1.5.3"
+            version=$(cat "$file" | yq -r ".version") # "1.5.3"
             filename="${file##*/}" # "Plugin Name.yml"
             name="${filename%.*}" # "Plugin Name"
             branchname=$(echo "auto/$name/$version" | sed 's/[^\w\d]/_/g') # "auto/Plugin_Name/1_5_3"
-            url=$(echo $manifest | yq -r ".autoupdate.update_url")
+            url=$(cat "$file" | yq -r ".autoupdate.update_url")
             if [ "$url" = "null" ]; then
-              url=$(echo $manifest | yq -r ".homepage")
+              url=$(cat "$file" | yq -r ".homepage")
             else
               url="${url%.*}" # get rid of a potential .git suffix
             fi
