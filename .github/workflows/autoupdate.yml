@@ -26,7 +26,7 @@ jobs:
         for file in manifests/*
         do
           git reset --hard master
-          old_version=$(cat "$file" | yq -r ".version")) # "1.5.2"
+          old_version=$(cat "$file" | yq -r ".version") # "1.5.2"
           ./scripts/autoupdate.py "$file"
           
           if git status --porcelain; then
