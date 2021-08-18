@@ -42,7 +42,7 @@ jobs:
             if [ "$url" = "null" ]; then
               url=$(echo $manifest | yq -r ".homepage")
             else
-              url=${url%.*} # get rid of a potential .git suffix
+              url="${url%.*}" # get rid of a potential .git suffix
             fi
             diff_url="$url/compare/$old_version...$version"
             
