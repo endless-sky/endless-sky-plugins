@@ -2,12 +2,12 @@ name: ES-Advanced-Starts
 authors: Bereskatuket (Kestrel1110)
 homepage: https://github.com/kestrel1110/ES-Advanced-Starts
 license: GPL-3.0-or-later
-version: "1.2"
+version: '1.2'
 shortDescription: Adds more starting options to Endless-Sky.
 description: Adds several new starts to Endless-Sky including Syndicate and Deep starts.
-url: https://github.com/kestrel1110/ES-Advanced-Starts/archive/refs/tags/1.2.zip
+url: https://github.com/kestrel1110/ES-Advanced-Starts/archive/1.2.zip
 iconUrl: https://github.com/kestrel1110/ES-Advanced-Starts/raw/1.2/icon.jpg
 autoupdate:
   type: tag
   url: https://github.com/kestrel1110/ES-Advanced-Starts/archive/$version.zip
-  iconUrl: https://github.com/kestrel1110/ES-Advanced-Starts/raw/$version/icon.png
+  iconUrl: https://github.com/kestrel1110/ES-Advanced-Starts/raw/$version/icon.jpg
