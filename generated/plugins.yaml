@@ -7,8 +7,8 @@
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.9.12.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.9.12/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.9.14.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.9.14/icon.png
   autoupdate:
     type: tag
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
@@ -194,7 +194,7 @@
   shortDescription: Adds a new race of T5 Aliens.
   description: Adds a new race of T5 aliens to a new galaxy. They can be reached after
     completing the Emerald Sword missions and having a combat rating of 13.
-  url: https://github.com/kestrel1110/Exporianes/archive/refs/tags/1.8.zip
+  url: https://github.com/kestrel1110/Exporianes/archive/1.8.zip
   iconUrl: https://github.com/kestrel1110/Exporianes/raw/1.8/icon.png
   autoupdate:
     type: tag
