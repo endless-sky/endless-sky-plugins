@@ -115,14 +115,14 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Irm
   license: GPL-3.0-or-later
-  version: fd8c862c4602dd4e113b31d448412e41fabf72dc
+  version: c1f136505e9870aef325c7350ef752b1fdcf11f7
   shortDescription: A new alien species with tense diplomatic ties to their neighbours.
   description: New aliens to the north of human space that can only be described as
     technocratic isolationists. They will not begin or turn hostile towards the player
     under normal circumstances, but you would be one unlucky pilot if you were to
     find yourself on bad terms with the Irm.
-  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/fd8c862c4602dd4e113b31d448412e41fabf72dc.zip
-  iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Irm/fd8c862c4602dd4e113b31d448412e41fabf72dc/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/c1f136505e9870aef325c7350ef752b1fdcf11f7.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/c1f136505e9870aef325c7350ef752b1fdcf11f7/icon.png
   autoupdate:
     type: commit
     url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/$version.zip
@@ -210,7 +210,7 @@
     This includes many new outfits and ships for various aspects of the vanilla game,
     even new missions here and there.
   url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/5d6e601d833d5f267f724d16a09c9ddd0d756f35.zip
-  iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Misc/5d6e601d833d5f267f724d16a09c9ddd0d756f35/icon.png
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Misc/raw/5d6e601d833d5f267f724d16a09c9ddd0d756f35/icon.png
   autoupdate:
     type: commit
     url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/$version.zip
