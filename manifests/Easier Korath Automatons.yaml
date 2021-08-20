@@ -4,8 +4,9 @@ homepage: https://github.com/kestrel1110/Easier-Korath-Automatons
 license: GPL-3.0-or-later
 version: 1.0.0
 shortDescription: Makes capturing Korath Automata easier.
-description: Decreases self-destructing chances by half to make capturing the Korath automata ships easier.
-url: https://github.com/kestrel1110/Easier-Korath-Automatons/archive/refs/tags/1.0.0.zip
+description: Decreases self-destructing chances by half to make capturing the Korath
+  automata ships easier.
+url: https://github.com/kestrel1110/Easier-Korath-Automatons/archive/1.0.0.zip
 iconUrl: https://github.com/kestrel1110/Easier-Korath-Automatons/raw/1.0.0/icon.png
 autoupdate:
   type: tag
