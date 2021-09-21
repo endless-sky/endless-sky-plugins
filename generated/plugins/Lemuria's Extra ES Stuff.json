@@ -1,0 +1,16 @@
+{
+  "name": "Lemuria's Extra ES Stuff",
+  "authors": "Lemuria",
+  "homepage": "https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff",
+  "license": "GPL-3.0-or-later",
+  "version": "Pre-Release-v0.2",
+  "shortDescription": "Extra ES Stuff by Lemuria. May contain traces of Sayari.",
+  "description": "A general plugin that adds a new set of systems to explore near the Deep, data drives, and data delivery missions. No ships. As for the Illumina and Illuria systems, beware name confusion! The dockworkers will be very angry.",
+  "url": "https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/Pre-Release-v0.2.zip",
+  "iconUrl": "https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/Pre-Release-v0.2/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/$version.zip",
+    "iconUrl": "https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/$version/icon.png"
+  }
+}
