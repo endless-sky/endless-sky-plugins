@@ -1,0 +1,68 @@
+name: Autoupdate
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+
+jobs:
+  autoupdate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install dependencies
+      run: |
+        sudo pip3 install setuptools wheel
+        sudo pip3 install yq
+        pip3 install -r scripts/requirements.txt
+    - name: Run autoupdate
+      run: |
+        git config user.email "actions@github.com"
+        git config user.name "Github Actions"
+        git fetch origin
+        
+        for file in manifests/*
+        do
+          git reset --hard origin/master
+          old_version=$(cat "$file" | yq -r ".version") # "1.5.2"
+          ./scripts/autoupdate.py "$file"
+          
+          if git status --porcelain | grep -q "."; then
+            echo "Things have changed, attempting to create a PR"
+            
+            version=$(cat "$file" | yq -r ".version") # "1.5.3"
+            filename="${file##*/}" # "Plugin Name.yml"
+            name="${filename%.*}" # "Plugin Name"
+            branchname=$(echo "auto/$name/$version" | sed 's/[^A-Za-z0-9\/]/_/g') # "auto/Plugin_Name/1_5_3"
+            url=$(cat "$file" | yq -r ".autoupdate.update_url")
+            if [ "$url" = "null" ]; then
+              url=$(cat "$file" | yq -r ".homepage")
+            else
+              url="${url%.*}" # get rid of a potential .git suffix
+            fi
+            diff_url="$url/compare/$old_version...$version"
+            
+            if git branch -al | grep -Fq "remotes/origin/$branchname"; then
+              echo "Branch $branchname already exists, discarding changes"
+              git restore manifests/
+
+            else
+              git checkout -B "$branchname"
+              git add manifests/
+              git commit -m "Update $name to $version"
+              git push --set-upstream origin "$branchname"
+
+              # the poor man's "does this PR exist?"
+              if ! gh pr ready "$branchname"; then
+                gh pr create --fill --label Autoupdate --body "[See the full diff]($diff_url)"
+              fi
+
+            fi
+
+            git checkout master
+          fi
+        done
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -2,13 +2,13 @@ name: Ciu Kreo
 authors: RestingImmortal
 homepage: https://github.com/RestingImmortal/Ciu-Kreo
 license: GPL-3.0-or-later
-version: c8deb9aee5c7e0b96657d21e76b81602acbcb8a1
+version: fe137a8624b8e875782ca9b5e3efeeae58d6f365
 shortDescription: A feature-rich all-content plugin with both content creators and
   general users in mind.
 description: An all-content plugin for Endless Sky. To be used to assist in content
   creation, or just for general use.
-url: https://github.com/RestingImmortal/Ciu-Kreo/archive/c8deb9aee5c7e0b96657d21e76b81602acbcb8a1.zip
-iconUrl: https://github.com/RestingImmortal/Ciu-Kreo/raw/c8deb9aee5c7e0b96657d21e76b81602acbcb8a1/icon.png
+url: https://github.com/RestingImmortal/Ciu-Kreo/archive/fe137a8624b8e875782ca9b5e3efeeae58d6f365.zip
+iconUrl: https://github.com/RestingImmortal/Ciu-Kreo/raw/fe137a8624b8e875782ca9b5e3efeeae58d6f365/icon.png
 autoupdate:
   type: commit
   url: https://github.com/RestingImmortal/Ciu-Kreo/archive/$version.zip
