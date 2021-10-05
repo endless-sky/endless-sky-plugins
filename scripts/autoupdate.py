@@ -77,7 +77,10 @@ def get_latest_version(au_type, au_url, au_branch):
         for ref in refs:
             if ref.startswith("refs/tags/"):
                 tag = ref.replace("refs/tags/", "")
-                versions.append((tag, coerce(tag)))
+                parsed = coerce(tag)
+                # Ignore non-semver versions tags that couldn't be parsed
+                if parsed is not None and parsed[0] is not None:
+                    versions.append((tag, parsed))
 
         # Sort by the second tuple item, which is a parser semver object
         # Then return the associated string (so any prefix that `coerce` stripped doesn't get discarded)
