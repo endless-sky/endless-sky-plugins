@@ -9,5 +9,5 @@ url: https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/v1.0/Z_Lampy
 iconUrl: https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/main/icon.png
 autoupdate:
   type: tag
-  update_url: https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/$versions/Z_Lampyrid_Start_release_$version.zip
+  update_url: https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/$version/Z_Lampyrid_Start_release_$version.zip
   iconUrl: https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/main/icon.png
