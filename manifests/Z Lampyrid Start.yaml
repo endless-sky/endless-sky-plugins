@@ -8,6 +8,6 @@ description: Have you ever wanted to start Endless Sky flying something a bit mo
 url: https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/v1.0/Z_Lampyrid_Start_release_v1.0.zip
 iconUrl: https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/main/icon.png
 autoupdate:
-	type: tag
-	update_url: https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/$versions/Z_Lampyrid_Start_release_$version.zip
-	iconUrl: https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/main/icon.png
+  type: tag
+  update_url: https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/$versions/Z_Lampyrid_Start_release_$version.zip
+  iconUrl: https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/main/icon.png
