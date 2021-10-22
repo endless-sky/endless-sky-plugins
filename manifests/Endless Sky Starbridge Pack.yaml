@@ -1,0 +1,17 @@
+name: Endless Sky Starbridge Pack
+authors: Autohummer
+homepage: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack
+license: GPL-3.0-or-later
+version: '1.0'
+shortDescription: Get Yer Starbridges here! Adds the Starbridge from EVN to Endless
+  Skies, Mod Starbridge and Railgun Starbridge variants included!
+description: Get Yer Starbridges here! Adds the Starbridge from EVN to Endless Skies,
+  Mod Starbridge and Railgun Starbridge variants included! Also, two types of infinite
+  ammunition railguns have been added for the authentic EVN experience. The ships
+  and weapons can be bought from various advanced shipyards and outfitters. As a fallback,
+  all Starbridge variants and outfits featured in this mod are available at any Syndicate
+  Advanced shipyard.
+url: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/1.0.zip
+autoupdate:
+  type: tag
+  url: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/$version.zip
