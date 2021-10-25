@@ -13,3 +13,4 @@ autoupdate:
   type: tag
   url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/$version.zip
   iconUrl: https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/$version/icon.png
+  update_url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff
