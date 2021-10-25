@@ -153,7 +153,7 @@
     url: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/$version.zip
 - name: Lemuria's Extra ES Stuff
   authors: Lemuria
-  homepage: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff
+  homepage: https://lemuria-es.github.io/leest-docs/index.html
   license: GPL-3.0-or-later
   version: v0.6.0
   shortDescription: Extra ES Stuff by Lemuria. May contain traces of Sayari.
@@ -166,6 +166,7 @@
     type: tag
     url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/$version.zip
     iconUrl: https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/$version/icon.png
+    update_url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff
 - name: The Adamas Project
   authors: toilethinges & Bereskatuket (Kestrel1110)
   homepage: https://github.com/kestrel1110/Adamas-Project
