@@ -77,6 +77,11 @@ def get_latest_version(au_type, au_url, au_branch):
         for ref in refs:
             if ref.startswith("refs/tags/"):
                 tag = ref.replace("refs/tags/", "")
+
+                # Remove dereferencing syntax, see https://stackoverflow.com/a/15472310/7653274
+                if tag.endswith("^{}"):
+                    tag = tag[:-3]
+
                 parsed = coerce(tag)
                 # Ignore non-semver versions tags that couldn't be parsed
                 if parsed is not None and parsed[0] is not None:
