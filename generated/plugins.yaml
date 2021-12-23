@@ -12,34 +12,6 @@
     type: tag
     url: https://github.com/kestrel1110/Exporianes/archive/$version.zip
     iconUrl: https://github.com/kestrel1110/Exporianes/raw/$version/icon.png
-- name: Easier Korath Automatons
-  authors: Bereskatuket (Kestrel1110)
-  homepage: https://github.com/kestrel1110/Easier-Korath-Automatons
-  license: GPL-3.0-or-later
-  version: 1.0.0
-  shortDescription: Makes capturing Korath Automata easier.
-  description: Decreases self-destructing chances by half to make capturing the Korath
-    automata ships easier.
-  url: https://github.com/kestrel1110/Easier-Korath-Automatons/archive/1.0.0.zip
-  iconUrl: https://github.com/kestrel1110/Easier-Korath-Automatons/raw/1.0.0/icon.png
-  autoupdate:
-    type: tag
-    url: https://github.com/kestrel1110/Easier-Korath-Automatons/archive/$version.zip
-    iconUrl: https://github.com/kestrel1110/Easier-Korath-Automatons/raw/$version/icon.png
-- name: Beccas Endless Expansion
-  authors: beccabunny
-  homepage: https://github.com/beccabunny/Beccas-Endless-Expansion
-  license: GPL-3.0-or-later
-  version: 1.2.0
-  shortDescription: New weapons, outfits and ships for many factions of the game Endless
-    Sky, all with new sprites close to the vanilla ones!
-  description: New weapons, outfits and ships for many factions of the game Endless
-    Sky, all with new sprites close to the vanilla ones! All you have to do is explore,
-    fly in your ship and meet all the factions in the game.
-  url: https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/1.2.0.zip
-  autoupdate:
-    type: tag
-    url: https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/$version.zip
 - name: AES Fallen
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Fallen
@@ -55,52 +27,6 @@
     type: commit
     url: https://github.com/Adde-Endless-Sky/AES-Fallen/archive/$version.zip
     iconUrl: https://github.com/Adde-Endless-Sky/AES-Fallen/raw/$version/icon.png
-- name: ES-Advanced-Starts
-  authors: Bereskatuket (Kestrel1110)
-  homepage: https://github.com/kestrel1110/ES-Advanced-Starts
-  license: GPL-3.0-or-later
-  version: '1.2'
-  shortDescription: Adds more starting options to Endless-Sky.
-  description: Adds several new starts to Endless-Sky including Syndicate and Deep
-    starts.
-  url: https://github.com/kestrel1110/ES-Advanced-Starts/archive/1.2.zip
-  iconUrl: https://github.com/kestrel1110/ES-Advanced-Starts/raw/1.2/icon.jpg
-  autoupdate:
-    type: tag
-    url: https://github.com/kestrel1110/ES-Advanced-Starts/archive/$version.zip
-    iconUrl: https://github.com/kestrel1110/ES-Advanced-Starts/raw/$version/icon.jpg
-- name: Ciu Kreo
-  authors: RestingImmortal
-  homepage: https://github.com/RestingImmortal/Ciu-Kreo
-  license: GPL-3.0-or-later
-  version: fe137a8624b8e875782ca9b5e3efeeae58d6f365
-  shortDescription: A feature-rich all-content plugin with both content creators and
-    general users in mind.
-  description: An all-content plugin for Endless Sky. To be used to assist in content
-    creation, or just for general use.
-  url: https://github.com/RestingImmortal/Ciu-Kreo/archive/fe137a8624b8e875782ca9b5e3efeeae58d6f365.zip
-  iconUrl: https://github.com/RestingImmortal/Ciu-Kreo/raw/fe137a8624b8e875782ca9b5e3efeeae58d6f365/icon.png
-  autoupdate:
-    type: commit
-    url: https://github.com/RestingImmortal/Ciu-Kreo/archive/$version.zip
-    iconUrl: https://github.com/RestingImmortal/Ciu-Kreo/raw/$version/icon.png
-- name: AES Omnis
-  authors: Darcy Manoel
-  homepage: https://github.com/Adde-Endless-Sky/AES-Omnis
-  license: GPL-3.0-or-later
-  version: 52c8f9f21b35698ee141bd2c6e46e42711834002
-  shortDescription: The most extensive all-content plugin to date, for development
-    or fun.
-  description: The most extensive all-content plugin to date. It includes many opportunities
-    to test balance or ship builds against AI driven ships or fleets, all vanilla
-    content and the content of many plugins available to use to put together different
-    ship builds. Many more tools are included into Omnis too!
-  url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/52c8f9f21b35698ee141bd2c6e46e42711834002.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/52c8f9f21b35698ee141bd2c6e46e42711834002/icon.png
-  autoupdate:
-    type: commit
-    url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/$version.zip
-    iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/$version/icon.png
 - name: The Adamas Project
   authors: toilethinges & Bereskatuket (Kestrel1110)
   homepage: https://github.com/kestrel1110/Adamas-Project
@@ -120,6 +46,191 @@
     type: tag
     url: https://github.com/kestrel1110/Adamas-Project/archive/$version.zip
     iconUrl: https://github.com/kestrel1110/Adamas-Project/raw/$version/icon.png
+- name: AES Aben
+  authors: Darcy Manoel
+  homepage: https://github.com/Adde-Endless-Sky/AES-Aben
+  license: GPL-3.0-or-later
+  version: 3f569b3bf386981773b6a21b88542c039f5f5153
+  shortDescription: Fills in space in the galaxy with a new alien species.
+  description: New aliens that are incapable of spaceflight as far as the player is
+    concerned, offers the player multiple missions in aiding the Aben which also benefit
+    the player in turn.
+  url: https://github.com/Adde-Endless-Sky/AES-Aben/archive/3f569b3bf386981773b6a21b88542c039f5f5153.zip
+  iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Aben/3f569b3bf386981773b6a21b88542c039f5f5153/icon.png
+  autoupdate:
+    type: commit
+    url: https://github.com/Adde-Endless-Sky/AES-Aben/archive/$version.zip
+    iconUrl: https://github.com/Adde-Endless-Sky/AES-Aben/raw/$version/icon.png
+- name: Portraits for News
+  authors: Anarchist2
+  homepage: https://github.com/Anarchist2/ES-news-portraits
+  license: GPL-3.0-or-later
+  version: v1.0
+  shortDescription: This plugin re-activates the portrait system for news in ES.
+  description: This plugin re-activates the portrait system for news in ES. All the
+    images for portraits are already in the game, but became unused after portraits
+    for news was disabled by default. Alien portraits (including transhuman portraits)
+    are not considered canon.
+  url: https://github.com/Anarchist2/ES-news-portraits/archive/v1.0.zip
+  iconUrl: https://github.com/Anarchist2/ES-news-portraits/raw/v1.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/Anarchist2/ES-news-portraits/archive/$version.zip
+    iconUrl: https://github.com/Anarchist2/ES-news-portraits/raw/$version/icon.png
+- name: AES Omnis
+  authors: Darcy Manoel
+  homepage: https://github.com/Adde-Endless-Sky/AES-Omnis
+  license: GPL-3.0-or-later
+  version: 52c8f9f21b35698ee141bd2c6e46e42711834002
+  shortDescription: The most extensive all-content plugin to date, for development
+    or fun.
+  description: The most extensive all-content plugin to date. It includes many opportunities
+    to test balance or ship builds against AI driven ships or fleets, all vanilla
+    content and the content of many plugins available to use to put together different
+    ship builds. Many more tools are included into Omnis too!
+  url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/52c8f9f21b35698ee141bd2c6e46e42711834002.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/52c8f9f21b35698ee141bd2c6e46e42711834002/icon.png
+  autoupdate:
+    type: commit
+    url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/$version.zip
+    iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/$version/icon.png
+- name: Endless Sky Starbridge Pack
+  authors: Autohummer
+  homepage: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack
+  license: GPL-3.0-or-later
+  version: '1.0'
+  shortDescription: Get Yer Starbridges here! Adds the Starbridge from EVN to Endless
+    Skies, Mod Starbridge and Railgun Starbridge variants included!
+  description: Get Yer Starbridges here! Adds the Starbridge from EVN to Endless Skies,
+    Mod Starbridge and Railgun Starbridge variants included! Also, two types of infinite
+    ammunition railguns have been added for the authentic EVN experience. The ships
+    and weapons can be bought from various advanced shipyards and outfitters. As a
+    fallback, all Starbridge variants and outfits featured in this mod are available
+    at any Syndicate Advanced shipyard.
+  url: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/1.0.zip
+  autoupdate:
+    type: tag
+    url: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/$version.zip
+- name: Beccas Endless Expansion
+  authors: beccabunny
+  homepage: https://github.com/beccabunny/Beccas-Endless-Expansion
+  license: GPL-3.0-or-later
+  version: 1.2.0
+  shortDescription: New weapons, outfits and ships for many factions of the game Endless
+    Sky, all with new sprites close to the vanilla ones!
+  description: New weapons, outfits and ships for many factions of the game Endless
+    Sky, all with new sprites close to the vanilla ones! All you have to do is explore,
+    fly in your ship and meet all the factions in the game.
+  url: https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/1.2.0.zip
+  autoupdate:
+    type: tag
+    url: https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/$version.zip
+- name: ES-Advanced-Starts
+  authors: Bereskatuket (Kestrel1110)
+  homepage: https://github.com/kestrel1110/ES-Advanced-Starts
+  license: GPL-3.0-or-later
+  version: '1.2'
+  shortDescription: Adds more starting options to Endless-Sky.
+  description: Adds several new starts to Endless-Sky including Syndicate and Deep
+    starts.
+  url: https://github.com/kestrel1110/ES-Advanced-Starts/archive/1.2.zip
+  iconUrl: https://github.com/kestrel1110/ES-Advanced-Starts/raw/1.2/icon.jpg
+  autoupdate:
+    type: tag
+    url: https://github.com/kestrel1110/ES-Advanced-Starts/archive/$version.zip
+    iconUrl: https://github.com/kestrel1110/ES-Advanced-Starts/raw/$version/icon.jpg
+- name: All Content Plugin
+  authors: Michael Zahniser
+  homepage: https://github.com/endless-sky/all-content-plugin
+  license: GPL-3.0-or-later
+  version: v0.9.14
+  shortDescription: Endless Sky plugin giving the player access to all ships and outfits.
+  description: This plugin was made to allow content creators to have access to all
+    outfits in a single place, for the purpose of designing and testing outfit loadouts
+    for new ships. Of course, it can also be used by people who want to ruin the game
+    for themselves by getting a massive fleet without needing to work for it.
+  url: https://github.com/endless-sky/all-content-plugin/archive/refs/tags/v0.9.14.zip
+  iconUrl: https://github.com/endless-sky/all-content-plugin/raw/v0.9.14/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/endless-sky/all-content-plugin/archive/refs/tags/$version.zip
+    iconUrl: https://github.com/endless-sky/all-content-plugin/raw/$version/icon.png
+- name: Lemuria's Extra ES Stuff
+  authors: Lemuria
+  homepage: https://lemuria-es.github.io/leest-docs/index.html
+  license: GPL-3.0-or-later
+  version: v0.10.6
+  shortDescription: Extra ES Stuff by Lemuria. May contain traces of Sayari.
+  description: A general plugin that adds a new set of systems to explore near the
+    Deep, data drives, and data delivery missions. No ships. As for the Illumina and
+    Illuria systems, beware name confusion! The dockworkers will be very angry.
+  url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/v0.10.6.zip
+  iconUrl: https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/v0.10.6/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/$version.zip
+    iconUrl: https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/$version/icon.png
+    update_url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff
+- name: Easier Korath Automatons
+  authors: Bereskatuket (Kestrel1110)
+  homepage: https://github.com/kestrel1110/Easier-Korath-Automatons
+  license: GPL-3.0-or-later
+  version: 1.0.0
+  shortDescription: Makes capturing Korath Automata easier.
+  description: Decreases self-destructing chances by half to make capturing the Korath
+    automata ships easier.
+  url: https://github.com/kestrel1110/Easier-Korath-Automatons/archive/1.0.0.zip
+  iconUrl: https://github.com/kestrel1110/Easier-Korath-Automatons/raw/1.0.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/kestrel1110/Easier-Korath-Automatons/archive/$version.zip
+    iconUrl: https://github.com/kestrel1110/Easier-Korath-Automatons/raw/$version/icon.png
+- name: AES Irm
+  authors: Darcy Manoel
+  homepage: https://github.com/Adde-Endless-Sky/AES-Irm
+  license: GPL-3.0-or-later
+  version: c1f136505e9870aef325c7350ef752b1fdcf11f7
+  shortDescription: A new alien species with tense diplomatic ties to their neighbours.
+  description: New aliens to the north of human space that can only be described as
+    technocratic isolationists. They will not begin or turn hostile towards the player
+    under normal circumstances, but you would be one unlucky pilot if you were to
+    find yourself on bad terms with the Irm.
+  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/c1f136505e9870aef325c7350ef752b1fdcf11f7.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/c1f136505e9870aef325c7350ef752b1fdcf11f7/icon.png
+  autoupdate:
+    type: commit
+    url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/$version.zip
+    iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/$version/icon.png
+- name: High DPI
+  authors: Michael Zahniser
+  homepage: https://github.com/endless-sky/endless-sky-high-dpi
+  license: CC-BY-SA-4.0
+  version: v0.9.14
+  shortDescription: High-DPI graphics for Endless Sky.
+  description: This plugin contains double resolution graphics, which are only used
+    if you have a high-dpi monitor or if you set the zoom level above 100%. This will
+    roughly double the amount of memory used by the game.
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.9.14.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.9.14/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
+    iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png
+- name: Ciu Kreo
+  authors: RestingImmortal
+  homepage: https://github.com/RestingImmortal/Ciu-Kreo
+  license: GPL-3.0-or-later
+  version: fe137a8624b8e875782ca9b5e3efeeae58d6f365
+  shortDescription: A feature-rich all-content plugin with both content creators and
+    general users in mind.
+  description: An all-content plugin for Endless Sky. To be used to assist in content
+    creation, or just for general use.
+  url: https://github.com/RestingImmortal/Ciu-Kreo/archive/fe137a8624b8e875782ca9b5e3efeeae58d6f365.zip
+  iconUrl: https://github.com/RestingImmortal/Ciu-Kreo/raw/fe137a8624b8e875782ca9b5e3efeeae58d6f365/icon.png
+  autoupdate:
+    type: commit
+    url: https://github.com/RestingImmortal/Ciu-Kreo/archive/$version.zip
+    iconUrl: https://github.com/RestingImmortal/Ciu-Kreo/raw/$version/icon.png
 - name: World Forge
   authors: Amazinite
   homepage: https://github.com/EndlessSkyCommunity/world-forge
@@ -138,21 +249,6 @@
     type: commit
     url: https://github.com/EndlessSkyCommunity/world-forge/archive/$version.zip
     iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/$version/icon.png
-- name: AES Aben
-  authors: Darcy Manoel
-  homepage: https://github.com/Adde-Endless-Sky/AES-Aben
-  license: GPL-3.0-or-later
-  version: 3f569b3bf386981773b6a21b88542c039f5f5153
-  shortDescription: Fills in space in the galaxy with a new alien species.
-  description: New aliens that are incapable of spaceflight as far as the player is
-    concerned, offers the player multiple missions in aiding the Aben which also benefit
-    the player in turn.
-  url: https://github.com/Adde-Endless-Sky/AES-Aben/archive/3f569b3bf386981773b6a21b88542c039f5f5153.zip
-  iconUrl: https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Aben/3f569b3bf386981773b6a21b88542c039f5f5153/icon.png
-  autoupdate:
-    type: commit
-    url: https://github.com/Adde-Endless-Sky/AES-Aben/archive/$version.zip
-    iconUrl: https://github.com/Adde-Endless-Sky/AES-Aben/raw/$version/icon.png
 - name: Lampyrid Start
   authors: Zitchas
   homepage: https://github.com/Zitchas/ES_Lampyrid_Start
@@ -188,99 +284,3 @@
     type: commit
     url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/$version.zip
     iconUrl: https://github.com/Adde-Endless-Sky/AES-Misc/raw/$version/icon.png
-- name: All Content Plugin
-  authors: Michael Zahniser
-  homepage: https://github.com/endless-sky/all-content-plugin
-  license: GPL-3.0-or-later
-  version: v0.9.14
-  shortDescription: Endless Sky plugin giving the player access to all ships and outfits.
-  description: This plugin was made to allow content creators to have access to all
-    outfits in a single place, for the purpose of designing and testing outfit loadouts
-    for new ships. Of course, it can also be used by people who want to ruin the game
-    for themselves by getting a massive fleet without needing to work for it.
-  url: https://github.com/endless-sky/all-content-plugin/archive/refs/tags/v0.9.14.zip
-  iconUrl: https://github.com/endless-sky/all-content-plugin/raw/v0.9.14/icon.png
-  autoupdate:
-    type: tag
-    url: https://github.com/endless-sky/all-content-plugin/archive/refs/tags/$version.zip
-    iconUrl: https://github.com/endless-sky/all-content-plugin/raw/$version/icon.png
-- name: Endless Sky Starbridge Pack
-  authors: Autohummer
-  homepage: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack
-  license: GPL-3.0-or-later
-  version: '1.0'
-  shortDescription: Get Yer Starbridges here! Adds the Starbridge from EVN to Endless
-    Skies, Mod Starbridge and Railgun Starbridge variants included!
-  description: Get Yer Starbridges here! Adds the Starbridge from EVN to Endless Skies,
-    Mod Starbridge and Railgun Starbridge variants included! Also, two types of infinite
-    ammunition railguns have been added for the authentic EVN experience. The ships
-    and weapons can be bought from various advanced shipyards and outfitters. As a
-    fallback, all Starbridge variants and outfits featured in this mod are available
-    at any Syndicate Advanced shipyard.
-  url: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/1.0.zip
-  autoupdate:
-    type: tag
-    url: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/$version.zip
-- name: High DPI
-  authors: Michael Zahniser
-  homepage: https://github.com/endless-sky/endless-sky-high-dpi
-  license: CC-BY-SA-4.0
-  version: v0.9.14
-  shortDescription: High-DPI graphics for Endless Sky.
-  description: This plugin contains double resolution graphics, which are only used
-    if you have a high-dpi monitor or if you set the zoom level above 100%. This will
-    roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.9.14.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.9.14/icon.png
-  autoupdate:
-    type: tag
-    url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
-    iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png
-- name: Lemuria's Extra ES Stuff
-  authors: Lemuria
-  homepage: https://lemuria-es.github.io/leest-docs/index.html
-  license: GPL-3.0-or-later
-  version: v0.10.6
-  shortDescription: Extra ES Stuff by Lemuria. May contain traces of Sayari.
-  description: A general plugin that adds a new set of systems to explore near the
-    Deep, data drives, and data delivery missions. No ships. As for the Illumina and
-    Illuria systems, beware name confusion! The dockworkers will be very angry.
-  url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/v0.10.6.zip
-  iconUrl: https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/v0.10.6/icon.png
-  autoupdate:
-    type: tag
-    url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/$version.zip
-    iconUrl: https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/$version/icon.png
-    update_url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff
-- name: AES Irm
-  authors: Darcy Manoel
-  homepage: https://github.com/Adde-Endless-Sky/AES-Irm
-  license: GPL-3.0-or-later
-  version: c1f136505e9870aef325c7350ef752b1fdcf11f7
-  shortDescription: A new alien species with tense diplomatic ties to their neighbours.
-  description: New aliens to the north of human space that can only be described as
-    technocratic isolationists. They will not begin or turn hostile towards the player
-    under normal circumstances, but you would be one unlucky pilot if you were to
-    find yourself on bad terms with the Irm.
-  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/c1f136505e9870aef325c7350ef752b1fdcf11f7.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/c1f136505e9870aef325c7350ef752b1fdcf11f7/icon.png
-  autoupdate:
-    type: commit
-    url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/$version.zip
-    iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/$version/icon.png
-- name: Portraits for News
-  authors: Anarchist2
-  homepage: https://github.com/Anarchist2/ES-news-portraits
-  license: GPL-3.0-or-later
-  version: v1.0
-  shortDescription: This plugin re-activates the portrait system for news in ES.
-  description: This plugin re-activates the portrait system for news in ES. All the
-    images for portraits are already in the game, but became unused after portraits
-    for news was disabled by default. Alien portraits (including transhuman portraits)
-    are not considered canon.
-  url: https://github.com/Anarchist2/ES-news-portraits/archive/v1.0.zip
-  iconUrl: https://github.com/Anarchist2/ES-news-portraits/raw/v1.0/icon.png
-  autoupdate:
-    type: tag
-    url: https://github.com/Anarchist2/ES-news-portraits/archive/$version.zip
-    iconUrl: https://github.com/Anarchist2/ES-news-portraits/raw/$version/icon.png
