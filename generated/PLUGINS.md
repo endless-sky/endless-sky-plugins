@@ -1,7 +1,7 @@
 
 | | Name | Author | Description |
 |-|------|--------|-------------|
-| ![Icon](https://raw.githubusercontent.com/Adde-Endless-Sky/AES-Aben/3f569b3bf386981773b6a21b88542c039f5f5153/icon.png) | [AES Aben](https://github.com/Adde-Endless-Sky/AES-Aben/archive/3f569b3bf386981773b6a21b88542c039f5f5153.zip) | Darcy Manoel | Fills in space in the galaxy with a new alien species. |
+| ![Icon](https://github.com/Adde-Endless-Sky/AES-Aben/raw/3f569b3bf386981773b6a21b88542c039f5f5153/icon.png) | [AES Aben](https://github.com/Adde-Endless-Sky/AES-Aben/archive/3f569b3bf386981773b6a21b88542c039f5f5153.zip) | Darcy Manoel | Fills in space in the galaxy with a new alien species. |
 | ![Icon](https://github.com/Adde-Endless-Sky/AES-Fallen/raw/ad47b294bb6c88dfcdbc16687598942808cbd83a/icon.png) | [AES Fallen](https://github.com/Adde-Endless-Sky/AES-Fallen/archive/ad47b294bb6c88dfcdbc16687598942808cbd83a.zip) | Darcy Manoel | Inspired by an old fan favourite plugin, Galactic Conquest. |
 | ![Icon](https://github.com/Adde-Endless-Sky/AES-Irm/raw/c1f136505e9870aef325c7350ef752b1fdcf11f7/icon.png) | [AES Irm](https://github.com/Adde-Endless-Sky/AES-Irm/archive/c1f136505e9870aef325c7350ef752b1fdcf11f7.zip) | Darcy Manoel | A new alien species with tense diplomatic ties to their neighbours. |
 | ![Icon](https://github.com/Adde-Endless-Sky/AES-Misc/raw/5d6e601d833d5f267f724d16a09c9ddd0d756f35/icon.png) | [AES Misc](https://github.com/Adde-Endless-Sky/AES-Misc/archive/5d6e601d833d5f267f724d16a09c9ddd0d756f35.zip) | Darcy Manoel | A mix of varied content which can be seen throughout the galaxy. |
