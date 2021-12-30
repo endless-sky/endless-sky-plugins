@@ -77,9 +77,26 @@ def get_latest_version(au_type, au_url, au_branch):
         for ref in refs:
             if ref.startswith("refs/tags/"):
                 tag = ref.replace("refs/tags/", "")
-                parsed = coerce(tag)
+
+                # Remove dereferencing syntax, see https://stackoverflow.com/a/15472310/7653274
+                if tag.endswith("^{}"):
+                    tag = tag[:-3]
+
+                # Try to parse the tag as-is
+                if semver.VersionInfo.isvalid(tag):
+                    parsed = semver.VersionInfo.parse(tag)
+                # Strip away a leading `v`, perhaps?
+                elif tag.startswith("v") and semver.VersionInfo.isvalid(tag[1:]):
+                    parsed = semver.VersionInfo.parse(tag[1:])
+                # Or `v.`?
+                elif tag.startswith("v.") and semver.VersionInfo.isvalid(tag[2:]):
+                    parsed = semver.VersionInfo.parse(tag[2:])
+                # Fine, fall back to the method that only parses MAJOR.MINOR.PATCH
+                else:
+                    parsed = coerce(tag)[0]
+
                 # Ignore non-semver versions tags that couldn't be parsed
-                if parsed is not None and parsed[0] is not None:
+                if parsed is not None and parsed is not None:
                     versions.append((tag, parsed))
 
         # Sort by the second tuple item, which is a parser semver object
