@@ -9,5 +9,5 @@ url: https://github.com/1010todd/Galactic-War/archive/3300a898ccecad982b83ef0930
 iconUrl: https://raw.githubusercontent.com/1010todd/Galactic-War/3300a898ccecad982b83ef093070fd6170db25f0/icon.png
 autoupdate:
   type: commit
-  url: https://github.com/1010todd/Galactic-War/archive/archive/$version.zip
+  url: https://github.com/1010todd/Galactic-War/archive/$version.zip
   iconUrl: https://raw.githubusercontent.com/1010todd/Galactic-War/master/icon.png
