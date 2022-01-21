@@ -9,4 +9,3 @@ url: https://github.com/comnom/Eternals/archive/refs/heads/master.zip
 autoupdate:
   type: commit
   url: https://github.com/comnom/Eternals/archive/refs/heads/$version.zip
-  
