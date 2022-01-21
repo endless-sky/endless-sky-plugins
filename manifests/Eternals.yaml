@@ -8,4 +8,4 @@ description: A content plugin for Endless Sky. It adds two new factions northeas
 url: https://github.com/comnom/Eternals/archive/7821c6eb70961e8e3927f7665f9f41394e42e97a.zip
 autoupdate:
   type: commit
-  url: https://github.com/comnom/Eternals/archive/refs/heads/$version.zip
+  url: https://github.com/comnom/Eternals/archive/$version.zip
