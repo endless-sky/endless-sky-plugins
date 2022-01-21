@@ -1,0 +1,16 @@
+{
+  "name": "Galactic War",
+  "authors": "1010todd",
+  "homepage": "https://github.com/1010todd/Galactic-War",
+  "license": "GPL-3.0-or-later",
+  "version": "3300a898ccecad982b83ef093070fd6170db25f0",
+  "shortDescription": "A large content plugin adding a whole new galaxy with over dozens of aliens with storylines(in progress).",
+  "description": "A large content plugin adding 1 Accessible galaxy, 16+ Races with their own ships and outfits. Technologies ranging from less than human to beyond even the Drak, in total of over 100 Ships, 400 Outfits, and 1500 Systems. To access the galaxy you will need a Jump Drive, head to the north(top) most system in the Wanderer space, wormhole system will be close by.",
+  "url": "https://github.com/1010todd/Galactic-War/archive/3300a898ccecad982b83ef093070fd6170db25f0.zip",
+  "iconUrl": "https://raw.githubusercontent.com/1010todd/Galactic-War/3300a898ccecad982b83ef093070fd6170db25f0/icon.png",
+  "autoupdate": {
+    "type": "commit",
+    "url": "https://github.com/1010todd/Galactic-War/archive/$version.zip",
+    "iconUrl": "https://raw.githubusercontent.com/1010todd/Galactic-War/$version/icon.png"
+  }
+}
