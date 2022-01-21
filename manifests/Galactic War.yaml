@@ -11,4 +11,3 @@ autoupdate:
   type: commit
   url: https://github.com/1010todd/Galactic-War/archive/archive/$version.zip
   iconUrl: https://raw.githubusercontent.com/1010todd/Galactic-War/master/icon.png
-  
