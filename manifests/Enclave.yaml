@@ -9,5 +9,5 @@ url: https://github.com/1010todd/The-Enclave/archive/bd1d4b7d6a7043b2c2ad4a80095
 iconUrl: https://raw.githubusercontent.com/1010todd/The-Enclave/bd1d4b7d6a7043b2c2ad4a800957a405fecb5523/icon.png
 autoupdate:
   type: commit
-  url: https://github.com/1010todd/The-Enclave/$version.zip
+  url: https://github.com/1010todd/The-Enclave/archive/$version.zip
   iconUrl: https://raw.githubusercontent.com/1010todd/The-Enclave/$version/icon.png
