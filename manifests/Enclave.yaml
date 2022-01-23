@@ -3,8 +3,14 @@ authors: Storm Crow (maintained by 1010todd)
 homepage: https://github.com/1010todd/The-Enclave
 license: GPL-3.0-or-later
 version: bd1d4b7d6a7043b2c2ad4a800957a405fecb5523
-shortDescription: The Enclave focuses around the discovery of an isolated group of humans in a distant galaxy. Separated from the rest of their species for over half a millennium, how have these people developed?
-description: The Enclave is a story-driven plugin focused on the discovery of an isolated group of humans stranded, hundreds of years ago, in another galaxy. I'd recommend you have a large Tier 2 fleet at least to complete the (admittedly still in-progress) story. Special thanks to Derpy Horse (https://github.com/Amazinite) for adding the animated stars.
+shortDescription: The Enclave focuses around the discovery of an isolated group of
+  humans in a distant galaxy. Separated from the rest of their species for over half
+  a millennium, how have these people developed?
+description: The Enclave is a story-driven plugin focused on the discovery of an isolated
+  group of humans stranded, hundreds of years ago, in another galaxy. I'd recommend
+  you have a large Tier 2 fleet at least to complete the (admittedly still in-progress)
+  story. Special thanks to Derpy Horse (https://github.com/Amazinite) for adding the
+  animated stars.
 url: https://github.com/1010todd/The-Enclave/archive/bd1d4b7d6a7043b2c2ad4a800957a405fecb5523.zip
 iconUrl: https://raw.githubusercontent.com/1010todd/The-Enclave/bd1d4b7d6a7043b2c2ad4a800957a405fecb5523/icon.png
 autoupdate:
