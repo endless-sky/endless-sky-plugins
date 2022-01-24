@@ -1,37 +1,3 @@
-- name: AES Irm
-  authors: Darcy Manoel
-  homepage: https://github.com/Adde-Endless-Sky/AES-Irm
-  license: GPL-3.0-or-later
-  version: c1f136505e9870aef325c7350ef752b1fdcf11f7
-  shortDescription: A new alien species with tense diplomatic ties to their neighbours.
-  description: New aliens to the north of human space that can only be described as
-    technocratic isolationists. They will not begin or turn hostile towards the player
-    under normal circumstances, but you would be one unlucky pilot if you were to
-    find yourself on bad terms with the Irm.
-  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/c1f136505e9870aef325c7350ef752b1fdcf11f7.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/c1f136505e9870aef325c7350ef752b1fdcf11f7/icon.png
-  autoupdate:
-    type: commit
-    url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/$version.zip
-    iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/$version/icon.png
-- name: Galactic War
-  authors: 1010todd
-  homepage: https://github.com/1010todd/Galactic-War
-  license: GPL-3.0-or-later
-  version: b98a3c263b2f99ca4dabdf82bbca58b20013369d
-  shortDescription: A large content plugin adding a whole new galaxy with over dozens
-    of aliens with storylines(in progress).
-  description: A large content plugin adding 1 Accessible galaxy, 16+ Races with their
-    own ships and outfits. Technologies ranging from less than human to beyond even
-    the Drak, in total of over 100 Ships, 400 Outfits, and 1500 Systems. To access
-    the galaxy you will need a Jump Drive, head to the north(top) most system in the
-    Wanderer space, wormhole system will be close by.
-  url: https://github.com/1010todd/Galactic-War/archive/b98a3c263b2f99ca4dabdf82bbca58b20013369d.zip
-  iconUrl: https://raw.githubusercontent.com/1010todd/Galactic-War/b98a3c263b2f99ca4dabdf82bbca58b20013369d/icon.png
-  autoupdate:
-    type: commit
-    url: https://github.com/1010todd/Galactic-War/archive/$version.zip
-    iconUrl: https://raw.githubusercontent.com/1010todd/Galactic-War/$version/icon.png
 - name: Easier Korath Automatons
   authors: Bereskatuket (Kestrel1110)
   homepage: https://github.com/kestrel1110/Easier-Korath-Automatons
@@ -46,142 +12,6 @@
     type: tag
     url: https://github.com/kestrel1110/Easier-Korath-Automatons/archive/$version.zip
     iconUrl: https://github.com/kestrel1110/Easier-Korath-Automatons/raw/$version/icon.png
-- name: World Forge
-  authors: Amazinite
-  homepage: https://github.com/EndlessSkyCommunity/world-forge
-  license: GPL-3.0-or-later
-  version: 288e81952a3736c81069e0023ab4db439fe1d0a7
-  shortDescription: A plugin for Endless Sky that allows the player to access everything
-    in the game in one place.
-  description: A plugin for Endless Sky that allows the player to access everything
-    in the game in one place. Includes features that the all-content plugin does not
-    have such as the ability to boost your combat rating and change your friendly/hostile
-    status with factions of the game without having to save-edit. Intended to help
-    content creators test their plugins.
-  url: https://github.com/EndlessSkyCommunity/world-forge/archive/288e81952a3736c81069e0023ab4db439fe1d0a7.zip
-  iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/288e81952a3736c81069e0023ab4db439fe1d0a7/icon.png
-  autoupdate:
-    type: commit
-    url: https://github.com/EndlessSkyCommunity/world-forge/archive/$version.zip
-    iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/$version/icon.png
-- name: Eternals
-  authors: Comnom
-  homepage: https://github.com/comnom/Eternals
-  license: GPL-3.0-or-later
-  version: 7821c6eb70961e8e3927f7665f9f41394e42e97a
-  shortDescription: Add two new factions northeast of Unfettered space.
-  description: A content plugin for Endless Sky. It adds two new factions northeast
-    of Unfettered space, the Valuutians and the Lost Ones.
-  url: https://github.com/comnom/Eternals/archive/7821c6eb70961e8e3927f7665f9f41394e42e97a.zip
-  autoupdate:
-    type: commit
-    url: https://github.com/comnom/Eternals/archive/$version.zip
-- name: High DPI
-  authors: Michael Zahniser
-  homepage: https://github.com/endless-sky/endless-sky-high-dpi
-  license: CC-BY-SA-4.0
-  version: v0.9.14
-  shortDescription: High-DPI graphics for Endless Sky.
-  description: This plugin contains double resolution graphics, which are only used
-    if you have a high-dpi monitor or if you set the zoom level above 100%. This will
-    roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.9.14.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.9.14/icon.png
-  autoupdate:
-    type: tag
-    url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
-    iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png
-- name: Portraits for News
-  authors: Anarchist2
-  homepage: https://github.com/Anarchist2/ES-news-portraits
-  license: GPL-3.0-or-later
-  version: v1.0
-  shortDescription: This plugin re-activates the portrait system for news in ES.
-  description: This plugin re-activates the portrait system for news in ES. All the
-    images for portraits are already in the game, but became unused after portraits
-    for news was disabled by default. Alien portraits (including transhuman portraits)
-    are not considered canon.
-  url: https://github.com/Anarchist2/ES-news-portraits/archive/v1.0.zip
-  iconUrl: https://github.com/Anarchist2/ES-news-portraits/raw/v1.0/icon.png
-  autoupdate:
-    type: tag
-    url: https://github.com/Anarchist2/ES-news-portraits/archive/$version.zip
-    iconUrl: https://github.com/Anarchist2/ES-news-portraits/raw/$version/icon.png
-- name: Exporianes
-  authors: Bereskatuket (Kestrel1110)
-  homepage: https://github.com/kestrel1110/Exporianes
-  license: GPL-3.0-or-later
-  version: '1.9'
-  shortDescription: Adds a new race of T5 Aliens.
-  description: Adds a new race of T5 aliens to a new galaxy. They can be reached after
-    completing the Emerald Sword missions and having a combat rating of 13.
-  url: https://github.com/kestrel1110/Exporianes/archive/1.9.zip
-  iconUrl: https://github.com/kestrel1110/Exporianes/raw/1.9/icon.png
-  autoupdate:
-    type: tag
-    url: https://github.com/kestrel1110/Exporianes/archive/$version.zip
-    iconUrl: https://github.com/kestrel1110/Exporianes/raw/$version/icon.png
-- name: Endless Sky Starbridge Pack
-  authors: Autohummer
-  homepage: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack
-  license: GPL-3.0-or-later
-  version: '1.0'
-  shortDescription: Get Yer Starbridges here! Adds the Starbridge from EVN to Endless
-    Skies, Mod Starbridge and Railgun Starbridge variants included!
-  description: Get Yer Starbridges here! Adds the Starbridge from EVN to Endless Skies,
-    Mod Starbridge and Railgun Starbridge variants included! Also, two types of infinite
-    ammunition railguns have been added for the authentic EVN experience. The ships
-    and weapons can be bought from various advanced shipyards and outfitters. As a
-    fallback, all Starbridge variants and outfits featured in this mod are available
-    at any Syndicate Advanced shipyard.
-  url: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/1.0.zip
-  autoupdate:
-    type: tag
-    url: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/$version.zip
-- name: AES Fallen
-  authors: Darcy Manoel
-  homepage: https://github.com/Adde-Endless-Sky/AES-Fallen
-  license: GPL-3.0-or-later
-  version: ad47b294bb6c88dfcdbc16687598942808cbd83a
-  shortDescription: Inspired by an old fan favourite plugin, Galactic Conquest.
-  description: Inspired by an old and unfortunately unfinished fan favourite plugin
-    that offered truly unique content. While this might not mimic the original in
-    design, hopefully it can stoke a similarly unique experience.
-  url: https://github.com/Adde-Endless-Sky/AES-Fallen/archive/ad47b294bb6c88dfcdbc16687598942808cbd83a.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Fallen/raw/ad47b294bb6c88dfcdbc16687598942808cbd83a/icon.png
-  autoupdate:
-    type: commit
-    url: https://github.com/Adde-Endless-Sky/AES-Fallen/archive/$version.zip
-    iconUrl: https://github.com/Adde-Endless-Sky/AES-Fallen/raw/$version/icon.png
-- name: Ciu Kreo
-  authors: RestingImmortal
-  homepage: https://github.com/RestingImmortal/Ciu-Kreo
-  license: GPL-3.0-or-later
-  version: fe137a8624b8e875782ca9b5e3efeeae58d6f365
-  shortDescription: A feature-rich all-content plugin with both content creators and
-    general users in mind.
-  description: An all-content plugin for Endless Sky. To be used to assist in content
-    creation, or just for general use.
-  url: https://github.com/RestingImmortal/Ciu-Kreo/archive/fe137a8624b8e875782ca9b5e3efeeae58d6f365.zip
-  iconUrl: https://github.com/RestingImmortal/Ciu-Kreo/raw/fe137a8624b8e875782ca9b5e3efeeae58d6f365/icon.png
-  autoupdate:
-    type: commit
-    url: https://github.com/RestingImmortal/Ciu-Kreo/archive/$version.zip
-    iconUrl: https://github.com/RestingImmortal/Ciu-Kreo/raw/$version/icon.png
-- name: Beccas Endless Expansion
-  authors: beccabunny
-  homepage: https://github.com/beccabunny/Beccas-Endless-Expansion
-  license: GPL-3.0-or-later
-  version: 1.2.0
-  shortDescription: New weapons, outfits and ships for many factions of the game Endless
-    Sky, all with new sprites close to the vanilla ones!
-  description: New weapons, outfits and ships for many factions of the game Endless
-    Sky, all with new sprites close to the vanilla ones! All you have to do is explore,
-    fly in your ship and meet all the factions in the game.
-  url: https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/1.2.0.zip
-  autoupdate:
-    type: tag
-    url: https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/$version.zip
 - name: AES Omnis
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Omnis
@@ -215,6 +45,54 @@
     url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/$version.zip
     iconUrl: https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/$version/icon.png
     update_url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff
+- name: Endless Sky Starbridge Pack
+  authors: Autohummer
+  homepage: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack
+  license: GPL-3.0-or-later
+  version: '1.0'
+  shortDescription: Get Yer Starbridges here! Adds the Starbridge from EVN to Endless
+    Skies, Mod Starbridge and Railgun Starbridge variants included!
+  description: Get Yer Starbridges here! Adds the Starbridge from EVN to Endless Skies,
+    Mod Starbridge and Railgun Starbridge variants included! Also, two types of infinite
+    ammunition railguns have been added for the authentic EVN experience. The ships
+    and weapons can be bought from various advanced shipyards and outfitters. As a
+    fallback, all Starbridge variants and outfits featured in this mod are available
+    at any Syndicate Advanced shipyard.
+  url: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/1.0.zip
+  autoupdate:
+    type: tag
+    url: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/$version.zip
+- name: High DPI
+  authors: Michael Zahniser
+  homepage: https://github.com/endless-sky/endless-sky-high-dpi
+  license: CC-BY-SA-4.0
+  version: v0.9.14
+  shortDescription: High-DPI graphics for Endless Sky.
+  description: This plugin contains double resolution graphics, which are only used
+    if you have a high-dpi monitor or if you set the zoom level above 100%. This will
+    roughly double the amount of memory used by the game.
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.9.14.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.9.14/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
+    iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png
+- name: AES Irm
+  authors: Darcy Manoel
+  homepage: https://github.com/Adde-Endless-Sky/AES-Irm
+  license: GPL-3.0-or-later
+  version: c1f136505e9870aef325c7350ef752b1fdcf11f7
+  shortDescription: A new alien species with tense diplomatic ties to their neighbours.
+  description: New aliens to the north of human space that can only be described as
+    technocratic isolationists. They will not begin or turn hostile towards the player
+    under normal circumstances, but you would be one unlucky pilot if you were to
+    find yourself on bad terms with the Irm.
+  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/c1f136505e9870aef325c7350ef752b1fdcf11f7.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/c1f136505e9870aef325c7350ef752b1fdcf11f7/icon.png
+  autoupdate:
+    type: commit
+    url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/$version.zip
+    iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/$version/icon.png
 - name: ES-Advanced-Starts
   authors: Bereskatuket (Kestrel1110)
   homepage: https://github.com/kestrel1110/ES-Advanced-Starts
@@ -229,6 +107,88 @@
     type: tag
     url: https://github.com/kestrel1110/ES-Advanced-Starts/archive/$version.zip
     iconUrl: https://github.com/kestrel1110/ES-Advanced-Starts/raw/$version/icon.jpg
+- name: AES Fallen
+  authors: Darcy Manoel
+  homepage: https://github.com/Adde-Endless-Sky/AES-Fallen
+  license: GPL-3.0-or-later
+  version: ad47b294bb6c88dfcdbc16687598942808cbd83a
+  shortDescription: Inspired by an old fan favourite plugin, Galactic Conquest.
+  description: Inspired by an old and unfortunately unfinished fan favourite plugin
+    that offered truly unique content. While this might not mimic the original in
+    design, hopefully it can stoke a similarly unique experience.
+  url: https://github.com/Adde-Endless-Sky/AES-Fallen/archive/ad47b294bb6c88dfcdbc16687598942808cbd83a.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Fallen/raw/ad47b294bb6c88dfcdbc16687598942808cbd83a/icon.png
+  autoupdate:
+    type: commit
+    url: https://github.com/Adde-Endless-Sky/AES-Fallen/archive/$version.zip
+    iconUrl: https://github.com/Adde-Endless-Sky/AES-Fallen/raw/$version/icon.png
+- name: The Adamas Project
+  authors: toilethinges & Bereskatuket (Kestrel1110)
+  homepage: https://github.com/kestrel1110/Adamas-Project
+  license: GPL-3.0-or-later
+  version: v0.1.1
+  shortDescription: Adds a very advanced race of aliens to the northeast section of
+    the galaxy.
+  description: This plugin adds a race of highly advanced Tier 2 - 3 aliens known
+    as the Adamas to the northeast section of the galaxy, accessible through wormholes.
+    The aliens are friendly, but they have their own versions of pirates. The Scavengers
+    have their own galaxy that they live in, and from which they mount raids upon
+    the Adamas. Be careful you do not get in their way, as some of their ships are
+    armed with stolen quarg tech!
+  url: https://github.com/kestrel1110/Adamas-Project/archive/v0.1.1.zip
+  iconUrl: https://github.com/kestrel1110/Adamas-Project/raw/v0.1.1/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/kestrel1110/Adamas-Project/archive/$version.zip
+    iconUrl: https://github.com/kestrel1110/Adamas-Project/raw/$version/icon.png
+- name: Eternals
+  authors: Comnom
+  homepage: https://github.com/comnom/Eternals
+  license: GPL-3.0-or-later
+  version: 7821c6eb70961e8e3927f7665f9f41394e42e97a
+  shortDescription: Add two new factions northeast of Unfettered space.
+  description: A content plugin for Endless Sky. It adds two new factions northeast
+    of Unfettered space, the Valuutians and the Lost Ones.
+  url: https://github.com/comnom/Eternals/archive/7821c6eb70961e8e3927f7665f9f41394e42e97a.zip
+  autoupdate:
+    type: commit
+    url: https://github.com/comnom/Eternals/archive/$version.zip
+- name: World Forge
+  authors: Amazinite
+  homepage: https://github.com/EndlessSkyCommunity/world-forge
+  license: GPL-3.0-or-later
+  version: 288e81952a3736c81069e0023ab4db439fe1d0a7
+  shortDescription: A plugin for Endless Sky that allows the player to access everything
+    in the game in one place.
+  description: A plugin for Endless Sky that allows the player to access everything
+    in the game in one place. Includes features that the all-content plugin does not
+    have such as the ability to boost your combat rating and change your friendly/hostile
+    status with factions of the game without having to save-edit. Intended to help
+    content creators test their plugins.
+  url: https://github.com/EndlessSkyCommunity/world-forge/archive/288e81952a3736c81069e0023ab4db439fe1d0a7.zip
+  iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/288e81952a3736c81069e0023ab4db439fe1d0a7/icon.png
+  autoupdate:
+    type: commit
+    url: https://github.com/EndlessSkyCommunity/world-forge/archive/$version.zip
+    iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/$version/icon.png
+- name: Galactic War
+  authors: 1010todd
+  homepage: https://github.com/1010todd/Galactic-War
+  license: GPL-3.0-or-later
+  version: 44c85e2f4bd3ad91ae9f1d067f0dfdb2d27fb3fb
+  shortDescription: A large content plugin adding a whole new galaxy with over dozens
+    of aliens with storylines(in progress).
+  description: A large content plugin adding 1 Accessible galaxy, 16+ Races with their
+    own ships and outfits. Technologies ranging from less than human to beyond even
+    the Drak, in total of over 100 Ships, 400 Outfits, and 1500 Systems. To access
+    the galaxy you will need a Jump Drive, head to the north(top) most system in the
+    Wanderer space, wormhole system will be close by.
+  url: https://github.com/1010todd/Galactic-War/archive/44c85e2f4bd3ad91ae9f1d067f0dfdb2d27fb3fb.zip
+  iconUrl: https://raw.githubusercontent.com/1010todd/Galactic-War/44c85e2f4bd3ad91ae9f1d067f0dfdb2d27fb3fb/icon.png
+  autoupdate:
+    type: commit
+    url: https://github.com/1010todd/Galactic-War/archive/$version.zip
+    iconUrl: https://raw.githubusercontent.com/1010todd/Galactic-War/$version/icon.png
 - name: All Content Plugin
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/all-content-plugin
@@ -245,6 +205,20 @@
     type: tag
     url: https://github.com/endless-sky/all-content-plugin/archive/refs/tags/$version.zip
     iconUrl: https://github.com/endless-sky/all-content-plugin/raw/$version/icon.png
+- name: Beccas Endless Expansion
+  authors: beccabunny
+  homepage: https://github.com/beccabunny/Beccas-Endless-Expansion
+  license: GPL-3.0-or-later
+  version: 1.2.0
+  shortDescription: New weapons, outfits and ships for many factions of the game Endless
+    Sky, all with new sprites close to the vanilla ones!
+  description: New weapons, outfits and ships for many factions of the game Endless
+    Sky, all with new sprites close to the vanilla ones! All you have to do is explore,
+    fly in your ship and meet all the factions in the game.
+  url: https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/1.2.0.zip
+  autoupdate:
+    type: tag
+    url: https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/$version.zip
 - name: The Enclave
   authors: Storm Crow (maintained by 1010todd)
   homepage: https://github.com/1010todd/The-Enclave
@@ -294,6 +268,20 @@
     type: commit
     url: https://github.com/Adde-Endless-Sky/AES-Aben/archive/$version.zip
     iconUrl: https://github.com/Adde-Endless-Sky/AES-Aben/raw/$version/icon.png
+- name: Exporianes
+  authors: Bereskatuket (Kestrel1110)
+  homepage: https://github.com/kestrel1110/Exporianes
+  license: GPL-3.0-or-later
+  version: '1.9'
+  shortDescription: Adds a new race of T5 Aliens.
+  description: Adds a new race of T5 aliens to a new galaxy. They can be reached after
+    completing the Emerald Sword missions and having a combat rating of 13.
+  url: https://github.com/kestrel1110/Exporianes/archive/1.9.zip
+  iconUrl: https://github.com/kestrel1110/Exporianes/raw/1.9/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/kestrel1110/Exporianes/archive/$version.zip
+    iconUrl: https://github.com/kestrel1110/Exporianes/raw/$version/icon.png
 - name: Lampyrid Start
   authors: Zitchas
   homepage: https://github.com/Zitchas/ES_Lampyrid_Start
@@ -314,22 +302,34 @@
     type: tag
     update_url: https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/$version/Z_Lampyrid_Start_release_$version.zip
     iconUrl: https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/main/icon.png
-- name: The Adamas Project
-  authors: toilethinges & Bereskatuket (Kestrel1110)
-  homepage: https://github.com/kestrel1110/Adamas-Project
+- name: Portraits for News
+  authors: Anarchist2
+  homepage: https://github.com/Anarchist2/ES-news-portraits
   license: GPL-3.0-or-later
-  version: v0.1.1
-  shortDescription: Adds a very advanced race of aliens to the northeast section of
-    the galaxy.
-  description: This plugin adds a race of highly advanced Tier 2 - 3 aliens known
-    as the Adamas to the northeast section of the galaxy, accessible through wormholes.
-    The aliens are friendly, but they have their own versions of pirates. The Scavengers
-    have their own galaxy that they live in, and from which they mount raids upon
-    the Adamas. Be careful you do not get in their way, as some of their ships are
-    armed with stolen quarg tech!
-  url: https://github.com/kestrel1110/Adamas-Project/archive/v0.1.1.zip
-  iconUrl: https://github.com/kestrel1110/Adamas-Project/raw/v0.1.1/icon.png
+  version: v1.0
+  shortDescription: This plugin re-activates the portrait system for news in ES.
+  description: This plugin re-activates the portrait system for news in ES. All the
+    images for portraits are already in the game, but became unused after portraits
+    for news was disabled by default. Alien portraits (including transhuman portraits)
+    are not considered canon.
+  url: https://github.com/Anarchist2/ES-news-portraits/archive/v1.0.zip
+  iconUrl: https://github.com/Anarchist2/ES-news-portraits/raw/v1.0/icon.png
   autoupdate:
     type: tag
-    url: https://github.com/kestrel1110/Adamas-Project/archive/$version.zip
-    iconUrl: https://github.com/kestrel1110/Adamas-Project/raw/$version/icon.png
+    url: https://github.com/Anarchist2/ES-news-portraits/archive/$version.zip
+    iconUrl: https://github.com/Anarchist2/ES-news-portraits/raw/$version/icon.png
+- name: Ciu Kreo
+  authors: RestingImmortal
+  homepage: https://github.com/RestingImmortal/Ciu-Kreo
+  license: GPL-3.0-or-later
+  version: fe137a8624b8e875782ca9b5e3efeeae58d6f365
+  shortDescription: A feature-rich all-content plugin with both content creators and
+    general users in mind.
+  description: An all-content plugin for Endless Sky. To be used to assist in content
+    creation, or just for general use.
+  url: https://github.com/RestingImmortal/Ciu-Kreo/archive/fe137a8624b8e875782ca9b5e3efeeae58d6f365.zip
+  iconUrl: https://github.com/RestingImmortal/Ciu-Kreo/raw/fe137a8624b8e875782ca9b5e3efeeae58d6f365/icon.png
+  autoupdate:
+    type: commit
+    url: https://github.com/RestingImmortal/Ciu-Kreo/archive/$version.zip
+    iconUrl: https://github.com/RestingImmortal/Ciu-Kreo/raw/$version/icon.png
