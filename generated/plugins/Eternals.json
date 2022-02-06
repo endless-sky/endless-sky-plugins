@@ -1,0 +1,14 @@
+{
+  "name": "Eternals",
+  "authors": "Comnom",
+  "homepage": "https://github.com/comnom/Eternals",
+  "license": "GPL-3.0-or-later",
+  "version": "7821c6eb70961e8e3927f7665f9f41394e42e97a",
+  "shortDescription": "Add two new factions northeast of Unfettered space.",
+  "description": "A content plugin for Endless Sky. It adds two new factions northeast of Unfettered space, the Valuutians and the Lost Ones.",
+  "url": "https://github.com/comnom/Eternals/archive/7821c6eb70961e8e3927f7665f9f41394e42e97a.zip",
+  "autoupdate": {
+    "type": "commit",
+    "url": "https://github.com/comnom/Eternals/archive/$version.zip"
+  }
+}
