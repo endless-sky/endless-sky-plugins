@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # Checks if `url` and `iconUrl` (if it exists) are valid
 # Usage: ./check_urls.py manifests/
