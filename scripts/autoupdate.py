@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # Check whether a new plug-in version exists. When one is found, updates the manifest according to `autoupdate`.
 # Usage:
