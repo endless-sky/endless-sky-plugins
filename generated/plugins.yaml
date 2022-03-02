@@ -177,7 +177,7 @@
   authors: Zitchas
   homepage: https://github.com/Zitchas/ES_Lampyrid_Start
   license: GPL-3.0-or-later
-  version: v1.0
+  version: v1.6
   shortDescription: Enables an alternate start wherein the player starts with a modified
     Lampyrid.
   description: Have you ever wanted to start Endless Sky flying something a bit more
@@ -187,12 +187,12 @@
     pilot start their career flying a slighly modified version of the Lampyrid, which
     is a decent balanced transport/freighter with the capacity to be fairly fast compared
     to others of its class.
-  url: https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/v1.0/Z_Lampyrid_Start_release_v1.0.zip
-  iconUrl: https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/main/icon.png
+  url: https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/v1.6/Z_Lampyrid_Start.release.v1.6.zip
+  iconUrl: https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/v1.6/icon.png
   autoupdate:
     type: tag
-    update_url: https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/$version/Z_Lampyrid_Start_release_$version.zip
-    iconUrl: https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/main/icon.png
+    update_url: https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/$version/Z_Lampyrid_Start.release.$version.zip
+    iconUrl: https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/$version/icon.png
 - name: Exporianes
   authors: Bereskatuket (Kestrel1110)
   homepage: https://github.com/kestrel1110/Exporianes
