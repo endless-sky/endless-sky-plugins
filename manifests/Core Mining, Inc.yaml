@@ -9,5 +9,5 @@ url: https://github.com/DJF113/Core-Mining-Inc/releases/tag/v0.1.7.zip
 iconUrl: https://github.com/DJF113/Core-Mining-Inc/blob/main/icon.png
 autoupdate:
   type: tag
-  url: https://github.com/DJF113/Core-Mining-Inc/releases/tag/$version.zip
-  iconUrl: https://github.com/DJF113/Core-Mining-Inc/blob/main/icon.png
+  url: https://github.com/DJF113/Core-Mining-Inc/archive/refs/tags/$version.zip
+  iconUrl: https://github.com/DJF113/Core-Mining-Inc/raw/$version/icon.png
