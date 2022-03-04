@@ -13,6 +13,18 @@
     type: tag
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
     iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png
+- name: Endless Cargo
+  authors: YellowApple
+  homepage: https://bitbucket.org/YellowApple/endless-cargo
+  license: GPL-3.0-or-later
+  version: v0.2.0
+  shortDescription: Intermodal shipping containers for Endless Sky
+  description: Adds shipping containers, container ships, and missions involving using
+    the latter to deliver the former to places all over the galaxy.
+  url: https://bitbucket.org/YellowApple/endless-cargo/get/v0.2.0.zip
+  autoupdate:
+    type: tag
+    url: https://bitbucket.org/YellowApple/endless-cargo/get/$version.zip
 - name: The Adamas Project
   authors: toilethinges & Bereskatuket (Kestrel1110)
   homepage: https://github.com/kestrel1110/Adamas-Project
