@@ -142,6 +142,22 @@
     }
   },
   {
+    "name": "High DPI Continuous",
+    "authors": "Michael Zahniser",
+    "homepage": "https://github.com/endless-sky/endless-sky-high-dpi",
+    "license": "CC-BY-SA-4.0",
+    "version": "e010cdd339a9ae42a1cbc185cdd2b00d50886501",
+    "shortDescription": "High-DPI graphics for Endless Sky.",
+    "description": "This plugin contains double resolution graphics, which are only used if you have a high-dpi monitor or if you set the zoom level above 100%. This will roughly double the amount of memory used by the game.",
+    "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/e010cdd339a9ae42a1cbc185cdd2b00d50886501.zip",
+    "iconUrl": "https://github.com/endless-sky/endless-sky-high-dpi/raw/e010cdd339a9ae42a1cbc185cdd2b00d50886501/icon.png",
+    "autoupdate": {
+      "type": "commit",
+      "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip",
+      "iconUrl": "https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png"
+    }
+  },
+  {
     "name": "AES Aben",
     "authors": "Darcy Manoel",
     "homepage": "https://github.com/Adde-Endless-Sky/AES-Aben",
