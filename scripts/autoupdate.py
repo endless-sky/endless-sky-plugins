@@ -13,8 +13,7 @@ import re
 import semver
 
 
-
-BASEVERSION = r'^[vV]?((\.?[0-9]+)+)$'
+BASEVERSION = r'^[vV]?((\.?[0-9]+)+)(-[a-z]+[0-9]*)?$'
 
 def get_latest_versioned_tag_from_refs(refs):
     """
@@ -24,8 +23,18 @@ def get_latest_versioned_tag_from_refs(refs):
     number.
 
     This function supports versions containing a mixed list of v prefix or pure
-    numbers.  For example, versions ['v1.2', '1.0.0', 'v2.5'] will find v2.5
-    tag name to be the highest version.
+    numbers.  For example, versions ['v1.2', '1.0.0', 'v2.5-alpha1'] will find
+    v2.5-alpha1 tag name to be the highest version.
+
+    Supported version formats where parenthesis show optional values:
+        (v) optional prefix
+        1.0 a version number of dot-separated nubmers
+        (-alpha(1)) optional suffix such as -alpha or -alpha1
+
+    Example:
+        get_latest_versioned_tag_from_refs(['refs/tags/1.2.3-beta2', 'refs/tags/v1.2.3', 'refs/tags/1.1.1', 'refs/tags/1.2.3-alpha', 'refs/tags/1.2.3-beta'])
+    Returns:
+        1.2.3-beta2
     """
     # remove refs/tags/ prefix (other refs will exist but will be filtered out
     # in the next step
@@ -37,7 +46,11 @@ def get_latest_versioned_tag_from_refs(refs):
     # Converts each version number into a list of ints and compares the lists
     # for ordered integers.  The end result is the same list of tag names but
     # sorted according to version number.
-    tags.sort(key=lambda tag: list(map(int,  re.match(BASEVERSION, tag).group(1).split('.'))))
+    #
+    # Two level sorting using a touple inside lambda:
+    #     1st: sort based on version number
+    #     2nd: alphabetical sort based on suffix (if 1st level sort is equal)
+    tags.sort(key=lambda tag: (list(map(int,  re.match(BASEVERSION, tag).group(1).split('.'))), re.match(BASEVERSION, tag).groups()[-1] or ''))
     # return the highest version which is the last item in list
     return tags[-1]
 
