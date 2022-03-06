@@ -1,0 +1,13 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "extensions": [
+        "ms-python.python",
+        "yzhang.markdown-all-in-one"
+    ],
+    "settings": {
+        "python.envFile": "${HOME}/.pyenv"
+    }
+}
