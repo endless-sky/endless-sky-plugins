@@ -11,4 +11,3 @@ autoupdate:
   type: tag
   url: https://github.com/MidnightPlugins/Space-Shuttle-Start/releases/download/$version/Space.Shuttle.Start-$version.zip
   iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Space-Shuttle-Start/$version/icon.png
-  
