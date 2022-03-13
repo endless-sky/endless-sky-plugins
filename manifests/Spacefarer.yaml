@@ -2,15 +2,15 @@ name: Spacefarer
 authors: samrocketman and Airhead
 homepage: https://github.com/samrocketman/Spacefarer
 license: GPL-3.0
-version: 49a0bc287b19b8967c273df3d1324a55191cddc7
+version: 578f67de099db38176c345c90d4d4ca54cbf6b37
 shortDescription: One Jump Drive; No ship capturing; No plundering installed outfits.
 description: As a captain, you're responsible for the lives of your crew.  Loss of
   life is inevitable in the merciless reaches of space.  You stick to exploration,
   ferrying, and fleet combat.  If anyone dies, it will be everyone when the ship explodes.  This
   plugin adds replay value by forcing the player to discover alternate and competing
   forms of income in order to efficiently obtain a fleet.
-url: https://github.com/samrocketman/Spacefarer/archive/49a0bc287b19b8967c273df3d1324a55191cddc7.zip
-iconUrl: https://raw.githubusercontent.com/samrocketman/Spacefarer/49a0bc287b19b8967c273df3d1324a55191cddc7/icon%402x.png
+url: https://github.com/samrocketman/Spacefarer/archive/578f67de099db38176c345c90d4d4ca54cbf6b37.zip
+iconUrl: https://raw.githubusercontent.com/samrocketman/Spacefarer/578f67de099db38176c345c90d4d4ca54cbf6b37/icon%402x.png
 autoupdate:
   type: commit
   branch: main
