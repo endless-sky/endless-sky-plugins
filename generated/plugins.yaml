@@ -112,15 +112,15 @@
   authors: samrocketman and Airhead
   homepage: https://github.com/samrocketman/Spacefarer
   license: GPL-3.0
-  version: 1bcbe93d785a1d7b0633047bd42385ae6af4b03c
+  version: ada180fd14868995e3c248dbdda7b2927bd9eebf
   shortDescription: One Jump Drive; No ship capturing; No plundering installed outfits.
   description: As a captain, you're responsible for the lives of your crew.  Loss
     of life is inevitable in the merciless reaches of space.  You stick to exploration,
     ferrying, and fleet combat.  If anyone dies, it will be everyone when the ship
     explodes.  This plugin adds replay value by forcing the player to discover alternate
     and competing forms of income in order to efficiently obtain a fleet.
-  url: https://github.com/samrocketman/Spacefarer/archive/1bcbe93d785a1d7b0633047bd42385ae6af4b03c.zip
-  iconUrl: https://raw.githubusercontent.com/samrocketman/Spacefarer/1bcbe93d785a1d7b0633047bd42385ae6af4b03c/icon%402x.png
+  url: https://github.com/samrocketman/Spacefarer/archive/ada180fd14868995e3c248dbdda7b2927bd9eebf.zip
+  iconUrl: https://raw.githubusercontent.com/samrocketman/Spacefarer/ada180fd14868995e3c248dbdda7b2927bd9eebf/icon%402x.png
   autoupdate:
     type: commit
     branch: main
@@ -432,7 +432,7 @@
   authors: 1010todd
   homepage: https://github.com/1010todd/Galactic-War
   license: GPL-3.0-or-later
-  version: fbc4b65c90cb66ab44e974d719974e026444545b
+  version: e499f1b0a2c038a2da311d5d45fccba5f2ccebd4
   shortDescription: A large content plugin adding a whole new galaxy with over dozens
     of aliens with storylines(in progress).
   description: A large content plugin adding 1 Accessible galaxy, 16+ Races with their
@@ -440,8 +440,8 @@
     the Drak, in total of over 100 Ships, 400 Outfits, and 1500 Systems. To access
     the galaxy you will need a Jump Drive, head to the north(top) most system in the
     Wanderer space, wormhole system will be close by.
-  url: https://github.com/1010todd/Galactic-War/archive/fbc4b65c90cb66ab44e974d719974e026444545b.zip
-  iconUrl: https://raw.githubusercontent.com/1010todd/Galactic-War/fbc4b65c90cb66ab44e974d719974e026444545b/icon.png
+  url: https://github.com/1010todd/Galactic-War/archive/e499f1b0a2c038a2da311d5d45fccba5f2ccebd4.zip
+  iconUrl: https://raw.githubusercontent.com/1010todd/Galactic-War/e499f1b0a2c038a2da311d5d45fccba5f2ccebd4/icon.png
   autoupdate:
     type: commit
     url: https://github.com/1010todd/Galactic-War/archive/$version.zip
