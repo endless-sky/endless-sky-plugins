@@ -12,5 +12,6 @@ url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/d71941367dcdda5550984c6
 iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/d71941367dcdda5550984c6b692a1f1d9dad8975/icon.png
 autoupdate:
   type: commit
+  branch: main
   url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/$version.zip
   iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/$version/icon.png
