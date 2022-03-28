@@ -10,6 +10,7 @@
   "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Omnis/raw/d4dc76ec0540ea56d5e28ccc0d26e17107bc7458/icon.png",
   "autoupdate": {
     "type": "commit",
+    "branch": "main",
     "url": "https://github.com/Adde-Endless-Sky/AES-Omnis/archive/$version.zip",
     "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Omnis/raw/$version/icon.png"
   }

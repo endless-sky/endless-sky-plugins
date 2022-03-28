@@ -10,6 +10,7 @@
   "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Fallen/raw/ad47b294bb6c88dfcdbc16687598942808cbd83a/icon.png",
   "autoupdate": {
     "type": "commit",
+    "branch": "main",
     "url": "https://github.com/Adde-Endless-Sky/AES-Fallen/archive/$version.zip",
     "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Fallen/raw/$version/icon.png"
   }

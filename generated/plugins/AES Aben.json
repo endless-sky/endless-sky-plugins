@@ -10,6 +10,7 @@
   "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Aben/raw/3f569b3bf386981773b6a21b88542c039f5f5153/icon.png",
   "autoupdate": {
     "type": "commit",
+    "branch": "main",
     "url": "https://github.com/Adde-Endless-Sky/AES-Aben/archive/$version.zip",
     "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Aben/raw/$version/icon.png"
   }
