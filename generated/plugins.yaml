@@ -104,13 +104,13 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Aben
   license: GPL-3.0-or-later
-  version: 880f1e08ca05c810ca29fad349cfa406fbd26c93
+  version: f024e00f7e8f324155c8665b2142543194e28fe6
   shortDescription: Fills in space in the galaxy with a new alien species.
   description: New aliens that are incapable of spaceflight as far as the player is
     concerned, offers the player multiple missions in aiding the Aben which also benefit
     the player in turn.
-  url: https://github.com/Adde-Endless-Sky/AES-Aben/archive/880f1e08ca05c810ca29fad349cfa406fbd26c93.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Aben/raw/880f1e08ca05c810ca29fad349cfa406fbd26c93/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Aben/archive/f024e00f7e8f324155c8665b2142543194e28fe6.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Aben/raw/f024e00f7e8f324155c8665b2142543194e28fe6/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -138,13 +138,13 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Fallen
   license: GPL-3.0-or-later
-  version: 42f76ae53fca646356294927d4c99ed6ba7b98d5
+  version: 9d833d13326b0d9d571bafc34ccd58bf15393c8b
   shortDescription: Inspired by an old fan favourite plugin, Galactic Conquest.
   description: Inspired by an old and unfortunately unfinished fan favourite plugin
     that offered truly unique content. While this might not mimic the original in
     design, hopefully it can stoke a similarly unique experience.
-  url: https://github.com/Adde-Endless-Sky/AES-Fallen/archive/42f76ae53fca646356294927d4c99ed6ba7b98d5.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Fallen/raw/42f76ae53fca646356294927d4c99ed6ba7b98d5/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Fallen/archive/9d833d13326b0d9d571bafc34ccd58bf15393c8b.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Fallen/raw/9d833d13326b0d9d571bafc34ccd58bf15393c8b/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -326,13 +326,13 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Misc
   license: GPL-3.0-or-later
-  version: 75b405f52bc9ed4cd3315ae67047ce4425a15ec3
+  version: 0088a33dd3145221bfeb635792b5159697721cc7
   shortDescription: A mix of varied content which can be seen throughout the galaxy.
   description: Any Adde content that doesn't fit in another or deserve it's own repository.
     This includes many new outfits and ships for various aspects of the vanilla game,
     even new missions here and there.
-  url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/75b405f52bc9ed4cd3315ae67047ce4425a15ec3.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Misc/raw/75b405f52bc9ed4cd3315ae67047ce4425a15ec3/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/0088a33dd3145221bfeb635792b5159697721cc7.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Misc/raw/0088a33dd3145221bfeb635792b5159697721cc7/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -422,14 +422,14 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Irm
   license: GPL-3.0-or-later
-  version: b598653091464276eb21797d0c60f0767a3aa4e9
+  version: 0eac211bdba754a9df9c9dce713298d03707b02c
   shortDescription: A new alien species with tense diplomatic ties to their neighbours.
   description: New aliens to the north of human space that can only be described as
     technocratic isolationists. They will not begin or turn hostile towards the player
     under normal circumstances, but you would be one unlucky pilot if you were to
     find yourself on bad terms with the Irm.
-  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/b598653091464276eb21797d0c60f0767a3aa4e9.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/b598653091464276eb21797d0c60f0767a3aa4e9/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/0eac211bdba754a9df9c9dce713298d03707b02c.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/0eac211bdba754a9df9c9dce713298d03707b02c/icon.png
   autoupdate:
     type: commit
     branch: main
