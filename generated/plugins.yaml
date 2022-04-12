@@ -14,15 +14,15 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Omnis
   license: GPL-3.0-or-later
-  version: 9cea445066686e053d9c123a20efb65e27192f1a
+  version: 8a768cf321bffd509e8a1a35dd29d0f06e2b6492
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: The most extensive all-content plugin to date. It includes many opportunities
     to test balance or ship builds against AI driven ships or fleets, all vanilla
     content and the content of many plugins available to use to put together different
     ship builds. Many more tools are included into Omnis too!
-  url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/9cea445066686e053d9c123a20efb65e27192f1a.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/9cea445066686e053d9c123a20efb65e27192f1a/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/8a768cf321bffd509e8a1a35dd29d0f06e2b6492.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/8a768cf321bffd509e8a1a35dd29d0f06e2b6492/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -104,13 +104,13 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Aben
   license: GPL-3.0-or-later
-  version: f024e00f7e8f324155c8665b2142543194e28fe6
+  version: c699149567b0cbff0b24b9063ef48b89e920956a
   shortDescription: Fills in space in the galaxy with a new alien species.
   description: New aliens that are incapable of spaceflight as far as the player is
     concerned, offers the player multiple missions in aiding the Aben which also benefit
     the player in turn.
-  url: https://github.com/Adde-Endless-Sky/AES-Aben/archive/f024e00f7e8f324155c8665b2142543194e28fe6.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Aben/raw/f024e00f7e8f324155c8665b2142543194e28fe6/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Aben/archive/c699149567b0cbff0b24b9063ef48b89e920956a.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Aben/raw/c699149567b0cbff0b24b9063ef48b89e920956a/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -138,13 +138,13 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Fallen
   license: GPL-3.0-or-later
-  version: 9d833d13326b0d9d571bafc34ccd58bf15393c8b
+  version: b6451893a728758bf53f69545667b44b2f8e4354
   shortDescription: Inspired by an old fan favourite plugin, Galactic Conquest.
   description: Inspired by an old and unfortunately unfinished fan favourite plugin
     that offered truly unique content. While this might not mimic the original in
     design, hopefully it can stoke a similarly unique experience.
-  url: https://github.com/Adde-Endless-Sky/AES-Fallen/archive/9d833d13326b0d9d571bafc34ccd58bf15393c8b.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Fallen/raw/9d833d13326b0d9d571bafc34ccd58bf15393c8b/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Fallen/archive/b6451893a728758bf53f69545667b44b2f8e4354.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Fallen/raw/b6451893a728758bf53f69545667b44b2f8e4354/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -326,13 +326,13 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Misc
   license: GPL-3.0-or-later
-  version: 0088a33dd3145221bfeb635792b5159697721cc7
+  version: 533a45c26f4f58e355b8d6147f0fe04c69e0b7a4
   shortDescription: A mix of varied content which can be seen throughout the galaxy.
   description: Any Adde content that doesn't fit in another or deserve it's own repository.
     This includes many new outfits and ships for various aspects of the vanilla game,
     even new missions here and there.
-  url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/0088a33dd3145221bfeb635792b5159697721cc7.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Misc/raw/0088a33dd3145221bfeb635792b5159697721cc7/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/533a45c26f4f58e355b8d6147f0fe04c69e0b7a4.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Misc/raw/533a45c26f4f58e355b8d6147f0fe04c69e0b7a4/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -422,14 +422,14 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Irm
   license: GPL-3.0-or-later
-  version: 0eac211bdba754a9df9c9dce713298d03707b02c
+  version: e516765347ede2c9436ec66538b446d9bb849bf1
   shortDescription: A new alien species with tense diplomatic ties to their neighbours.
   description: New aliens to the north of human space that can only be described as
     technocratic isolationists. They will not begin or turn hostile towards the player
     under normal circumstances, but you would be one unlucky pilot if you were to
     find yourself on bad terms with the Irm.
-  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/0eac211bdba754a9df9c9dce713298d03707b02c.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/0eac211bdba754a9df9c9dce713298d03707b02c/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/e516765347ede2c9436ec66538b446d9bb849bf1.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/e516765347ede2c9436ec66538b446d9bb849bf1/icon.png
   autoupdate:
     type: commit
     branch: main
