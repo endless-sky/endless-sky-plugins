@@ -14,15 +14,15 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Omnis
   license: GPL-3.0-or-later
-  version: 55e2ca9e374af296f24e27ca54d08aa922e0f88e
+  version: cfef238b99e05ed19d7044bf023fad21cfd3c970
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: The most extensive all-content plugin to date. It includes many opportunities
     to test balance or ship builds against AI driven ships or fleets, all vanilla
     content and the content of many plugins available to use to put together different
     ship builds. Many more tools are included into Omnis too!
-  url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/55e2ca9e374af296f24e27ca54d08aa922e0f88e.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/55e2ca9e374af296f24e27ca54d08aa922e0f88e/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/cfef238b99e05ed19d7044bf023fad21cfd3c970.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/cfef238b99e05ed19d7044bf023fad21cfd3c970/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -219,13 +219,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Scrapyard
   license: GPL-3.0-or-later
-  version: 0.9.14.7.2
+  version: 0.9.14.7.3
   shortDescription: A plugin suggesting an epilogue for the Kor Sestor region of Endless
     Sky. Includes some new ships, outfits, and missions.
   description: This region of space has abandoned derelicts waiting to be scavenged.
     But something lurks amongst the wreckage...
-  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.9.14.7.2/Midnight.Scrapyard-0.9.14.7.2.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.9.14.7.2/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.9.14.7.3/Midnight.Scrapyard-0.9.14.7.3.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.9.14.7.3/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/$version/Midnight.Scrapyard-$version.zip
@@ -310,13 +310,13 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Misc
   license: GPL-3.0-or-later
-  version: 533a45c26f4f58e355b8d6147f0fe04c69e0b7a4
+  version: 7b6e3e295c61ac745f2bddcb6ddb1a6e90af119c
   shortDescription: A mix of varied content which can be seen throughout the galaxy.
   description: Any Adde content that doesn't fit in another or deserve it's own repository.
     This includes many new outfits and ships for various aspects of the vanilla game,
     even new missions here and there.
-  url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/533a45c26f4f58e355b8d6147f0fe04c69e0b7a4.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Misc/raw/533a45c26f4f58e355b8d6147f0fe04c69e0b7a4/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Misc/archive/7b6e3e295c61ac745f2bddcb6ddb1a6e90af119c.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Misc/raw/7b6e3e295c61ac745f2bddcb6ddb1a6e90af119c/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -406,14 +406,14 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Irm
   license: GPL-3.0-or-later
-  version: e516765347ede2c9436ec66538b446d9bb849bf1
+  version: 56bd3f074a4a9bbc90fa5fa875c3720f686e6f75
   shortDescription: A new alien species with tense diplomatic ties to their neighbours.
   description: New aliens to the north of human space that can only be described as
     technocratic isolationists. They will not begin or turn hostile towards the player
     under normal circumstances, but you would be one unlucky pilot if you were to
     find yourself on bad terms with the Irm.
-  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/e516765347ede2c9436ec66538b446d9bb849bf1.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/e516765347ede2c9436ec66538b446d9bb849bf1/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/56bd3f074a4a9bbc90fa5fa875c3720f686e6f75.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/56bd3f074a4a9bbc90fa5fa875c3720f686e6f75/icon.png
   autoupdate:
     type: commit
     branch: main
