@@ -14,15 +14,15 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Omnis
   license: GPL-3.0-or-later
-  version: b67677209ae86387c92fb65170ca35c3fe168f70
+  version: 9f7ff6e537fe60b082be5ccf829540397233dae9
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: The most extensive all-content plugin to date. It includes many opportunities
     to test balance or ship builds against AI driven ships or fleets, all vanilla
     content and the content of many plugins available to use to put together different
     ship builds. Many more tools are included into Omnis too!
-  url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/b67677209ae86387c92fb65170ca35c3fe168f70.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/b67677209ae86387c92fb65170ca35c3fe168f70/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/9f7ff6e537fe60b082be5ccf829540397233dae9.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/9f7ff6e537fe60b082be5ccf829540397233dae9/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -406,14 +406,14 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/AES-Irm
   license: GPL-3.0-or-later
-  version: 56bd3f074a4a9bbc90fa5fa875c3720f686e6f75
+  version: 66be262be07fce2b12eba6fa189ffd31ed729bf6
   shortDescription: A new alien species with tense diplomatic ties to their neighbours.
   description: New aliens to the north of human space that can only be described as
     technocratic isolationists. They will not begin or turn hostile towards the player
     under normal circumstances, but you would be one unlucky pilot if you were to
     find yourself on bad terms with the Irm.
-  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/56bd3f074a4a9bbc90fa5fa875c3720f686e6f75.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/56bd3f074a4a9bbc90fa5fa875c3720f686e6f75/icon.png
+  url: https://github.com/Adde-Endless-Sky/AES-Irm/archive/66be262be07fce2b12eba6fa189ffd31ed729bf6.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/AES-Irm/raw/66be262be07fce2b12eba6fa189ffd31ed729bf6/icon.png
   autoupdate:
     type: commit
     branch: main
