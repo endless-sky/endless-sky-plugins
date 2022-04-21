@@ -2,15 +2,15 @@ name: AES Omnis
 authors: Darcy Manoel
 homepage: https://github.com/Adde-Endless-Sky/AES-Omnis
 license: GPL-3.0-or-later
-version: ecdc7edc22cd4c6c29a7acefd2520101459faefc
+version: 8d729ab62b666227a7fe34f8a8c361810b3d7146
 shortDescription: The most extensive all-content plugin to date, for development or
   fun.
 description: The most extensive all-content plugin to date. It includes many opportunities
   to test balance or ship builds against AI driven ships or fleets, all vanilla content
   and the content of many plugins available to use to put together different ship
   builds. Many more tools are included into Omnis too!
-url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/ecdc7edc22cd4c6c29a7acefd2520101459faefc.zip
-iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/ecdc7edc22cd4c6c29a7acefd2520101459faefc/icon.png
+url: https://github.com/Adde-Endless-Sky/AES-Omnis/archive/8d729ab62b666227a7fe34f8a8c361810b3d7146.zip
+iconUrl: https://github.com/Adde-Endless-Sky/AES-Omnis/raw/8d729ab62b666227a7fe34f8a8c361810b3d7146/icon.png
 autoupdate:
   type: commit
   branch: main
