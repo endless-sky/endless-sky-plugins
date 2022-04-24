@@ -1,7 +1,7 @@
 
 | | Name | Author | Description |
 |-|------|--------|-------------|
-| ![Icon](https://github.com/Adde-Endless-Sky/Aben/raw/c55404b7917273953fb28c059b33f7841c31cb09/icon.png) | [AES Aben](https://github.com/Adde-Endless-Sky/Aben/archive/c55404b7917273953fb28c059b33f7841c31cb09.zip) | Darcy Manoel | Fills in space in the galaxy with a new alien species. |
+| ![Icon](https://github.com/Adde-Endless-Sky/Aben/raw/3fcb0c79590099d38876bed1dd4b65a0edb5a10f/icon.png) | [AES Aben](https://github.com/Adde-Endless-Sky/Aben/archive/3fcb0c79590099d38876bed1dd4b65a0edb5a10f.zip) | Darcy Manoel | Fills in space in the galaxy with a new alien species. |
 | ![Icon](https://github.com/Adde-Endless-Sky/Irm/raw/908fe1bbb65ecad6236f770e0a61db731a4fec9f/icon.png) | [AES Irm](https://github.com/Adde-Endless-Sky/Irm/archive/908fe1bbb65ecad6236f770e0a61db731a4fec9f.zip) | Darcy Manoel | A new alien species with tense diplomatic ties to their neighbours. |
 | ![Icon](https://github.com/Adde-Endless-Sky/Misc/raw/55fef4947646300bb7c0e18098814abe21676d9c/icon.png) | [AES Misc](https://github.com/Adde-Endless-Sky/Misc/archive/55fef4947646300bb7c0e18098814abe21676d9c.zip) | Darcy Manoel | A mix of varied content which can be seen throughout the galaxy. |
 | ![Icon](https://github.com/Adde-Endless-Sky/-Omnis/raw/e46d31c4f4563636862e71b3551cad8a99fd0842/icon.png) | [AES Omnis](https://github.com/Adde-Endless-Sky/-Omnis/archive/e46d31c4f4563636862e71b3551cad8a99fd0842.zip) | Darcy Manoel | The most extensive all-content plugin to date, for development or fun. |
