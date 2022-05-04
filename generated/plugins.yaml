@@ -65,13 +65,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: cd06cb931d89eff13ee8f28ff82613a14663524f
+  version: bfed3a94a29eb35bf8041e7aaaf22ab7e36ff88f
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/cd06cb931d89eff13ee8f28ff82613a14663524f.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/cd06cb931d89eff13ee8f28ff82613a14663524f/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/bfed3a94a29eb35bf8041e7aaaf22ab7e36ff88f.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/bfed3a94a29eb35bf8041e7aaaf22ab7e36ff88f/icon.png
   autoupdate:
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
@@ -264,15 +264,15 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/-Omnis
   license: GPL-3.0-or-later
-  version: 617ee8c9b581b683d9abd9a89cde734ffc9cb8f8
+  version: c1c9343baed7a68ce8fc6a42705888c536362455
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: The most extensive all-content plugin to date. It includes many opportunities
     to test balance or ship builds against AI driven ships or fleets, all vanilla
     content and the content of many plugins available to use to put together different
     ship builds. Many more tools are included into Omnis too!
-  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/617ee8c9b581b683d9abd9a89cde734ffc9cb8f8.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/617ee8c9b581b683d9abd9a89cde734ffc9cb8f8/icon.png
+  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/c1c9343baed7a68ce8fc6a42705888c536362455.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/c1c9343baed7a68ce8fc6a42705888c536362455/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -282,13 +282,13 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/Misc
   license: GPL-3.0-or-later
-  version: 2a425df1042afeeca656b834b92b4e9d57e17364
+  version: 70381bb2fe1cf8fb78fa2c9f052db130db56ee0b
   shortDescription: A mix of varied content which can be seen throughout the galaxy.
   description: Any Adde content that doesn't fit in another or deserve it's own repository.
     This includes many new outfits and ships for various aspects of the vanilla game,
     even new missions here and there.
-  url: https://github.com/Adde-Endless-Sky/Misc/archive/2a425df1042afeeca656b834b92b4e9d57e17364.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/Misc/raw/2a425df1042afeeca656b834b92b4e9d57e17364/icon.png
+  url: https://github.com/Adde-Endless-Sky/Misc/archive/70381bb2fe1cf8fb78fa2c9f052db130db56ee0b.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/Misc/raw/70381bb2fe1cf8fb78fa2c9f052db130db56ee0b/icon.png
   autoupdate:
     type: commit
     branch: main
