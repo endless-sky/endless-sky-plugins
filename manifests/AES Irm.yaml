@@ -2,14 +2,14 @@ name: AES Irm
 authors: Darcy Manoel
 homepage: https://github.com/Adde-Endless-Sky/Irm
 license: GPL-3.0-or-later
-version: 908fe1bbb65ecad6236f770e0a61db731a4fec9f
+version: 268ae4a46860f7f02121916c408889ec5ea923fe
 shortDescription: A new alien species with tense diplomatic ties to their neighbours.
 description: New aliens to the north of human space that can only be described as
   technocratic isolationists. They will not begin or turn hostile towards the player
   under normal circumstances, but you would be one unlucky pilot if you were to find
   yourself on bad terms with the Irm.
-url: https://github.com/Adde-Endless-Sky/Irm/archive/908fe1bbb65ecad6236f770e0a61db731a4fec9f.zip
-iconUrl: https://github.com/Adde-Endless-Sky/Irm/raw/908fe1bbb65ecad6236f770e0a61db731a4fec9f/icon.png
+url: https://github.com/Adde-Endless-Sky/Irm/archive/268ae4a46860f7f02121916c408889ec5ea923fe.zip
+iconUrl: https://github.com/Adde-Endless-Sky/Irm/raw/268ae4a46860f7f02121916c408889ec5ea923fe/icon.png
 autoupdate:
   type: commit
   branch: main
