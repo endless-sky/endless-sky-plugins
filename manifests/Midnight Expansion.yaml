@@ -11,4 +11,3 @@ autoupdate:
   type: tag
   url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/$version/Midnight.Expansion-$version.zip
   iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/$version/icon.png
- 
