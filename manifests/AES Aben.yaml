@@ -2,13 +2,13 @@ name: AES Aben
 authors: Darcy Manoel
 homepage: https://github.com/Adde-Endless-Sky/Aben
 license: GPL-3.0-or-later
-version: cdfb203c8946a2f60afb3e0e93fe501977a52716
+version: b3db3a28dbd6d7381beabaf9be2b9bd0e47ebff1
 shortDescription: Fills in space in the galaxy with a new alien species.
 description: New aliens that are incapable of spaceflight as far as the player is
   concerned, offers the player multiple missions in aiding the Aben which also benefit
   the player in turn.
-url: https://github.com/Adde-Endless-Sky/Aben/archive/cdfb203c8946a2f60afb3e0e93fe501977a52716.zip
-iconUrl: https://github.com/Adde-Endless-Sky/Aben/raw/cdfb203c8946a2f60afb3e0e93fe501977a52716/icon.png
+url: https://github.com/Adde-Endless-Sky/Aben/archive/b3db3a28dbd6d7381beabaf9be2b9bd0e47ebff1.zip
+iconUrl: https://github.com/Adde-Endless-Sky/Aben/raw/b3db3a28dbd6d7381beabaf9be2b9bd0e47ebff1/icon.png
 autoupdate:
   type: commit
   branch: main
