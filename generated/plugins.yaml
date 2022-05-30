@@ -16,7 +16,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/Aben
   license: GPL-3.0-or-later
-  version: cdfb203c8946a2f60afb3e0e93fe501977a52716
+  version: b3db3a28dbd6d7381beabaf9be2b9bd0e47ebff1
   shortDescription: Fills in space in the galaxy with a new alien species.
   description: 'Beyond the reaches of ordinary space faring civilizations lie the
     cluster of systems afforded to the Aben. Impressive technological advancement
@@ -24,8 +24,8 @@
     between all life and rarely show signs of hostility.
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/Adde-Endless-Sky/Aben/archive/cdfb203c8946a2f60afb3e0e93fe501977a52716.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/Aben/raw/cdfb203c8946a2f60afb3e0e93fe501977a52716/icon.png
+  url: https://github.com/Adde-Endless-Sky/Aben/archive/b3db3a28dbd6d7381beabaf9be2b9bd0e47ebff1.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/Aben/raw/b3db3a28dbd6d7381beabaf9be2b9bd0e47ebff1/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -197,7 +197,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/-Omnis
   license: GPL-3.0-or-later
-  version: 239e5a995ba9c9f80bf1c13a17c0c17e948752a4
+  version: 3d32a0697aa033535f851e357185429f1840b2f6
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: 'The most extensive all-content plugin to date. All vanilla content
@@ -205,8 +205,8 @@
     builds. Many more tools are included into Omnis too!
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/239e5a995ba9c9f80bf1c13a17c0c17e948752a4.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/239e5a995ba9c9f80bf1c13a17c0c17e948752a4/icon.png
+  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/3d32a0697aa033535f851e357185429f1840b2f6.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/3d32a0697aa033535f851e357185429f1840b2f6/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -407,14 +407,14 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/Misc
   license: GPL-3.0-or-later
-  version: 1edbadcf1768f3b93cf64160233978cb835e2a5d
+  version: 9b7e6d0812b3f771252be09a1d2da554cff33a0c
   shortDescription: A mix of varied content which isn't currently categorized.
   description: 'Any Adde content that doesn''t fit in another or deserve it''s own
     repository. This can be anything from new systems to new missions.
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/Adde-Endless-Sky/Misc/archive/1edbadcf1768f3b93cf64160233978cb835e2a5d.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/Misc/raw/1edbadcf1768f3b93cf64160233978cb835e2a5d/icon.png
+  url: https://github.com/Adde-Endless-Sky/Misc/archive/9b7e6d0812b3f771252be09a1d2da554cff33a0c.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/Misc/raw/9b7e6d0812b3f771252be09a1d2da554cff33a0c/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -424,15 +424,15 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/Ruination
   license: GPL-3.0-or-later
-  version: 94d0670d26f64a2df3adccc49da5a13a07dc124d
+  version: 701a84ed7cf0d6790ef86878cf96def6357ad2bc
   shortDescription: A harrowed cluster of once great potential neighbouring the Hai
     territories.
   description: 'A harrowed cluster of once great potential sits as the eternal reminder
     of the atrocities of the Hai empire.
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/Adde-Endless-Sky/Ruination/archive/94d0670d26f64a2df3adccc49da5a13a07dc124d.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/Ruination/raw/94d0670d26f64a2df3adccc49da5a13a07dc124d/icon.png
+  url: https://github.com/Adde-Endless-Sky/Ruination/archive/701a84ed7cf0d6790ef86878cf96def6357ad2bc.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/Ruination/raw/701a84ed7cf0d6790ef86878cf96def6357ad2bc/icon.png
   autoupdate:
     type: commit
     branch: main
