@@ -1,0 +1,17 @@
+name: Ruination
+authors: Darcy Manoel
+homepage: https://github.com/Adde-Endless-Sky/Ruination
+license: GPL-3.0-or-later
+version: 94d0670d26f64a2df3adccc49da5a13a07dc124d
+shortDescription: A harrowed cluster of once great potential neighbouring the Hai territories.
+description: A harrowed cluster of once great potential sits as the eternal reminder
+  of the atrocities of the Hai empire.
+
+  This plugin is part of the Adde Endless Sky collection.
+url: https://github.com/Adde-Endless-Sky/Ruination/archive/94d0670d26f64a2df3adccc49da5a13a07dc124d.zip
+iconUrl: https://github.com/Adde-Endless-Sky/Ruination/raw/94d0670d26f64a2df3adccc49da5a13a07dc124d/icon.png
+autoupdate:
+  type: commit
+  branch: main
+  url: https://github.com/Adde-Endless-Sky/Ruination/archive/$version.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/Ruination/raw/$version/icon.png
