@@ -12,6 +12,25 @@
     type: tag
     url: https://github.com/kestrel1110/ES-Advanced-Starts/archive/$version.zip
     iconUrl: https://github.com/kestrel1110/ES-Advanced-Starts/raw/$version/icon.jpg
+- name: Aben
+  authors: Darcy Manoel
+  homepage: https://github.com/Adde-Endless-Sky/Aben
+  license: GPL-3.0-or-later
+  version: cdfb203c8946a2f60afb3e0e93fe501977a52716
+  shortDescription: Fills in space in the galaxy with a new alien species.
+  description: 'Beyond the reaches of ordinary space faring civilizations lie the
+    cluster of systems afforded to the Aben. Impressive technological advancement
+    contrasts the clear non expansionist nature of the Aben, they believe in cooperation
+    between all life and rarely show signs of hostility.
+
+    This plugin is part of the Adde Endless Sky collection.'
+  url: https://github.com/Adde-Endless-Sky/Aben/archive/cdfb203c8946a2f60afb3e0e93fe501977a52716.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/Aben/raw/cdfb203c8946a2f60afb3e0e93fe501977a52716/icon.png
+  autoupdate:
+    type: commit
+    branch: main
+    url: https://github.com/Adde-Endless-Sky/Aben/archive/$version.zip
+    iconUrl: https://github.com/Adde-Endless-Sky/Aben/raw/$version/icon.png
 - name: Easier Korath Automatons
   authors: Bereskatuket (Kestrel1110)
   homepage: https://github.com/kestrel1110/Easier-Korath-Automatons
@@ -130,23 +149,6 @@
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
     iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png
-- name: AES Irm
-  authors: Darcy Manoel
-  homepage: https://github.com/Adde-Endless-Sky/Irm
-  license: GPL-3.0-or-later
-  version: 94d0670d26f64a2df3adccc49da5a13a07dc124d
-  shortDescription: A new alien species with tense diplomatic ties to their neighbours.
-  description: New aliens to the north of human space that can only be described as
-    technocratic isolationists. They will not begin or turn hostile towards the player
-    under normal circumstances, but you would be one unlucky pilot if you were to
-    find yourself on bad terms with the Irm.
-  url: https://github.com/Adde-Endless-Sky/Irm/archive/94d0670d26f64a2df3adccc49da5a13a07dc124d.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/Irm/raw/94d0670d26f64a2df3adccc49da5a13a07dc124d/icon.png
-  autoupdate:
-    type: commit
-    branch: main
-    url: https://github.com/Adde-Endless-Sky/Irm/archive/$version.zip
-    iconUrl: https://github.com/Adde-Endless-Sky/Irm/raw/$version/icon.png
 - name: Exporianes
   authors: Bereskatuket (Kestrel1110)
   homepage: https://github.com/kestrel1110/Exporianes
@@ -191,6 +193,25 @@
   autoupdate:
     type: commit
     url: https://github.com/comnom/Eternals/archive/$version.zip
+- name: Omnis
+  authors: Darcy Manoel
+  homepage: https://github.com/Adde-Endless-Sky/-Omnis
+  license: GPL-3.0-or-later
+  version: 239e5a995ba9c9f80bf1c13a17c0c17e948752a4
+  shortDescription: The most extensive all-content plugin to date, for development
+    or fun.
+  description: 'The most extensive all-content plugin to date. All vanilla content
+    and the content of many plugins available to use to put together different ship
+    builds. Many more tools are included into Omnis too!
+
+    This plugin is part of the Adde Endless Sky collection.'
+  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/239e5a995ba9c9f80bf1c13a17c0c17e948752a4.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/239e5a995ba9c9f80bf1c13a17c0c17e948752a4/icon.png
+  autoupdate:
+    type: commit
+    branch: main
+    url: https://github.com/Adde-Endless-Sky/-Omnis/archive/$version.zip
+    iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/$version/icon.png
 - name: Space Shuttle Start
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Space-Shuttle-Start
@@ -205,22 +226,6 @@
     type: tag
     url: https://github.com/MidnightPlugins/Space-Shuttle-Start/releases/download/$version/Space.Shuttle.Start-$version.zip
     iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Space-Shuttle-Start/$version/icon.png
-- name: AES Aben
-  authors: Darcy Manoel
-  homepage: https://github.com/Adde-Endless-Sky/Aben
-  license: GPL-3.0-or-later
-  version: cdfb203c8946a2f60afb3e0e93fe501977a52716
-  shortDescription: Fills in space in the galaxy with a new alien species.
-  description: New aliens that are incapable of spaceflight as far as the player is
-    concerned, offers the player multiple missions in aiding the Aben which also benefit
-    the player in turn.
-  url: https://github.com/Adde-Endless-Sky/Aben/archive/cdfb203c8946a2f60afb3e0e93fe501977a52716.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/Aben/raw/cdfb203c8946a2f60afb3e0e93fe501977a52716/icon.png
-  autoupdate:
-    type: commit
-    branch: main
-    url: https://github.com/Adde-Endless-Sky/Aben/archive/$version.zip
-    iconUrl: https://github.com/Adde-Endless-Sky/Aben/raw/$version/icon.png
 - name: Midnight Scrapyard
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Scrapyard
@@ -398,15 +403,16 @@
     type: commit
     url: https://github.com/RestingImmortal/Ciu-Kreo/archive/$version.zip
     iconUrl: https://github.com/RestingImmortal/Ciu-Kreo/raw/$version/icon.png
-- name: AES Misc
+- name: Misc
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/Misc
   license: GPL-3.0-or-later
   version: 1edbadcf1768f3b93cf64160233978cb835e2a5d
-  shortDescription: A mix of varied content which can be seen throughout the galaxy.
-  description: Any Adde content that doesn't fit in another or deserve it's own repository.
-    This includes many new outfits and ships for various aspects of the vanilla game,
-    even new missions here and there.
+  shortDescription: A mix of varied content which isn't currently categorized.
+  description: 'Any Adde content that doesn''t fit in another or deserve it''s own
+    repository. This can be anything from new systems to new missions.
+
+    This plugin is part of the Adde Endless Sky collection.'
   url: https://github.com/Adde-Endless-Sky/Misc/archive/1edbadcf1768f3b93cf64160233978cb835e2a5d.zip
   iconUrl: https://github.com/Adde-Endless-Sky/Misc/raw/1edbadcf1768f3b93cf64160233978cb835e2a5d/icon.png
   autoupdate:
@@ -414,24 +420,24 @@
     branch: main
     url: https://github.com/Adde-Endless-Sky/Misc/archive/$version.zip
     iconUrl: https://github.com/Adde-Endless-Sky/Misc/raw/$version/icon.png
-- name: AES Omnis
+- name: Ruination
   authors: Darcy Manoel
-  homepage: https://github.com/Adde-Endless-Sky/-Omnis
+  homepage: https://github.com/Adde-Endless-Sky/Ruination
   license: GPL-3.0-or-later
-  version: 239e5a995ba9c9f80bf1c13a17c0c17e948752a4
-  shortDescription: The most extensive all-content plugin to date, for development
-    or fun.
-  description: The most extensive all-content plugin to date. It includes many opportunities
-    to test balance or ship builds against AI driven ships or fleets, all vanilla
-    content and the content of many plugins available to use to put together different
-    ship builds. Many more tools are included into Omnis too!
-  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/239e5a995ba9c9f80bf1c13a17c0c17e948752a4.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/239e5a995ba9c9f80bf1c13a17c0c17e948752a4/icon.png
+  version: 94d0670d26f64a2df3adccc49da5a13a07dc124d
+  shortDescription: A harrowed cluster of once great potential neighbouring the Hai
+    territories.
+  description: 'A harrowed cluster of once great potential sits as the eternal reminder
+    of the atrocities of the Hai empire.
+
+    This plugin is part of the Adde Endless Sky collection.'
+  url: https://github.com/Adde-Endless-Sky/Ruination/archive/94d0670d26f64a2df3adccc49da5a13a07dc124d.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/Ruination/raw/94d0670d26f64a2df3adccc49da5a13a07dc124d/icon.png
   autoupdate:
     type: commit
     branch: main
-    url: https://github.com/Adde-Endless-Sky/-Omnis/archive/$version.zip
-    iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/$version/icon.png
+    url: https://github.com/Adde-Endless-Sky/Ruination/archive/$version.zip
+    iconUrl: https://github.com/Adde-Endless-Sky/Ruination/raw/$version/icon.png
 - name: Lost in Midnight
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
