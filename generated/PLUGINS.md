@@ -1,7 +1,7 @@
 
 | | Name | Author | Description |
 |-|------|--------|-------------|
-| ![Icon](https://github.com/Adde-Endless-Sky/Aben/raw/b3db3a28dbd6d7381beabaf9be2b9bd0e47ebff1/icon.png) | [Aben](https://github.com/Adde-Endless-Sky/Aben/archive/b3db3a28dbd6d7381beabaf9be2b9bd0e47ebff1.zip) | Darcy Manoel | Fills in space in the galaxy with a new alien species. |
+| ![Icon](https://github.com/Adde-Endless-Sky/Aben/raw/48ca89d98f992ed71c2492e210a980338f3d1d3d/icon.png) | [Aben](https://github.com/Adde-Endless-Sky/Aben/archive/48ca89d98f992ed71c2492e210a980338f3d1d3d.zip) | Darcy Manoel | Fills in space in the galaxy with a new alien species. |
 | ![Icon](https://github.com/endless-sky/all-content-plugin/raw/v0.9.14/icon.png) | [All Content Plugin](https://github.com/endless-sky/all-content-plugin/archive/refs/tags/v0.9.14.zip) | Michael Zahniser | Endless Sky plugin giving the player access to all ships and outfits. |
 | ![Icon](https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png) | [Beccas Endless Expansion](https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/1.2.0.zip) | beccabunny | New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones! |
 | ![Icon](https://github.com/RestingImmortal/Ciu-Kreo/raw/fe137a8624b8e875782ca9b5e3efeeae58d6f365/icon.png) | [Ciu Kreo](https://github.com/RestingImmortal/Ciu-Kreo/archive/fe137a8624b8e875782ca9b5e3efeeae58d6f365.zip) | RestingImmortal | A feature-rich all-content plugin with both content creators and general users in mind. |
