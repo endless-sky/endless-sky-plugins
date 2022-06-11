@@ -2,14 +2,14 @@ name: Misc
 authors: Darcy Manoel
 homepage: https://github.com/Adde-Endless-Sky/Misc
 license: GPL-3.0-or-later
-version: 1e0138feec3d431cc47122bc7b22202e2aa33496
+version: d077161861ba74bc2ffe4e03f7aac1c763cbf631
 shortDescription: A mix of varied content which isn't currently categorized.
 description: 'Any Adde content that doesn''t fit in another or deserve it''s own repository.
   This can be anything from new systems to new missions.
 
   This plugin is part of the Adde Endless Sky collection.'
-url: https://github.com/Adde-Endless-Sky/Misc/archive/1e0138feec3d431cc47122bc7b22202e2aa33496.zip
-iconUrl: https://github.com/Adde-Endless-Sky/Misc/raw/1e0138feec3d431cc47122bc7b22202e2aa33496/icon.png
+url: https://github.com/Adde-Endless-Sky/Misc/archive/d077161861ba74bc2ffe4e03f7aac1c763cbf631.zip
+iconUrl: https://github.com/Adde-Endless-Sky/Misc/raw/d077161861ba74bc2ffe4e03f7aac1c763cbf631/icon.png
 autoupdate:
   type: commit
   branch: main
