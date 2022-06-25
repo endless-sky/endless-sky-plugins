@@ -1,7 +1,7 @@
 
 | | Name | Author | Description |
 |-|------|--------|-------------|
-| ![Icon](https://github.com/Adde-Endless-Sky/Aben/raw/35ce0e4ed911ce53ca3d7329ed95d4fa7abde299/icon.png) | [Aben](https://github.com/Adde-Endless-Sky/Aben/archive/35ce0e4ed911ce53ca3d7329ed95d4fa7abde299.zip) | Darcy Manoel | Fills in space in the galaxy with a new alien species. |
+| ![Icon](https://github.com/Adde-Endless-Sky/Aben/raw/ff82d710229231f3024e6f460084be7bd54e4b64/icon.png) | [Aben](https://github.com/Adde-Endless-Sky/Aben/archive/ff82d710229231f3024e6f460084be7bd54e4b64.zip) | Darcy Manoel | Fills in space in the galaxy with a new alien species. |
 | ![Icon](https://github.com/endless-sky/all-content-plugin/raw/v0.9.14/icon.png) | [All Content Plugin](https://github.com/endless-sky/all-content-plugin/archive/refs/tags/v0.9.14.zip) | Michael Zahniser | Endless Sky plugin giving the player access to all ships and outfits. |
 | ![Icon](https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png) | [Beccas Endless Expansion](https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/1.2.0.zip) | beccabunny | New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones! |
 | ![Icon](https://raw.githubusercontent.com/ZBok/BetterVanillaPirates/v1.3/icon.png) | [Better Vanilla Pirates](https://github.com/ZBok/BetterVanillaPirates/archive/v1.3.zip) | ZBok | Makes pirates more interesting, varied, with many more pirate fighting missions. |
