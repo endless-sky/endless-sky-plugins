@@ -10,6 +10,5 @@ url: https://github.com/1010todd/Mega-Freight/archive/4632c34904b855c3de5b6ac684
 iconUrl: https://github.com/1010todd/Mega-Freight/raw/4632c34904b855c3de5b6ac68486b825aba40be3/icon.png
 autoupdate:
   type: commit
-  updateUrl: https://github.com/1010todd/Mega-Freight
   url: https://github.com/1010todd/Mega-Freight/archive/$version.zip
   iconUrl: https://github.com/1010todd/Mega-Freight/raw/$version/icon.png
