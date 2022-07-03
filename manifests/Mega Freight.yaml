@@ -7,7 +7,7 @@ shortDescription: Adds several mostly civilian ships for you and npc merchants( 
 
 description: This plugin adds several civilian and some military ships to add some more variety to human space. Mostly focused around larger ships but also have smaller freighters and starter-level ships as well.
 url: https://github.com/1010todd/Mega-Freight/archive/4632c34904b855c3de5b6ac68486b825aba40be3.zip
-iconUrl: https://github.com/1010todd/Mega-Freight/4632c34904b855c3de5b6ac68486b825aba40be3/main/icon.png
+iconUrl: https://github.com/1010todd/Mega-Freight/raw/4632c34904b855c3de5b6ac68486b825aba40be3/icon.png
 autoupdate:
   type: commit
   updateUrl: https://github.com/1010todd/Mega-Freight
