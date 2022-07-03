@@ -12,4 +12,4 @@ autoupdate:
   type: commit
   updateUrl: https://github.com/1010todd/Mega-Freight
   url: https://github.com/1010todd/Mega-Freight/archive/$version.zip
-  iconUrl: https://github.com/1010todd/Mega-Freight/$version/main/icon.png
+  iconUrl: https://github.com/1010todd/Mega-Freight/raw/$version/icon.png
