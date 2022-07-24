@@ -1,16 +1,17 @@
 {
   "name": "AES Misc",
   "authors": "Darcy Manoel",
-  "homepage": "https://github.com/Adde-Endless-Sky/AES-Misc",
+  "homepage": "https://github.com/Adde-Endless-Sky/Misc",
   "license": "GPL-3.0-or-later",
-  "version": "5d6e601d833d5f267f724d16a09c9ddd0d756f35",
+  "version": "1edbadcf1768f3b93cf64160233978cb835e2a5d",
   "shortDescription": "A mix of varied content which can be seen throughout the galaxy.",
   "description": "Any Adde content that doesn't fit in another or deserve it's own repository. This includes many new outfits and ships for various aspects of the vanilla game, even new missions here and there.",
-  "url": "https://github.com/Adde-Endless-Sky/AES-Misc/archive/5d6e601d833d5f267f724d16a09c9ddd0d756f35.zip",
-  "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Misc/raw/5d6e601d833d5f267f724d16a09c9ddd0d756f35/icon.png",
+  "url": "https://github.com/Adde-Endless-Sky/Misc/archive/1edbadcf1768f3b93cf64160233978cb835e2a5d.zip",
+  "iconUrl": "https://github.com/Adde-Endless-Sky/Misc/raw/1edbadcf1768f3b93cf64160233978cb835e2a5d/icon.png",
   "autoupdate": {
     "type": "commit",
-    "url": "https://github.com/Adde-Endless-Sky/AES-Misc/archive/$version.zip",
-    "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Misc/raw/$version/icon.png"
+    "branch": "main",
+    "url": "https://github.com/Adde-Endless-Sky/Misc/archive/$version.zip",
+    "iconUrl": "https://github.com/Adde-Endless-Sky/Misc/raw/$version/icon.png"
   }
 }

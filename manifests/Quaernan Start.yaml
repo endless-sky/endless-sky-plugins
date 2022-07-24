@@ -1,0 +1,18 @@
+name: Quaernan Start
+authors: Zoura the Quaernan Guy
+homepage: https://github.com/samrocketman/QuaernanHardpointsCarries
+license: GPL-3.0
+version: 68b733824a5635d0a0e7565b0048b6ce624f7aac
+shortDescription: ES Custom start.  Quaernan Humans are a Tier 3 civilization with
+  human expansionism at its peak around the 31st century; started by the Syndicate
+  stoking innovation and to forestall a galactic recession.
+description: An endless sky plugin that adds an extremely powerful set of ships and
+  missions accessed via a custom start, intended for testing other extremely strong
+  plugin factions or just generally playing around with.
+url: https://github.com/samrocketman/QuaernanHardpointsCarries/archive/68b733824a5635d0a0e7565b0048b6ce624f7aac.zip
+iconUrl: https://raw.githubusercontent.com/samrocketman/QuaernanHardpointsCarries/68b733824a5635d0a0e7565b0048b6ce624f7aac/icon%402x.png
+autoupdate:
+  type: commit
+  branch: main
+  url: https://github.com/samrocketman/QuaernanHardpointsCarries/archive/$version.zip
+  iconUrl: https://raw.githubusercontent.com/samrocketman/QuaernanHardpointsCarries/$version/icon%402x.png

@@ -1,16 +1,17 @@
 {
   "name": "AES Irm",
   "authors": "Darcy Manoel",
-  "homepage": "https://github.com/Adde-Endless-Sky/AES-Irm",
+  "homepage": "https://github.com/Adde-Endless-Sky/Irm",
   "license": "GPL-3.0-or-later",
-  "version": "c1f136505e9870aef325c7350ef752b1fdcf11f7",
+  "version": "94d0670d26f64a2df3adccc49da5a13a07dc124d",
   "shortDescription": "A new alien species with tense diplomatic ties to their neighbours.",
   "description": "New aliens to the north of human space that can only be described as technocratic isolationists. They will not begin or turn hostile towards the player under normal circumstances, but you would be one unlucky pilot if you were to find yourself on bad terms with the Irm.",
-  "url": "https://github.com/Adde-Endless-Sky/AES-Irm/archive/c1f136505e9870aef325c7350ef752b1fdcf11f7.zip",
-  "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Irm/raw/c1f136505e9870aef325c7350ef752b1fdcf11f7/icon.png",
+  "url": "https://github.com/Adde-Endless-Sky/Irm/archive/94d0670d26f64a2df3adccc49da5a13a07dc124d.zip",
+  "iconUrl": "https://github.com/Adde-Endless-Sky/Irm/raw/94d0670d26f64a2df3adccc49da5a13a07dc124d/icon.png",
   "autoupdate": {
     "type": "commit",
-    "url": "https://github.com/Adde-Endless-Sky/AES-Irm/archive/$version.zip",
-    "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Irm/raw/$version/icon.png"
+    "branch": "main",
+    "url": "https://github.com/Adde-Endless-Sky/Irm/archive/$version.zip",
+    "iconUrl": "https://github.com/Adde-Endless-Sky/Irm/raw/$version/icon.png"
   }
 }

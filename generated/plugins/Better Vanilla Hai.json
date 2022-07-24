@@ -1,0 +1,16 @@
+{
+  "name": "BetterVanillaHai",
+  "authors": "ZBok",
+  "homepage": "https://github.com/ZBok/BetterVanillaHai",
+  "license": "CC-BY-SA-4.0",
+  "version": "0.9.2",
+  "shortDescription": "Adds Hai ships with a wide variety of human/Hai outfits to human fleets in the late-game. Spices up pirate combat and adds variety.",
+  "description": "Check the readme file for detailed information.",
+  "url": "https://github.com/ZBok/BetterVanillaHai/archive/0.9.2.zip",
+  "iconUrl": "https://raw.githubusercontent.com/ZBok/BetterVanillaHai/0.9.2/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/ZBok/BetterVanillaHai/archive/$version.zip",
+    "iconUrl": "https://raw.githubusercontent.com/ZBok/BetterVanillaHai/$version/icon.png"
+  }
+}

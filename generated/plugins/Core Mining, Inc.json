@@ -1,0 +1,16 @@
+{
+  "name": "Core Mining, Inc.",
+  "authors": "DJF113",
+  "homepage": "https://github.com/DJF113/Core-Mining-Inc",
+  "license": "GPL-3.0-or-later",
+  "version": "v0.1.8",
+  "shortDescription": "Adds another storyline in the early game, following a business getting started in Syndicate space.",
+  "description": "The Core Mining, Inc. plugin adds a storyline that offers you the chance to work for a newly started company by the same name. You start with them from the very beginning and help build up the company. Along the way, you can make different choices which may impact the game at a later time, as well as potentially make major changes to the plotline. Not everything is in place at the current time, but this plugin should fit in seamlessly with the the vanilla game.",
+  "url": "https://github.com/DJF113/Core-Mining-Inc/archive/refs/tags/v0.1.8.zip",
+  "iconUrl": "https://github.com/DJF113/Core-Mining-Inc/raw/v0.1.8/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/DJF113/Core-Mining-Inc/archive/refs/tags/$version.zip",
+    "iconUrl": "https://github.com/DJF113/Core-Mining-Inc/raw/$version/icon.png"
+  }
+}

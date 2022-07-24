@@ -1,0 +1,17 @@
+{
+  "name": "Misc",
+  "authors": "Darcy Manoel",
+  "homepage": "https://github.com/Adde-Endless-Sky/Misc",
+  "license": "GPL-3.0-or-later",
+  "version": "d077161861ba74bc2ffe4e03f7aac1c763cbf631",
+  "shortDescription": "A mix of varied content which isn't currently categorized.",
+  "description": "Any Adde content that doesn't fit in another or deserve it's own repository. This can be anything from new systems to new missions.\nThis plugin is part of the Adde Endless Sky collection.",
+  "url": "https://github.com/Adde-Endless-Sky/Misc/archive/d077161861ba74bc2ffe4e03f7aac1c763cbf631.zip",
+  "iconUrl": "https://github.com/Adde-Endless-Sky/Misc/raw/d077161861ba74bc2ffe4e03f7aac1c763cbf631/icon.png",
+  "autoupdate": {
+    "type": "commit",
+    "branch": "main",
+    "url": "https://github.com/Adde-Endless-Sky/Misc/archive/$version.zip",
+    "iconUrl": "https://github.com/Adde-Endless-Sky/Misc/raw/$version/icon.png"
+  }
+}

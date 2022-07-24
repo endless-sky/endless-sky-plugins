@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # Check whether a new plug-in version exists. When one is found, updates the manifest according to `autoupdate`.
 # Usage:
@@ -12,48 +12,47 @@ import dulwich.porcelain
 import re
 import semver
 
-BASEVERSION = re.compile(
-    r"""[vV]?
-        (?P<major>0|[1-9]\d*)
-        (\.
-        (?P<minor>0|[1-9]\d*)
-        (\.
-            (?P<patch>0|[1-9]\d*)
-        )?
-        )?
-    """,
-    re.VERBOSE,
-)
 
+BASEVERSION = r'^[vV]?((\.?[0-9]+)+)(-[a-z]+[0-9]*)?$'
 
-def coerce(version):
+def get_latest_versioned_tag_from_refs(refs):
     """
-    Stolen from the python-semver docs.
+    Given a list of refs (refs/tags/*) containing version numbers with or
+    without v prefix.  This function will discover the highest version and
+    return the tag name ($name in refs/tags/$name) of the highest version
+    number.
 
-    Convert an incomplete version string into a semver-compatible VersionInfo
-    object
+    This function supports versions containing a mixed list of v prefix or pure
+    numbers.  For example, versions ['v1.2', '1.0.0', 'v2.5-alpha1'] will find
+    v2.5-alpha1 tag name to be the highest version.
 
-    * Tries to detect a "basic" version string (``major.minor.patch``).
-    * If not enough components can be found, missing components are
-        set to zero to obtain a valid semver version.
+    Supported version formats where parenthesis show optional values:
+        (v) optional prefix
+        1.0 a version number of dot-separated nubmers
+        (-alpha(1)) optional suffix such as -alpha or -alpha1
 
-    :param str version: the version string to convert
-    :return: a tuple with a :class:`VersionInfo` instance (or ``None``
-        if it's not a version) and the rest of the string which doesn't
-        belong to a basic version.
-    :rtype: tuple(:class:`VersionInfo` | None, str)
+    Example:
+        get_latest_versioned_tag_from_refs(['refs/tags/1.2.3-beta2', 'refs/tags/v1.2.3', 'refs/tags/1.1.1', 'refs/tags/1.2.3-alpha', 'refs/tags/1.2.3-beta'])
+    Returns:
+        1.2.3-beta2
     """
-    match = BASEVERSION.search(version)
-    if not match:
-        return (None, version)
-
-    ver = {
-        key: 0 if value is None else value for key, value in match.groupdict().items()
-    }
-    ver = semver.VersionInfo(**ver)
-    rest = match.string[match.end() :]  # noqa:E203
-    return ver, rest
-
+    # remove refs/tags/ prefix (other refs will exist but will be filtered out
+    # in the next step
+    tags=list(map(lambda x: x.replace('refs/tags/', ''), refs))
+    # filter out only valid version numbers (optional v prefix with a set of
+    # numbers separated by periods)
+    tags=list(filter(lambda x: re.match(BASEVERSION, x), tags))
+    # Sort list from lowest to highest version (last item is highest version)
+    # Converts each version number into a list of ints and compares the lists
+    # for ordered integers.  The end result is the same list of tag names but
+    # sorted according to version number.
+    #
+    # Two level sorting using a touple inside lambda:
+    #     1st: sort based on version number
+    #     2nd: alphabetical sort based on suffix (if 1st level sort is equal)
+    tags.sort(key=lambda tag: (list(map(int,  re.match(BASEVERSION, tag).group(1).split('.'))), re.match(BASEVERSION, tag).groups()[-1] or ''))
+    # return the highest version which is the last item in list
+    return tags[-1]
 
 def ls_remote(url):
     byte_dict = dulwich.porcelain.ls_remote(url)
@@ -73,35 +72,9 @@ def get_latest_version(au_type, au_url, au_branch):
 
     if au_type == "tag":
         refs = ls_remote(au_url)
-        versions = []
-        for ref in refs:
-            if ref.startswith("refs/tags/"):
-                tag = ref.replace("refs/tags/", "")
-
-                # Remove dereferencing syntax, see https://stackoverflow.com/a/15472310/7653274
-                if tag.endswith("^{}"):
-                    tag = tag[:-3]
-
-                # Try to parse the tag as-is
-                if semver.VersionInfo.isvalid(tag):
-                    parsed = semver.VersionInfo.parse(tag)
-                # Strip away a leading `v`, perhaps?
-                elif tag.startswith("v") and semver.VersionInfo.isvalid(tag[1:]):
-                    parsed = semver.VersionInfo.parse(tag[1:])
-                # Or `v.`?
-                elif tag.startswith("v.") and semver.VersionInfo.isvalid(tag[2:]):
-                    parsed = semver.VersionInfo.parse(tag[2:])
-                # Fine, fall back to the method that only parses MAJOR.MINOR.PATCH
-                else:
-                    parsed = coerce(tag)[0]
-
-                # Ignore non-semver versions tags that couldn't be parsed
-                if parsed is not None and parsed is not None:
-                    versions.append((tag, parsed))
-
         # Sort by the second tuple item, which is a parser semver object
         # Then return the associated string (so any prefix that `coerce` stripped doesn't get discarded)
-        return max(versions, key=lambda t: t[1])[0]
+        return get_latest_versioned_tag_from_refs(refs)
 
     raise NotImplementedError("Unknown autoupdate type '%s'" % au_type)
 

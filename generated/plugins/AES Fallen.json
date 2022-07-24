@@ -3,13 +3,14 @@
   "authors": "Darcy Manoel",
   "homepage": "https://github.com/Adde-Endless-Sky/AES-Fallen",
   "license": "GPL-3.0-or-later",
-  "version": "ad47b294bb6c88dfcdbc16687598942808cbd83a",
+  "version": "b6451893a728758bf53f69545667b44b2f8e4354",
   "shortDescription": "Inspired by an old fan favourite plugin, Galactic Conquest.",
   "description": "Inspired by an old and unfortunately unfinished fan favourite plugin that offered truly unique content. While this might not mimic the original in design, hopefully it can stoke a similarly unique experience.",
-  "url": "https://github.com/Adde-Endless-Sky/AES-Fallen/archive/ad47b294bb6c88dfcdbc16687598942808cbd83a.zip",
-  "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Fallen/raw/ad47b294bb6c88dfcdbc16687598942808cbd83a/icon.png",
+  "url": "https://github.com/Adde-Endless-Sky/AES-Fallen/archive/b6451893a728758bf53f69545667b44b2f8e4354.zip",
+  "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Fallen/raw/b6451893a728758bf53f69545667b44b2f8e4354/icon.png",
   "autoupdate": {
     "type": "commit",
+    "branch": "main",
     "url": "https://github.com/Adde-Endless-Sky/AES-Fallen/archive/$version.zip",
     "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Fallen/raw/$version/icon.png"
   }

@@ -1,0 +1,14 @@
+name: Space Shuttle Start
+authors: Michael Arsollon
+homepage: https://github.com/MidnightPlugins/Space-Shuttle-Start
+license: GPL-3.0-or-later
+version: 0.9.14.3
+shortDescription: An alternate start plugin featuring an old Earth relic.
+description: Start in the Sol system with an old Earth relic for your ship. The space
+  shuttle has no weapons, but lots of cargo space.
+url: https://github.com/MidnightPlugins/Space-Shuttle-Start/releases/download/0.9.14.3/Space.Shuttle.Start-0.9.14.3.zip
+iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Space-Shuttle-Start/0.9.14.3/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/MidnightPlugins/Space-Shuttle-Start/releases/download/$version/Space.Shuttle.Start-$version.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Space-Shuttle-Start/$version/icon.png

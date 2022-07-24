@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # Generates a yaml file containing all plug-ins.
 # Usage: ./generate_table.py manifests/ generated/plugins.yaml

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # Generates a markdown file containing a table of all plug-ins.
 # Usage: ./generate_table.py generated/plugins.yaml PLUGINS.md

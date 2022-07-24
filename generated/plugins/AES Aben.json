@@ -1,16 +1,17 @@
 {
   "name": "AES Aben",
   "authors": "Darcy Manoel",
-  "homepage": "https://github.com/Adde-Endless-Sky/AES-Aben",
+  "homepage": "https://github.com/Adde-Endless-Sky/Aben",
   "license": "GPL-3.0-or-later",
-  "version": "3f569b3bf386981773b6a21b88542c039f5f5153",
+  "version": "cdfb203c8946a2f60afb3e0e93fe501977a52716",
   "shortDescription": "Fills in space in the galaxy with a new alien species.",
   "description": "New aliens that are incapable of spaceflight as far as the player is concerned, offers the player multiple missions in aiding the Aben which also benefit the player in turn.",
-  "url": "https://github.com/Adde-Endless-Sky/AES-Aben/archive/3f569b3bf386981773b6a21b88542c039f5f5153.zip",
-  "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Aben/raw/3f569b3bf386981773b6a21b88542c039f5f5153/icon.png",
+  "url": "https://github.com/Adde-Endless-Sky/Aben/archive/cdfb203c8946a2f60afb3e0e93fe501977a52716.zip",
+  "iconUrl": "https://github.com/Adde-Endless-Sky/Aben/raw/cdfb203c8946a2f60afb3e0e93fe501977a52716/icon.png",
   "autoupdate": {
     "type": "commit",
-    "url": "https://github.com/Adde-Endless-Sky/AES-Aben/archive/$version.zip",
-    "iconUrl": "https://github.com/Adde-Endless-Sky/AES-Aben/raw/$version/icon.png"
+    "branch": "main",
+    "url": "https://github.com/Adde-Endless-Sky/Aben/archive/$version.zip",
+    "iconUrl": "https://github.com/Adde-Endless-Sky/Aben/raw/$version/icon.png"
   }
 }
