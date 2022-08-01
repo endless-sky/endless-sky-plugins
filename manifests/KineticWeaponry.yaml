@@ -3,8 +3,8 @@ authors: Bereskatuket (Kestrel1110)
 homepage: https://github.com/kestrel1110/KineticWeaponry
 license: GPL-3.0-or-later
 version: '1.0'
-shortDescription: Adds current-day weaponry to Endless-Sky
-description: A plugin adding modern realistic weapons to Endless-Sky. They are tier 1 human weapons, already balanced to work as anti-capital ship weapons.
+shortDescription: Adds current-day weaponry to Endless Sky
+description: A plugin adding modern realistic weapons to Endless Sky. They are tier 1 human weapons, already balanced to work as anti-capital ship weapons.
 url: https://github.com/kestrel1110/KineticWeaponry/archive/1.0.zip
 iconUrl: https://github.com/kestrel1110/KineticWeaponry/raw/1.0/icon.png
 autoupdate:
