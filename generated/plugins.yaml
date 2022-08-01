@@ -54,6 +54,20 @@
     type: tag
     url: https://github.com/DJF113/Core-Mining-Inc/archive/refs/tags/$version.zip
     iconUrl: https://github.com/DJF113/Core-Mining-Inc/raw/$version/icon.png
+- name: Kinetic Weaponry
+  authors: Bereskatuket (Kestrel1110)
+  homepage: https://github.com/kestrel1110/KineticWeaponry
+  license: GPL-3.0-or-later
+  version: '1.0'
+  shortDescription: Adds current-day weaponry to Endless Sky
+  description: A plugin adding modern realistic weapons to Endless Sky. They are tier
+    1 human weapons, already balanced to work as anti-capital ship weapons.
+  url: https://github.com/kestrel1110/KineticWeaponry/archive/1.0.zip
+  iconUrl: https://github.com/kestrel1110/KineticWeaponry/raw/1.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/kestrel1110/KineticWeaponry/archive/$version.zip
+    iconUrl: https://github.com/kestrel1110/KineticWeaponry/raw/$version/icon.png
 - name: BetterVanillaHai
   authors: ZBok
   homepage: https://github.com/ZBok/BetterVanillaHai
