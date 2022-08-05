@@ -4,4 +4,4 @@ This repository is intended to become the central plug-in index for [Endless Sky
 
 See [Plugins.md](https://github.com/EndlessSkyCommunity/endless-sky-plugins/blob/master/generated/PLUGINS.md) for a list of indexed plugins.
 
-Contributions only need to modify their respective plugin manifests. See [the plugin_index RFC](https://github.com/EndlessSkyCommunity/endless-sky/blob/community/docs/rfcs/text/0001-plugin-index.md) for the manifest's specification.
+Contributions only need to modify their respective plugin manifests. See [the plugin_index RFC](https://github.com/endless-sky/endless-sky/blob/master/docs/rfcs/text/0001-plugin-index.md) for the manifest's specification.
