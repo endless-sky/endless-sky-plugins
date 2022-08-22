@@ -1,0 +1,16 @@
+{
+  "name": "Logbook Help",
+  "authors": "Michael Arsollon",
+  "homepage": "https://github.com/MidnightPlugins/Logbook-Help",
+  "license": "GPL-3.0-or-later",
+  "version": "0.9.14.1",
+  "shortDescription": "Adds a Help tab to the Logbook which can be used as a centralized location to review or preview various helpful game tips.",
+  "description": "Adds a Help tab to the Logbook which can be used as a centralized location to review or preview various helpful game tips.",
+  "url": "https://github.com/MidnightPlugins/Logbook-Help/releases/download/0.9.14.1/Logbook.Help-0.9.14.1.zip",
+  "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Logbook-Help/0.9.14.1/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/MidnightPlugins/Logbook-Help/releases/download/$version/Logbook.Help-$version.zip",
+    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Logbook-Help/$version/icon.png"
+  }
+}
