@@ -11,4 +11,3 @@ autoupdate:
   type: tag
   url: https://github.com/MidnightPlugins/Logbook-Help/releases/download/$version/Logbook.Help-$version.zip
   iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Logbook-Help/$version/icon.png
-  
