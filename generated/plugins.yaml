@@ -65,13 +65,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Scrapyard
   license: GPL-3.0-or-later
-  version: 0.9.14.7.22
+  version: 0.9.14.7.23
   shortDescription: A plugin suggesting an epilogue for the Kor Sestor region of Endless
     Sky. Includes some new ships, outfits, and missions.
   description: This region of space has abandoned derelicts waiting to be scavenged.
     But something lurks amongst the wreckage...
-  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.9.14.7.22/Midnight.Scrapyard-0.9.14.7.22.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.9.14.7.22/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.9.14.7.23/Midnight.Scrapyard-0.9.14.7.23.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.9.14.7.23/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/$version/Midnight.Scrapyard-$version.zip
@@ -324,13 +324,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Expansion
   license: GPL-3.0-or-later
-  version: 0.9.14.2.0
+  version: 0.9.14.2.1
   shortDescription: Plugin using ships, outfits, or other resources from plugins by
     other creators or derivatives of their original creations.
   description: Expanded content derived from the plugins of other creators. Some contents
     may require other Midnight Plugins creations.
-  url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.9.14.2.0/Midnight.Expansion-0.9.14.2.0.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.9.14.2.0/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.9.14.2.1/Midnight.Expansion-0.9.14.2.1.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.9.14.2.1/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/$version/Midnight.Expansion-$version.zip
