@@ -358,13 +358,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: d6b081eac366ad00bd56a21e123a4c9251b637e3
+  version: e8b45f20133534e9a414d9a4dd3f2d0a3fcc09df
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/d6b081eac366ad00bd56a21e123a4c9251b637e3.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/d6b081eac366ad00bd56a21e123a4c9251b637e3/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/e8b45f20133534e9a414d9a4dd3f2d0a3fcc09df.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/e8b45f20133534e9a414d9a4dd3f2d0a3fcc09df/icon.png
   autoupdate:
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
@@ -457,13 +457,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
   license: GPL-3.0-or-later
-  version: 0.9.14.17.4
+  version: 0.9.14.17.5
   shortDescription: Lost in Midnight is a mission focused plugin for the Endless Sky
     game. Features new missions, systems, outfits, ships, and variants.
   description: Lost technology, Lost knowledge, And people, who have lost their way
     trying to navigate life in this vast galaxy...
-  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.9.14.17.4/Lost.in.Midnight-0.9.14.17.4.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.9.14.17.4/icon.png
+  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.9.14.17.5/Lost.in.Midnight-0.9.14.17.5.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.9.14.17.5/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip
