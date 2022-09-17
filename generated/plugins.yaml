@@ -65,13 +65,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Scrapyard
   license: GPL-3.0-or-later
-  version: 0.9.14.7.23
+  version: 0.9.14.7.24
   shortDescription: A plugin suggesting an epilogue for the Kor Sestor region of Endless
     Sky. Includes some new ships, outfits, and missions.
   description: This region of space has abandoned derelicts waiting to be scavenged.
     But something lurks amongst the wreckage...
-  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.9.14.7.23/Midnight.Scrapyard-0.9.14.7.23.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.9.14.7.23/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.9.14.7.24/Midnight.Scrapyard-0.9.14.7.24.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.9.14.7.24/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/$version/Midnight.Scrapyard-$version.zip
@@ -226,7 +226,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/-Omnis
   license: GPL-3.0-or-later
-  version: 18e0d5f6dcc86d64e244c9c9ca20cc235114dcdf
+  version: 0878ab995d9e97b529a430075bb97b283df47ba5
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: 'The most extensive all-content plugin to date. All vanilla content
@@ -234,8 +234,8 @@
     builds. Many more tools are included into Omnis too!
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/18e0d5f6dcc86d64e244c9c9ca20cc235114dcdf.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/18e0d5f6dcc86d64e244c9c9ca20cc235114dcdf/icon.png
+  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/0878ab995d9e97b529a430075bb97b283df47ba5.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/0878ab995d9e97b529a430075bb97b283df47ba5/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -324,13 +324,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Expansion
   license: GPL-3.0-or-later
-  version: 0.9.14.2.1
+  version: 0.9.14.2.2
   shortDescription: Plugin using ships, outfits, or other resources from plugins by
     other creators or derivatives of their original creations.
   description: Expanded content derived from the plugins of other creators. Some contents
     may require other Midnight Plugins creations.
-  url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.9.14.2.1/Midnight.Expansion-0.9.14.2.1.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.9.14.2.1/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.9.14.2.2/Midnight.Expansion-0.9.14.2.2.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.9.14.2.2/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/$version/Midnight.Expansion-$version.zip
@@ -339,7 +339,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/Aben
   license: GPL-3.0-or-later
-  version: 7f6cd8af461500b52d82fbda168819ddf2ad88fb
+  version: 64330c7d62b6553c0f3392cdf315da6b527a5d02
   shortDescription: Fills in space in the galaxy with a new alien species.
   description: 'Beyond the reaches of ordinary space faring civilizations lie the
     cluster of systems afforded to the Aben. Impressive technological advancement
@@ -347,8 +347,8 @@
     between all life and rarely show signs of hostility.
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/Adde-Endless-Sky/Aben/archive/7f6cd8af461500b52d82fbda168819ddf2ad88fb.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/Aben/raw/7f6cd8af461500b52d82fbda168819ddf2ad88fb/icon.png
+  url: https://github.com/Adde-Endless-Sky/Aben/archive/64330c7d62b6553c0f3392cdf315da6b527a5d02.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/Aben/raw/64330c7d62b6553c0f3392cdf315da6b527a5d02/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -457,13 +457,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
   license: GPL-3.0-or-later
-  version: 0.9.14.17.5
+  version: 0.9.14.17.6
   shortDescription: Lost in Midnight is a mission focused plugin for the Endless Sky
     game. Features new missions, systems, outfits, ships, and variants.
   description: Lost technology, Lost knowledge, And people, who have lost their way
     trying to navigate life in this vast galaxy...
-  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.9.14.17.5/Lost.in.Midnight-0.9.14.17.5.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.9.14.17.5/icon.png
+  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.9.14.17.6/Lost.in.Midnight-0.9.14.17.6.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.9.14.17.6/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip
