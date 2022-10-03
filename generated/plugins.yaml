@@ -287,13 +287,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Expansion
   license: GPL-3.0-or-later
-  version: 0.9.14.2.3
+  version: 0.9.14.2.4
   shortDescription: Plugin using ships, outfits, or other resources from plugins by
     other creators or derivatives of their original creations.
   description: Expanded content derived from the plugins of other creators. Some contents
     may require other Midnight Plugins creations.
-  url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.9.14.2.3/Midnight.Expansion-0.9.14.2.3.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.9.14.2.3/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.9.14.2.4/Midnight.Expansion-0.9.14.2.4.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.9.14.2.4/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/$version/Midnight.Expansion-$version.zip
@@ -320,13 +320,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Scrapyard
   license: GPL-3.0-or-later
-  version: 0.9.14.7.26
+  version: 0.9.14.7.27
   shortDescription: A plugin suggesting an epilogue for the Kor Sestor region of Endless
     Sky. Includes some new ships, outfits, and missions.
   description: This region of space has abandoned derelicts waiting to be scavenged.
     But something lurks amongst the wreckage...
-  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.9.14.7.26/Midnight.Scrapyard-0.9.14.7.26.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.9.14.7.26/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.9.14.7.27/Midnight.Scrapyard-0.9.14.7.27.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.9.14.7.27/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/$version/Midnight.Scrapyard-$version.zip
@@ -335,7 +335,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/-Omnis
   license: GPL-3.0-or-later
-  version: 6bf0321ec5ac8399c2eeb119ed07c1d2d6b373db
+  version: 2be298bfc30094573f70ff610b25d3f82ea61314
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: 'The most extensive all-content plugin to date. All vanilla content
@@ -343,8 +343,8 @@
     builds. Many more tools are included into Omnis too!
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/6bf0321ec5ac8399c2eeb119ed07c1d2d6b373db.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/6bf0321ec5ac8399c2eeb119ed07c1d2d6b373db/icon.png
+  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/2be298bfc30094573f70ff610b25d3f82ea61314.zip
+  iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/2be298bfc30094573f70ff610b25d3f82ea61314/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -436,13 +436,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
   license: GPL-3.0-or-later
-  version: 0.9.14.18.0
+  version: 0.9.14.18.1
   shortDescription: Lost in Midnight is a mission focused plugin for the Endless Sky
     game. Features new missions, systems, outfits, ships, and variants.
   description: Lost technology, Lost knowledge, And people, who have lost their way
     trying to navigate life in this vast galaxy...
-  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.9.14.18.0/Lost.in.Midnight-0.9.14.18.0.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.9.14.18.0/icon.png
+  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.9.14.18.1/Lost.in.Midnight-0.9.14.18.1.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.9.14.18.1/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip
