@@ -408,14 +408,14 @@
   authors: 1010todd
   homepage: https://github.com/1010todd/Mega-Freight
   license: GPL-3.0-or-later
-  version: 2da5774daedfed61c10866b387b2a4db71e21143
+  version: bd783ca6d46e9522bb8842107406cb06748da065
   shortDescription: Adds several mostly civilian ships for you and npc merchants (and
     pirates) to use for more variety in human space.
   description: This plugin adds several civilian and some military ships to add some
     more variety to human space. Mostly focused around larger ships but also have
     smaller freighters and starter-level ships as well.
-  url: https://github.com/1010todd/Mega-Freight/archive/2da5774daedfed61c10866b387b2a4db71e21143.zip
-  iconUrl: https://github.com/1010todd/Mega-Freight/raw/2da5774daedfed61c10866b387b2a4db71e21143/icon.png
+  url: https://github.com/1010todd/Mega-Freight/archive/bd783ca6d46e9522bb8842107406cb06748da065.zip
+  iconUrl: https://github.com/1010todd/Mega-Freight/raw/bd783ca6d46e9522bb8842107406cb06748da065/icon.png
   autoupdate:
     type: commit
     branch: main
