@@ -51,7 +51,7 @@
   authors: Amazinite
   homepage: https://github.com/EndlessSkyCommunity/world-forge
   license: GPL-3.0-or-later
-  version: d8bbe1ba1796d0713c07fccb14c71ed7afced608
+  version: 668f4094294559ce279f9f03f5527b08c1036490
   shortDescription: A plugin for Endless Sky that allows the player to access everything
     in the game in one place.
   description: A plugin for Endless Sky that allows the player to access everything
@@ -59,8 +59,8 @@
     have such as the ability to boost your combat rating and change your friendly/hostile
     status with factions of the game without having to save-edit. Intended to help
     content creators test their plugins.
-  url: https://github.com/EndlessSkyCommunity/world-forge/archive/d8bbe1ba1796d0713c07fccb14c71ed7afced608.zip
-  iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/d8bbe1ba1796d0713c07fccb14c71ed7afced608/icon.png
+  url: https://github.com/EndlessSkyCommunity/world-forge/archive/668f4094294559ce279f9f03f5527b08c1036490.zip
+  iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/668f4094294559ce279f9f03f5527b08c1036490/icon.png
   autoupdate:
     type: commit
     url: https://github.com/EndlessSkyCommunity/world-forge/archive/$version.zip
