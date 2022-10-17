@@ -39,8 +39,6 @@ jobs:
             url=$(cat "$file" | yq -r ".autoupdate.update_url")
             if [ "$url" = "null" ]; then
               url=$(cat "$file" | yq -r ".homepage")
-            else
-              url="${url%.*}" # get rid of a potential .git suffix
             fi
             diff_url="$url/compare/$old_version...$version"
             
