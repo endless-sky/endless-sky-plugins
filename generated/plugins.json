@@ -268,6 +268,22 @@
     }
   },
   {
+    "name": "sensor",
+    "authors": "ORBIT",
+    "homepage": "https://github.com/orbitalsupershell/sensor/",
+    "license": "ALL RIGHTS RESERVED",
+    "version": "v0.9.14",
+    "shortDescription": "A small mod, adds SOME weapons.",
+    "description": "Adds a lot of weapons, (:",
+    "url": "https://github.com/orbitalsupershell/sensor/archive/refs/tags/v0.9.14.zip",
+    "iconUrl": "https://github.com/orbitalsupershell/sensor/raw/v0.9.14/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/orbitalsupershell/sensor/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/orbitalsupershell/sensor/raw/$version/icon.png"
+    }
+  },
+  {
     "name": "Core Mining, Inc.",
     "authors": "DJF113",
     "homepage": "https://github.com/DJF113/Core-Mining-Inc",
