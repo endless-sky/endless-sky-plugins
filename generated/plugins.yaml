@@ -272,7 +272,7 @@
 - name: sensor
   authors: ORBIT
   homepage: https://github.com/orbitalsupershell/sensor/
-  license: ALL RIGHTS RESERVED
+  license: ALL-RIGHTS-RESERVED
   version: v0.9.15
   shortDescription: A small mod, adds SOME weapons.
   description: 'Adds a lot of weapons, (:'
