@@ -1,0 +1,13 @@
+name: Sheragi Rebirth
+authors: Petersupes
+homepage: https://github.com/Petersupes/sheragi-rebirth
+license: GPL-3.0-or-later
+version: 0.9.16.1
+shortDescription: Plugin for Endless Sky that reintroduces the Sheragi.
+description: Play through a new breath of content reviving the most mysterious species, the Sheragi.
+url: https://github.com/Petersupes/sheragi-rebirth/archive/0.9.16.1.zip
+iconUrl: https://raw.githubusercontent.com/Petersupes/sheragi-rebirth/0.9.16.1/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/Petersupes/sheragi-rebirth/archive/$version.zip
+  iconUrl: https://raw.githubusercontent.com/Petersupes/sheragi-rebirth/$version/icon.png
