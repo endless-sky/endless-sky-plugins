@@ -241,6 +241,20 @@
     url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/$version.zip
     iconUrl: https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/$version/icon.png
     update_url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff
+- name: Sheragi Rebirth
+  authors: Petersupes
+  homepage: https://github.com/Petersupes/sheragi-rebirth
+  license: GPL-3.0-or-later
+  version: 0.9.16.1.1
+  shortDescription: Plugin for Endless Sky that reintroduces the Sheragi.
+  description: Play through a new breath of content reviving the most mysterious species,
+    the Sheragi.
+  url: https://github.com/Petersupes/sheragi-rebirth/archive/0.9.16.1.1.zip
+  iconUrl: https://raw.githubusercontent.com/Petersupes/sheragi-rebirth/0.9.16.1.1/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/Petersupes/sheragi-rebirth/archive/$version.zip
+    iconUrl: https://raw.githubusercontent.com/Petersupes/sheragi-rebirth/$version/icon.png
 - name: Mega Freight
   authors: 1010todd
   homepage: https://github.com/1010todd/Mega-Freight
