@@ -1,0 +1,14 @@
+name: Outfit Highlighter
+authors: Michael Arsollon
+homepage: https://github.com/MidnightPlugins/Outfit-Highlighter
+license: GPL-3.0-or-later
+version: 0.9.16.2.0
+shortDescription: Makes the selected outfit stand out more in the outfitter screen.
+description: Makes the selected outfit stand out more in the outfitter screen. Recommended for those who prefer to navigate the outfitter using the keyboard instead of the mouse. Now includes themed highlighters! To change themes, copy the image from the chosen theme's subfolder and paste into the plugin's ui folder.
+url: https://github.com/MidnightPlugins/Outfit-Highlighter/releases/download/0.9.16.2.0/Outfit.Highlighter-0.9.16.2.0.zip
+iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Outfit-Highlighter/0.9.16.2.0/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/MidnightPlugins/Outfit-Highlighter/releases/download/$version/Outfit.Highlighter-$version.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Outfit-Highlighter/$version/icon.png
+  
