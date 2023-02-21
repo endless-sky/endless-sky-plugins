@@ -5,10 +5,10 @@ license: GPL-3.0-or-later
 version: v0.0.1a # Changed automatically
 shortDescription: See the conflict between the Coalition and the Quarg. The story could use some love if you have some to give.
 description: >-
-You hear a lot about the conflict between the Coalition and the Quarg in Endless Sky, but you never see it.
-This plugin introduces a storyline that lets you see that conflict and even capture Heliarch ships later on.
-You can start the only mission by landing on "Tebuteb's Table" in the Tebuteb system and accept the anamoly mission.
-Please consider helping to add more misisons. What should be included? What stories should be told? https://github.com/mathwhiz1212/A-Coalition-At-War/issues/new/choose
+  You hear a lot about the conflict between the Coalition and the Quarg in Endless Sky, but you never see it.
+  This plugin introduces a storyline that lets you see that conflict and even capture Heliarch ships later on.
+  You can start the only mission by landing on "Tebuteb's Table" in the Tebuteb system and accept the anamoly mission.
+  Please consider helping to add more misisons. What should be included? What stories should be told? https://github.com/mathwhiz1212/A-Coalition-At-War/issues/new/choose
 url: https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/v0.0.1a.zip
 iconUrl: https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png
 autoupdate:
