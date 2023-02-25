@@ -1,7 +1,7 @@
 
 | | Name | Author | Description |
 |-|------|--------|-------------|
-| ![Icon](https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png) | [A Coalition at War](https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/v0.0.2a.zip) | Josh Mudge | Pick a side in the war between the Coalition and Quarg. I am looking for story and mission suggestions https://github.com/mathwhiz1212/A-Coalition-At-War/ |
+| ![Icon](https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png) | [A Coalition at War](https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/v0.0.5a.zip) | Josh Mudge | Pick a side in the war between the Coalition and Quarg. I am looking for story and mission suggestions https://github.com/mathwhiz1212/A-Coalition-At-War/ |
 | ![Icon](https://github.com/Adde-Endless-Sky/Aben/raw/727a0f958dd32f6dc8fe17939f81351500e38901/icon.png) | [Aben](https://github.com/Adde-Endless-Sky/Aben/archive/727a0f958dd32f6dc8fe17939f81351500e38901.zip) | Darcy Manoel | Fills in space in the galaxy with a new alien species. |
 | ![Icon](https://github.com/endless-sky/all-content-plugin/raw/v0.9.14/icon.png) | [All Content Plugin](https://github.com/endless-sky/all-content-plugin/archive/refs/tags/v0.9.14.zip) | Michael Zahniser | Endless Sky plugin giving the player access to all ships and outfits. |
 | ![Icon](https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png) | [Beccas Endless Expansion](https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/1.2.0.zip) | beccabunny | New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones! |
