@@ -2,10 +2,10 @@ name: A Conscience Plugin
 authors: Josh Mudge
 homepage: https://github.com/mathwhiz1212/ES-conscience-plugin
 license: GPL-3.0-or-later
-version: v0.1.1
-shortDescription: "You get more help from the Quarg so you don't have to drop a big bomb on Zenith, killing civilians."
+version: v0.2.0
+shortDescription: "You get more help from the Quarg so you don't have to kill civilians by dropping a big bomb on Zenith."
 description: I may add more "conscience" adjustments in the future, but for now, you get more help from the Quarg to destroy the Korath drones. This allows you to not kill civilians on Zenith and not need to capture a Korath war fleet to accomplish that.
-url: https://github.com/mathwhiz1212/ES-conscience-plugin/archive/refs/tags/v0.1.1.zip
+url: https://github.com/mathwhiz1212/ES-conscience-plugin/archive/refs/tags/v0.2.0.zip
 autoupdate:
   type: tag
   url: https://github.com/mathwhiz1212/ES-conscience-plugin/archive/refs/tags/$version.zip
