@@ -1,7 +1,7 @@
 name: Prism Plugin
 authors: Startingfresher
 homepage: https://github.com/Startingfresher/Prism-Plug-in
-license: GPL-3.0+
+license: GPL-3.0-or-later
 version: v1.2
 shortDescription: Allows you to change your ship swizzle(colors, sort of) easily in game.
 description: >-
