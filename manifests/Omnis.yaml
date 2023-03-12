@@ -11,9 +11,7 @@ description: 'The most extensive all-content plugin to date. All vanilla content
 
   This plugin is part of the Adde Endless Sky collection.'
 url: https://github.com/Adde-Endless-Sky/-Omnis/archive/b4f9bb7fb038690b15eeeace150db966c9a12c73.zip
-iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/b4f9bb7fb038690b15eeeace150db966c9a12c73/icon.png
 autoupdate:
   type: commit
   branch: main
   url: https://github.com/Adde-Endless-Sky/-Omnis/archive/$version.zip
-  iconUrl: https://github.com/Adde-Endless-Sky/-Omnis/raw/$version/icon.png
