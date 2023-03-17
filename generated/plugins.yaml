@@ -37,7 +37,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/Aben
   license: GPL-3.0-or-later
-  version: 43472808efb79719133f560fba3c0c94a6aacf92
+  version: 4696fae38a1b5aa28e7774239e7e939f8dff1b65
   shortDescription: Fills in space in the galaxy with a new alien species.
   description: 'Beyond the reaches of ordinary space faring civilizations lie the
     cluster of systems afforded to the Aben. Impressive technological advancement
@@ -45,7 +45,7 @@
     between all life and rarely show signs of hostility.
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/Adde-Endless-Sky/Aben/archive/43472808efb79719133f560fba3c0c94a6aacf92.zip
+  url: https://github.com/Adde-Endless-Sky/Aben/archive/4696fae38a1b5aa28e7774239e7e939f8dff1b65.zip
   autoupdate:
     type: commit
     branch: main
@@ -146,14 +146,14 @@
   authors: 1010todd
   homepage: https://github.com/1010todd/Mega-Freight
   license: GPL-3.0-or-later
-  version: 2df249fd6bc7357b62e1e138606a34084919614b
+  version: 0381c9e4b63570996d6db35c8d55eeba91db0783
   shortDescription: Adds several mostly civilian ships for you and npc merchants (and
     pirates) to use for more variety in human space.
   description: This plugin adds several civilian and some military ships to add some
     more variety to human space. Mostly focused around larger ships but also have
     smaller freighters and starter-level ships as well.
-  url: https://github.com/1010todd/Mega-Freight/archive/2df249fd6bc7357b62e1e138606a34084919614b.zip
-  iconUrl: https://github.com/1010todd/Mega-Freight/raw/2df249fd6bc7357b62e1e138606a34084919614b/icon.png
+  url: https://github.com/1010todd/Mega-Freight/archive/0381c9e4b63570996d6db35c8d55eeba91db0783.zip
+  iconUrl: https://github.com/1010todd/Mega-Freight/raw/0381c9e4b63570996d6db35c8d55eeba91db0783/icon.png
   autoupdate:
     type: commit
     branch: main
