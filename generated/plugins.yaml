@@ -66,13 +66,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: 02b4b7c49973a8ef2af3fba8e9fa5c96d41380c4
+  version: 2f4693c8a7a0eddd31c47def49684cb7415f784d
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/02b4b7c49973a8ef2af3fba8e9fa5c96d41380c4.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/02b4b7c49973a8ef2af3fba8e9fa5c96d41380c4/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/2f4693c8a7a0eddd31c47def49684cb7415f784d.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/2f4693c8a7a0eddd31c47def49684cb7415f784d/icon.png
   autoupdate:
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
@@ -539,15 +539,15 @@
   authors: 1010todd
   homepage: https://github.com/1010todd/Mega-Freight
   license: GPL-3.0-or-later
-  version: d99e3db4af0113050b6ed3cc1764ff171852299a
+  version: 8d842bba072336434a35ff71d03a1c40d2edd914
   shortDescription: Adds several mostly civilian ships for you and npc merchants (and
     pirates) to use for more variety in human space. Updated to Unstable releases.
   description: This plugin adds several civilian and some military ships to add some
     more variety to human space and beyond. Mostly focused around larger ships but
     also have smaller freighters and starter-level ships as well. Will be updated
     to be compatible with lastest unstable release.
-  url: https://github.com/1010todd/Mega-Freight/archive/d99e3db4af0113050b6ed3cc1764ff171852299a.zip
-  iconUrl: https://github.com/1010todd/Mega-Freight/raw/d99e3db4af0113050b6ed3cc1764ff171852299a/icon.png
+  url: https://github.com/1010todd/Mega-Freight/archive/8d842bba072336434a35ff71d03a1c40d2edd914.zip
+  iconUrl: https://github.com/1010todd/Mega-Freight/raw/8d842bba072336434a35ff71d03a1c40d2edd914/icon.png
   autoupdate:
     type: commit
     branch: main
