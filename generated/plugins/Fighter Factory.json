@@ -1,0 +1,17 @@
+{
+  "name": "Fighter Factory",
+  "authors": "1010todd",
+  "homepage": "https://github.com/1010todd/Fighter-Factory",
+  "license": "GPL-3.0-or-later",
+  "version": "9db8b336882c4b613316c6a4260f56af7ec885cc",
+  "shortDescription": "Add outfit to produce replacement fighters. Updated to latest stable.",
+  "description": "Add outfit to produce replacement fighters. To use, after installing the Fighter Assembler outfit depart and land once then check the job board to record the current number of fighters. Now if the number of fighter ever drop below the recorded number new one will be made to replace it as long as supply is available. Will be updated to latest stable release.",
+  "url": "https://github.com/1010todd/Fighter-Factory/archive/9db8b336882c4b613316c6a4260f56af7ec885cc.zip",
+  "iconUrl": "https://github.com/1010todd/Fighter-Factory/raw/9db8b336882c4b613316c6a4260f56af7ec885cc/icon.png",
+  "autoupdate": {
+    "type": "commit",
+    "branch": "main",
+    "url": "https://github.com/1010todd/Fighter-Factory/archive/$version.zip",
+    "iconUrl": "https://github.com/1010todd/Fighter-Factory/raw/$version/icon.png"
+  }
+}
