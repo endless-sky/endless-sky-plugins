@@ -593,11 +593,11 @@
   authors: ORBIT
   homepage: https://github.com/orbitalsupershell/sensor/
   license: ALL-RIGHTS-RESERVED
-  version: v0.9.15
+  version: v0.10.0
   shortDescription: A small mod, adds SOME weapons.
   description: 'Adds a lot of weapons, (:'
-  url: https://github.com/orbitalsupershell/sensor/archive/refs/tags/v0.9.15.zip
-  iconUrl: https://github.com/orbitalsupershell/sensor/raw/v0.9.15/icon.png
+  url: https://github.com/orbitalsupershell/sensor/archive/refs/tags/v0.10.0.zip
+  iconUrl: https://github.com/orbitalsupershell/sensor/raw/v0.10.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/orbitalsupershell/sensor/archive/refs/tags/$version.zip
