@@ -2,7 +2,7 @@ name: Aben
 authors: Darcy Manoel
 homepage: https://github.com/Adde-Endless-Sky/Aben
 license: GPL-3.0-or-later
-version: ca92e324e116fe9ff5a414c787b6f930d6296629
+version: 3ee1ac3e1d2ef5d126d1c9e9190dc063858cb02d
 shortDescription: Fills in space in the galaxy with a new alien species.
 description: 'Beyond the reaches of ordinary space faring civilizations lie the cluster
   of systems afforded to the Aben. Impressive technological advancement contrasts
@@ -10,7 +10,7 @@ description: 'Beyond the reaches of ordinary space faring civilizations lie the 
   all life and rarely show signs of hostility.
 
   This plugin is part of the Adde Endless Sky collection.'
-url: https://github.com/Adde-Endless-Sky/Aben/archive/ca92e324e116fe9ff5a414c787b6f930d6296629.zip
+url: https://github.com/Adde-Endless-Sky/Aben/archive/3ee1ac3e1d2ef5d126d1c9e9190dc063858cb02d.zip
 autoupdate:
   type: commit
   branch: main
