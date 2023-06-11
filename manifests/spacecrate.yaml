@@ -2,13 +2,13 @@ name: SpaceCrate
 authors: Arnan de Gans
 homepage: https://github.com/adegans/SpaceCrate
 license: GPL-3.0
-version: v0.4
+version: v0.4.1
 shortDescription: A trade oriented mod for Endless Sky.
 description: SpaceCrate adds planet X-283N1 in the Alpha Centauri system. A rapidly
   developing world obsessed with trade and exports. Run by CEO Arnan de Gans this
   obsession attracts workers from many planets and results in lucrative trade.
-url: https://github.com/adegans/SpaceCrate/archive/refs/tags/v0.4.zip
-iconUrl: https://github.com/adegans/SpaceCrate/raw/v0.4/icon.png
+url: https://github.com/adegans/SpaceCrate/archive/refs/tags/v0.4.1.zip
+iconUrl: https://github.com/adegans/SpaceCrate/raw/v0.4.1/icon.png
 autoupdate:
   type: tag
   update_url: https://github.com/adegans/SpaceCrate
