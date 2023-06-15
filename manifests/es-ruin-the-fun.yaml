@@ -16,4 +16,3 @@ autoupdate:
   type: tag
   url: https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/$version.zip
   iconUrl: https://github.com/pshy0/es-ruin-the-fun/raw/$version/icon.png
-
