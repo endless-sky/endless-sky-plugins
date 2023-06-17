@@ -314,7 +314,7 @@
   authors: Saugia
   homepage: https://github.com/Saugia/celestial-strands
   license: GPL-3.0-or-later
-  version: v0.0.1-alpha
+  version: v0.0.1b-alpha
   shortDescription: Celestial Strands is a plug-in for Endless Sky that adds a new
     area of content based on the original Escape Velocity games, primarily Escape
     Velocity Override.
@@ -324,8 +324,8 @@
     Zachit, and Miranu, and their presence in a new, young galaxy. Will the Strands
     reunite once more under the same banner, or will inner turmoil be their undoing
     yet again?
-  url: https://github.com/Saugia/celestial-strands/archive/refs/tags/v0.0.1-alpha.zip
-  iconUrl: https://github.com/Saugia/celestial-strands/raw/v0.0.1-alpha/icon.png
+  url: https://github.com/Saugia/celestial-strands/archive/refs/tags/v0.0.1b-alpha.zip
+  iconUrl: https://github.com/Saugia/celestial-strands/raw/v0.0.1b-alpha/icon.png
   autoupdate:
     type: tag
     url: https://github.com/Saugia/celestial-strands/archive/refs/tags/$version.zip
