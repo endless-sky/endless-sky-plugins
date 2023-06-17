@@ -31,6 +31,26 @@
     branch: main
     url: https://github.com/samrocketman/Spacefarer/archive/$version.zip
     iconUrl: https://raw.githubusercontent.com/samrocketman/Spacefarer/$version/icon%402x.png
+- name: Celestial Strands
+  authors: Saugia
+  homepage: https://github.com/Saugia/celestial-strands
+  license: GPL-3.0-or-later
+  version: v0.0.1b-alpha
+  shortDescription: Celestial Strands is a plug-in for Endless Sky that adds a new
+    area of content based on the original Escape Velocity games, primarily Escape
+    Velocity Override.
+  description: Celestial Strands brings content from the original Escape Velocity
+    series, primarily Escape Velocity Override, to Endless Sky in a new playable area.
+    The plug-in focuses on the various factions of the Crescent, including the Strands,
+    Zachit, and Miranu, and their presence in a new, young galaxy. Will the Strands
+    reunite once more under the same banner, or will inner turmoil be their undoing
+    yet again?
+  url: https://github.com/Saugia/celestial-strands/archive/refs/tags/v0.0.1b-alpha.zip
+  iconUrl: https://github.com/Saugia/celestial-strands/raw/v0.0.1b-alpha/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/Saugia/celestial-strands/archive/refs/tags/$version.zip
+    iconUrl: https://github.com/Saugia/celestial-strands/raw/$version/icon.png
 - name: High DPI Continuous
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
