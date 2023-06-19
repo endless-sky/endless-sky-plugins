@@ -1,0 +1,13 @@
+name: ES-Deprecated
+authors: Roger Tabris
+homepage: https://github.com/lumbar527/es-deprecated
+license: GPL-3.0-or-later
+version: 7c847f6051fe249fa5b604c52f639780c91dd2fd
+shortDescription: Takes deprecated ships and outfits from Endless Sky.
+description: If you have an old save, you should download this plugin! Deprecated things will not last forever, unless you have this plugin!
+url: https://github.com/lumbar527/es-deprecated/archive/7c847f6051fe249fa5b604c52f639780c91dd2fd.zip
+iconUrl: https://github.com/lumbar527/es-deprecated/raw/7c847f6051fe249fa5b604c52f639780c91dd2fd/images/outfit/blue%20screwdriver.png
+autoupdate:
+  type: commit
+  url: https://github.com/lumbar527/es-deprecated/archive/$version.zip
+  iconUrl: https://github.com/lumbar527/es-deprecated/raw/$version/images/outfit/blue%20screwdriver.png
