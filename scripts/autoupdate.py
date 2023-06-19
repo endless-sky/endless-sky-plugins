@@ -13,7 +13,7 @@ import re
 import semver
 
 
-BASEVERSION = r'^[vV]?((\.?[0-9]+)+)(-?[a-z]+[0-9]*)?$'
+BASEVERSION = r'^[vV]?((\.?[0-9]+)+)[a-z]?(-?[a-z]+[0-9]*)?$'
 
 def get_latest_versioned_tag_from_refs(refs):
     """
@@ -29,10 +29,11 @@ def get_latest_versioned_tag_from_refs(refs):
     Supported version formats where parenthesis show optional values:
         (v) optional prefix
         1.0 a version number of dot-separated nubmers
+        (c) an optional letter
         (-alpha(1)) optional suffix such as -alpha or -alpha1
 
     Example:
-        get_latest_versioned_tag_from_refs(['refs/tags/1.2.3-beta2', 'refs/tags/v1.2.3', 'refs/tags/1.1.1', 'refs/tags/1.2.3-alpha', 'refs/tags/1.2.3-beta'])
+        get_latest_versioned_tag_from_refs(['refs/tags/1.2.3-beta2', 'refs/tags/v1.2.3', 'refs/tags/1.1.1a', 'refs/tags/1.2.3-alpha', 'refs/tags/1.2.3-beta'])
     Returns:
         1.2.3
     """
