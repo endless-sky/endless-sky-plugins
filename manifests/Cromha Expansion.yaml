@@ -9,6 +9,5 @@ url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/v
 iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/blob/v0.0.1-hotfix/icon.png?raw=true
 autoupdate:
   type: tag
-  updateUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin
   url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/$version-hotfix/Cromha-Expansion-plugin.zip
   iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/blob/$version-hotfix/icon.png?raw=true
