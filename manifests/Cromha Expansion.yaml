@@ -5,8 +5,8 @@ license: GPL-3.0-or-later
 version: v0.0.1-hotfix
 shortDescription: Galaxy expansion plugin with various original stuff.
 description: "Adds a new civilization to the Korath Space (now named the 'Empire Space'): The Cromha Empire. Also known as 'The Empire', it is a government that dirige a huge part of the north of the Milky Way. It also a very high advanced government, that has kind of remixed outfits and ships from other vanilla governments. They are human but don't directly have contact with human Merchants, they have contact with the Syndicate, the Republic but they don't allow them to enter their territory. Know more about the plugin in the wiki! (or test the game yourself)"
-url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/$version/Cromha-Expansion-plugin.zip
-iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/blob/$version/icon.png?raw=true
+url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/v0.0.1-hotfix/Cromha-Expansion-plugin.zip
+iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/blob/v0.0.1-hotfix/icon.png?raw=true
 autoupdate:
   type: tag
   url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/$version/Cromha-Expansion-plugin.zip
