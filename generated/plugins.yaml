@@ -172,9 +172,11 @@
     you will find all 6. Look in the about.txt file for spoilers on where to get em.
     It should be mostly lore friendly.
   url: https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/v1.3.zip
+  iconUrl: https://github.com/Startingfresher/Prism-Plug-in/raw/v1.3/icon.png
   autoupdate:
     type: tag
     url: https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/$version.zip
+    iconUrl: https://github.com/Startingfresher/Prism-Plug-in/raw/$version/icon.png
 - name: The Enclave
   authors: Storm Crow (maintained by 1010todd)
   homepage: https://github.com/1010todd/The-Enclave
