@@ -66,15 +66,15 @@
   authors: 1010todd
   homepage: https://github.com/1010todd/Mega-Freight
   license: GPL-3.0-or-later
-  version: 2aecf083fcf517ee66b4b3a7a42f85090aecf112
+  version: 90f67cc76076c691caee80846fb3e1e25575df20
   shortDescription: Adds several mostly civilian ships for you and npc merchants (and
     pirates) to use for more variety in human space. Updated to Unstable releases.
   description: This plugin adds several civilian and some military ships to add some
     more variety to human space and beyond. Mostly focused around larger ships but
     also have smaller freighters and starter-level ships as well. Will be updated
     to be compatible with lastest unstable release.
-  url: https://github.com/1010todd/Mega-Freight/archive/2aecf083fcf517ee66b4b3a7a42f85090aecf112.zip
-  iconUrl: https://github.com/1010todd/Mega-Freight/raw/2aecf083fcf517ee66b4b3a7a42f85090aecf112/icon.png
+  url: https://github.com/1010todd/Mega-Freight/archive/90f67cc76076c691caee80846fb3e1e25575df20.zip
+  iconUrl: https://github.com/1010todd/Mega-Freight/raw/90f67cc76076c691caee80846fb3e1e25575df20/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -409,12 +409,12 @@
   authors: Roger Tabris
   homepage: https://github.com/lumbar527/es-ui-upgrades
   license: GPL-3.0-or-later
-  version: 7d06da8e50be2986fb5814880941ec2e1c62f5f2
+  version: 8439e0b64dfa2594c629d58044cf4ced3fa21483
   shortDescription: A plugin that aims to transform the UI.
   description: This plugin aims to be the first plugin to transform the UI. It tries
     to make it into a more digital interface, with floating transparent blue windows.
-  url: https://github.com/lumbar527/es-ui-upgrades/archive/7d06da8e50be2986fb5814880941ec2e1c62f5f2.zip
-  iconUrl: https://github.com/lumbar527/es-ui-upgrades/raw/7d06da8e50be2986fb5814880941ec2e1c62f5f2/icon.png
+  url: https://github.com/lumbar527/es-ui-upgrades/archive/8439e0b64dfa2594c629d58044cf4ced3fa21483.zip
+  iconUrl: https://github.com/lumbar527/es-ui-upgrades/raw/8439e0b64dfa2594c629d58044cf4ced3fa21483/icon.png
   autoupdate:
     type: commit
     branch: main
