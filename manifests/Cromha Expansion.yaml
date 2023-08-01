@@ -2,7 +2,7 @@ name: Cromha Expansion Plugin
 authors: '@OcelotWalrus/Cromha, @Lumbar527'
 homepage: https://github.com/OcelotWalrus/Cromha-Expansion-plugin
 license: GPL-3.0-or-later
-version: v0.0.2
+version: v0.0.2.5
 shortDescription: Galaxy expansion plugin with various original stuff like new storylines,
   ships & outfits, new concepts and systems as well as a new galaxy.
 description: 'Adds a new civilization to the Korath Space (now named the ''Empire
@@ -11,8 +11,8 @@ description: 'Adds a new civilization to the Korath Space (now named the ''Empir
   They are human but don''t directly have contact with human Merchants, they have
   contact with the Syndicate, the Republic but they don''t allow them to enter their
   territory. Know more about the plugin in the wiki! (or test the game yourself)'
-url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/v0.0.2/Cromha-Expansion-plugin.zip
-iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/blob/v0.0.2/icon.png?raw=true
+url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/v0.0.2.5/Cromha-Expansion-plugin.zip
+iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/blob/v0.0.2.5/icon.png?raw=true
 autoupdate:
   type: tag
   url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/$version/Cromha-Expansion-plugin.zip
