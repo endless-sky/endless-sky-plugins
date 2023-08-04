@@ -17,4 +17,3 @@ autoupdate:
   type: commit
   url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/9.9.9-continuous/Cromha-Expansion-plugin.zip
   iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/$version/icon.png
-  
