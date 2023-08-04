@@ -11,5 +11,10 @@ description: 'Adds a new civilization to the Korath Space (now named the ''Empir
   They are human but don''t directly have contact with human Merchants, they have
   contact with the Syndicate, the Republic but they don''t allow them to enter their
   territory. Know more about the plugin in the wiki! (or test the game yourself)'
-url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/a5c45028d4fe2854ce13fb3109b05d8226cf0015/Cromha-Expansion-plugin.zip
+url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/9.9.9-continuous/Cromha-Expansion-plugin.zip
 iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/blob/a5c45028d4fe2854ce13fb3109b05d8226cf0015/icon.png?raw=true
+autoupdate:
+  type: commit
+  url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/9.9.9-continuous/Cromha-Expansion-plugin.zip
+  iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/$version/icon.png
+  
