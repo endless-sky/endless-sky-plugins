@@ -2,17 +2,16 @@ name: Ruin The Fun
 authors: Pshy
 homepage: https://github.com/pshy0/es-ruin-the-fun
 license: MPL-2.0-no-copyleft-exception
-version: v0.0.15
-shortDescription: Cheat plugin to help development of other plugins.
-description: Ruin-The-Fun (CHEAT PLUGIN) The gods acknowledged your immensity, and
-  are now serving you. This plugin's features are available from the `RTF` systems.
-  The most obvious one is located under `Rutilicus`. All ships and outfits available,
-  plus OP ones, jobs to get free money, change your swizzle and name, choose your
-  combat rank, get an escort, and more... Run `make update` in the plugin's folder
-  to update content from the game data. Run `make plugin-update` in the plugin's folder
-  to include content from other enabled plugins.
-url: https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/v0.0.15.zip
-iconUrl: https://github.com/pshy0/es-ruin-the-fun/raw/v0.0.15/icon.png
+version: v0.0.16
+shortDescription: Cheat plugin, to ruin your fun, or to assist you in making
+  or testing another plugin. https://github.com/Pshy0/es-ruin-the-fun
+description: Ruin-The-Fun is a cheat/development plugin. Change your captain's name,
+  choose the color swizzle of your ships, edit your reputation with other governments,
+  set your combat rank, hire a powerful escort, gift yourself pre-outfitted ships,
+  give yourself money, and much more. All ships and outfits are also available from
+  a few added systems. https://github.com/Pshy0/es-ruin-the-fun
+url: https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/v0.0.16.zip
+iconUrl: https://github.com/pshy0/es-ruin-the-fun/raw/v0.0.16/icon.png
 autoupdate:
   type: tag
   url: https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/$version.zip
