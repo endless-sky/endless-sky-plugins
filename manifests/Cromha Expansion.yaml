@@ -2,7 +2,7 @@ name: Cromha Expansion Plugin
 authors: '@OcelotWalrus/Cromha, @Lumbar527'
 homepage: https://github.com/OcelotWalrus/Cromha-Expansion-plugin
 license: GPL-3.0-or-later
-version: a5c45028d4fe2854ce13fb3109b05d8226cf0015
+version: 66bb59d79cc0b6e2bdd0f69464cdd85c0f541736
 shortDescription: Add new high-tier and low-tier factions and expand the existing
   one. Adds different new storyline and introduce new gameplay mechanics.
 description: 'Adds a new civilization to the Korath Space (now named the ''Empire
@@ -12,7 +12,7 @@ description: 'Adds a new civilization to the Korath Space (now named the ''Empir
   contact with the Syndicate, the Republic but they don''t allow them to enter their
   territory. Know more about the plugin in the wiki! (or test the game yourself)'
 url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/9.9.9-continuous/Cromha-Expansion-plugin.zip
-iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/blob/a5c45028d4fe2854ce13fb3109b05d8226cf0015/icon.png?raw=true
+iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/blob/66bb59d79cc0b6e2bdd0f69464cdd85c0f541736/icon.png?raw=true
 autoupdate:
   type: commit
   url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/9.9.9-continuous/Cromha-Expansion-plugin.zip
