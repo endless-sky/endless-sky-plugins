@@ -510,7 +510,7 @@
   authors: '@OcelotWalrus/Cromha, @Lumbar527'
   homepage: https://github.com/OcelotWalrus/Cromha-Expansion-plugin
   license: GPL-3.0-or-later
-  version: v0.0.2
+  version: 8530819f62d932a32ff7aec2648fbd6cfd3b28a4
   shortDescription: Add new high-tier and low-tier factions and expand the existing
     one. Adds different new storyline and introduce new gameplay mechanics.
   description: 'Adds a new civilization to the Korath Space (now named the ''Empire
@@ -520,12 +520,12 @@
     they have contact with the Syndicate, the Republic but they don''t allow them
     to enter their territory. Know more about the plugin in the wiki! (or test the
     game yourself)'
-  url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/v0.0.2/Cromha-Expansion-plugin.zip
-  iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/blob/v0.0.2/icon.png?raw=true
+  url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/archive/8530819f62d932a32ff7aec2648fbd6cfd3b28a4.zip
+  iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/blob/8530819f62d932a32ff7aec2648fbd6cfd3b28a4/icon.png?raw=true
   autoupdate:
-    type: tag
-    url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/releases/download/$version/Cromha-Expansion-plugin.zip
-    iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/blob/$version/icon.png?raw=true
+    type: commit
+    url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/archive/$version.zip
+    iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/$version/icon.png
 - name: The Adamas Project
   authors: toilethinges & Bereskatuket (Kestrel1110)
   homepage: https://github.com/kestrel1110/Adamas-Project
