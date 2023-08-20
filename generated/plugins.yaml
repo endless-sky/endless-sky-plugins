@@ -128,7 +128,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/Aben
   license: GPL-3.0-or-later
-  version: 5373aadbc7b5576e2d316d59ead099a44ac1efa3
+  version: d5e52b1260c7a96a1e6f48e7476640e8ac6dfa6a
   shortDescription: Fills in space in the galaxy with a new alien species.
   description: 'Beyond the reaches of ordinary space faring civilizations lie the
     cluster of systems afforded to the Aben. Impressive technological advancement
@@ -136,7 +136,7 @@
     between all life and rarely show signs of hostility.
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/Adde-Endless-Sky/Aben/archive/5373aadbc7b5576e2d316d59ead099a44ac1efa3.zip
+  url: https://github.com/Adde-Endless-Sky/Aben/archive/d5e52b1260c7a96a1e6f48e7476640e8ac6dfa6a.zip
   autoupdate:
     type: commit
     branch: main
@@ -509,7 +509,7 @@
   authors: '@OcelotWalrus/Cromha, @Lumbar527'
   homepage: https://github.com/OcelotWalrus/Cromha-Expansion-plugin
   license: GPL-3.0-or-later
-  version: 7e97d70c7312184cb786f32d51d7d38d4bb1fff0
+  version: af356bd31aa5829821a736a1cda9021a7ea0b9d1
   shortDescription: Add new high-tier and low-tier factions and expand the existing
     one. Adds different new storyline and introduce new gameplay mechanics.
   description: 'Adds a new civilization to the Korath Space (now named the ''Empire
@@ -519,8 +519,8 @@
     they have contact with the Syndicate, the Republic but they don''t allow them
     to enter their territory. Know more about the plugin in the wiki! (or test the
     game yourself)'
-  url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/archive/7e97d70c7312184cb786f32d51d7d38d4bb1fff0.zip
-  iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/7e97d70c7312184cb786f32d51d7d38d4bb1fff0/icon.png
+  url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/archive/af356bd31aa5829821a736a1cda9021a7ea0b9d1.zip
+  iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/af356bd31aa5829821a736a1cda9021a7ea0b9d1/icon.png
   autoupdate:
     type: commit
     branch: main
