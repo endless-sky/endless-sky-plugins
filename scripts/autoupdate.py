@@ -45,7 +45,9 @@ def get_latest_versioned_tag_from_refs(refs):
     # numbers separated by periods)
     tags=list(filter(lambda x: re.match(BASEVERSION, x), tags))
     # Sort list from lowest to highest version (last item is highest version)
-    tags.sort(key=distutils.version.LooseVersion)
+    def key(v):
+    	return distutils.version.LooseVersion(v.lstrip('vV'))
+    tags.sort(key=key)
     # return the highest version which is the last item in list
     return tags[-1]
 
