@@ -548,10 +548,10 @@
     "authors": "Darcy Manoel",
     "homepage": "https://github.com/Adde-Endless-Sky/Aben",
     "license": "GPL-3.0-or-later",
-    "version": "129bb3e7f4d239c895b2e0589d277e7a25f61021",
+    "version": "eeaac17ab7d789f2498c631b1231c2699ffd5ee3",
     "shortDescription": "Fills in space in the galaxy with a new alien species.",
     "description": "Beyond the reaches of ordinary space faring civilizations lie the cluster of systems afforded to the Aben. Impressive technological advancement contrasts the clear non expansionist nature of the Aben, they believe in cooperation between all life and rarely show signs of hostility.\nThis plugin is part of the Adde Endless Sky collection.",
-    "url": "https://github.com/Adde-Endless-Sky/Aben/archive/129bb3e7f4d239c895b2e0589d277e7a25f61021.zip",
+    "url": "https://github.com/Adde-Endless-Sky/Aben/archive/eeaac17ab7d789f2498c631b1231c2699ffd5ee3.zip",
     "autoupdate": {
       "type": "commit",
       "branch": "main",
@@ -736,10 +736,10 @@
     "authors": "Josh Mudge",
     "homepage": "https://github.com/mathwhiz1212/A-Coalition-At-War",
     "license": "GPL-3.0-or-later",
-    "version": "v0.10.0a",
+    "version": "v.10.0.1a",
     "shortDescription": "Pick a side in the war between the Coalition and Quarg. I am looking for story and mission suggestions https://github.com/mathwhiz1212/A-Coalition-At-War/",
     "description": "You hear a lot about the conflict between the Coalition and the Quarg in Endless Sky, but you never see it. This plugin introduces a storyline that lets you see or join that conflict. You can loot Quarg ships or capture Heliarch ships depending on the side you choose. You can start the few implemented missions by landing on \"Tebuteb's Table\" in the Tebuteb system and accept the anamoly mission. Please consider helping to add more misisons and stories https://github.com/mathwhiz1212/A-Coalition-At-War/issues/new/choose",
-    "url": "https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/v0.10.0a.zip",
+    "url": "https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/v.10.0.1a.zip",
     "autoupdate": {
       "type": "tag",
       "url": "https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/$version.zip"
