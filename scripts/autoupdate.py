@@ -13,7 +13,7 @@ import re
 import semver
 
 
-BASEVERSION = r'^[vV]?((\.?[0-9]+)+)[a-z]?(-?[a-z]+[0-9]*)?$'
+BASEVERSION = r'^[vV]?[0-9]+(\.?[0-9]+)*[a-z]?(-?[a-z]+[0-9]*)?$'
 
 def get_latest_versioned_tag_from_refs(refs):
     """
