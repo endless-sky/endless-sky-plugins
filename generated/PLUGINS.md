@@ -1,7 +1,7 @@
 
 | | Name | Author | Description |
 |-|------|--------|-------------|
-| ![Icon](https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png) | [A Coalition at War](https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/v.10.0.1a.zip) | Josh Mudge | Pick a side in the war between the Coalition and Quarg. I am looking for story and mission suggestions https://github.com/mathwhiz1212/A-Coalition-At-War/ |
+| ![Icon](https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png) | [A Coalition at War](https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/v0.10.1a.zip) | Josh Mudge | Pick a side in the war between the Coalition and Quarg. I am looking for story and mission suggestions https://github.com/mathwhiz1212/A-Coalition-At-War/ |
 | ![Icon](https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png) | [A Conscience Plugin](https://github.com/mathwhiz1212/ES-conscience-plugin/archive/refs/tags/v0.2.0.zip) | Josh Mudge | You get more help from the Quarg so you don't have to kill civilians by dropping a big bomb on Zenith. |
 | ![Icon](https://raw.githubusercontent.com/endless-sky/endless-sky/master/images/outfit/unknown.png) | [Aben](https://github.com/Adde-Endless-Sky/Aben/archive/eeaac17ab7d789f2498c631b1231c2699ffd5ee3.zip) | Darcy Manoel | Fills in space in the galaxy with a new alien species. |
 | ![Icon](https://github.com/endless-sky/all-content-plugin/raw/v0.9.14/icon.png) | [All Content Plugin](https://github.com/endless-sky/all-content-plugin/archive/refs/tags/v0.9.14.zip) | Michael Zahniser | Endless Sky plugin giving the player access to all ships and outfits. |
