@@ -3,10 +3,10 @@
   "authors": "Josh Mudge",
   "homepage": "https://github.com/mathwhiz1212/A-Coalition-At-War",
   "license": "GPL-3.0-or-later",
-  "version": "v0.10.0a",
+  "version": "v0.10.1a",
   "shortDescription": "Pick a side in the war between the Coalition and Quarg. I am looking for story and mission suggestions https://github.com/mathwhiz1212/A-Coalition-At-War/",
   "description": "You hear a lot about the conflict between the Coalition and the Quarg in Endless Sky, but you never see it. This plugin introduces a storyline that lets you see or join that conflict. You can loot Quarg ships or capture Heliarch ships depending on the side you choose. You can start the few implemented missions by landing on \"Tebuteb's Table\" in the Tebuteb system and accept the anamoly mission. Please consider helping to add more misisons and stories https://github.com/mathwhiz1212/A-Coalition-At-War/issues/new/choose",
-  "url": "https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/v0.10.0a.zip",
+  "url": "https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/v0.10.1a.zip",
   "autoupdate": {
     "type": "tag",
     "url": "https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/$version.zip"

@@ -2,14 +2,16 @@ name: Prism Plugin
 authors: Startingfresher
 homepage: https://github.com/Startingfresher/Prism-Plug-in
 license: GPL-3.0-or-later
-version: v1.2
+version: v1.3
 shortDescription: Allows you to change your ship swizzle(colors, sort of) easily in
   game.
 description: The plugin adds missions on every star that let you change your fleet
   swizzle to a few options. When you start the game you get access to two, eventually
   you will find all 6. Look in the about.txt file for spoilers on where to get em.
   It should be mostly lore friendly.
-url: https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/v1.2.zip
+url: https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/v1.3.zip
+iconUrl: https://github.com/Startingfresher/Prism-Plug-in/raw/v1.3/icon.png
 autoupdate:
   type: tag
   url: https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/$version.zip
+  iconUrl: https://github.com/Startingfresher/Prism-Plug-in/raw/$version/icon.png

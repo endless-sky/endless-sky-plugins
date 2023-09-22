@@ -1,0 +1,14 @@
+name: Old Bounty Hunting Missions
+authors: fracturedprism
+homepage: https://github.com/fracturedprism/Old-Bounty-Hunting-Missions
+license: GPL-3.0-or-later
+version: v0.1.0
+shortDescription: Replaces timed bounty hunting missions with the old untimed ones.
+description: Feel like the timed bounty missions in Endless Sky are too fast for your
+  taste? Want to stack those jobs, perhaps as a challenge for a ship build or just
+  for that satisfying feeling of credits rolling in after a long patrol? Then this
+  plugin is for you :)
+url: https://github.com/fracturedprism/Old-Bounty-Hunting-Missions/archive/refs/tags/v0.1.0.zip
+autoupdate:
+  type: tag
+  url: https://github.com/fracturedprism/Old-Bounty-Hunting-Missions/archive/refs/tags/$version.zip

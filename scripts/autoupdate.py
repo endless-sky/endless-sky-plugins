@@ -8,12 +8,13 @@
 import yaml
 import sys
 import os
+import distutils.version
 import dulwich.porcelain
 import re
 import semver
 
 
-BASEVERSION = r'^[vV]?((\.?[0-9]+)+)[a-z]?(-?[a-z]+[0-9]*)?$'
+BASEVERSION = r'^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-z]+[0-9]*)?$'
 
 def get_latest_versioned_tag_from_refs(refs):
     """
@@ -44,14 +45,8 @@ def get_latest_versioned_tag_from_refs(refs):
     # numbers separated by periods)
     tags=list(filter(lambda x: re.match(BASEVERSION, x), tags))
     # Sort list from lowest to highest version (last item is highest version)
-    # Converts each version number into a list of ints and compares the lists
-    # for ordered integers.  The end result is the same list of tag names but
-    # sorted according to version number.
     def key(tag):
-        match = re.match(BASEVERSION, tag)
-        version = list(map(int, match.group(1).split('.'))) # List of ints, so they can be properly compared
-        suffix = match.groups()[-1] or '\xff' * 100 # Make sure no suffix is considered "greater" than any other suffix
-        return (version, suffix)
+        return distutils.version.LooseVersion(tag.lstrip('vV'))
     tags.sort(key=key)
     # return the highest version which is the last item in list
     return tags[-1]
