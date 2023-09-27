@@ -1,15 +1,15 @@
 name: ES-ui-upgrades
 authors: Roger Tabris
-homepage: https://github.com/lumbar527/es-ui-upgrades
+homepage: https://github.com/Cromha-Plugins/es-ui-upgrades
 license: GPL-3.0-or-later
-version: 8439e0b64dfa2594c629d58044cf4ced3fa21483
+version: ae84365e48b5504b1b37e2d090f8d46b2a9f2b2a
 shortDescription: A plugin that aims to transform the UI.
 description: This plugin aims to be the first plugin to transform the UI. It tries
   to make it into a more digital interface, with floating transparent blue windows.
-url: https://github.com/lumbar527/es-ui-upgrades/archive/8439e0b64dfa2594c629d58044cf4ced3fa21483.zip
-iconUrl: https://github.com/lumbar527/es-ui-upgrades/raw/8439e0b64dfa2594c629d58044cf4ced3fa21483/icon.png
+url: https://github.com/Cromha-Plugins/es-ui-upgrades/archive/ae84365e48b5504b1b37e2d090f8d46b2a9f2b2a.zip
+iconUrl: https://github.com/Cromha-Plugins/es-ui-upgrades/raw/ae84365e48b5504b1b37e2d090f8d46b2a9f2b2a/icon.png
 autoupdate:
   type: commit
   branch: main
-  url: https://github.com/lumbar527/es-ui-upgrades/archive/$version.zip
-  iconUrl: https://github.com/lumbar527/es-ui-upgrades/raw/$version/icon.png
+  url: https://github.com/Cromha-Plugins/es-ui-upgrades/archive/$version.zip
+  iconUrl: https://github.com/Cromha-Plugins/es-ui-upgrades/raw/$version/icon.png
