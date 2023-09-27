@@ -408,7 +408,7 @@
   },
   {
     "name": "ES-ui-upgrades",
-    "authors": "@OcelotWalrus/Cromha",
+    "authors": "Roger Tabris",
     "homepage": "https://github.com/Cromha-Plugins/es-ui-upgrades",
     "license": "GPL-3.0-or-later",
     "version": "ae84365e48b5504b1b37e2d090f8d46b2a9f2b2a",
