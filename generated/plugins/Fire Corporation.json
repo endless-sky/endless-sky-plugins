@@ -1,16 +1,16 @@
 {
   "name": "Fire Corporation Plugin",
   "authors": "Roger Tabris",
-  "homepage": "https://github.com/lumbar527/Fire-Corporation",
+  "homepage": "https://github.com/Cromha-Plugins/Fire-Corporation",
   "license": "GPL-3.0-or-later",
   "version": "v0.2",
   "shortDescription": "A plugin about an manufacturing faction called Fire Corporation that hates pirates and will not allow them to have their ships. Contributions welcome!",
   "description": "Fire Corporation is a manufacturing faction that makes several human ships. They hate pirates, and will try their best to keep them away from their ships. Please help by contributing to the storyline!",
-  "url": "https://github.com/lumbar527/Fire-Corporation/archive/refs/tags/v0.2.zip",
-  "iconUrl": "https://github.com/lumbar527/Fire-Corporation/raw/v0.2/icon.png",
+  "url": "https://github.com/Cromha-Plugins/Fire-Corporation/archive/refs/tags/v0.2.zip",
+  "iconUrl": "https://github.com/Cromha-Plugins/Fire-Corporation/raw/v0.2/icon.png",
   "autoupdate": {
     "type": "tag",
-    "url": "https://github.com/lumbar527/Fire-Corporation/archive/refs/tags/$version.zip",
-    "iconUrl": "https://github.com/lumbar527/Fire-Corporation/raw/$version/icon.png"
+    "url": "https://github.com/Cromha-Plugins/Fire-Corporation/archive/refs/tags/$version.zip",
+    "iconUrl": "https://github.com/Cromha-Plugins/Fire-Corporation/raw/$version/icon.png"
   }
 }
