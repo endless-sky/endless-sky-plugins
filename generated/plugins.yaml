@@ -397,7 +397,7 @@
   authors: ZBok
   homepage: https://github.com/ZBok/BetterVanillaPirates/
   license: GPL-3.0-or-later
-  version: v1.41
+  version: v2.0
   shortDescription: Makes pirates more interesting, varied, with many more pirate
     fighting missions.
   description: Adds 30+ high end variants for human heavy warships and marauders using
@@ -406,8 +406,8 @@
     Hunted" fleets that will hunt you down without warning. Adds new "Korath Raid"
     missions in certain Syndicate systems where the Korath will attack with their
     Sestor/Mereti drones, allowing you to capture these ships post-Wanderer campaign.
-  url: https://github.com/ZBok/BetterVanillaPirates/archive/v1.41.zip
-  iconUrl: https://raw.githubusercontent.com/ZBok/BetterVanillaPirates/v1.41/icon.png
+  url: https://github.com/ZBok/BetterVanillaPirates/archive/v2.0.zip
+  iconUrl: https://raw.githubusercontent.com/ZBok/BetterVanillaPirates/v2.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/ZBok/BetterVanillaPirates/archive/$version.zip
