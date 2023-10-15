@@ -531,7 +531,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/-Omnis
   license: GPL-3.0-or-later
-  version: e4a0df1dd3f0cca1b2274ae18853431c29942ec5
+  version: ef2072e3dd18d98ccb3091d57ffb9305381ae2cc
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: 'The most extensive all-content plugin to date. All vanilla content
@@ -539,7 +539,7 @@
     builds. Many more tools are included into Omnis too!
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/e4a0df1dd3f0cca1b2274ae18853431c29942ec5.zip
+  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/ef2072e3dd18d98ccb3091d57ffb9305381ae2cc.zip
   autoupdate:
     type: commit
     branch: main
@@ -641,7 +641,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/Aben
   license: GPL-3.0-or-later
-  version: 24b41a5436b8e82fdb0645f5dd8257891d330b1a
+  version: 492e0cca8f52cdc744990054066ce3a08e1f0d13
   shortDescription: Fills in space in the galaxy with a new alien species.
   description: 'Beyond the reaches of ordinary space faring civilizations lie the
     cluster of systems afforded to the Aben. Impressive technological advancement
@@ -649,7 +649,7 @@
     between all life and rarely show signs of hostility.
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/Adde-Endless-Sky/Aben/archive/24b41a5436b8e82fdb0645f5dd8257891d330b1a.zip
+  url: https://github.com/Adde-Endless-Sky/Aben/archive/492e0cca8f52cdc744990054066ce3a08e1f0d13.zip
   autoupdate:
     type: commit
     branch: main
