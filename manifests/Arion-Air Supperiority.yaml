@@ -5,17 +5,17 @@ license: CC-BY-SA-4.0
 version: v3.0.0
 shortDescription: Plugin that adds a bunch of interesting things, including some modern military fighters and weapons.
 description: |
-	An Endless Sky plugin that adds a variety of things to endless sky, including:
-	-Real life fighters
-	-Real life bombers
-	-Ace combat super planes
-	-Xenonauts fighters
-	-A bunch of new H2H weapons based on real life weapons
-	-Advanced outfits
-	-Specialized weapons
-	-Superweapons
-	-Custom capital ships
-	-1 (or 2) new 'short campaigns' and some new jobs
-	-ETC
+  An Endless Sky plugin that adds a variety of things to endless sky, including:
+  -Real life fighters
+  -Real life bombers
+  -Ace combat super planes
+  -Xenonauts fighters
+  -A bunch of new H2H weapons based on real life weapons
+  -Advanced outfits
+  -Specialized weapons
+  -Superweapons
+  -Custom capital ships
+  -1 (or 2) new 'short campaigns' and some new jobs
+  -ETC
 url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/3.0.0.zip
 iconUrl: https://github.com/Spectre907YT/Arion-Air_Superiority/blob/main/icon.png
