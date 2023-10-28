@@ -77,12 +77,12 @@ def get_latest_version(au_type, au_url, au_branch):
 
 
 def update(file):
-    if not "autoupdate" in manifest:
-        return
-
     print("Running autoupdate for " + file)
     with open(file, "r") as f:
         manifest = yaml.load(f, Loader=yaml.FullLoader)
+
+    if not "autoupdate" in manifest:
+        return
 
     au = manifest["autoupdate"]
     au_type = au["type"]
