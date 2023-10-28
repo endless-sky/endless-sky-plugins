@@ -1,0 +1,11 @@
+{
+  "name": "Arion - Air Superiority",
+  "authors": "Spectre907 (With help from 1010todd, yuyuko_saigyouji. and gefulltetaubenbrust)",
+  "homepage": "https://github.com/Spectre907YT/Arion-Air_Superiority",
+  "license": "GPL-3.0-or-later",
+  "version": "v3.0.0",
+  "shortDescription": "Plugin that adds a bunch of interesting things, including some modern military fighters and weapons.",
+  "description": "An Endless Sky plugin that adds a variety of things to endless sky, including:\n-Real life fighters\n-Real life bombers\n-Ace combat super planes\n-Xenonauts fighters\n-A bunch of new H2H weapons based on real life weapons\n-Advanced outfits\n-Specialized weapons\n-Superweapons\n-Custom capital ships\n-1 (or 2) new 'short campaigns' and some new jobs\n-ETC\n",
+  "url": "https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/3.0.0.zip",
+  "iconUrl": "https://github.com/Spectre907YT/Arion-Air_Superiority/raw/3.0.0/icon.png"
+}
