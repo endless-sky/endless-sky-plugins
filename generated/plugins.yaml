@@ -540,10 +540,10 @@
     type: tag
     url: https://github.com/leklachu/endless-sky-syndicate/releases/download/$version/crisis-in-management_$version.zip
 - name: Arion - Air Superiority
-  authors: Spectre907 (With help from 1010todd, yuyuko_saigyouji. and gefulltetaubenbrust)
+  authors: Spectre907
   homepage: https://github.com/Spectre907YT/Arion-Air_Superiority
-  license: GPL-3.0-or-later
-  version: v3.0.0
+  license: CC-BY-SA 4.0
+  version: v3.0.1
   shortDescription: Plugin that adds a bunch of interesting things, including some
     modern military fighters and weapons.
   description: 'An Endless Sky plugin that adds a variety of things to endless sky,
@@ -571,9 +571,12 @@
 
     -ETC
 
+    Special thanks to 1010todd, yuyuko_saigyouji. and gefulltetaubenbrust for some
+    of the sprites.
+
     '
-  url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/3.0.0.zip
-  iconUrl: https://github.com/Spectre907YT/Arion-Air_Superiority/raw/3.0.0/icon.png
+  url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/3.0.1.zip
+  iconUrl: https://github.com/Spectre907YT/Arion-Air_Superiority/raw/3.0.1/icon.png
 - name: Prism Plugin
   authors: Startingfresher
   homepage: https://github.com/Startingfresher/Prism-Plug-in
