@@ -524,12 +524,17 @@
     "name": "Arion - Air Superiority",
     "authors": "Spectre907",
     "homepage": "https://github.com/Spectre907YT/Arion-Air_Superiority",
-    "license": "CC-BY-SA 4.0",
+    "license": "GPL-3.0-or-later",
     "version": "v3.0.1",
-    "shortDescription": "Plugin that adds a bunch of interesting things, including some modern military fighters and weapons.",
+    "shortDescription": "Plugin that adds a bunch of interesting things, mainly some modern military planes and weapons.",
     "description": "An Endless Sky plugin that adds a variety of things to endless sky, including:\n-Real life fighters\n-Real life bombers\n-Ace combat super planes\n-Xenonauts fighters\n-A bunch of new H2H weapons based on real life weapons\n-Advanced outfits\n-Specialized weapons\n-Superweapons\n-Custom capital ships\n-1 (or 2) new 'short campaigns' and some new jobs\n-ETC\nSpecial thanks to 1010todd, yuyuko_saigyouji. and gefulltetaubenbrust for some of the sprites.\n",
     "url": "https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/3.0.1.zip",
-    "iconUrl": "https://github.com/Spectre907YT/Arion-Air_Superiority/raw/3.0.1/icon.png"
+    "iconUrl": "https://github.com/Spectre907YT/Arion-Air_Superiority/raw/3.0.1/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/Spectre907YT/Arion-Air_Superiority/$version/icon.png"
+    }
   },
   {
     "name": "Prism Plugin",
