@@ -350,7 +350,7 @@
   authors: '@OcelotWalrus/Cromha, @Lumbar527'
   homepage: https://github.com/OcelotWalrus/Cromha-Expansion-plugin
   license: GPL-3.0-or-later
-  version: aa826ce410b70cbdf1acc909267705f234aa4e7e
+  version: 2f838c4af1624e79524212b547ecbd4a53f59eba
   shortDescription: Add new high-tier and low-tier factions and expand the existing
     one. Adds different new storyline and introduce new gameplay mechanics.
   description: 'Adds a new civilization to the Korath Space (now named the ''Empire
@@ -360,8 +360,8 @@
     they have contact with the Syndicate, the Republic but they don''t allow them
     to enter their territory. Know more about the plugin in the wiki! (or test the
     game yourself)'
-  url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/archive/aa826ce410b70cbdf1acc909267705f234aa4e7e.zip
-  iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/aa826ce410b70cbdf1acc909267705f234aa4e7e/icon.png
+  url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/archive/2f838c4af1624e79524212b547ecbd4a53f59eba.zip
+  iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/2f838c4af1624e79524212b547ecbd4a53f59eba/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -540,10 +540,10 @@
     type: tag
     url: https://github.com/leklachu/endless-sky-syndicate/releases/download/$version/crisis-in-management_$version.zip
 - name: Arion - Air Superiority
-  authors: Spectre907 (With help from 1010todd, yuyuko_saigyouji. and gefulltetaubenbrust)
+  authors: Spectre907
   homepage: https://github.com/Spectre907YT/Arion-Air_Superiority
-  license: GPL-3.0-or-later
-  version: v3.0.0
+  license: CC-BY-SA 4.0
+  version: v3.0.1
   shortDescription: Plugin that adds a bunch of interesting things, including some
     modern military fighters and weapons.
   description: 'An Endless Sky plugin that adds a variety of things to endless sky,
@@ -571,9 +571,12 @@
 
     -ETC
 
+    Special thanks to 1010todd, yuyuko_saigyouji. and gefulltetaubenbrust for some
+    of the sprites.
+
     '
-  url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/3.0.0.zip
-  iconUrl: https://github.com/Spectre907YT/Arion-Air_Superiority/raw/3.0.0/icon.png
+  url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/3.0.1.zip
+  iconUrl: https://github.com/Spectre907YT/Arion-Air_Superiority/raw/3.0.1/icon.png
 - name: Prism Plugin
   authors: Startingfresher
   homepage: https://github.com/Startingfresher/Prism-Plug-in
@@ -660,7 +663,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/Adde-Endless-Sky/-Omnis
   license: GPL-3.0-or-later
-  version: 4fa99d26298a6295cc9c31d42b72b4a4e1e7880e
+  version: ccd6276298fb400100791c0e5a4fa2f6f827ca02
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: 'The most extensive all-content plugin to date. All vanilla content
@@ -668,7 +671,7 @@
     builds. Many more tools are included into Omnis too!
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/4fa99d26298a6295cc9c31d42b72b4a4e1e7880e.zip
+  url: https://github.com/Adde-Endless-Sky/-Omnis/archive/ccd6276298fb400100791c0e5a4fa2f6f827ca02.zip
   autoupdate:
     type: commit
     branch: main
