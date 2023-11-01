@@ -22,5 +22,5 @@ url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/3.0
 iconUrl: https://github.com/Spectre907YT/Arion-Air_Superiority/raw/3.0.1/icon.png
 autoupdate:
   type: tag
-  url: https://github.com/Spectre907YT/Arion-Air_Superiority/releases/download/$version/Arion-Air_Superiority-$version.zip
+  url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/$version.zip
   iconUrl: https://raw.githubusercontent.com/Spectre907YT/Arion-Air_Superiority/$version/icon.png
