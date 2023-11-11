@@ -2,7 +2,7 @@
   authors: Spectre907
   homepage: https://github.com/Spectre907YT/Arion-Air_Superiority
   license: GPL-3.0-or-later
-  version: 3.1.0
+  version: 3.2.0
   shortDescription: Plugin that adds a bunch of interesting things, mainly some modern
     military planes and weapons.
   description: 'An Endless Sky plugin that adds a variety of things to endless sky,
@@ -34,8 +34,8 @@
     of the sprites.
 
     '
-  url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/3.1.0.zip
-  iconUrl: https://raw.githubusercontent.com/Spectre907YT/Arion-Air_Superiority/3.1.0/icon.png
+  url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/3.2.0.zip
+  iconUrl: https://raw.githubusercontent.com/Spectre907YT/Arion-Air_Superiority/3.2.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/$version.zip
@@ -74,7 +74,7 @@
   authors: '@OcelotWalrus/Cromha, @Lumbar527'
   homepage: https://github.com/OcelotWalrus/Cromha-Expansion-plugin
   license: GPL-3.0-or-later
-  version: d7f5df415e1a9f672826a3ac7ae8cd8cb125d671
+  version: 00185f5129c0f1b87c2aac0e49f5e01aab5d0332
   shortDescription: Add new high-tier and low-tier factions and expand the existing
     one. Adds different new storyline and introduce new gameplay mechanics.
   description: 'Adds a new civilization to the Korath Space (now named the ''Empire
@@ -84,8 +84,8 @@
     they have contact with the Syndicate, the Republic but they don''t allow them
     to enter their territory. Know more about the plugin in the wiki! (or test the
     game yourself)'
-  url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/archive/d7f5df415e1a9f672826a3ac7ae8cd8cb125d671.zip
-  iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/d7f5df415e1a9f672826a3ac7ae8cd8cb125d671/icon.png
+  url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/archive/00185f5129c0f1b87c2aac0e49f5e01aab5d0332.zip
+  iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/00185f5129c0f1b87c2aac0e49f5e01aab5d0332/icon.png
   autoupdate:
     type: commit
     branch: main
