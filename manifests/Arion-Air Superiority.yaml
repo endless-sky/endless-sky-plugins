@@ -2,7 +2,7 @@ name: Arion - Air Superiority
 authors: Spectre907
 homepage: https://github.com/Spectre907YT/Arion-Air_Superiority
 license: GPL-3.0-or-later
-version: 3.1.0
+version: 3.2.0
 shortDescription: Plugin that adds a bunch of interesting things, mainly some modern
   military planes and weapons.
 description: 'An Endless Sky plugin that adds a variety of things to endless sky,
@@ -34,8 +34,8 @@ description: 'An Endless Sky plugin that adds a variety of things to endless sky
   the sprites.
 
   '
-url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/3.1.0.zip
-iconUrl: https://raw.githubusercontent.com/Spectre907YT/Arion-Air_Superiority/3.1.0/icon.png
+url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/3.2.0.zip
+iconUrl: https://raw.githubusercontent.com/Spectre907YT/Arion-Air_Superiority/3.2.0/icon.png
 autoupdate:
   type: tag
   url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/$version.zip
