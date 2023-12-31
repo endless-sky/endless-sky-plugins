@@ -30,13 +30,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Scrapyard
   license: GPL-3.0-or-later
-  version: 0.10.4.0.3
+  version: 0.10.4.0.4
   shortDescription: A plugin suggesting an epilogue for the Kor Sestor region of Endless
     Sky. Includes some new ships, outfits, and missions.
   description: This region of space has abandoned derelicts waiting to be scavenged.
     But something lurks amongst the wreckage...
-  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.10.4.0.3/Midnight.Scrapyard-0.10.4.0.3.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.10.4.0.3/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.10.4.0.4/Midnight.Scrapyard-0.10.4.0.4.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.10.4.0.4/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/$version/Midnight.Scrapyard-$version.zip
@@ -429,13 +429,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
   license: GPL-3.0-or-later
-  version: 0.10.4.6.1
+  version: 0.10.4.6.2
   shortDescription: Lost in Midnight is a mission focused plugin for the Endless Sky
     game. Features new missions, systems, outfits, ships, and variants.
   description: Lost technology, Lost knowledge, And people, who have lost their way
     trying to navigate life in this vast galaxy...
-  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.4.6.1/Lost.in.Midnight-0.10.4.6.1.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.4.6.1/icon.png
+  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.4.6.2/Lost.in.Midnight-0.10.4.6.2.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.4.6.2/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip
