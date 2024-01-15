@@ -8,13 +8,14 @@
 import yaml
 import sys
 import os
-import distutils.version
 import dulwich.porcelain
+import functools
 import re
-import semver
+import itertools
 
 
 BASEVERSION = r'^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-z]+[0-9]*)?$'
+VERSION_COMPONENTS = re.compile(r'(\d+ | [a-z]+ | \.)', re.VERBOSE)
 
 def get_latest_versioned_tag_from_refs(refs):
     """
@@ -45,11 +46,41 @@ def get_latest_versioned_tag_from_refs(refs):
     # numbers separated by periods)
     tags=list(filter(lambda x: re.match(BASEVERSION, x), tags))
     # Sort list from lowest to highest version (last item is highest version)
-    def key(tag):
-        return distutils.version.LooseVersion(tag.lstrip('vV'))
-    tags.sort(key=key)
+
+    # This is taken from distutils.version.LooseVersion - we need access to the component list, so we have to reimplement
+    def parse_version(vstring):
+        vstring = vstring.lstrip('vV')
+        components = [x for x in VERSION_COMPONENTS.split(vstring) if x and x != '.']
+        for i, obj in enumerate(components):
+            try:
+                components[i] = int(obj)
+            except ValueError:
+                pass
+        return components
+
+    def cmp(tag1, tag2):
+        components1 = parse_version(tag1)
+        components2 = parse_version(tag2)
+        # can't compare mixed lists of int & str directly, so we iterate
+        for (x, y) in itertools.zip_longest(components1, components2):
+            if x == y:
+                continue
+            # longer version > shorter version
+            if x is None:
+                return -1
+            if y is None:
+                return 1
+            if type(x) != type(y):
+                # in case of mixed types, int > str
+                return (type(x) == int) - (type(y) == int)
+            else:
+                return (x > y) - (x < y)  # old school cmp
+        return 0  # equality
+
+    tags.sort(key=functools.cmp_to_key(cmp))
     # return the highest version which is the last item in list
     return tags[-1]
+
 
 def ls_remote(url):
     byte_dict = dulwich.porcelain.ls_remote(url)
