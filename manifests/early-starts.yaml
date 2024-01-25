@@ -2,7 +2,7 @@ name: Early Starts
 authors: jmelesky
 homepage: https://codeberg.org/jmelesky/endless-sky-early-starts
 license: CC-BY-SA-4.0
-version: 0.9
+version: v0.9
 shortDescription: Start the game at one of five earlier dates
 description: Real simple. Start the same way, in the same place, but earlier.
   Why? The big reason would be more time before the plot kicks off
