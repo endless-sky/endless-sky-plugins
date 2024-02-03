@@ -425,10 +425,10 @@
     "authors": "jmelesky",
     "homepage": "https://codeberg.org/jmelesky/endless-sky-early-starts",
     "license": "CC-BY-SA-4.0",
-    "version": "v0.9",
+    "version": "v0.99",
     "shortDescription": "Start the game at one of five earlier dates",
     "description": "Real simple. Start the same way, in the same place, but earlier. Why? The big reason would be more time before the plot kicks off (which is date-based). You can use that time to get started on quests that are unavailable after the plot starts, or to prep yourself well for the main plot, or just to play for years without having to worry about the plot.",
-    "url": "https://codeberg.org/jmelesky/endless-sky-early-starts/archive/v0.9.zip",
+    "url": "https://codeberg.org/jmelesky/endless-sky-early-starts/archive/v0.99.zip",
     "autoupdate": {
       "type": "tag",
       "url": "https://codeberg.org/jmelesky/endless-sky-early-starts/archive/$version.zip"
