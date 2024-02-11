@@ -2,7 +2,7 @@ name: Main Plot Plus
 authors: ziproot
 homepage: https://github.com/ziproot/endless-sky-main-plot-plus
 license: GPL-3.0-or-later
-version: 1.0-beta
+version: "1.0"
 shortDescription: A plugin mostly centered around improving the main plot.
 description: Have you ever had trouble getting the Free Worlds campaign to start,
   or accidentally failed a key mission? Have you ever thought that all sides were
