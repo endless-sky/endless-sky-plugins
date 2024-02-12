@@ -1,0 +1,16 @@
+{
+  "name": "Capitalis Major",
+  "authors": "Demolish238",
+  "homepage": "https://github.com/demolish238/Capitalis-Major",
+  "license": "CC-BY-SA-4.0",
+  "version": "v1.0",
+  "shortDescription": "A collection of four superheavy ships, each with their own missions to unlock them, all of which are only avaliable after the main story has been finished.",
+  "description": "A collection of four superheavy ships, each with their own missions to unlock them, all of which are only avaliable after the main story has been finished.\nPlugins\nhttps://github.com/demolish238/Mil-taj-Protectorate/tree/main (Mil'taj Protectorate) (My other plugin)\nhttps://github.com/demolish238/QOL-Outfits (QOL outfits) (My other plugin)\nhttps://github.com/demolish238/Korath-Retribution (Korath Retribution) (My other plugin)\nCredits\nDarcy Manoel (Aesalon)\nhttps://github.com/Amazinite/Shields-Up (Shields Up) (For Kriegsmacher and Monolith)\nUnknown (Detainer Turret, Kar Ik Vot 927)\nIf you have any feedback on balance problems or bugs please message me on discord (demolish238#6398)",
+  "url": "https://github.com/demolish238/Capitalis-Major/archive/refs/tags/v1.0.zip",
+  "iconUrl": "https://github.com/demolish238/Capitalis-Major/raw/v1.0/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/demolish238/Capitalis-Major/archive/refs/tags/$version.zip",
+    "iconUrl": "https://github.com/demolish238/Capitalis-Major/raw/$version/icon.png"
+  }
+}

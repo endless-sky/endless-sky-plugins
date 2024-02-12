@@ -1,0 +1,16 @@
+{
+  "name": "Mil'taj Protectorate",
+  "authors": "Demolish238",
+  "homepage": "https://github.com/demolish238/Mil-taj-Protectorate.git",
+  "license": "CC-BY-SA-4.0",
+  "version": "v1.0",
+  "shortDescription": "This plugin contains the Mil'taj race placed in the right arm of the galaxy, they can be found by exploring the Gegno region of space.",
+  "description": "Hi I am the original author of the Amalgamation plugin, while I have gotten back into Endless Sky recently my ideas of polish have changed greatly over these 4 years.\nI decided that while I wasn't satisfied with Amalgamation as a whole, but a race of aliens from the plugin Shields up were still interesting to me, and something I wanted in the game all these years later.\nThis is my attempt to morph the Mil'taj into their own fully functional developed race, with a simple opening mission chain and plenty of lore.\nIt is recommended to avoid the Mil'taj storyline until you can at least defeat a Wardragon, otherwise you will have a bad time.\nATM you can choose to either align yourself with the Mil'taj against the Quarg, or make them an enemy. I do not plan to ever have a Quarg side to the campaign, they just want you to piss off.\nCurrently something I cannot do myself is art. So the mil'taj licences are just wanderer licences until I can get custom ones.\nFor the rest of the plugin all art assets are taken from dead plugins that years ago I worked on updating to the then current game version.\nThe idealised goal would be to replace them all with custom assets just for this plugin, but I doubt that will happen, so I'm mainly hoping someone will be interested in adding their own custom made Mil'taj licences for the plugin.\nReccomended Plugins\nhttps://github.com/1010todd/Beyond-the-Sky (Beyond the Sky) (Makes the Quarg actually scary as a threat and makes the higher tier Mil'taj ships make sense in comparison)\nhttps://github.com/demolish238/QOL-Outfits (QOL outfits) (My other plugin)\nhttps://github.com/demolish238/Korath-Retribution (Korath Retribution) (My other plugin)\nhttps://github.com/demolish238/Capitalis-Major (Capitalis Major) (My other plugin)\nUsed Plugins\nhttps://github.com/Amazinite/Shields-Up (Shields Up) (The original creator of the Mil'taj)\nhttps://github.com/Makuta-Miras/The-Enclave/tree/master (Enclave) (For Mil'taj weapons and outfits)\nhttps://github.com/mdsmestad/ES-COTSA-Pluggin (Cultures of the Southern Arm) (For the Avendri Ships)\nhttps://tearcellgames.itch.io/cosmic-canidae-assets (Mal'korbra assets)\nhttps://github.com/MidnightPlugins/Lost-in-Midnight (Lost in Midnight) (Damaged Jump Drive Image)\nIf you have any feedback on balance problems or bugs please message me on discord (demolish238#6398)",
+  "url": "https://github.com/demolish238/Mil-taj-Protectorate/archive/refs/tags/v1.0.zip",
+  "iconUrl": "https://github.com/demolish238/Mil-taj-Protectorate/raw/v1.0/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/demolish238/Mil-taj-Protectorate/archive/refs/tags/$version.zip",
+    "iconUrl": "https://github.com/demolish238/Mil-taj-Protectorate/raw/$version/icon.png"
+  }
+}

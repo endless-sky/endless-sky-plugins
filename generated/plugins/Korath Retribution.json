@@ -1,0 +1,16 @@
+{
+  "name": "Korath Retribution",
+  "authors": "Demolish238",
+  "homepage": "https://github.com/demolish238/Korath-Retribution",
+  "license": "CC-BY-SA-4.0",
+  "version": "v1.0",
+  "shortDescription": "Hello, this plugin adds consequences for Worldship hunting, from the Quarg being disapproving, to Korath Revenge fleets and the Efreti being angered.",
+  "description": "Hello, this plugin adds consequences for Worldship hunting, from the Quarg being disapproving, to Korath Revenge fleets and the Efreti being angered.\nReccomended Plugins\nhttps://github.com/MidnightPlugins/Lost-in-Midnight (Lost in Midnight) (Allows you a chance to get a capturable Korsmanath A'awoj unlike in vanilla, also just a good plugin)\nhttps://github.com/demolish238/Mil-taj-Protectorate/tree/main (Mil'taj Protectorate) (My other plugin)\nhttps://github.com/demolish238/QOL-Outfits (QOL outfits) (My other plugin)\nhttps://github.com/demolish238/Capitalis-Major (Capitalis Major) (My other plugin)\nIf you have any feedback on balance problems or bugs please message me on discord (demolish238#6398)",
+  "url": "https://github.com/demolish238/Korath-Retribution/archive/refs/tags/v1.0.zip",
+  "iconUrl": "https://github.com/demolish238/Korath-Retribution/raw/v1.0/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/demolish238/Korath-Retribution/archive/refs/tags/$version.zip",
+    "iconUrl": "https://github.com/demolish238/Korath-Retribution/raw/$version/icon.png"
+  }
+}

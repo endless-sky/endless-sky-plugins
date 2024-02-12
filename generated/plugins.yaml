@@ -141,6 +141,65 @@
     type: tag
     url: https://github.com/kestrel1110/Adamas-Project/archive/$version.zip
     iconUrl: https://github.com/kestrel1110/Adamas-Project/raw/$version/icon.png
+- name: QOL-Outfits
+  authors: Demolish238
+  homepage: https://github.com/demolish238/QOL-Outfits
+  license: CC-BY-SA-4.0
+  version: v1.0
+  shortDescription: An offshoot of my Amalgamation plugin from 4 years ago, I wanted
+    to bring some of the old QOL outfits from that collection of plugins back into
+    the modern Endless Sky landscape. Hope you enjoy.
+  description: 'Hi I am the original author of the Amalgamation plugin, while I have
+    gotten back into Endless Sky recently my ideas of polish have changed greatly
+    over these 4 years.
+
+    I decided that while I wasn''t satisfied with Amalgamation as a whole, many of
+    the outfits from plugins like Shields up were still interesting to me, and something
+    I wanted in the game all these years later.
+
+    So rather than uploading a massive plugin that turns away many people by its sheer
+    size again, I would upload this, a small quality of life plugin that adds many
+    of the smaller outfits I personally believe make building ships more fun overall.
+
+    I am also working on an independent plugin for the Shields Up ''Mil''taj'' race,
+    since that was where I put the most effort and had the most interest when making
+    Amalgamation back in the day.
+
+    This Plugin adds a new armoury outfit that allows you to equip powerful boarding
+    weaponry, while costing upkeep and space. A smaller outfit space expansion, external
+    fuel pods, extended bunk rooms, a handful of basic human outfits to add a slight
+    bit of variation and huge tier 5 radiant engines along with a small tier 0.
+
+    No other plugins are needed with this and implementation into the grander game
+    is minimal outside of outfitters, since most of these are mostly for player use
+    rather than to make AI ships more interesting.
+
+    Reccomended Plugins
+
+    https://github.com/demolish238/Mil-taj-Protectorate/tree/main (Mil''taj Protectorate)
+    (My other plugin)
+
+    https://github.com/demolish238/Korath-Retribution (Korath Retribution) (My other
+    plugin)
+
+    https://github.com/demolish238/Capitalis-Major (Capitalis Major) (My other plugin)
+
+    Used Plugins
+
+    https://github.com/Amazinite/Shields-Up (Shields Up)
+
+    https://github.com/Amazinite/Enigma-Corp (Enigma Corps)
+
+    https://www.nexusmods.com/endlesssky/mods/1 (Space Conversion)
+
+    If you have any feedback on balance problems or bugs please message me on discord
+    (demolish238#6398)'
+  url: https://github.com/demolish238/QOL-Outfits/archive/refs/tags/v1.0.zip
+  iconUrl: https://github.com/demolish238/QOL-Outfits/raw/v1.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/demolish238/QOL-Outfits/archive/refs/tags/$version.zip
+    iconUrl: https://github.com/demolish238/QOL-Outfits/raw/$version/icon.png
 - name: Mega Freight
   authors: 1010todd
   homepage: https://github.com/1010todd/Mega-Freight
@@ -266,6 +325,37 @@
     type: tag
     url: https://github.com/ZBok/BetterVanillaHai/archive/$version.zip
     iconUrl: https://raw.githubusercontent.com/ZBok/BetterVanillaHai/$version/icon.png
+- name: Korath Retribution
+  authors: Demolish238
+  homepage: https://github.com/demolish238/Korath-Retribution
+  license: CC-BY-SA-4.0
+  version: v1.0
+  shortDescription: Hello, this plugin adds consequences for Worldship hunting, from
+    the Quarg being disapproving, to Korath Revenge fleets and the Efreti being angered.
+  description: 'Hello, this plugin adds consequences for Worldship hunting, from the
+    Quarg being disapproving, to Korath Revenge fleets and the Efreti being angered.
+
+    Reccomended Plugins
+
+    https://github.com/MidnightPlugins/Lost-in-Midnight (Lost in Midnight) (Allows
+    you a chance to get a capturable Korsmanath A''awoj unlike in vanilla, also just
+    a good plugin)
+
+    https://github.com/demolish238/Mil-taj-Protectorate/tree/main (Mil''taj Protectorate)
+    (My other plugin)
+
+    https://github.com/demolish238/QOL-Outfits (QOL outfits) (My other plugin)
+
+    https://github.com/demolish238/Capitalis-Major (Capitalis Major) (My other plugin)
+
+    If you have any feedback on balance problems or bugs please message me on discord
+    (demolish238#6398)'
+  url: https://github.com/demolish238/Korath-Retribution/archive/refs/tags/v1.0.zip
+  iconUrl: https://github.com/demolish238/Korath-Retribution/raw/v1.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/demolish238/Korath-Retribution/archive/refs/tags/$version.zip
+    iconUrl: https://github.com/demolish238/Korath-Retribution/raw/$version/icon.png
 - name: Prism Plugin
   authors: Startingfresher
   homepage: https://github.com/Startingfresher/Prism-Plug-in
@@ -447,6 +537,77 @@
     type: tag
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
     iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png
+- name: Mil'taj Protectorate
+  authors: Demolish238
+  homepage: https://github.com/demolish238/Mil-taj-Protectorate.git
+  license: CC-BY-SA-4.0
+  version: v1.0
+  shortDescription: This plugin contains the Mil'taj race placed in the right arm
+    of the galaxy, they can be found by exploring the Gegno region of space.
+  description: 'Hi I am the original author of the Amalgamation plugin, while I have
+    gotten back into Endless Sky recently my ideas of polish have changed greatly
+    over these 4 years.
+
+    I decided that while I wasn''t satisfied with Amalgamation as a whole, but a race
+    of aliens from the plugin Shields up were still interesting to me, and something
+    I wanted in the game all these years later.
+
+    This is my attempt to morph the Mil''taj into their own fully functional developed
+    race, with a simple opening mission chain and plenty of lore.
+
+    It is recommended to avoid the Mil''taj storyline until you can at least defeat
+    a Wardragon, otherwise you will have a bad time.
+
+    ATM you can choose to either align yourself with the Mil''taj against the Quarg,
+    or make them an enemy. I do not plan to ever have a Quarg side to the campaign,
+    they just want you to piss off.
+
+    Currently something I cannot do myself is art. So the mil''taj licences are just
+    wanderer licences until I can get custom ones.
+
+    For the rest of the plugin all art assets are taken from dead plugins that years
+    ago I worked on updating to the then current game version.
+
+    The idealised goal would be to replace them all with custom assets just for this
+    plugin, but I doubt that will happen, so I''m mainly hoping someone will be interested
+    in adding their own custom made Mil''taj licences for the plugin.
+
+    Reccomended Plugins
+
+    https://github.com/1010todd/Beyond-the-Sky (Beyond the Sky) (Makes the Quarg actually
+    scary as a threat and makes the higher tier Mil''taj ships make sense in comparison)
+
+    https://github.com/demolish238/QOL-Outfits (QOL outfits) (My other plugin)
+
+    https://github.com/demolish238/Korath-Retribution (Korath Retribution) (My other
+    plugin)
+
+    https://github.com/demolish238/Capitalis-Major (Capitalis Major) (My other plugin)
+
+    Used Plugins
+
+    https://github.com/Amazinite/Shields-Up (Shields Up) (The original creator of
+    the Mil''taj)
+
+    https://github.com/Makuta-Miras/The-Enclave/tree/master (Enclave) (For Mil''taj
+    weapons and outfits)
+
+    https://github.com/mdsmestad/ES-COTSA-Pluggin (Cultures of the Southern Arm) (For
+    the Avendri Ships)
+
+    https://tearcellgames.itch.io/cosmic-canidae-assets (Mal''korbra assets)
+
+    https://github.com/MidnightPlugins/Lost-in-Midnight (Lost in Midnight) (Damaged
+    Jump Drive Image)
+
+    If you have any feedback on balance problems or bugs please message me on discord
+    (demolish238#6398)'
+  url: https://github.com/demolish238/Mil-taj-Protectorate/archive/refs/tags/v1.0.zip
+  iconUrl: https://github.com/demolish238/Mil-taj-Protectorate/raw/v1.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/demolish238/Mil-taj-Protectorate/archive/refs/tags/$version.zip
+    iconUrl: https://github.com/demolish238/Mil-taj-Protectorate/raw/$version/icon.png
 - name: Midnight Expansion
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Expansion
@@ -582,6 +743,44 @@
     branch: main
     url: https://github.com/samrocketman/Spacefarer/archive/$version.zip
     iconUrl: https://raw.githubusercontent.com/samrocketman/Spacefarer/$version/icon%402x.png
+- name: Capitalis Major
+  authors: Demolish238
+  homepage: https://github.com/demolish238/Capitalis-Major
+  license: CC-BY-SA-4.0
+  version: v1.0
+  shortDescription: A collection of four superheavy ships, each with their own missions
+    to unlock them, all of which are only avaliable after the main story has been
+    finished.
+  description: 'A collection of four superheavy ships, each with their own missions
+    to unlock them, all of which are only avaliable after the main story has been
+    finished.
+
+    Plugins
+
+    https://github.com/demolish238/Mil-taj-Protectorate/tree/main (Mil''taj Protectorate)
+    (My other plugin)
+
+    https://github.com/demolish238/QOL-Outfits (QOL outfits) (My other plugin)
+
+    https://github.com/demolish238/Korath-Retribution (Korath Retribution) (My other
+    plugin)
+
+    Credits
+
+    Darcy Manoel (Aesalon)
+
+    https://github.com/Amazinite/Shields-Up (Shields Up) (For Kriegsmacher and Monolith)
+
+    Unknown (Detainer Turret, Kar Ik Vot 927)
+
+    If you have any feedback on balance problems or bugs please message me on discord
+    (demolish238#6398)'
+  url: https://github.com/demolish238/Capitalis-Major/archive/refs/tags/v1.0.zip
+  iconUrl: https://github.com/demolish238/Capitalis-Major/raw/v1.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/demolish238/Capitalis-Major/archive/refs/tags/$version.zip
+    iconUrl: https://github.com/demolish238/Capitalis-Major/raw/$version/icon.png
 - name: The Enclave
   authors: Storm Crow (maintained by 1010todd)
   homepage: https://github.com/1010todd/The-Enclave
