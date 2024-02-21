@@ -538,7 +538,7 @@
   authors: Demolish238
   homepage: https://github.com/demolish238/Capitalis-Major
   license: CC-BY-SA-4.0
-  version: v1.0
+  version: v1.1
   shortDescription: A collection of four superheavy ships, each with their own missions
     to unlock them, all of which are only avaliable after the main story has been
     finished.
@@ -566,8 +566,8 @@
 
     If you have any feedback on balance problems or bugs please message me on discord
     (demolish238#6398)'
-  url: https://github.com/demolish238/Capitalis-Major/archive/refs/tags/v1.0.zip
-  iconUrl: https://github.com/demolish238/Capitalis-Major/raw/v1.0/icon.png
+  url: https://github.com/demolish238/Capitalis-Major/archive/refs/tags/v1.1.zip
+  iconUrl: https://github.com/demolish238/Capitalis-Major/raw/v1.1/icon.png
   autoupdate:
     type: tag
     url: https://github.com/demolish238/Capitalis-Major/archive/refs/tags/$version.zip
