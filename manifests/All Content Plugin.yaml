@@ -2,14 +2,14 @@ name: All Content Plugin
 authors: Michael Zahniser
 homepage: https://github.com/endless-sky/all-content-plugin
 license: GPL-3.0-or-later
-version: v0.9.14
+version: v0.10.6
 shortDescription: Endless Sky plugin giving the player access to all ships and outfits.
 description: This plugin was made to allow content creators to have access to all
   outfits in a single place, for the purpose of designing and testing outfit loadouts
   for new ships. Of course, it can also be used by people who want to ruin the game
   for themselves by getting a massive fleet without needing to work for it.
-url: https://github.com/endless-sky/all-content-plugin/archive/refs/tags/v0.9.14.zip
-iconUrl: https://github.com/endless-sky/all-content-plugin/raw/v0.9.14/icon.png
+url: https://github.com/endless-sky/all-content-plugin/archive/refs/tags/v0.10.6.zip
+iconUrl: https://github.com/endless-sky/all-content-plugin/raw/v0.10.6/icon.png
 autoupdate:
   type: tag
   url: https://github.com/endless-sky/all-content-plugin/archive/refs/tags/$version.zip
