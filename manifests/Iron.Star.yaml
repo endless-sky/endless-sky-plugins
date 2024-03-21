@@ -1,0 +1,11 @@
+name: Iron Star Corp
+authors: Alaric Atreus
+homepage: https://github.com/ThunderOS/Iron_Star_Corp_Endless_Sky
+license: CC-BY-SA-4.0
+version: v0.1.01
+shortDescription: Iron Star Corp is a mod for Endless Sky that adds multiple warships that look like transports
+description: Iron.Star 0.1.01 is now out
+url: https://github.com/ThunderOS/Iron_Star_Corp_Endless_Sky/releases/download/Iron.Star/Iron.Star v0.1.01.zip
+autoupdate:
+  type: tag
+  url: https://github.com/ThunderOS/Iron_Star_Corp_Endless_Sky/releases/download/Iron.Star/Iron.Star $version.zip
