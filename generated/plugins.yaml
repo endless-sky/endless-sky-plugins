@@ -21,14 +21,14 @@
   authors: mOctave
   homepage: https://github.com/mOctave/blended-ships/
   license: AGPL-3.0-or-later
-  version: v0.3.0
+  version: v1.0.0
   shortDescription: A spliced ships plugin for Endless Sky where all the ships are
     made in Blender.
   description: Blended Ships is the realistic spliced ship plugin. All these ships
     have thumbnails, believeable stats, and actual potential uses! There is also a
     greater variety of civilian ships available, to support various playstyles.
-  url: https://github.com/mOctave/blended-ships/archive/refs/tags/v0.3.0.zip
-  iconUrl: https://raw.githubusercontent.com/mOctave/blended-ships/v0.3.0/icon.png
+  url: https://github.com/mOctave/blended-ships/archive/refs/tags/v1.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/mOctave/blended-ships/v1.0.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/mOctave/blended-ships/archive/refs/tags/$version.zip
@@ -37,7 +37,7 @@
   authors: Amazinite
   homepage: https://github.com/EndlessSkyCommunity/world-forge
   license: GPL-3.0-or-later
-  version: b6fe5be0a9d0d513c816bf7880700e1aab3f08d4
+  version: 5ff808e021b437e0c547cc276273319bf5838b58
   shortDescription: A plugin for Endless Sky that allows the player to access everything
     in the game in one place.
   description: A plugin for Endless Sky that allows the player to access everything
@@ -45,8 +45,8 @@
     have such as the ability to boost your combat rating and change your friendly/hostile
     status with factions of the game without having to save-edit. Intended to help
     content creators test their plugins.
-  url: https://github.com/EndlessSkyCommunity/world-forge/archive/b6fe5be0a9d0d513c816bf7880700e1aab3f08d4.zip
-  iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/b6fe5be0a9d0d513c816bf7880700e1aab3f08d4/icon.png
+  url: https://github.com/EndlessSkyCommunity/world-forge/archive/5ff808e021b437e0c547cc276273319bf5838b58.zip
+  iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/5ff808e021b437e0c547cc276273319bf5838b58/icon.png
   autoupdate:
     type: commit
     url: https://github.com/EndlessSkyCommunity/world-forge/archive/$version.zip
@@ -268,13 +268,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Scrapyard
   license: GPL-3.0-or-later
-  version: 0.10.6.0.3
+  version: 0.10.6.0.4
   shortDescription: A plugin suggesting an epilogue for the Kor Sestor region of Endless
     Sky. Includes some new ships, outfits, and missions.
   description: This region of space has abandoned derelicts waiting to be scavenged.
     But something lurks amongst the wreckage...
-  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.10.6.0.3/Midnight.Scrapyard-0.10.6.0.3.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.10.6.0.3/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.10.6.0.4/Midnight.Scrapyard-0.10.6.0.4.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.10.6.0.4/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/$version/Midnight.Scrapyard-$version.zip
@@ -318,13 +318,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
   license: GPL-3.0-or-later
-  version: 0.10.6.2.4
+  version: 0.10.6.3.0
   shortDescription: Lost in Midnight is a mission focused plugin for the Endless Sky
     game. Features new missions, systems, outfits, ships, and variants.
   description: Lost technology, Lost knowledge, And people, who have lost their way
     trying to navigate life in this vast galaxy...
-  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.6.2.4/Lost.in.Midnight-0.10.6.2.4.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.6.2.4/icon.png
+  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.6.3.0/Lost.in.Midnight-0.10.6.3.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.6.3.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip
@@ -377,13 +377,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: c39f9246a0679cf2010244b71fe52c123ab13e0b
+  version: e2bf25cb86dc356ad18a99b6b5a0ae629fe22a50
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/c39f9246a0679cf2010244b71fe52c123ab13e0b.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/c39f9246a0679cf2010244b71fe52c123ab13e0b/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/e2bf25cb86dc356ad18a99b6b5a0ae629fe22a50.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/e2bf25cb86dc356ad18a99b6b5a0ae629fe22a50/icon.png
   autoupdate:
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
@@ -935,13 +935,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Expansion
   license: GPL-3.0-or-later
-  version: 0.10.6.0.1
+  version: 0.10.6.0.2
   shortDescription: Plugin using ships, outfits, or other resources from plugins by
     other creators or derivatives of their original creations.
   description: Expanded content derived from the plugins of other creators. Some contents
     may require other Midnight Plugins creations.
-  url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.10.6.0.1/Midnight.Expansion-0.10.6.0.1.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.10.6.0.1/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.10.6.0.2/Midnight.Expansion-0.10.6.0.2.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.10.6.0.2/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/$version/Midnight.Expansion-$version.zip
