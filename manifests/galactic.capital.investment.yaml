@@ -5,9 +5,9 @@ license: MIT
 version: v1.1
 shortDescription: Implements a short mission chain that enables repeatable job board investment opportunities which result in small daily income. Available in human, quarg and hai space.
 description: >- Implements a short mission chain that enables repeatable job board investment opportunities which result in small daily income. Available in human, quarg and hai space starting with 2 million credits cash and going up to 1000 million credits. See the readme for details.
-url: https://github.com/zuckung/endless-sky-plugins/releases/download/galactic.capital.investment.v1.1/galactic.capital.investment.v1.1.zip
-iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/galactic.capital.investment.v1.1/myplugins/galactic.capital.investment/icon.png
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1-galactic.capital.investment/galactic.capital.investment.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1-galactic.capital.investment/myplugins/galactic.capital.investment/icon.png
 autoupdate:
   type: tag
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/galactic.capital.investment.v$version/galactic.capital.investment.v$version.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/galactic.capital.investment.v$version/myplugins/galactic.capital.investment/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/galactic.capital.investment.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/galactic.capital.investment/icon.png
