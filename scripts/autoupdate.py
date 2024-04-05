@@ -14,7 +14,7 @@ import re
 import itertools
 
 
-BASEVERSION = r'^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-z]+[0-9]*)?$'
+BASEVERSION = r'^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-z.]+[0-9]*)?$'
 VERSION_COMPONENTS = re.compile(r'(\d+ | [a-z]+ | \.)', re.VERBOSE)
 
 def get_latest_versioned_tag_from_refs(refs):
@@ -83,6 +83,7 @@ def get_latest_versioned_tag_from_refs(refs):
 
 
 def ls_remote(url):
+    print(url)
     byte_dict = dulwich.porcelain.ls_remote(url)
     string_dict = {}
     for k, v in byte_dict.items():
