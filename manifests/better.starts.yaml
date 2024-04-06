@@ -1,0 +1,14 @@
+name: better.starts
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins/
+license: MIT
+version: v1.0-better.starts
+shortDescription: Adds several new start options with different ships, background storys, credits and debts.
+description: >-
+  Adds several new start options with different ships, background storys, credits and debts. See the readme for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0-better.starts/better.starts.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0-better.starts/myplugins/better.starts/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/better.starts.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/better.starts/icon.png

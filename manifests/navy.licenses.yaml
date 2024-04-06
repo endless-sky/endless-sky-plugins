@@ -1,0 +1,14 @@
+name: navy.licenses
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins/
+license: MIT
+version: v1.0-navy.licenses
+shortDescription: Adds a mission on Stormhold(Alcyone system) which leads you to Geminus(Castor system) to buy the four Navy licenses.
+description: >-
+  Adds a mission on Stormhold(Alcyone system) which leads you to Geminus(Castor system) to buy the four Navy licenses. See the readme for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0-navy.licenses/navy.licenses.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0-navy.licenses/myplugins/navy.licenses/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/navy.licenses.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/navy.licenses/icon.png

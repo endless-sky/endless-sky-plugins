@@ -1,0 +1,14 @@
+name: real.fluff
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins/
+license: MIT
+version: v1.0-real.fluff
+shortDescription: A bunch of side missions which reward unique fluffy pets.
+description: >-
+  A bunch of side missions which reward unique fluffy pets. See the readme for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0-real.fluff/real.fluff.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0-real.fluff/myplugins/real.fluff/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/real.fluff.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/real.fluff/icon.png
