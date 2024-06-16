@@ -439,6 +439,22 @@
     }
   },
   {
+    "name": "Arc Over",
+    "authors": "Saugia",
+    "homepage": "https://github.com/Saugia/arc-over",
+    "license": "GPL-3.0-or-later",
+    "version": "v0.1",
+    "shortDescription": "Arc Over is a plug-in for Endless Sky that gives vanilla ships limited turret arcs, introducing a new aspect to combat balance.",
+    "description": "Arc Over implements limited turret arcs for turret mounts on vanilla ships, resulting a new balance for ship combat. Smaller ships will enjoy navigating the more limited fields of fire from larger ships, where these arc limits provide more dynamic engagements between ships of any size.",
+    "url": "https://github.com/Saugia/arc-over/archive/refs/tags/v0.1.zip",
+    "iconUrl": "https://github.com/Saugia/arc-over/raw/v0.1/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Saugia/arc-over/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/Saugia/arc-over/raw/$version/icon.png"
+    }
+  },
+  {
     "name": "Lost in Midnight",
     "authors": "Michael Arsollon",
     "homepage": "https://github.com/MidnightPlugins/Lost-in-Midnight",
