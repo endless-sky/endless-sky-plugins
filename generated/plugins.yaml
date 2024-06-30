@@ -37,15 +37,15 @@
   authors: 1010todd
   homepage: https://github.com/1010todd/Mega-Freight
   license: GPL-3.0-or-later
-  version: 181efe58c1b75513f71767d7e4cede6ee885332f
+  version: 83983f4d8c94e49125c55c81d757f7795c6bc2d7
   shortDescription: Adds several mostly civilian ships for you and npc merchants (and
     pirates) to use for more variety in human space. Updated to Unstable releases.
   description: This plugin adds several civilian and some military ships to add some
     more variety to human space and beyond. Mostly focused around larger ships but
     also have smaller freighters and starter-level ships as well. Will be updated
     to be compatible with lastest unstable release.
-  url: https://github.com/1010todd/Mega-Freight/archive/181efe58c1b75513f71767d7e4cede6ee885332f.zip
-  iconUrl: https://github.com/1010todd/Mega-Freight/raw/181efe58c1b75513f71767d7e4cede6ee885332f/icon.png
+  url: https://github.com/1010todd/Mega-Freight/archive/83983f4d8c94e49125c55c81d757f7795c6bc2d7.zip
+  iconUrl: https://github.com/1010todd/Mega-Freight/raw/83983f4d8c94e49125c55c81d757f7795c6bc2d7/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -816,13 +816,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
   license: GPL-3.0-or-later
-  version: 0.10.6.5.1
+  version: 0.10.8.0.0
   shortDescription: Lost in Midnight is a mission focused plugin for the Endless Sky
     game. Features new missions, systems, outfits, ships, and variants.
   description: Lost technology, Lost knowledge, And people, who have lost their way
     trying to navigate life in this vast galaxy...
-  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.6.5.1/Lost.in.Midnight-0.10.6.5.1.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.6.5.1/icon.png
+  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.8.0.0/Lost.in.Midnight-0.10.8.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.8.0.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip
