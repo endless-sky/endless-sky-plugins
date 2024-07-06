@@ -37,15 +37,15 @@
   authors: 1010todd
   homepage: https://github.com/1010todd/Mega-Freight
   license: GPL-3.0-or-later
-  version: ee3d535bd88fbfa5b0ee833e722b683903c4bdbd
+  version: 450fffb6603fba510d377ed6e72d0229c1948f8f
   shortDescription: Adds several mostly civilian ships for you and npc merchants (and
     pirates) to use for more variety in human space. Updated to Unstable releases.
   description: This plugin adds several civilian and some military ships to add some
     more variety to human space and beyond. Mostly focused around larger ships but
     also have smaller freighters and starter-level ships as well. Will be updated
     to be compatible with lastest unstable release.
-  url: https://github.com/1010todd/Mega-Freight/archive/ee3d535bd88fbfa5b0ee833e722b683903c4bdbd.zip
-  iconUrl: https://github.com/1010todd/Mega-Freight/raw/ee3d535bd88fbfa5b0ee833e722b683903c4bdbd/icon.png
+  url: https://github.com/1010todd/Mega-Freight/archive/450fffb6603fba510d377ed6e72d0229c1948f8f.zip
+  iconUrl: https://github.com/1010todd/Mega-Freight/raw/450fffb6603fba510d377ed6e72d0229c1948f8f/icon.png
   autoupdate:
     type: commit
     branch: main
@@ -557,13 +557,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: ce8ea5e1959d3133492819adf95c171a6761e767
+  version: 32c1a21e14493a0e2dbdfb4ab4e0c6bd56f3ab08
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/ce8ea5e1959d3133492819adf95c171a6761e767.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/ce8ea5e1959d3133492819adf95c171a6761e767/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/32c1a21e14493a0e2dbdfb4ab4e0c6bd56f3ab08.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/32c1a21e14493a0e2dbdfb4ab4e0c6bd56f3ab08/icon.png
   autoupdate:
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
