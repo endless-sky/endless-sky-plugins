@@ -382,7 +382,7 @@
 - name: ES-ui-upgrades
   authors: Roger Tabris
   homepage: https://github.com/Cromha-Plugins/es-ui-upgrades
-  license: GPL-3.0-or-later
+  license: AGPL-3.0-or-later
   version: ae84365e48b5504b1b37e2d090f8d46b2a9f2b2a
   shortDescription: A plugin that aims to transform the UI.
   description: This plugin aims to be the first plugin to transform the UI. It tries
