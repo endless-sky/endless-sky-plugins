@@ -6,6 +6,8 @@ version: v1.0
 shortDescription: Buffs the Nuclear Missile.
 description: Gives the Nuclear Missile more shield and hull damage.
 url: https://github.com/BZENDSKY/Nuclear-Missile-Buff/archive/refs/tags/v1.0.zip
+iconUrl: https://github.com/BZENDSKY/Nuclear-Missile-Buff/raw/nuclear/icon.png
 autoupdate:
   type: tag
   url: https://github.com/BZENDSKY/Nuclear-Missile-Buff/archive/refs/tags/$version.zip
+  iconUrl: https://raw.githubusercontent.com/BZENDSKY/Nuclear-Missile-Buff/nuclear/icon.png
