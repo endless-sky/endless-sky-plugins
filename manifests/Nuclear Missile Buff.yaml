@@ -10,4 +10,4 @@ iconUrl: https://github.com/BZENDSKY/Nuclear-Missile-Buff/raw/v1.0/icon.png
 autoupdate:
   type: tag
   url: https://github.com/BZENDSKY/Nuclear-Missile-Buff/archive/refs/tags/$version.zip
-  iconUrl: https://raw.githubusercontent.com/BZENDSKY/Nuclear-Missile-Buff/$tag/icon.png
+  iconUrl: https://github.com/BZENDSKY/Nuclear-Missile-Buff/raw/$version/icon.png
