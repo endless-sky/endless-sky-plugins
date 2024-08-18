@@ -1048,6 +1048,19 @@
     type: tag
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
     iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png
+- name: Nuclear Missile Buff
+  authors: BZENDSKY
+  homepage: https://github.com/BZENDSKY/Nuclear-Missile-Buff
+  license: GPL-3.0-or-later
+  version: v1.0
+  shortDescription: Buffs the Nuclear Missile.
+  description: Gives the Nuclear Missile more shield and hull damage.
+  url: https://github.com/BZENDSKY/Nuclear-Missile-Buff/archive/refs/tags/v1.0.zip
+  iconUrl: https://github.com/BZENDSKY/Nuclear-Missile-Buff/raw/v1.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/BZENDSKY/Nuclear-Missile-Buff/archive/refs/tags/$version.zip
+    iconUrl: https://raw.githubusercontent.com/BZENDSKY/Nuclear-Missile-Buff/$tag/icon.png
 - name: High DPI Continuous
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
