@@ -639,6 +639,18 @@
     url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/$version.zip
     iconUrl: https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/$version/icon.png
     update_url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff
+- name: Gaguka
+  authors: MIMSBZ3
+  homepage: https://github.com/MIMSBZ3/Gaguka
+  license: GPL-3.0-or-later
+  version: v0.1
+  url: https://github.com/MIMSBZ3/Gaguka/archive/refs/tags/v0.1.zip
+  shortDescription: Adds a new alien race.
+  description: Adds my alien species the Gaguka. They are located in their own galaxy
+    which can be accessed by a wormhole east of Gegno space.
+  autoupdate:
+    type: tag
+    url: https://github.com/MIMSBZ3/Gaguka/archive/refs/tags/$version.zip
 - name: Better Vanilla Pirates
   authors: ZBok
   homepage: https://github.com/ZBok/BetterVanillaPirates/

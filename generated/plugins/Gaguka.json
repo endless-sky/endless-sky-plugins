@@ -1,0 +1,14 @@
+{
+  "name": "Gaguka",
+  "authors": "MIMSBZ3",
+  "homepage": "https://github.com/MIMSBZ3/Gaguka",
+  "license": "GPL-3.0-or-later",
+  "version": "v0.1",
+  "url": "https://github.com/MIMSBZ3/Gaguka/archive/refs/tags/v0.1.zip",
+  "shortDescription": "Adds a new alien race.",
+  "description": "Adds my alien species the Gaguka. They are located in their own galaxy which can be accessed by a wormhole east of Gegno space.",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/MIMSBZ3/Gaguka/archive/refs/tags/$version.zip"
+  }
+}
