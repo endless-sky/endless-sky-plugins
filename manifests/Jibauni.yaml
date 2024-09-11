@@ -1,0 +1,14 @@
+name: Jibauni
+authors: TheGiraffe3
+homepage: https://github.com/TheGiraffe3/Jibauni
+license: CC-BY-SA-4.0
+version: 0.6
+shortDescription: Adds the Jibauni, Diba, and re-adds the Sheragi. The 
+  Jibauni are dinosaurs, the Diba are robots, and the Sheragi are dragons.
+description: Check the readme file for detailed information.
+url: https://github.com/TheGiraffe3/Jibauni/archive/refs/tags/v0.6.zip
+iconUrl: https://raw.githubusercontent.com/TheGiraffe3/Jibauni/0.6/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/TheGiraffe3/Jibauni/archive/refs/tags/$version.zip
+  iconUrl: https://raw.githubusercontent.com/TheGiraffe3/Jibauni/$version/icon.png
