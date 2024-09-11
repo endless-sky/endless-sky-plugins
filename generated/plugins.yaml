@@ -862,6 +862,21 @@
     type: tag
     url: https://github.com/kestrel1110/Easier-Korath-Automatons/archive/$version.zip
     iconUrl: https://github.com/kestrel1110/Easier-Korath-Automatons/raw/$version/icon.png
+- name: Jibauni
+  authors: TheGiraffe3
+  homepage: https://github.com/TheGiraffe3/Jibauni
+  license: CC-BY-SA-4.0
+  version: v0.6
+  shortDescription: Adds three new alien species.
+  description: Adds the Jibauni, Diba, and re-adds the Sheragi. The Jibauni are dinosaurs,
+    the Diba are robots, and the Sheragi are dragons.
+  url: https://github.com/TheGiraffe3/Jibauni/archive/refs/tags/v0.6.zip
+  iconUrl: https://raw.githubusercontent.com/TheGiraffe3/Jibauni/v0.6/icon.png
+  autoupdate:
+    type: tag
+    branch: Jibauni
+    url: https://github.com/TheGiraffe3/Jibauni/archive/refs/tags/$version.zip
+    iconUrl: https://raw.githubusercontent.com/TheGiraffe3/Jibauni/$version/icon.png
 - name: Endless Cargo
   authors: YellowApple
   homepage: https://bitbucket.org/YellowApple/endless-cargo
