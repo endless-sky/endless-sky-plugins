@@ -259,6 +259,18 @@
     branch: main
     url: https://github.com/AvianGeneticist/QuaernanHardpointsCarries/archive/$version.zip
     iconUrl: https://raw.githubusercontent.com/AvianGeneticist/QuaernanHardpointsCarries/$version/icon%402x.png
+- name: Cutlass
+  authors: TheGiraffe3
+  homepage: https://github.com/TheGiraffe3/es-cutlass/
+  license: CC-BY-SA-4.0
+  version: v1.0.0
+  shortDescription: Adds the Pirate Cutlass, a heavily modified Gunboat.
+  url: https://github.com/TheGiraffe3/es-cutlass/archive/refs/tags/v1.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/TheGiraffe3/es-cutlass/v1.0.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/TheGiraffe3/es-cutlass/archive/refs/tags/$version.zip
+    iconUrl: https://raw.githubusercontent.com/TheGiraffe3/es-cutlass/$version/icon.png
 - name: Lampyrid Start
   authors: Zitchas
   homepage: https://github.com/Zitchas/ES_Lampyrid_Start
