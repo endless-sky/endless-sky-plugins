@@ -1,0 +1,13 @@
+name: Tanager
+authors: TheGiraffe3
+homepage: https://github.com/TheGiraffe3/es-tanager
+license: CC-BY-SA-4.0
+version: v1.0.0
+shortDescription: Adds another ship, a bigger and better Shuttle.
+description: This "Tanager" is sold near Tarazed.
+url: https://github.com/TheGiraffe3/es-tanager/archive/refs/tags/v1.0.0.zip
+iconUrl: https://raw.githubusercontent.com/TheGiraffe3/es-tanager/v1.0.0/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/TheGiraffe3/es-tanager/archive/refs/tags/$version.zip
+  iconUrl: https://raw.githubusercontent.com/TheGiraffe3/es-tanager/$version/icon.png
