@@ -980,11 +980,11 @@
   authors: TheGiraffe3
   homepage: https://github.com/TheGiraffe3/Jibauni
   license: CC-BY-SA-4.0
-  version: 930eb0b2cbf23a786e39429665741c64f43c1c89
+  version: fc12d5b38ceca125f7dc6ae54f16e5a28c39ea94
   shortDescription: Adds three new alien species.
   description: Adds the Jibauni, Diba, and re-adds the Sheragi. The Jibauni are dinosaurs,
     the Diba are robots, and the Sheragi are dragons.
-  url: https://github.com/TheGiraffe3/Jibauni/archive/930eb0b2cbf23a786e39429665741c64f43c1c89.zip
+  url: https://github.com/TheGiraffe3/Jibauni/archive/fc12d5b38ceca125f7dc6ae54f16e5a28c39ea94.zip
   autoupdate:
     type: commit
     url: https://github.com/TheGiraffe3/Jibauni/archive/$version.zip
@@ -1100,7 +1100,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/EndlessSkyCommunity/-Omnis
   license: GPL-3.0-or-later
-  version: 4335adca43455a6a421f83d8f5f70b648ac20c33
+  version: 2d17199d178514e31f7699d761dc497cafab6600
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: 'The most extensive all-content plugin to date. All vanilla content
@@ -1108,7 +1108,7 @@
     builds. Many more tools are included into Omnis too!
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/4335adca43455a6a421f83d8f5f70b648ac20c33.zip
+  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/2d17199d178514e31f7699d761dc497cafab6600.zip
   autoupdate:
     type: commit
     branch: main
