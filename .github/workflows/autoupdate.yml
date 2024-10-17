@@ -8,15 +8,15 @@ on:
 
 jobs:
   autoupdate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
     - uses: actions/checkout@v2
     - name: Install dependencies
       run: |
-        sudo pip3 install --break-system-packages setuptools wheel
-        sudo pip3 install --break-system-packages yq
-        pip3 install --break-system-packages -r scripts/requirements.txt
+        sudo pip3 install setuptools wheel
+        sudo pip3 install yq
+        pip3 install -r scripts/requirements.txt
     - name: Run autoupdate
       run: |
         git config user.email "actions@github.com"
