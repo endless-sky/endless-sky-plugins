@@ -2,13 +2,13 @@ name: Lemuria's Extra ES Stuff
 authors: Lemuria
 homepage: https://lemuria-es.github.io/leest-docs/index.html
 license: GPL-3.0-or-later
-version: v0.10.15
+version: v0.10.16
 shortDescription: Extra ES Stuff by Lemuria. May contain traces of Sayari.
 description: A general plugin that adds a new set of systems to explore near the Deep,
   data drives, and data delivery missions. No ships. As for the Illumina and Illuria
   systems, beware name confusion! The dockworkers will be very angry.
-url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/v0.10.15.zip
-iconUrl: https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/v0.10.15/icon.png
+url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/v0.10.16.zip
+iconUrl: https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/v0.10.16/icon.png
 autoupdate:
   type: tag
   url: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/$version.zip
