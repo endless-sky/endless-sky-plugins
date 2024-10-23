@@ -35,10 +35,10 @@
     "authors": "TheGiraffe3",
     "homepage": "https://github.com/TheGiraffe3/Jibauni",
     "license": "CC-BY-SA-4.0",
-    "version": "9284d6f6730d8201cb684cd2012ca2223b0543db",
+    "version": "9fce7971482cb9f04ed48de1a69976aa77f2eb4d",
     "shortDescription": "Adds three new alien species.",
     "description": "Adds the Jibauni, Diba, and re-adds the Sheragi. The Jibauni are dinosaurs, the Diba are robots, and the Sheragi are dragons.",
-    "url": "https://github.com/TheGiraffe3/Jibauni/archive/9284d6f6730d8201cb684cd2012ca2223b0543db.zip",
+    "url": "https://github.com/TheGiraffe3/Jibauni/archive/9fce7971482cb9f04ed48de1a69976aa77f2eb4d.zip",
     "autoupdate": {
       "type": "commit",
       "url": "https://github.com/TheGiraffe3/Jibauni/archive/$version.zip"
@@ -538,11 +538,11 @@
     "authors": "Michael Zahniser",
     "homepage": "https://github.com/endless-sky/endless-sky-high-dpi",
     "license": "CC-BY-SA-4.0",
-    "version": "667d5d7e167d654364d21c621e3cc840219a0bf8",
+    "version": "23a7f06e91d5f3fb2a5d57bf3fb063e965280ff0",
     "shortDescription": "High-DPI graphics for Endless Sky.",
     "description": "This plugin contains double resolution graphics, which are only used if you have a high-dpi monitor or if you set the zoom level above 100%. This will roughly double the amount of memory used by the game.",
-    "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/667d5d7e167d654364d21c621e3cc840219a0bf8.zip",
-    "iconUrl": "https://github.com/endless-sky/endless-sky-high-dpi/raw/667d5d7e167d654364d21c621e3cc840219a0bf8/icon.png",
+    "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/23a7f06e91d5f3fb2a5d57bf3fb063e965280ff0.zip",
+    "iconUrl": "https://github.com/endless-sky/endless-sky-high-dpi/raw/23a7f06e91d5f3fb2a5d57bf3fb063e965280ff0/icon.png",
     "autoupdate": {
       "type": "commit",
       "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip",
