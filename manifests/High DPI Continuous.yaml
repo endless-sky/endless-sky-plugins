@@ -2,13 +2,13 @@ name: High DPI Continuous
 authors: Michael Zahniser
 homepage: https://github.com/endless-sky/endless-sky-high-dpi
 license: CC-BY-SA-4.0
-version: 23a7f06e91d5f3fb2a5d57bf3fb063e965280ff0
+version: 788293c90b4dc69fc916a03378be736461872118
 shortDescription: High-DPI graphics for Endless Sky.
 description: This plugin contains double resolution graphics, which are only used
   if you have a high-dpi monitor or if you set the zoom level above 100%. This will
   roughly double the amount of memory used by the game.
-url: https://github.com/endless-sky/endless-sky-high-dpi/archive/23a7f06e91d5f3fb2a5d57bf3fb063e965280ff0.zip
-iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/23a7f06e91d5f3fb2a5d57bf3fb063e965280ff0/icon.png
+url: https://github.com/endless-sky/endless-sky-high-dpi/archive/788293c90b4dc69fc916a03378be736461872118.zip
+iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/788293c90b4dc69fc916a03378be736461872118/icon.png
 autoupdate:
   type: commit
   url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
