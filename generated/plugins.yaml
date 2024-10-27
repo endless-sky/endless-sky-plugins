@@ -81,13 +81,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
   license: GPL-3.0-or-later
-  version: 0.10.8.3.0
+  version: 0.10.10.0.0
   shortDescription: Lost in Midnight is a mission focused plugin for the Endless Sky
     game. Features new missions, systems, outfits, ships, and variants.
   description: Lost technology, Lost knowledge, And people, who have lost their way
     trying to navigate life in this vast galaxy...
-  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.8.3.0/Lost.in.Midnight-0.10.8.3.0.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.8.3.0/icon.png
+  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.10.0.0/Lost.in.Midnight-0.10.10.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.10.0.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip
@@ -549,13 +549,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Scrapyard
   license: GPL-3.0-or-later
-  version: 0.10.8.1.0
+  version: 0.10.10.0.0
   shortDescription: A plugin suggesting an epilogue for the Kor Sestor region of Endless
     Sky. Includes some new ships, outfits, and missions.
   description: This region of space has abandoned derelicts waiting to be scavenged.
     But something lurks amongst the wreckage...
-  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.10.8.1.0/Midnight.Scrapyard-0.10.8.1.0.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.10.8.1.0/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.10.10.0.0/Midnight.Scrapyard-0.10.10.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.10.10.0.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/$version/Midnight.Scrapyard-$version.zip
@@ -703,13 +703,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: 788293c90b4dc69fc916a03378be736461872118
+  version: b8d0ffa5e5b56412647e29db94c0809474169d31
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/788293c90b4dc69fc916a03378be736461872118.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/788293c90b4dc69fc916a03378be736461872118/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/b8d0ffa5e5b56412647e29db94c0809474169d31.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/b8d0ffa5e5b56412647e29db94c0809474169d31/icon.png
   autoupdate:
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
@@ -739,7 +739,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/EndlessSkyCommunity/-Omnis
   license: GPL-3.0-or-later
-  version: 9315f674a12d67aa74caee54a7ced7fc6097dc4d
+  version: 6ed8776f8871197c67b453a3233dc250caef7225
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: 'The most extensive all-content plugin to date. All vanilla content
@@ -747,7 +747,7 @@
     builds. Many more tools are included into Omnis too!
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/9315f674a12d67aa74caee54a7ced7fc6097dc4d.zip
+  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/6ed8776f8871197c67b453a3233dc250caef7225.zip
   autoupdate:
     type: commit
     branch: main
@@ -1038,13 +1038,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Expansion
   license: GPL-3.0-or-later
-  version: 0.10.8.1.0
+  version: 0.10.10.0.0
   shortDescription: Plugin using ships, outfits, or other resources from plugins by
     other creators or derivatives of their original creations.
   description: Expanded content derived from the plugins of other creators. Some contents
     may require other Midnight Plugins creations.
-  url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.10.8.1.0/Midnight.Expansion-0.10.8.1.0.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.10.8.1.0/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.10.10.0.0/Midnight.Expansion-0.10.10.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.10.10.0.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/$version/Midnight.Expansion-$version.zip
