@@ -4,11 +4,11 @@
     "authors": "1010todd",
     "homepage": "https://github.com/1010todd/Mega-Freight",
     "license": "GPL-3.0-or-later",
-    "version": "54f861136d293767181a06a08be494ca4cb32eee",
+    "version": "3c5ac8c5d9fc344445d03cef8724196e7c184e13",
     "shortDescription": "Adds several mostly civilian ships for you and npc merchants (and pirates) to use for more variety in human space. Updated to Unstable releases.",
     "description": "This plugin adds several civilian and some military ships to add some more variety to human space and beyond. Mostly focused around larger ships but also have smaller freighters and starter-level ships as well. Will be updated to be compatible with lastest unstable release.",
-    "url": "https://github.com/1010todd/Mega-Freight/archive/54f861136d293767181a06a08be494ca4cb32eee.zip",
-    "iconUrl": "https://github.com/1010todd/Mega-Freight/raw/54f861136d293767181a06a08be494ca4cb32eee/icon.png",
+    "url": "https://github.com/1010todd/Mega-Freight/archive/3c5ac8c5d9fc344445d03cef8724196e7c184e13.zip",
+    "iconUrl": "https://github.com/1010todd/Mega-Freight/raw/3c5ac8c5d9fc344445d03cef8724196e7c184e13/icon.png",
     "autoupdate": {
       "type": "commit",
       "branch": "main",
@@ -35,10 +35,10 @@
     "authors": "TheGiraffe3",
     "homepage": "https://github.com/TheGiraffe3/Jibauni",
     "license": "CC-BY-SA-4.0",
-    "version": "f5c425860645af153d2d867194971910dea724af",
+    "version": "c89ed90797394d75aa679575e3b2e3f0d097fa0e",
     "shortDescription": "Adds three new alien species.",
     "description": "Adds the Jibauni, Diba, and re-adds the Sheragi. The Jibauni are dinosaurs, the Diba are robots, and the Sheragi are dragons.",
-    "url": "https://github.com/TheGiraffe3/Jibauni/archive/f5c425860645af153d2d867194971910dea724af.zip",
+    "url": "https://github.com/TheGiraffe3/Jibauni/archive/c89ed90797394d75aa679575e3b2e3f0d097fa0e.zip",
     "autoupdate": {
       "type": "commit",
       "url": "https://github.com/TheGiraffe3/Jibauni/archive/$version.zip"
