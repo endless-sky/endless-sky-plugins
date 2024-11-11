@@ -486,22 +486,6 @@
     }
   },
   {
-    "name": "Cutlass",
-    "authors": "TheGiraffe3",
-    "homepage": "https://github.com/TheGiraffe3/es-cutlass/",
-    "license": "CC-BY-SA-4.0",
-    "version": "v1.0.0",
-    "shortDescription": "Adds the Pirate Cutlass, a heavily modified Gunboat.",
-    "description": "Adds the Pirate Cutlass, a heavily modified Gunboat.",
-    "url": "https://github.com/TheGiraffe3/es-cutlass/archive/refs/tags/v1.0.0.zip",
-    "iconUrl": "https://raw.githubusercontent.com/TheGiraffe3/es-cutlass/v1.0.0/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/TheGiraffe3/es-cutlass/archive/refs/tags/$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/TheGiraffe3/es-cutlass/$version/icon.png"
-    }
-  },
-  {
     "name": "Korath Retribution",
     "authors": "Demolish238",
     "homepage": "https://github.com/demolish238/Korath-Retribution",
@@ -771,6 +755,23 @@
     }
   },
   {
+    "name": "Rumskib",
+    "authors": "TheGiraffe3",
+    "homepage": "https://github.com/TheGiraffe3/rumskib/",
+    "license": "CC-BY-SA-4.0",
+    "version": "745ca479f5b10ece40dc766753adf43abe3df24f",
+    "shortDescription": "Adds two more ships.",
+    "description": "Adds the Cutlass, which is a piratified Gunboat, and the Tanager, which is a better version of the Shuttle.",
+    "url": "https://github.com/TheGiraffe3/rumskib/archive/745ca479f5b10ece40dc766753adf43abe3df24f.zip",
+    "iconUrl": "https://github.com/TheGiraffe3/rumskib/raw/745ca479f5b10ece40dc766753adf43abe3df24f/icon.png",
+    "autoupdate": {
+      "type": "commit",
+      "branch": "main",
+      "url": "https://github.com/TheGiraffe3/rumskib/archive/$version.zip",
+      "iconURL": "https://github.com/TheGiraffe3/rumskib/raw/$version/icon.png"
+    }
+  },
+  {
     "name": "Exporianes",
     "authors": "Bereskatuket (Kestrel1110)",
     "homepage": "https://github.com/kestrel1110/Exporianes",
@@ -784,22 +785,6 @@
       "type": "tag",
       "url": "https://github.com/kestrel1110/Exporianes/archive/$version.zip",
       "iconUrl": "https://github.com/kestrel1110/Exporianes/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Tanager",
-    "authors": "TheGiraffe3",
-    "homepage": "https://github.com/TheGiraffe3/es-tanager",
-    "license": "CC-BY-SA-4.0",
-    "version": "v1.0.1",
-    "shortDescription": "Adds another ship, a bigger and better Shuttle.",
-    "description": "This \"Tanager\" is sold near Tarazed.",
-    "url": "https://github.com/TheGiraffe3/es-tanager/archive/refs/tags/v1.0.1.zip",
-    "iconUrl": "https://raw.githubusercontent.com/TheGiraffe3/es-tanager/v1.0.1/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/TheGiraffe3/es-tanager/archive/refs/tags/$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/TheGiraffe3/es-tanager/$version/icon.png"
     }
   },
   {
