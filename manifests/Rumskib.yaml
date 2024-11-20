@@ -2,15 +2,15 @@ name: Rumskib
 authors: TheGiraffe3
 homepage: https://github.com/TheGiraffe3/rumskib/
 license: CC-BY-SA-4.0
-version: 243e2f92633b891cfd0a6d8f6835b1e28b95acf2
+version: fa0bf4f335031baa0ba25f15816b703efaf23095
 shortDescription: Adds two more ships.
 description: Adds the Cutlass, which is a piratified Gunboat, and the Tanager, which
   is a better version of the Shuttle.
-url: https://github.com/TheGiraffe3/rumskib/archive/243e2f92633b891cfd0a6d8f6835b1e28b95acf2.zip
+url: https://github.com/TheGiraffe3/rumskib/archive/fa0bf4f335031baa0ba25f15816b703efaf23095.zip
 iconUrl: https://github.com/TheGiraffe3/rumskib/raw/745ca479f5b10ece40dc766753adf43abe3df24f/icon.png
 autoupdate:
   type: commit
   branch: main
   url: https://github.com/TheGiraffe3/rumskib/archive/$version.zip
   iconURL: https://github.com/TheGiraffe3/rumskib/raw/$version/icon.png
-iconURL: https://github.com/TheGiraffe3/rumskib/raw/243e2f92633b891cfd0a6d8f6835b1e28b95acf2/icon.png
+iconURL: https://github.com/TheGiraffe3/rumskib/raw/fa0bf4f335031baa0ba25f15816b703efaf23095/icon.png
