@@ -19,12 +19,13 @@
   {
     "name": "Disable Free Worlds",
     "authors": "ziproot",
+    "homepage": "https://github.com/ziproot/disable-free-worlds",
     "license": "CC0-1.0",
     "version": 1,
     "shortDescription": "Exactly what it says on the tin. Disables all events related to the main plot, along with the Pact Recon mission chain.",
     "description": "Exactly what it says on the tin. Disables all events related to the main plot, along with the Pact Recon mission chain.",
-    "url": "https://web.archive.org/web/20241201020808/https://cloud.disroot.org/s/diZZdG6ERRL5cWQ/download/Disable%20Free%20Worlds.zip",
-    "iconURL": "https://archive.is/8IB9A/e9ba2845ea451d3c6b7cc68729acc0a9dd35549f.png"
+    "url": "https://github.com/ziproot/disable-free-worlds/archive/3dd174e3391fb00c44f4cc2f12149de709f95c5c.zip",
+    "iconURL": "https://github.com/ziproot/disable-free-worlds/raw/3dd174e3391fb00c44f4cc2f12149de709f95c5c/icon.png"
   },
   {
     "name": "Endless Sky Starbridge Pack",
