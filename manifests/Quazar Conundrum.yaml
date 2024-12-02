@@ -8,4 +8,4 @@ description: The Quazar Conundrum is a massive century spanning story involving 
 url: https://github.com/AurthorParadoxQ/The-Quazar-Conundrum/archive/refs/tags/Major_ReleaseV015.zip
 autoupdate:
   type: tag
-  url: https://github.com/AurthorParadoxQ/The-Quazar-Conundrum
+  url: https://github.com/AurthorParadoxQ/The-Quazar-Conundrum/archive/refs/tags/$version.zip
