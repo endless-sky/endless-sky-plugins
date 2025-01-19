@@ -566,10 +566,10 @@
     "authors": "Darcy Manoel",
     "homepage": "https://github.com/EndlessSkyCommunity/-Omnis",
     "license": "GPL-3.0-or-later",
-    "version": "b7cbb7e25fb5b0188814d1c4e0c62b261e117c44",
+    "version": "e389e21046091e500ab256953d656fc4a21e7d8a",
     "shortDescription": "The most extensive all-content plugin to date, for development or fun.",
     "description": "The most extensive all-content plugin to date. All vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!\nThis plugin is part of the Adde Endless Sky collection.",
-    "url": "https://github.com/EndlessSkyCommunity/-Omnis/archive/b7cbb7e25fb5b0188814d1c4e0c62b261e117c44.zip",
+    "url": "https://github.com/EndlessSkyCommunity/-Omnis/archive/e389e21046091e500ab256953d656fc4a21e7d8a.zip",
     "autoupdate": {
       "type": "commit",
       "branch": "main",
@@ -780,10 +780,10 @@
     "authors": "TheGiraffe3",
     "homepage": "https://github.com/TheGiraffe3/rumskib/",
     "license": "CC-BY-SA-4.0",
-    "version": "96e39c698b04d2ae729426beb9768c60e8c8d8ac",
+    "version": "32b4031fb4f4a1a58e389f766dc7bd39cae5e53c",
     "shortDescription": "Adds more ships.",
     "description": "Adds the Cutlass, which is a piratified Gunboat, and the Tanager, which is a better version of the Shuttle. Also extends the Hauler and Hauler (Type F) lines with the Hauler IV and Eyrie designs.",
-    "url": "https://github.com/TheGiraffe3/rumskib/archive/96e39c698b04d2ae729426beb9768c60e8c8d8ac.zip",
+    "url": "https://github.com/TheGiraffe3/rumskib/archive/32b4031fb4f4a1a58e389f766dc7bd39cae5e53c.zip",
     "iconUrl": "https://github.com/TheGiraffe3/rumskib/raw/745ca479f5b10ece40dc766753adf43abe3df24f/icon.png",
     "autoupdate": {
       "type": "commit",
@@ -791,7 +791,7 @@
       "url": "https://github.com/TheGiraffe3/rumskib/archive/$version.zip",
       "iconURL": "https://github.com/TheGiraffe3/rumskib/raw/$version/icon.png"
     },
-    "iconURL": "https://github.com/TheGiraffe3/rumskib/raw/96e39c698b04d2ae729426beb9768c60e8c8d8ac/icon.png"
+    "iconURL": "https://github.com/TheGiraffe3/rumskib/raw/32b4031fb4f4a1a58e389f766dc7bd39cae5e53c/icon.png"
   },
   {
     "name": "Exporianes",
