@@ -11,5 +11,5 @@ url: https://github.com/TheGiraffe3/rumskib/archive/refs/tags/v1.0.3.zip
 iconUrl: https://github.com/TheGiraffe3/rumskib/raw/v1.0.3/icon.png
 autoupdate:
   type: tag
-  url: https://github.com/TheGiraffe3/rumskib/archive/refs/heads/$version.zip
+  url: https://github.com/TheGiraffe3/rumskib/archive/refs/tags/$version.zip
   iconUrl: https://github.com/TheGiraffe3/rumskib/raw/$version/icon.png
