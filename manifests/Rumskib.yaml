@@ -5,8 +5,8 @@ license: CC-BY-SA-4.0
 version: v1.0.3
 shortDescription: Adds more ships.
 description: Adds the Cutlass, which is a piratified Gunboat, and the Tanager, which
-  is a better version of the Shuttle. Also adds the Cleaver, an improved Sunder
-  made by a different company.
+  is a better version of the Shuttle. Also adds the Cleaver, an improved Sunder made
+  by a different company.
 url: https://github.com/TheGiraffe3/rumskib/archive/refs/tags/v1.0.3.zip
 iconUrl: https://github.com/TheGiraffe3/rumskib/raw/v1.0.3/icon.png
 autoupdate:
