@@ -2,11 +2,11 @@ name: Jibauni
 authors: TheGiraffe3
 homepage: https://github.com/TheGiraffe3/Jibauni
 license: CC-BY-SA-4.0
-version: 041ebcc6c5ab5f0236c271d5f812942e20368106
+version: ca3b80a82a10ed7d206457982c09bb600b2cd292
 shortDescription: Adds three new alien species.
 description: Adds the Jibauni, Diba, and re-adds the Sheragi. The Jibauni are dinosaurs,
   the Diba are robots, and the Sheragi are dragons.
-url: https://github.com/TheGiraffe3/Jibauni/archive/041ebcc6c5ab5f0236c271d5f812942e20368106.zip
+url: https://github.com/TheGiraffe3/Jibauni/archive/ca3b80a82a10ed7d206457982c09bb600b2cd292.zip
 autoupdate:
   type: commit
   url: https://github.com/TheGiraffe3/Jibauni/archive/$version.zip
