@@ -2,12 +2,13 @@ name: Jimmys-Ship-Emporium
 authors: Jimmy Firyh
 homepage: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium
 license: CC-BY-SA-4.0
-version: v0.1.0
+version: v0.1.1
 shortDescription: Simply adds the Glaive, a spicy Republic Navy ship produced after the Kor Sestor incursion.
 description: Simply adds the Glaive, a spicy Republic Navy ship produced after the Kor Sestor incursion.
-url: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/archive/refs/tags/v0.1.0.zip
-iconUrl: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/blob/v0.1.0/icon.png
+url: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/archive/refs/tags/v0.1.1.zip
+iconUrl: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/raw/v0.1.1/icon.png
 autoupdate:
   type: tag
   url: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/archive/refs/tags/$version.zip
-  iconUrl: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/blob/$version/icon.png
+  iconUrl: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/raw/$version/icon.png
+
