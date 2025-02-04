@@ -446,6 +446,20 @@
     type: tag
     url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/$version.zip
     iconUrl: https://raw.githubusercontent.com/Spectre907YT/Arion-Air_Superiority/$version/icon.png
+- name: Jimmys-Ship-Emporium
+  authors: Jimmy Firyh
+  homepage: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium
+  license: CC-BY-SA-4.0
+  version: v0.1.1
+  shortDescription: Adds the Navy Glaive.
+  description: Simply adds the Glaive, a spicy Republic Navy ship produced after the
+    Kor Sestor incursion.
+  url: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/archive/refs/tags/v0.1.1.zip
+  iconUrl: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/raw/v0.1.1/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/archive/refs/tags/$version.zip
+    iconUrl: https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/raw/$version/icon.png
 - name: Old Bounty Hunting Missions
   authors: fracturedprism
   homepage: https://github.com/fracturedprism/Old-Bounty-Hunting-Missions
