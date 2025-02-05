@@ -3,10 +3,10 @@
   "authors": "Darcy Manoel",
   "homepage": "https://github.com/EndlessSkyCommunity/-Omnis",
   "license": "GPL-3.0-or-later",
-  "version": "3ce9e3fd91ac7423a68c888ac7d43685a2501b3d",
+  "version": "f5b82542a4a36e31d06222c5d8f1caba2519cb48",
   "shortDescription": "The most extensive all-content plugin to date, for development or fun.",
   "description": "The most extensive all-content plugin to date. All vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!\nThis plugin is part of the Adde Endless Sky collection.",
-  "url": "https://github.com/EndlessSkyCommunity/-Omnis/archive/3ce9e3fd91ac7423a68c888ac7d43685a2501b3d.zip",
+  "url": "https://github.com/EndlessSkyCommunity/-Omnis/archive/f5b82542a4a36e31d06222c5d8f1caba2519cb48.zip",
   "autoupdate": {
     "type": "commit",
     "branch": "main",
