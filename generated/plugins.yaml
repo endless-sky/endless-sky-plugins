@@ -223,13 +223,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
   license: GPL-3.0-or-later
-  version: 0.10.10.2.0
+  version: 0.10.12.0.0
   shortDescription: Lost in Midnight is a mission focused plugin for the Endless Sky
     game. Features new missions, systems, outfits, ships, and variants.
   description: Lost technology, Lost knowledge, And people, who have lost their way
     trying to navigate life in this vast galaxy...
-  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.10.2.0/Lost.in.Midnight-0.10.10.2.0.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.10.2.0/icon.png
+  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.12.0.0/Lost.in.Midnight-0.10.12.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.12.0.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip
@@ -1070,13 +1070,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: v0.10.11
+  version: v0.10.12
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.10.11.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.10.11/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.10.12.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.10.12/icon.png
   autoupdate:
     type: tag
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
