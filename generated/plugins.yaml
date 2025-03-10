@@ -47,13 +47,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: 64afb57a880a2e75db4d1b78b0f0bde6f5168a0d
+  version: 493951a6daaa46b345138e18061cffb9335328f3
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/64afb57a880a2e75db4d1b78b0f0bde6f5168a0d.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/64afb57a880a2e75db4d1b78b0f0bde6f5168a0d/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/493951a6daaa46b345138e18061cffb9335328f3.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/493951a6daaa46b345138e18061cffb9335328f3/icon.png
   autoupdate:
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
@@ -122,7 +122,7 @@
   authors: Amazinite
   homepage: https://github.com/EndlessSkyCommunity/world-forge
   license: GPL-3.0-or-later
-  version: affa50ac3c84435150f2f049b5d71bdc268e5b26
+  version: 4eed5a8c9f2985aa807469e7b2b38edbbb3910ce
   shortDescription: A plugin for Endless Sky that allows the player to access everything
     in the game in one place.
   description: A plugin for Endless Sky that allows the player to access everything
@@ -130,8 +130,8 @@
     have such as the ability to boost your combat rating and change your friendly/hostile
     status with factions of the game without having to save-edit. Intended to help
     content creators test their plugins.
-  url: https://github.com/EndlessSkyCommunity/world-forge/archive/affa50ac3c84435150f2f049b5d71bdc268e5b26.zip
-  iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/affa50ac3c84435150f2f049b5d71bdc268e5b26/icon.png
+  url: https://github.com/EndlessSkyCommunity/world-forge/archive/4eed5a8c9f2985aa807469e7b2b38edbbb3910ce.zip
+  iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/4eed5a8c9f2985aa807469e7b2b38edbbb3910ce/icon.png
   autoupdate:
     type: commit
     url: https://github.com/EndlessSkyCommunity/world-forge/archive/$version.zip
