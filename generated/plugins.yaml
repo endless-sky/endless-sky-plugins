@@ -47,13 +47,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: 52ed67f7f2124c80a1fe4a920ff01c3f537ea32b
+  version: 4c0c86584abb62df8ad4a55a90dd6b6d6cb4b572
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/52ed67f7f2124c80a1fe4a920ff01c3f537ea32b.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/52ed67f7f2124c80a1fe4a920ff01c3f537ea32b/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/4c0c86584abb62df8ad4a55a90dd6b6d6cb4b572.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/4c0c86584abb62df8ad4a55a90dd6b6d6cb4b572/icon.png
   autoupdate:
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
@@ -406,11 +406,11 @@
   authors: TheGiraffe3
   homepage: https://github.com/TheGiraffe3/Jibauni
   license: CC-BY-SA-4.0
-  version: 4effc0c745dfbff4fcbf34e25fc3c382e7b58107
+  version: 66c9185e5c5bbbcab85f512e41094f7a811c9d1b
   shortDescription: Adds three new alien species.
   description: Adds the Jibauni, Diba, and re-adds the Sheragi. The Jibauni are dinosaurs,
     the Diba are robots, and the Sheragi are dragons.
-  url: https://github.com/TheGiraffe3/Jibauni/archive/4effc0c745dfbff4fcbf34e25fc3c382e7b58107.zip
+  url: https://github.com/TheGiraffe3/Jibauni/archive/66c9185e5c5bbbcab85f512e41094f7a811c9d1b.zip
   autoupdate:
     type: commit
     url: https://github.com/TheGiraffe3/Jibauni/archive/$version.zip
