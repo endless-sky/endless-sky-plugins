@@ -10,6 +10,7 @@ description: Real simple. Start the same way, in the same place, but earlier. Wh
   starts, or to prep yourself well for the main plot, or just to play for years without
   having to worry about the plot.
 url: https://codeberg.org/jmelesky/endless-sky-early-starts/archive/v0.999.zip
+iconUrl: https://codeberg.org/jmelesky/endless-sky-early-starts/raw/branch/main/icon.png
 autoupdate:
   type: tag
   url: https://codeberg.org/jmelesky/endless-sky-early-starts/archive/$version.zip
