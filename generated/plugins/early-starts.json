@@ -11,6 +11,6 @@
   "autoupdate": {
     "type": "tag",
     "url": "https://codeberg.org/jmelesky/endless-sky-early-starts/archive/$version.zip",
-    "iconUrl": "https://codeberg.org/jmelesky/endless-sky-early-starts/raw/tag/$versiion/icon.png"
+    "iconUrl": "https://codeberg.org/jmelesky/endless-sky-early-starts/raw/tag/$version/icon.png"
   }
 }
