@@ -495,13 +495,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: v0.10.12
+  version: v0.10.13
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.10.12.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.10.12/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.10.13.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.10.13/icon.png
   autoupdate:
     type: tag
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
@@ -528,15 +528,15 @@
   authors: jmelesky
   homepage: https://codeberg.org/jmelesky/endless-sky-early-starts
   license: CC-BY-SA-4.0
-  version: v0.999
+  version: v1.0.10.13.0
   shortDescription: Start the game at one of five earlier dates
   description: Real simple. Start the same way, in the same place, but earlier. Why?
     The big reason would be more time before the plot kicks off (which is date-based).
     You can use that time to get started on quests that are unavailable after the
     plot starts, or to prep yourself well for the main plot, or just to play for years
     without having to worry about the plot.
-  url: https://codeberg.org/jmelesky/endless-sky-early-starts/archive/v0.999.zip
-  iconUrl: https://codeberg.org/jmelesky/endless-sky-early-starts/raw/tag/v0.999/icon.png
+  url: https://codeberg.org/jmelesky/endless-sky-early-starts/archive/v1.0.10.13.0.zip
+  iconUrl: https://codeberg.org/jmelesky/endless-sky-early-starts/raw/tag/v1.0.10.13.0/icon.png
   autoupdate:
     type: tag
     url: https://codeberg.org/jmelesky/endless-sky-early-starts/archive/$version.zip
