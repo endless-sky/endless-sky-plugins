@@ -14,24 +14,23 @@ from urllib.request import urlopen, Request
 def check_url(url):
     try:
         conn = urlopen(Request(url, method="HEAD"))
-        status = "OK %s" % conn.status
-        ok = True
+        status = f"  OK {conn.status}\t{url}"
     except HTTPError as e:
-        status = "ERROR %s" % e.code
-        ok = False
+        status = f"  ERROR {e.code}\t{url}"
+        failed_urls.append(status)
     
-    print("  %s\t%s" % (status, url))
-    return ok
-
+    print(status)
 
 def check_plugin(file):
     print("Checking " + file)
     with open(file, "r") as f:
         manifest = yaml.load(f, Loader=yaml.FullLoader)
 
-    url_valid = check_url(manifest["url"])
-    icon_url_valid = check_url(manifest["iconUrl"]) if manifest.get("iconUrl") else True
-    return url_valid and icon_url_valid
+    check_url(manifest["url"])
+    if manifest.get("iconUrl"):
+        check_url(manifest["iconUrl"])
+
+
 
 
 target = sys.argv[1]
@@ -42,10 +41,12 @@ if os.path.isdir(target):
 else:
     files = [target]
 
-success = True
+failed_urls = []
 for file in files:
-    if not check_plugin(file):
-        success = False
+    check_plugin(file)
 
-if not success:
+if failed_urls:
+    print("\nFailed URLs:")
+    for status in failed_urls:
+        print(status)
     exit(1)
