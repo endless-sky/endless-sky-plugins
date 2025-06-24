@@ -5,7 +5,9 @@ updates:
   schedule:
     interval: "weekly"
   versioning-strategy: increase-if-necessary
+  prefix: chore(ci)
 - package-ecosystem: "github-actions"
   directory: "/"
   schedule:
     interval: "weekly"
+  prefix: chore(ci)
