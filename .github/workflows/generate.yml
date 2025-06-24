@@ -2,7 +2,8 @@ name: Generate files
 
 on:
   push:
-
+    branches:
+    - master
 
 jobs:
   generate:
@@ -29,6 +30,7 @@ jobs:
     - name: Generate PLUGINS.md
       run: python3 scripts/generate_table.py generated/plugins.yaml generated/PLUGINS.md
     - uses: stefanzweifel/git-auto-commit-action@v4.13.1
+      if: github.repository == "endless-sky/endless-sky-plugins"
       with:
         commit_message: "chore(regenerate): triggered by ${{ github.sha }}"
         file_pattern: ./generated/*
