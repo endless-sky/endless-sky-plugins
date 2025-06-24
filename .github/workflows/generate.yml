@@ -3,6 +3,7 @@ name: Generate files
 on:
   push:
 
+
 jobs:
   generate:
     runs-on: ubuntu-22.04
@@ -32,4 +33,4 @@ jobs:
         commit_message: Regenerate files (${{ github.sha }})
         file_pattern: ./generated/*
         commit_user_name: Generate files workflow
-        commit_author: github-actions[bot] <actions@github.com> 
+        commit_author: github-actions[bot] <actions@github.com>

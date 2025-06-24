@@ -1,11 +1,11 @@
 name: Validate
 
-on: 
+on:
   push:
   schedule:
-    - cron: "0 */6 * * *"
+  - cron: "0 */6 * * *"
   pull_request:
-    types: [opened, synchronize]
+    types: [ opened, synchronize ]
 
 jobs:
 
@@ -18,15 +18,15 @@ jobs:
       uses: ibiqlik/action-yamllint@v3
       with:
         file_or_dir: manifests/
-  
+
   check_urls:
     runs-on: ubuntu-22.04
 
     steps:
-      - uses: actions/checkout@v2
-      - name: Install dependencies
-        run: |
-          pip3 install setuptools wheel
-          pip3 install -r scripts/requirements.txt
-      - name: Check URLs
-        run: python3 scripts/check_urls.py manifests/
+    - uses: actions/checkout@v2
+    - name: Install dependencies
+      run: |
+        pip3 install setuptools wheel
+        pip3 install -r scripts/requirements.txt
+    - name: Check URLs
+      run: python3 scripts/check_urls.py manifests/

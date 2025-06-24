@@ -2,7 +2,7 @@ name: Autoupdate
 
 on:
   schedule:
-    - cron: "0 * * * *"
+  - cron: "0 * * * *"
   workflow_dispatch:
 
 
@@ -22,7 +22,7 @@ jobs:
         git config user.email "actions@github.com"
         git config user.name "Github Actions"
         git fetch origin
-        
+
         for file in manifests/*
         do
           git reset --hard origin/master
