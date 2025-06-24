@@ -49,7 +49,7 @@ jobs:
             else
               git checkout -B "$branchname"
               git add manifests/
-              git commit -m "Update $name to $version"
+              git commit -m "chore(update): $name to $version"
               git push --set-upstream origin "$branchname"
 
               # the poor man's "does this PR exist?"
