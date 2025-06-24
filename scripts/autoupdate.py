@@ -12,6 +12,7 @@ import dulwich.porcelain
 import functools
 import re
 import itertools
+from traceback import print_exc
 
 
 BASEVERSION = r'^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-z.]+[0-9]*)?$'
@@ -147,5 +148,15 @@ if os.path.isdir(target):
 else:
     files = [target]
 
+error = False
 for file in files:
-    update(file)
+    try:
+        update(file)
+    except Exception:
+        error = True
+        print("Error while updating {file}, stacktrace follows:")
+        print_exc()
+        print("Exit code will be non-zero")
+
+if error:
+    exit(1)
