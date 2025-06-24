@@ -34,3 +34,8 @@ jobs:
         file_pattern: ./generated/*
         commit_user_name: Generate files workflow
         commit_author: github-actions[bot] <actions@github.com>
+    - name: Alert MCO on failure
+      if: ${{ failure() }}
+      uses: sarisia/actions-status-discord@v1
+      with:
+        webhook: ${{ secrets.DISCORD_WEBHOOK }}
