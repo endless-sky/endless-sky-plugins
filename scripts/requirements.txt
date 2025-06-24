@@ -1,2 +1,2 @@
-pyyaml == 5.3.1
-dulwich == 0.20.*
+pyyaml == 6.0.*
+dulwich == 0.23.*
