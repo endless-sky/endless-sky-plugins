@@ -29,7 +29,7 @@ jobs:
         done
     - name: Generate PLUGINS.md
       run: python3 scripts/generate_table.py generated/plugins.yaml generated/PLUGINS.md
-    - uses: stefanzweifel/git-auto-commit-action@v6.0.1
+    - uses: stefanzweifel/git-auto-commit-action@v6
       if: github.repository == 'endless-sky/endless-sky-plugins'
       with:
         commit_message: "chore(regenerate): triggered by ${{ github.sha }}"
