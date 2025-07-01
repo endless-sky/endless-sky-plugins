@@ -15,8 +15,9 @@ import itertools
 from traceback import print_exc
 
 
-BASEVERSION = r'^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-z.]+[0-9]*)?$'
-VERSION_COMPONENTS = re.compile(r'(\d+ | [a-z]+ | \.)', re.VERBOSE)
+BASEVERSION = r"^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-z.]+[0-9]*)?$"
+VERSION_COMPONENTS = re.compile(r"(\d+ | [a-z]+ | \.)", re.VERBOSE)
+
 
 def get_latest_versioned_tag_from_refs(refs):
     """
@@ -42,16 +43,16 @@ def get_latest_versioned_tag_from_refs(refs):
     """
     # remove refs/tags/ prefix (other refs will exist but will be filtered out
     # in the next step
-    tags=list(map(lambda x: x.replace('refs/tags/', ''), refs))
+    tags = list(map(lambda x: x.replace("refs/tags/", ""), refs))
     # filter out only valid version numbers (optional v prefix with a set of
     # numbers separated by periods)
-    tags=list(filter(lambda x: re.match(BASEVERSION, x), tags))
+    tags = list(filter(lambda x: re.match(BASEVERSION, x), tags))
     # Sort list from lowest to highest version (last item is highest version)
 
     # This is taken from distutils.version.LooseVersion - we need access to the component list, so we have to reimplement
     def parse_version(vstring):
-        vstring = vstring.lstrip('vV')
-        components = [x for x in VERSION_COMPONENTS.split(vstring) if x and x != '.']
+        vstring = vstring.lstrip("vV")
+        components = [x for x in VERSION_COMPONENTS.split(vstring) if x and x != "."]
         for i, obj in enumerate(components):
             try:
                 components[i] = int(obj)
@@ -63,7 +64,7 @@ def get_latest_versioned_tag_from_refs(refs):
         components1 = parse_version(tag1)
         components2 = parse_version(tag2)
         # can't compare mixed lists of int & str directly, so we iterate
-        for (x, y) in itertools.zip_longest(components1, components2):
+        for x, y in itertools.zip_longest(components1, components2):
             if x == y:
                 continue
             # longer version > shorter version
@@ -83,25 +84,33 @@ def get_latest_versioned_tag_from_refs(refs):
     return tags[-1]
 
 
-def ls_remote(url):
-    print(url)
-    byte_dict = dulwich.porcelain.ls_remote(url)
-    string_dict = {}
-    for k, v in byte_dict.items():
-        string_dict[k.decode("utf-8")] = v.decode("utf-8")
-    return string_dict
+def decode_byte_dict(input):
+    output = {}
+    for k, v in input.items():
+        output[k.decode("utf-8")] = v.decode("utf-8")
+    return output
 
 
 def get_latest_version(au_type, au_url, au_branch):
-    if au_type == "commit":
-        refs = ls_remote(au_url)
-        ref = refs.get("refs/heads/" + au_branch)
-        if not ref:
-            raise LookupError("Branch %s doesn't exist" % au_branch)
-        return ref
+    ls_remote = dulwich.porcelain.ls_remote(au_url)
+    refs = decode_byte_dict(ls_remote.refs)
+    symrefs = decode_byte_dict(ls_remote.symrefs)
 
-    if au_type == "tag":
-        refs = ls_remote(au_url)
+    if au_type == "commit":
+        if not au_branch:
+            head_ref = symrefs.get("HEAD")
+            if not head_ref:
+                raise LookupError(
+                    "no HEAD in ls-remote symrefs, can't determine default branch"
+                )
+            au_branch = head_ref.removeprefix("refs/heads/")
+
+        commit = refs.get("refs/heads/" + au_branch)
+        if not commit:
+            raise LookupError("Branch %s doesn't exist" % au_branch)
+        return commit
+
+    elif au_type == "tag":
         # Sort by the second tuple item, which is a parser semver object
         # Then return the associated string (so any prefix that `coerce` stripped doesn't get discarded)
         return get_latest_versioned_tag_from_refs(refs)
@@ -121,7 +130,7 @@ def update(file):
     au_type = au["type"]
     au_url = au.get("update_url", manifest["homepage"])
     # TODO: dulwich needs to support this first: https://github.com/dulwich/dulwich/issues/863
-    au_branch = au.get("branch", "master")
+    au_branch = au.get("branch")
     update_kvs = {}
     for k, v in au.items():
         if k not in ["type", "update_url", "branch"]:
