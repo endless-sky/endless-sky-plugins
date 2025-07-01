@@ -10,7 +10,6 @@
   "iconUrl": "https://github.com/1010todd/Mega-Freight/raw/3bd7e06390120e83466ae1d5318f63136bd8aee2/icon.png",
   "autoupdate": {
     "type": "commit",
-    "branch": "main",
     "url": "https://github.com/1010todd/Mega-Freight/archive/$version.zip",
     "iconUrl": "https://github.com/1010todd/Mega-Freight/raw/$version/icon.png"
   }

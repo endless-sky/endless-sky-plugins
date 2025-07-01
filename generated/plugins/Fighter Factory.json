@@ -10,7 +10,6 @@
   "iconUrl": "https://github.com/1010todd/Fighter-Factory/raw/9db8b336882c4b613316c6a4260f56af7ec885cc/icon.png",
   "autoupdate": {
     "type": "commit",
-    "branch": "main",
     "url": "https://github.com/1010todd/Fighter-Factory/archive/$version.zip",
     "iconUrl": "https://github.com/1010todd/Fighter-Factory/raw/$version/icon.png"
   }

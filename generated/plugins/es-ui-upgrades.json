@@ -10,7 +10,6 @@
   "iconUrl": "https://github.com/Cromha-Plugins/es-ui-upgrades/raw/a7b565de29e4b509429ede9abfb8895345a1b27f/icon.png",
   "autoupdate": {
     "type": "commit",
-    "branch": "main",
     "url": "https://github.com/Cromha-Plugins/es-ui-upgrades/archive/$version.zip",
     "iconUrl": "https://github.com/Cromha-Plugins/es-ui-upgrades/raw/$version/icon.png"
   }

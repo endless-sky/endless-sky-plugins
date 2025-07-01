@@ -13,7 +13,6 @@
   iconUrl: https://github.com/1010todd/Mega-Freight/raw/3bd7e06390120e83466ae1d5318f63136bd8aee2/icon.png
   autoupdate:
     type: commit
-    branch: main
     url: https://github.com/1010todd/Mega-Freight/archive/$version.zip
     iconUrl: https://github.com/1010todd/Mega-Freight/raw/$version/icon.png
 - name: Core Mining, Inc.
@@ -102,7 +101,6 @@
   iconUrl: https://github.com/1010todd/Fighter-Factory/raw/9db8b336882c4b613316c6a4260f56af7ec885cc/icon.png
   autoupdate:
     type: commit
-    branch: main
     url: https://github.com/1010todd/Fighter-Factory/archive/$version.zip
     iconUrl: https://github.com/1010todd/Fighter-Factory/raw/$version/icon.png
 - name: Rumskib
@@ -358,7 +356,6 @@
   iconUrl: https://raw.githubusercontent.com/AvianGeneticist/QuaernanHardpointsCarries/ea402025badbe3ac489c235452bf5e7ac64b086c/icon%402x.png
   autoupdate:
     type: commit
-    branch: main
     url: https://github.com/AvianGeneticist/QuaernanHardpointsCarries/archive/$version.zip
     iconUrl: https://raw.githubusercontent.com/AvianGeneticist/QuaernanHardpointsCarries/$version/icon%402x.png
 - name: SpaceCrate
@@ -718,7 +715,6 @@
   iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/4def4d7e932292017be52a2c69e1ea33efc8cf26/icon.png
   autoupdate:
     type: commit
-    branch: main
     url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/archive/$version.zip
     iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/$version/icon.png
 - name: Mil'taj Protectorate
@@ -941,7 +937,6 @@
   url: https://github.com/EndlessSkyCommunity/-Omnis/archive/5c6567e360413204511eb4efdcc79a7797a0d246.zip
   autoupdate:
     type: commit
-    branch: main
     url: https://github.com/EndlessSkyCommunity/-Omnis/archive/$version.zip
 - name: ES-ui-upgrades
   authors: Roger Tabris
@@ -955,7 +950,6 @@
   iconUrl: https://github.com/Cromha-Plugins/es-ui-upgrades/raw/a7b565de29e4b509429ede9abfb8895345a1b27f/icon.png
   autoupdate:
     type: commit
-    branch: main
     url: https://github.com/Cromha-Plugins/es-ui-upgrades/archive/$version.zip
     iconUrl: https://github.com/Cromha-Plugins/es-ui-upgrades/raw/$version/icon.png
 - name: sensor
@@ -1019,7 +1013,6 @@
   iconUrl: https://raw.githubusercontent.com/samrocketman/Spacefarer/55318e263bfd27e9304754c4509c48d44b8e9195/icon%402x.png
   autoupdate:
     type: commit
-    branch: main
     url: https://github.com/samrocketman/Spacefarer/archive/$version.zip
     iconUrl: https://raw.githubusercontent.com/samrocketman/Spacefarer/$version/icon%402x.png
 - name: Sheragi Rebirth

@@ -10,7 +10,6 @@
   "iconUrl": "https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/4def4d7e932292017be52a2c69e1ea33efc8cf26/icon.png",
   "autoupdate": {
     "type": "commit",
-    "branch": "main",
     "url": "https://github.com/OcelotWalrus/Cromha-Expansion-plugin/archive/$version.zip",
     "iconUrl": "https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/$version/icon.png"
   }
