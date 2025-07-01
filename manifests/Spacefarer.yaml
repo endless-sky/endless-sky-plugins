@@ -13,6 +13,5 @@ url: https://github.com/samrocketman/Spacefarer/archive/55318e263bfd27e9304754c4
 iconUrl: https://raw.githubusercontent.com/samrocketman/Spacefarer/55318e263bfd27e9304754c4509c48d44b8e9195/icon%402x.png
 autoupdate:
   type: commit
-  branch: main
   url: https://github.com/samrocketman/Spacefarer/archive/$version.zip
   iconUrl: https://raw.githubusercontent.com/samrocketman/Spacefarer/$version/icon%402x.png

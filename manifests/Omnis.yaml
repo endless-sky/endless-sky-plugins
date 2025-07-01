@@ -13,5 +13,4 @@ description: 'The most extensive all-content plugin to date. All vanilla content
 url: https://github.com/EndlessSkyCommunity/-Omnis/archive/5c6567e360413204511eb4efdcc79a7797a0d246.zip
 autoupdate:
   type: commit
-  branch: main
   url: https://github.com/EndlessSkyCommunity/-Omnis/archive/$version.zip
