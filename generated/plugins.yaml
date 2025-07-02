@@ -71,7 +71,7 @@
   authors: Pshy
   homepage: https://github.com/pshy0/es-ruin-the-fun
   license: MPL-2.0-no-copyleft-exception
-  version: v0.0.38
+  version: v0.0.39
   shortDescription: Cheat plugin, to ruin your fun, or to assist you in making or
     testing another plugin. https://github.com/Pshy0/es-ruin-the-fun
   description: Ruin-The-Fun is a cheat/development plugin. Change your captain's name,
@@ -79,8 +79,8 @@
     set your combat rank, hire a powerful escort, gift yourself pre-outfitted ships,
     give yourself money, and much more. All ships and outfits are also available from
     a few added systems. https://github.com/Pshy0/es-ruin-the-fun
-  url: https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/v0.0.38.zip
-  iconUrl: https://github.com/pshy0/es-ruin-the-fun/raw/v0.0.38/icon.png
+  url: https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/v0.0.39.zip
+  iconUrl: https://github.com/pshy0/es-ruin-the-fun/raw/v0.0.39/icon.png
   autoupdate:
     type: tag
     url: https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/$version.zip
