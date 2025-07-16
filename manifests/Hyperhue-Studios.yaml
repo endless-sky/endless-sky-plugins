@@ -10,4 +10,4 @@ iconUrl: https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/raw/ma
 autoupdate:
   type: tag
   url: https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/releases/download/$version/HyperHue-Studios-1.4.zip
-  iconUrl: https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/blob/main/$version/icon.png
+  iconUrl: https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/raw/main/$version/icon.png
