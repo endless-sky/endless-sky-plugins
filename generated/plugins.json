@@ -1,28 +1,18 @@
 [
   {
-    "name": "The Quazar Condundrom",
-    "authors": "Anerix(Paradox)CorminQuanadol",
-    "homepage": "https://github.com/AurthorParadoxQ/The-Quazar-Conundrum/",
+    "name": "Jimmys-Ship-Emporium",
+    "authors": "Jimmy Firyh",
+    "homepage": "https://github.com/JimmyFiryh/Jimmys-Ship-Emporium",
     "license": "CC-BY-SA-4.0",
-    "version": "V0.1.5",
-    "shortDescription": "An Odyssey Spanning 100 years",
-    "description": "The Quazar Conundrum is a massive century spanning story involving a galaxy-spanning threat, changing hegemony and new factions rising to power.",
-    "url": "https://github.com/AurthorParadoxQ/The-Quazar-Conundrum/archive/refs/tags/Major_ReleaseV015.zip"
-  },
-  {
-    "name": "Fighter Factory",
-    "authors": "1010todd",
-    "homepage": "https://github.com/1010todd/Fighter-Factory",
-    "license": "GPL-3.0-or-later",
-    "version": "9db8b336882c4b613316c6a4260f56af7ec885cc",
-    "shortDescription": "Add outfit to produce replacement fighters. Updated to latest stable.",
-    "description": "Add outfit to produce replacement fighters. To use, after installing the Fighter Assembler outfit depart and land once then check the job board to record the current number of fighters. Now if the number of fighter ever drop below the recorded number new one will be made to replace it as long as supply is available. Will be updated to latest stable release.",
-    "url": "https://github.com/1010todd/Fighter-Factory/archive/9db8b336882c4b613316c6a4260f56af7ec885cc.zip",
-    "iconUrl": "https://github.com/1010todd/Fighter-Factory/raw/9db8b336882c4b613316c6a4260f56af7ec885cc/icon.png",
+    "version": "v0.1.1",
+    "shortDescription": "Adds the Navy Glaive.",
+    "description": "Simply adds the Glaive, a spicy Republic Navy ship produced after the Kor Sestor incursion.",
+    "url": "https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/archive/refs/tags/v0.1.1.zip",
+    "iconUrl": "https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/raw/v0.1.1/icon.png",
     "autoupdate": {
-      "type": "commit",
-      "url": "https://github.com/1010todd/Fighter-Factory/archive/$version.zip",
-      "iconUrl": "https://github.com/1010todd/Fighter-Factory/raw/$version/icon.png"
+      "type": "tag",
+      "url": "https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/raw/$version/icon.png"
     }
   },
   {
@@ -42,438 +32,19 @@
     }
   },
   {
-    "name": "High DPI Continuous",
-    "authors": "Michael Zahniser",
-    "homepage": "https://github.com/endless-sky/endless-sky-high-dpi",
-    "license": "CC-BY-SA-4.0",
-    "version": "a9e3f00ef2e04fec925980430e07dabaeaf70b6b",
-    "shortDescription": "High-DPI graphics for Endless Sky.",
-    "description": "This plugin contains double resolution graphics, which are only used if you have a high-dpi monitor or if you set the zoom level above 100%. This will roughly double the amount of memory used by the game.",
-    "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/a9e3f00ef2e04fec925980430e07dabaeaf70b6b.zip",
-    "iconUrl": "https://github.com/endless-sky/endless-sky-high-dpi/raw/a9e3f00ef2e04fec925980430e07dabaeaf70b6b/icon.png",
-    "autoupdate": {
-      "type": "commit",
-      "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip",
-      "iconUrl": "https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Portraits for News",
-    "authors": "Anarchist2",
-    "homepage": "https://github.com/Anarchist2/ES-news-portraits",
-    "license": "GPL-3.0-or-later",
-    "version": "v1.1",
-    "shortDescription": "This plugin re-activates the portrait system for news in ES.",
-    "description": "This plugin re-activates the portrait system for news in ES. All the images for portraits are already in the game, but became unused after portraits for news was disabled by default. Alien portraits (including transhuman portraits) are not considered canon.",
-    "url": "https://github.com/Anarchist2/ES-news-portraits/archive/v1.1.zip",
-    "iconUrl": "https://github.com/Anarchist2/ES-news-portraits/raw/v1.1/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/Anarchist2/ES-news-portraits/archive/$version.zip",
-      "iconUrl": "https://github.com/Anarchist2/ES-news-portraits/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Logbook Help",
-    "authors": "Michael Arsollon",
-    "homepage": "https://github.com/MidnightPlugins/Logbook-Help",
-    "license": "GPL-3.0-or-later",
-    "version": "0.10.6.0",
-    "shortDescription": "Adds a Help tab to the Logbook which can be used as a centralized location to review or preview various helpful game tips.",
-    "description": "Adds a Help tab to the Logbook which can be used as a centralized location to review or preview various helpful game tips.",
-    "url": "https://github.com/MidnightPlugins/Logbook-Help/releases/download/0.10.6.0/Logbook.Help-0.10.6.0.zip",
-    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Logbook-Help/0.10.6.0/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/MidnightPlugins/Logbook-Help/releases/download/$version/Logbook.Help-$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Logbook-Help/$version/icon.png"
-    }
-  },
-  {
-    "name": "Rumskib",
-    "authors": "TheGiraffe3",
-    "homepage": "https://github.com/TheGiraffe3/rumskib/",
-    "license": "CC-BY-SA-4.0",
-    "version": "v0.10.13.2",
-    "shortDescription": "Content expansion.",
-    "description": "Rumskib is a large content expansion with ships, planets, missions, and more.",
-    "url": "https://github.com/TheGiraffe3/rumskib/archive/refs/tags/v0.10.13.2.zip",
-    "iconUrl": "https://github.com/TheGiraffe3/rumskib/raw/v0.10.13.2/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/TheGiraffe3/rumskib/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/TheGiraffe3/rumskib/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Early Starts",
-    "authors": "jmelesky",
-    "homepage": "https://codeberg.org/jmelesky/endless-sky-early-starts",
-    "license": "CC-BY-SA-4.0",
-    "version": "v1.0.10.14.0",
-    "shortDescription": "Start the game at one of five earlier dates",
-    "description": "Real simple. Start the same way, in the same place, but earlier. Why? The big reason would be more time before the plot kicks off (which is date-based). You can use that time to get started on quests that are unavailable after the plot starts, or to prep yourself well for the main plot, or just to play for years without having to worry about the plot.",
-    "url": "https://codeberg.org/jmelesky/endless-sky-early-starts/archive/v1.0.10.14.0.zip",
-    "iconUrl": "https://codeberg.org/jmelesky/endless-sky-early-starts/raw/tag/v1.0.10.14.0/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://codeberg.org/jmelesky/endless-sky-early-starts/archive/$version.zip",
-      "iconUrl": "https://codeberg.org/jmelesky/endless-sky-early-starts/raw/tag/$version/icon.png"
-    }
-  },
-  {
-    "name": "The Enclave",
-    "authors": "Storm Crow (maintained by 1010todd)",
-    "homepage": "https://github.com/1010todd/The-Enclave",
-    "license": "GPL-3.0-or-later",
-    "version": "94da5f43fb99f83ca7848ea4e32f6aacacff0e07",
-    "shortDescription": "The Enclave focuses around the discovery of an isolated group of humans in a distant galaxy. Separated from the rest of their species for over half a millennium, how have these people developed?",
-    "description": "The Enclave is a story-driven plugin focused on the discovery of an isolated group of humans stranded, hundreds of years ago, in another galaxy. I'd recommend you have a large Tier 2 fleet at least to complete the (admittedly still in-progress) story. Special thanks to Derpy Horse (https://github.com/Amazinite) for adding the animated stars.",
-    "url": "https://github.com/1010todd/The-Enclave/archive/94da5f43fb99f83ca7848ea4e32f6aacacff0e07.zip",
-    "iconUrl": "https://raw.githubusercontent.com/1010todd/The-Enclave/94da5f43fb99f83ca7848ea4e32f6aacacff0e07/icon.png",
-    "autoupdate": {
-      "type": "commit",
-      "url": "https://github.com/1010todd/The-Enclave/archive/$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/1010todd/The-Enclave/$version/icon.png"
-    }
-  },
-  {
-    "name": "SpaceCrate",
-    "authors": "Arnan de Gans",
-    "homepage": "https://github.com/adegans/SpaceCrate",
+    "name": "Spacefarer",
+    "authors": "samrocketman and Airhead",
+    "homepage": "https://github.com/samrocketman/Spacefarer",
     "license": "GPL-3.0",
-    "version": "v0.4.1",
-    "shortDescription": "A trade oriented mod for Endless Sky.",
-    "description": "SpaceCrate adds planet X-283N1 in the Alpha Centauri system. A rapidly developing world obsessed with trade and exports. Run by CEO Arnan de Gans this obsession attracts workers from many planets and results in lucrative trade.",
-    "url": "https://github.com/adegans/SpaceCrate/archive/refs/tags/v0.4.1.zip",
-    "iconUrl": "https://github.com/adegans/SpaceCrate/raw/v0.4.1/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "update_url": "https://github.com/adegans/SpaceCrate",
-      "url": "https://github.com/adegans/SpaceCrate/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/adegans/SpaceCrate/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Old Bounty Hunting Missions",
-    "authors": "fracturedprism",
-    "homepage": "https://github.com/fracturedprism/Old-Bounty-Hunting-Missions",
-    "license": "GPL-3.0-or-later",
-    "version": "v0.1.0",
-    "shortDescription": "Replaces timed bounty hunting missions with the old untimed ones.",
-    "description": "Feel like the timed bounty missions in Endless Sky are too fast for your taste? Want to stack those jobs, perhaps as a challenge for a ship build or just for that satisfying feeling of credits rolling in after a long patrol? Then this plugin is for you :)",
-    "url": "https://github.com/fracturedprism/Old-Bounty-Hunting-Missions/archive/refs/tags/v0.1.0.zip",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/fracturedprism/Old-Bounty-Hunting-Missions/archive/refs/tags/$version.zip"
-    }
-  },
-  {
-    "name": "Better Vanilla Pirates",
-    "authors": "ZBok",
-    "homepage": "https://github.com/ZBok/BetterVanillaPirates/",
-    "license": "GPL-3.0-or-later",
-    "version": "v2.1.2",
-    "shortDescription": "Makes pirates more interesting, varied, with many more pirate fighting missions.",
-    "description": "Adds 30+ high end variants for human heavy warships and marauders using a wide variety of outfit combinations. These will be seen in pirate fleets, merchant fleets, and adds 30+ new pirate hunting/defence/blockade missions. Adds new \"Bounty Hunted\" fleets that will hunt you down without warning. Adds new \"Korath Raid\" missions in certain Syndicate systems where the Korath will attack with their Sestor/Mereti drones, allowing you to capture these ships post-Wanderer campaign.",
-    "url": "https://github.com/ZBok/BetterVanillaPirates/archive/v2.1.2.zip",
-    "iconUrl": "https://raw.githubusercontent.com/ZBok/BetterVanillaPirates/v2.1.2/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/ZBok/BetterVanillaPirates/archive/$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/ZBok/BetterVanillaPirates/$version/icon.png"
-    }
-  },
-  {
-    "name": "Space Shuttle Start",
-    "authors": "Michael Arsollon",
-    "homepage": "https://github.com/MidnightPlugins/Space-Shuttle-Start",
-    "license": "GPL-3.0-or-later",
-    "version": "0.10.8.0",
-    "shortDescription": "An alternate start plugin featuring an old Earth relic.",
-    "description": "Start in the Sol system with an old Earth relic for your ship. The space shuttle has no weapons, but lots of cargo space.",
-    "url": "https://github.com/MidnightPlugins/Space-Shuttle-Start/releases/download/0.10.8.0/Space.Shuttle.Start-0.10.8.0.zip",
-    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Space-Shuttle-Start/0.10.8.0/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/MidnightPlugins/Space-Shuttle-Start/releases/download/$version/Space.Shuttle.Start-$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Space-Shuttle-Start/$version/icon.png"
-    }
-  },
-  {
-    "name": "Fire Corporation Plugin",
-    "authors": "Roger Tabris",
-    "homepage": "https://github.com/Cromha-Plugins/Fire-Corporation",
-    "license": "GPL-3.0-or-later",
-    "version": "v0.2",
-    "shortDescription": "A plugin about an manufacturing faction called Fire Corporation that hates pirates and will not allow them to have their ships. Contributions welcome!",
-    "description": "Fire Corporation is a manufacturing faction that makes several human ships. They hate pirates, and will try their best to keep them away from their ships. Please help by contributing to the storyline!",
-    "url": "https://github.com/Cromha-Plugins/Fire-Corporation/archive/refs/tags/v0.2.zip",
-    "iconUrl": "https://github.com/Cromha-Plugins/Fire-Corporation/raw/v0.2/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/Cromha-Plugins/Fire-Corporation/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/Cromha-Plugins/Fire-Corporation/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Beccas Endless Expansion",
-    "authors": "beccabunny",
-    "homepage": "https://github.com/beccabunny/Beccas-Endless-Expansion",
-    "license": "GPL-3.0-or-later",
-    "version": "1.2.0",
-    "shortDescription": "New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones!",
-    "description": "New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones! All you have to do is explore, fly in your ship and meet all the factions in the game.",
-    "url": "https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/1.2.0.zip",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/$version.zip"
-    }
-  },
-  {
-    "name": "Midnight Expansion",
-    "authors": "Michael Arsollon",
-    "homepage": "https://github.com/MidnightPlugins/Midnight-Expansion",
-    "license": "GPL-3.0-or-later",
-    "version": "0.10.14.0.0",
-    "shortDescription": "Plugin using ships, outfits, or other resources from plugins by other creators or derivatives of their original creations.",
-    "description": "Expanded content derived from the plugins of other creators. Some contents may require other Midnight Plugins creations.",
-    "url": "https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.10.14.0.0/Midnight.Expansion-0.10.14.0.0.zip",
-    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.10.14.0.0/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/$version/Midnight.Expansion-$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/$version/icon.png"
-    }
-  },
-  {
-    "name": "BetterVanillaHai",
-    "authors": "ZBok",
-    "homepage": "https://github.com/ZBok/BetterVanillaHai",
-    "license": "CC-BY-SA-4.0",
-    "version": "0.9.2",
-    "shortDescription": "Adds Hai ships with a wide variety of human/Hai outfits to human fleets in the late-game. Spices up pirate combat and adds variety.",
-    "description": "Check the readme file for detailed information.",
-    "url": "https://github.com/ZBok/BetterVanillaHai/archive/0.9.2.zip",
-    "iconUrl": "https://raw.githubusercontent.com/ZBok/BetterVanillaHai/0.9.2/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/ZBok/BetterVanillaHai/archive/$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/ZBok/BetterVanillaHai/$version/icon.png"
-    }
-  },
-  {
-    "name": "Omnis",
-    "authors": "Darcy Manoel",
-    "homepage": "https://github.com/EndlessSkyCommunity/-Omnis",
-    "license": "GPL-3.0-or-later",
-    "version": "5c6567e360413204511eb4efdcc79a7797a0d246",
-    "shortDescription": "The most extensive all-content plugin to date, for development or fun.",
-    "description": "The most extensive all-content plugin to date. All vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!\nThis plugin is part of the Adde Endless Sky collection.",
-    "url": "https://github.com/EndlessSkyCommunity/-Omnis/archive/5c6567e360413204511eb4efdcc79a7797a0d246.zip",
+    "version": "55318e263bfd27e9304754c4509c48d44b8e9195",
+    "shortDescription": "One Jump Drive; No ship capturing; No plundering installed outfits.",
+    "description": "As a captain, you're responsible for the lives of your crew.  Loss of life is inevitable in the merciless reaches of space.  You stick to exploration, ferrying, and fleet combat.  If anyone dies, it will be everyone when the ship explodes.  This plugin adds replay value by forcing the player to discover alternate and competing forms of income in order to efficiently obtain a fleet.",
+    "url": "https://github.com/samrocketman/Spacefarer/archive/55318e263bfd27e9304754c4509c48d44b8e9195.zip",
+    "iconUrl": "https://raw.githubusercontent.com/samrocketman/Spacefarer/55318e263bfd27e9304754c4509c48d44b8e9195/icon%402x.png",
     "autoupdate": {
       "type": "commit",
-      "url": "https://github.com/EndlessSkyCommunity/-Omnis/archive/$version.zip"
-    }
-  },
-  {
-    "name": "Kinetic Weaponry",
-    "authors": "Bereskatuket (Kestrel1110)",
-    "homepage": "https://github.com/kestrel1110/KineticWeaponry",
-    "license": "GPL-3.0-or-later",
-    "version": "1.2",
-    "shortDescription": "Adds current-day weaponry to Endless Sky",
-    "description": "A plugin adding modern realistic weapons to Endless Sky. They are tier 1 human weapons, already balanced to work as anti-capital ship weapons.",
-    "url": "https://github.com/kestrel1110/KineticWeaponry/archive/1.2.zip",
-    "iconUrl": "https://github.com/kestrel1110/KineticWeaponry/raw/1.2/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/kestrel1110/KineticWeaponry/archive/$version.zip",
-      "iconUrl": "https://github.com/kestrel1110/KineticWeaponry/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "QOL-Outfits",
-    "authors": "Demolish238",
-    "homepage": "https://github.com/demolish238/QOL-Outfits",
-    "license": "CC-BY-SA-4.0",
-    "version": "v1.0",
-    "shortDescription": "An offshoot of my Amalgamation plugin from 4 years ago, I wanted to bring some of the old QOL outfits from that collection of plugins back into the modern Endless Sky landscape. Hope you enjoy.",
-    "description": "Hi I am the original author of the Amalgamation plugin, while I have gotten back into Endless Sky recently my ideas of polish have changed greatly over these 4 years.\nI decided that while I wasn't satisfied with Amalgamation as a whole, many of the outfits from plugins like Shields up were still interesting to me, and something I wanted in the game all these years later.\nSo rather than uploading a massive plugin that turns away many people by its sheer size again, I would upload this, a small quality of life plugin that adds many of the smaller outfits I personally believe make building ships more fun overall.\nI am also working on an independent plugin for the Shields Up 'Mil'taj' race, since that was where I put the most effort and had the most interest when making Amalgamation back in the day.\nThis Plugin adds a new armoury outfit that allows you to equip powerful boarding weaponry, while costing upkeep and space. A smaller outfit space expansion, external fuel pods, extended bunk rooms, a handful of basic human outfits to add a slight bit of variation and huge tier 5 radiant engines along with a small tier 0.\nNo other plugins are needed with this and implementation into the grander game is minimal outside of outfitters, since most of these are mostly for player use rather than to make AI ships more interesting.\nReccomended Plugins\nhttps://github.com/demolish238/Mil-taj-Protectorate/tree/main (Mil'taj Protectorate) (My other plugin)\nhttps://github.com/demolish238/Korath-Retribution (Korath Retribution) (My other plugin)\nhttps://github.com/demolish238/Capitalis-Major (Capitalis Major) (My other plugin)\nUsed Plugins\nhttps://github.com/Amazinite/Shields-Up (Shields Up)\nhttps://github.com/Amazinite/Enigma-Corp (Enigma Corps)\nhttps://www.nexusmods.com/endlesssky/mods/1 (Space Conversion)\nIf you have any feedback on balance problems or bugs please message me on discord (demolish238#6398)",
-    "url": "https://github.com/demolish238/QOL-Outfits/archive/refs/tags/v1.0.zip",
-    "iconUrl": "https://github.com/demolish238/QOL-Outfits/raw/v1.0/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/demolish238/QOL-Outfits/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/demolish238/QOL-Outfits/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Prism Plugin",
-    "authors": "Startingfresher",
-    "homepage": "https://github.com/Startingfresher/Prism-Plug-in",
-    "license": "GPL-3.0-or-later",
-    "version": "v1.3",
-    "shortDescription": "Allows you to change your ship swizzle(colors, sort of) easily in game.",
-    "description": "The plugin adds missions on every star that let you change your fleet swizzle to a few options. When you start the game you get access to two, eventually you will find all 6. Look in the about.txt file for spoilers on where to get em. It should be mostly lore friendly.",
-    "url": "https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/v1.3.zip",
-    "iconUrl": "https://github.com/Startingfresher/Prism-Plug-in/raw/v1.3/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/Startingfresher/Prism-Plug-in/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Ruin The Fun",
-    "authors": "Pshy",
-    "homepage": "https://github.com/pshy0/es-ruin-the-fun",
-    "license": "MPL-2.0-no-copyleft-exception",
-    "version": "v0.0.39",
-    "shortDescription": "Cheat plugin, to ruin your fun, or to assist you in making or testing another plugin. https://github.com/Pshy0/es-ruin-the-fun",
-    "description": "Ruin-The-Fun is a cheat/development plugin. Change your captain's name, choose the color swizzle of your ships, edit your reputation with other governments, set your combat rank, hire a powerful escort, gift yourself pre-outfitted ships, give yourself money, and much more. All ships and outfits are also available from a few added systems. https://github.com/Pshy0/es-ruin-the-fun",
-    "url": "https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/v0.0.39.zip",
-    "iconUrl": "https://github.com/pshy0/es-ruin-the-fun/raw/v0.0.39/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/pshy0/es-ruin-the-fun/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Tugderic's Addons",
-    "authors": "Tugderic",
-    "homepage": "https://github.com/Tugderic/Tugderics-Addons",
-    "license": "GPL-3.0-or-later",
-    "version": "v4",
-    "shortDescription": "a plugin i made for fun that adds missions, outfits, wandering fleets, merchant Company and a pirate Gang.",
-    "description": "it's just a lil plugin i made for fun, it adds some fleets to human space, a Government of Friendly Merchant who can Escort you if they like you enough, A strong pirate gang wandering through the galaxy, unlockable outfits, and some missions, also some things out of human space.",
-    "url": "https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/v4.zip",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/$version.zip"
-    }
-  },
-  {
-    "name": "Main Plot Plus",
-    "authors": "ziproot",
-    "homepage": "https://github.com/ziproot/endless-sky-main-plot-plus",
-    "license": "GPL-3.0-or-later",
-    "version": "1.2",
-    "shortDescription": "A plugin mostly centered around improving the main plot.",
-    "description": "Have you ever had trouble getting the Free Worlds campaign to start, or accidentally failed a key mission? Have you ever thought that all sides were equally bad or wanted to join an unimplemented side? Have you ever wondered what happened to the Mark II Syndicate ships? Well, you will not be able to join the Navy, and joining the Syndicate requires the Crisis in Management plugin, but otherwise, this plugin is for you.",
-    "url": "https://github.com/ziproot/endless-sky-main-plot-plus/archive/refs/tags/1.2.zip",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/ziproot/endless-sky-main-plot-plus/archive/refs/tags/$version.zip"
-    }
-  },
-  {
-    "name": "All Content Plugin",
-    "authors": "Michael Zahniser",
-    "homepage": "https://github.com/endless-sky/all-content-plugin",
-    "license": "GPL-3.0-or-later",
-    "version": "v0.10.11",
-    "shortDescription": "Endless Sky plugin giving the player access to all ships and outfits.",
-    "description": "This plugin was made to allow content creators to have access to all outfits in a single place, for the purpose of designing and testing outfit loadouts for new ships. Of course, it can also be used by people who want to ruin the game for themselves by getting a massive fleet without needing to work for it.",
-    "url": "https://github.com/endless-sky/all-content-plugin/archive/refs/tags/v0.10.11.zip",
-    "iconUrl": "https://github.com/endless-sky/all-content-plugin/raw/v0.10.11/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/endless-sky/all-content-plugin/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/endless-sky/all-content-plugin/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "sensor",
-    "authors": "ORBIT",
-    "homepage": "https://github.com/orbitalsupershell/sensor/",
-    "license": "ALL-RIGHTS-RESERVED",
-    "version": "v0.10.9.3.0.2",
-    "shortDescription": "A small mod, adds SOME weapons.",
-    "description": "Adds a lot of weapons, (:",
-    "url": "https://github.com/orbitalsupershell/sensor/archive/refs/tags/v0.10.9.3.0.2.zip",
-    "iconUrl": "https://github.com/orbitalsupershell/sensor/raw/v0.10.9.3.0.2/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/orbitalsupershell/sensor/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/orbitalsupershell/sensor/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "World Forge",
-    "authors": "Amazinite",
-    "homepage": "https://github.com/EndlessSkyCommunity/world-forge",
-    "license": "GPL-3.0-or-later",
-    "version": "9e6587bbe43151caa85495b1360dbbf3c03bcbc8",
-    "shortDescription": "A plugin for Endless Sky that allows the player to access everything in the game in one place.",
-    "description": "A plugin for Endless Sky that allows the player to access everything in the game in one place. Includes features that the all-content plugin does not have such as the ability to boost your combat rating and change your friendly/hostile status with factions of the game without having to save-edit. Intended to help content creators test their plugins.",
-    "url": "https://github.com/EndlessSkyCommunity/world-forge/archive/9e6587bbe43151caa85495b1360dbbf3c03bcbc8.zip",
-    "iconUrl": "https://github.com/EndlessSkyCommunity/world-forge/raw/9e6587bbe43151caa85495b1360dbbf3c03bcbc8/icon.png",
-    "autoupdate": {
-      "type": "commit",
-      "url": "https://github.com/EndlessSkyCommunity/world-forge/archive/$version.zip",
-      "iconUrl": "https://github.com/EndlessSkyCommunity/world-forge/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Galactic War",
-    "authors": "1010todd",
-    "homepage": "https://github.com/1010todd/Galactic-War",
-    "license": "GPL-3.0-or-later",
-    "version": "da78a1b783535f5752471095b315f707246fe925",
-    "shortDescription": "A large content plugin adding a whole new galaxy with over dozens of aliens with storylines(in progress).",
-    "description": "A large content plugin adding 1 Accessible galaxy, 16+ Races with their own ships and outfits. Technologies ranging from less than human to beyond even the Drak, in total of over 100 Ships, 400 Outfits, and 1500 Systems. To access the galaxy you will need a Jump Drive, head to the north(top) most system in the Wanderer space, wormhole system will be close by.",
-    "url": "https://github.com/1010todd/Galactic-War/archive/da78a1b783535f5752471095b315f707246fe925.zip",
-    "iconUrl": "https://raw.githubusercontent.com/1010todd/Galactic-War/da78a1b783535f5752471095b315f707246fe925/icon.png",
-    "autoupdate": {
-      "type": "commit",
-      "url": "https://github.com/1010todd/Galactic-War/archive/$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/1010todd/Galactic-War/$version/icon.png"
-    }
-  },
-  {
-    "name": "Endless Sky Starbridge Pack",
-    "authors": "Autohummer",
-    "homepage": "https://github.com/Autohummer/Endless-Sky-Starbridge-Pack",
-    "license": "GPL-3.0-or-later",
-    "version": "1.0",
-    "shortDescription": "Get Yer Starbridges here! Adds the Starbridge from EVN to Endless Skies, Mod Starbridge and Railgun Starbridge variants included!",
-    "description": "Get Yer Starbridges here! Adds the Starbridge from EVN to Endless Skies, Mod Starbridge and Railgun Starbridge variants included! Also, two types of infinite ammunition railguns have been added for the authentic EVN experience. The ships and weapons can be bought from various advanced shipyards and outfitters. As a fallback, all Starbridge variants and outfits featured in this mod are available at any Syndicate Advanced shipyard.",
-    "url": "https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/1.0.zip",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/$version.zip"
-    }
-  },
-  {
-    "name": "The Adamas Project",
-    "authors": "toilethinges & Bereskatuket (Kestrel1110)",
-    "homepage": "https://github.com/kestrel1110/Adamas-Project",
-    "license": "GPL-3.0-or-later",
-    "version": "v0.1.4",
-    "shortDescription": "Adds a very advanced race of aliens to the northeast section of the galaxy.",
-    "description": "This plugin adds a race of highly advanced Tier 2 - 3 aliens known as the Adamas to the northeast section of the galaxy, accessible through wormholes. The aliens are friendly, but they have their own versions of pirates. The Scavengers have their own galaxy that they live in, and from which they mount raids upon the Adamas. Be careful you do not get in their way, as some of their ships are armed with stolen quarg tech!",
-    "url": "https://github.com/kestrel1110/Adamas-Project/archive/v0.1.4.zip",
-    "iconUrl": "https://github.com/kestrel1110/Adamas-Project/raw/v0.1.4/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/kestrel1110/Adamas-Project/archive/$version.zip",
-      "iconUrl": "https://github.com/kestrel1110/Adamas-Project/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Endless Cargo",
-    "authors": "YellowApple",
-    "homepage": "https://bitbucket.org/YellowApple/endless-cargo",
-    "license": "GPL-3.0-or-later",
-    "version": "v0.2.0",
-    "shortDescription": "Intermodal shipping containers for Endless Sky",
-    "description": "Adds shipping containers, container ships, and missions involving using the latter to deliver the former to places all over the galaxy.",
-    "url": "https://bitbucket.org/YellowApple/endless-cargo/get/v0.2.0.zip",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://bitbucket.org/YellowApple/endless-cargo/get/$version.zip"
+      "url": "https://github.com/samrocketman/Spacefarer/archive/$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/samrocketman/Spacefarer/$version/icon%402x.png"
     }
   },
   {
@@ -493,84 +64,35 @@
     }
   },
   {
-    "name": "Lost in Midnight",
-    "authors": "Michael Arsollon",
-    "homepage": "https://github.com/MidnightPlugins/Lost-in-Midnight",
-    "license": "GPL-3.0-or-later",
-    "version": "0.10.14.0.1",
-    "shortDescription": "Lost in Midnight is a mission focused plugin for the Endless Sky game. Features new missions, systems, outfits, ships, and variants.",
-    "description": "Lost technology, Lost knowledge, And people, who have lost their way trying to navigate life in this vast galaxy...",
-    "url": "https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.14.0.1/Lost.in.Midnight-0.10.14.0.1.zip",
-    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.14.0.1/icon.png",
+    "name": "Blended Ships",
+    "authors": "mOctave",
+    "homepage": "https://github.com/mOctave/blended-ships/",
+    "license": "AGPL-3.0-or-later",
+    "version": "v1.2.0",
+    "shortDescription": "A spliced ships plugin for Endless Sky where all the ships are made in Blender.",
+    "description": "Blended Ships is the realistic spliced ship plugin. All these ships have thumbnails, believeable stats, and actual potential uses! There is also a greater variety of civilian ships available, to support various playstyles.",
+    "url": "https://github.com/mOctave/blended-ships/archive/refs/tags/v1.2.0.zip",
+    "iconUrl": "https://raw.githubusercontent.com/mOctave/blended-ships/v1.2.0/icon.png",
     "autoupdate": {
       "type": "tag",
-      "url": "https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/$version/icon.png"
+      "url": "https://github.com/mOctave/blended-ships/archive/refs/tags/$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/mOctave/blended-ships/$version/icon.png"
     }
   },
   {
-    "name": "Outfit Highlighter",
-    "authors": "Michael Arsollon",
-    "homepage": "https://github.com/MidnightPlugins/Outfit-Highlighter",
-    "license": "GPL-3.0-or-later",
-    "version": "0.9.16.3.0",
-    "shortDescription": "Makes the selected outfit stand out more in the outfitter screen.",
-    "description": "Makes the selected outfit stand out more in the outfitter screen. Recommended for those who prefer to navigate the outfitter using the keyboard instead of the mouse. Now includes themed highlighters! To change themes, copy the image from the chosen theme's subfolder and paste into the plugin's ui folder.",
-    "url": "https://github.com/MidnightPlugins/Outfit-Highlighter/releases/download/0.9.16.3.0/Outfit.Highlighter-0.9.16.3.0.zip",
-    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Outfit-Highlighter/0.9.16.3.0/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/MidnightPlugins/Outfit-Highlighter/releases/download/$version/Outfit.Highlighter-$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Outfit-Highlighter/$version/icon.png"
-    }
-  },
-  {
-    "name": "Lampyrid Start",
-    "authors": "Zitchas",
-    "homepage": "https://github.com/Zitchas/ES_Lampyrid_Start",
-    "license": "GPL-3.0-or-later",
-    "version": "v1.6",
-    "shortDescription": "Enables an alternate start wherein the player starts with a modified Lampyrid.",
-    "description": "Have you ever wanted to start Endless Sky flying something a bit more unique than the typical shuttle, starbarge, or sparrow? Have you dreamed of having a pilot that starts their carreer with an old ship they've been fixing up for the past few years? Well, Lampyrid Start does that. Choosing this starts has your pilot start their career flying a slighly modified version of the Lampyrid, which is a decent balanced transport/freighter with the capacity to be fairly fast compared to others of its class.",
-    "url": "https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/v1.6/Z_Lampyrid_Start.release.v1.6.zip",
-    "iconUrl": "https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/v1.6/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/$version/Z_Lampyrid_Start.release.$version.zip",
-      "update_url": "https://github.com/Zitchas/ES_Lampyrid_Start",
-      "iconUrl": "https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/$version/icon.png"
-    }
-  },
-  {
-    "name": "Easier Korath Automatons",
-    "authors": "Bereskatuket (Kestrel1110)",
-    "homepage": "https://github.com/kestrel1110/Easier-Korath-Automatons",
-    "license": "GPL-3.0-or-later",
-    "version": "1.0.0",
-    "shortDescription": "Makes capturing Korath Automata easier.",
-    "description": "Decreases self-destructing chances by half to make capturing the Korath automata ships easier.",
-    "url": "https://github.com/kestrel1110/Easier-Korath-Automatons/archive/1.0.0.zip",
-    "iconUrl": "https://github.com/kestrel1110/Easier-Korath-Automatons/raw/1.0.0/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/kestrel1110/Easier-Korath-Automatons/archive/$version.zip",
-      "iconUrl": "https://github.com/kestrel1110/Easier-Korath-Automatons/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Mil'taj Protectorate",
-    "authors": "Demolish238",
-    "homepage": "https://github.com/demolish238/Mil-taj-Protectorate.git",
+    "name": "Early Starts",
+    "authors": "jmelesky",
+    "homepage": "https://codeberg.org/jmelesky/endless-sky-early-starts",
     "license": "CC-BY-SA-4.0",
-    "version": "v1.0",
-    "shortDescription": "This plugin contains the Mil'taj race placed in the right arm of the galaxy, they can be found by exploring the Gegno region of space.",
-    "description": "Hi I am the original author of the Amalgamation plugin, while I have gotten back into Endless Sky recently my ideas of polish have changed greatly over these 4 years.\nI decided that while I wasn't satisfied with Amalgamation as a whole, but a race of aliens from the plugin Shields up were still interesting to me, and something I wanted in the game all these years later.\nThis is my attempt to morph the Mil'taj into their own fully functional developed race, with a simple opening mission chain and plenty of lore.\nIt is recommended to avoid the Mil'taj storyline until you can at least defeat a Wardragon, otherwise you will have a bad time.\nATM you can choose to either align yourself with the Mil'taj against the Quarg, or make them an enemy. I do not plan to ever have a Quarg side to the campaign, they just want you to piss off.\nCurrently something I cannot do myself is art. So the mil'taj licences are just wanderer licences until I can get custom ones.\nFor the rest of the plugin all art assets are taken from dead plugins that years ago I worked on updating to the then current game version.\nThe idealised goal would be to replace them all with custom assets just for this plugin, but I doubt that will happen, so I'm mainly hoping someone will be interested in adding their own custom made Mil'taj licences for the plugin.\nReccomended Plugins\nhttps://github.com/1010todd/Beyond-the-Sky (Beyond the Sky) (Makes the Quarg actually scary as a threat and makes the higher tier Mil'taj ships make sense in comparison)\nhttps://github.com/demolish238/QOL-Outfits (QOL outfits) (My other plugin)\nhttps://github.com/demolish238/Korath-Retribution (Korath Retribution) (My other plugin)\nhttps://github.com/demolish238/Capitalis-Major (Capitalis Major) (My other plugin)\nUsed Plugins\nhttps://github.com/Amazinite/Shields-Up (Shields Up) (The original creator of the Mil'taj)\nhttps://github.com/Makuta-Miras/The-Enclave/tree/master (Enclave) (For Mil'taj weapons and outfits)\nhttps://github.com/mdsmestad/ES-COTSA-Pluggin (Cultures of the Southern Arm) (For the Avendri Ships)\nhttps://tearcellgames.itch.io/cosmic-canidae-assets (Mal'korbra assets)\nhttps://github.com/MidnightPlugins/Lost-in-Midnight (Lost in Midnight) (Damaged Jump Drive Image)\nIf you have any feedback on balance problems or bugs please message me on discord (demolish238#6398)",
-    "url": "https://github.com/demolish238/Mil-taj-Protectorate/archive/refs/tags/v1.0.zip",
-    "iconUrl": "https://github.com/demolish238/Mil-taj-Protectorate/raw/v1.0/icon.png",
+    "version": "v1.0.10.14.0",
+    "shortDescription": "Start the game at one of five earlier dates",
+    "description": "Real simple. Start the same way, in the same place, but earlier. Why? The big reason would be more time before the plot kicks off (which is date-based). You can use that time to get started on quests that are unavailable after the plot starts, or to prep yourself well for the main plot, or just to play for years without having to worry about the plot.",
+    "url": "https://codeberg.org/jmelesky/endless-sky-early-starts/archive/v1.0.10.14.0.zip",
+    "iconUrl": "https://codeberg.org/jmelesky/endless-sky-early-starts/raw/tag/v1.0.10.14.0/icon.png",
     "autoupdate": {
       "type": "tag",
-      "url": "https://github.com/demolish238/Mil-taj-Protectorate/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/demolish238/Mil-taj-Protectorate/raw/$version/icon.png"
+      "url": "https://codeberg.org/jmelesky/endless-sky-early-starts/archive/$version.zip",
+      "iconUrl": "https://codeberg.org/jmelesky/endless-sky-early-starts/raw/tag/$version/icon.png"
     }
   },
   {
@@ -590,86 +112,6 @@
     }
   },
   {
-    "name": "Arc Over",
-    "authors": "Saugia",
-    "homepage": "https://github.com/Saugia/arc-over",
-    "license": "GPL-3.0-or-later",
-    "version": "v0.4",
-    "shortDescription": "Arc Over is a plug-in for Endless Sky that gives vanilla ships limited turret arcs, introducing a new aspect to combat balance.",
-    "description": "Arc Over implements limited turret arcs for turret mounts on vanilla ships, resulting a new balance for ship combat. Smaller ships will enjoy navigating the more limited fields of fire from larger ships, where these arc limits provide more dynamic engagements between ships of any size.",
-    "url": "https://github.com/Saugia/arc-over/archive/refs/tags/v0.4.zip",
-    "iconUrl": "https://github.com/Saugia/arc-over/raw/v0.4/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/Saugia/arc-over/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/Saugia/arc-over/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "ES-ui-upgrades",
-    "authors": "Roger Tabris",
-    "homepage": "https://github.com/Cromha-Plugins/es-ui-upgrades",
-    "license": "AGPL-3.0-or-later",
-    "version": "a7b565de29e4b509429ede9abfb8895345a1b27f",
-    "shortDescription": "A plugin that aims to transform the UI.",
-    "description": "This plugin aims to be the first plugin to transform the UI. It tries to make it into a more digital interface, with floating transparent blue windows.",
-    "url": "https://github.com/Cromha-Plugins/es-ui-upgrades/archive/a7b565de29e4b509429ede9abfb8895345a1b27f.zip",
-    "iconUrl": "https://github.com/Cromha-Plugins/es-ui-upgrades/raw/a7b565de29e4b509429ede9abfb8895345a1b27f/icon.png",
-    "autoupdate": {
-      "type": "commit",
-      "url": "https://github.com/Cromha-Plugins/es-ui-upgrades/archive/$version.zip",
-      "iconUrl": "https://github.com/Cromha-Plugins/es-ui-upgrades/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Korath Retribution",
-    "authors": "Demolish238",
-    "homepage": "https://github.com/demolish238/Korath-Retribution",
-    "license": "CC-BY-SA-4.0",
-    "version": "v1.0",
-    "shortDescription": "Hello, this plugin adds consequences for Worldship hunting, from the Quarg being disapproving, to Korath Revenge fleets and the Efreti being angered.",
-    "description": "Hello, this plugin adds consequences for Worldship hunting, from the Quarg being disapproving, to Korath Revenge fleets and the Efreti being angered.\nReccomended Plugins\nhttps://github.com/MidnightPlugins/Lost-in-Midnight (Lost in Midnight) (Allows you a chance to get a capturable Korsmanath A'awoj unlike in vanilla, also just a good plugin)\nhttps://github.com/demolish238/Mil-taj-Protectorate/tree/main (Mil'taj Protectorate) (My other plugin)\nhttps://github.com/demolish238/QOL-Outfits (QOL outfits) (My other plugin)\nhttps://github.com/demolish238/Capitalis-Major (Capitalis Major) (My other plugin)\nIf you have any feedback on balance problems or bugs please message me on discord (demolish238#6398)",
-    "url": "https://github.com/demolish238/Korath-Retribution/archive/refs/tags/v1.0.zip",
-    "iconUrl": "https://github.com/demolish238/Korath-Retribution/raw/v1.0/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/demolish238/Korath-Retribution/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/demolish238/Korath-Retribution/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Jimmys-Ship-Emporium",
-    "authors": "Jimmy Firyh",
-    "homepage": "https://github.com/JimmyFiryh/Jimmys-Ship-Emporium",
-    "license": "CC-BY-SA-4.0",
-    "version": "v0.1.1",
-    "shortDescription": "Adds the Navy Glaive.",
-    "description": "Simply adds the Glaive, a spicy Republic Navy ship produced after the Kor Sestor incursion.",
-    "url": "https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/archive/refs/tags/v0.1.1.zip",
-    "iconUrl": "https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/raw/v0.1.1/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/JimmyFiryh/Jimmys-Ship-Emporium/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Core Mining, Inc.",
-    "authors": "DJF113",
-    "homepage": "https://github.com/DJF113/Core-Mining-Inc",
-    "license": "GPL-3.0-or-later",
-    "version": "v0.1.8",
-    "shortDescription": "Adds another storyline in the early game, following a business getting started in Syndicate space.",
-    "description": "The Core Mining, Inc. plugin adds a storyline that offers you the chance to work for a newly started company by the same name. You start with them from the very beginning and help build up the company. Along the way, you can make different choices which may impact the game at a later time, as well as potentially make major changes to the plotline. Not everything is in place at the current time, but this plugin should fit in seamlessly with the the vanilla game.",
-    "url": "https://github.com/DJF113/Core-Mining-Inc/archive/refs/tags/v0.1.8.zip",
-    "iconUrl": "https://github.com/DJF113/Core-Mining-Inc/raw/v0.1.8/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/DJF113/Core-Mining-Inc/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/DJF113/Core-Mining-Inc/raw/$version/icon.png"
-    }
-  },
-  {
     "name": "Cromha Expansion Plugin",
     "authors": "@OcelotWalrus/Cromha, @Lumbar527",
     "homepage": "https://github.com/OcelotWalrus/Cromha-Expansion-plugin",
@@ -683,36 +125,6 @@
       "type": "commit",
       "url": "https://github.com/OcelotWalrus/Cromha-Expansion-plugin/archive/$version.zip",
       "iconUrl": "https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Blended Ships",
-    "authors": "mOctave",
-    "homepage": "https://github.com/mOctave/blended-ships/",
-    "license": "AGPL-3.0-or-later",
-    "version": "v1.2.0",
-    "shortDescription": "A spliced ships plugin for Endless Sky where all the ships are made in Blender.",
-    "description": "Blended Ships is the realistic spliced ship plugin. All these ships have thumbnails, believeable stats, and actual potential uses! There is also a greater variety of civilian ships available, to support various playstyles.",
-    "url": "https://github.com/mOctave/blended-ships/archive/refs/tags/v1.2.0.zip",
-    "iconUrl": "https://raw.githubusercontent.com/mOctave/blended-ships/v1.2.0/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/mOctave/blended-ships/archive/refs/tags/$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/mOctave/blended-ships/$version/icon.png"
-    }
-  },
-  {
-    "name": "Gaguka",
-    "authors": "MIMSBZ3",
-    "homepage": "https://github.com/MIMSBZ3/Gaguka",
-    "license": "GPL-3.0-or-later",
-    "version": "v0.1",
-    "url": "https://github.com/MIMSBZ3/Gaguka/archive/refs/tags/v0.1.zip",
-    "shortDescription": "Adds a new alien race.",
-    "description": "Adds my alien species the Gaguka. They are located in their own galaxy which can be accessed by a wormhole east of Gegno space.",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/MIMSBZ3/Gaguka/archive/refs/tags/$version.zip"
     }
   },
   {
@@ -743,6 +155,76 @@
     "iconURL": "https://github.com/ziproot/disable-free-worlds/raw/3dd174e3391fb00c44f4cc2f12149de709f95c5c/icon.png"
   },
   {
+    "name": "World Forge",
+    "authors": "Amazinite",
+    "homepage": "https://github.com/EndlessSkyCommunity/world-forge",
+    "license": "GPL-3.0-or-later",
+    "version": "9e6587bbe43151caa85495b1360dbbf3c03bcbc8",
+    "shortDescription": "A plugin for Endless Sky that allows the player to access everything in the game in one place.",
+    "description": "A plugin for Endless Sky that allows the player to access everything in the game in one place. Includes features that the all-content plugin does not have such as the ability to boost your combat rating and change your friendly/hostile status with factions of the game without having to save-edit. Intended to help content creators test their plugins.",
+    "url": "https://github.com/EndlessSkyCommunity/world-forge/archive/9e6587bbe43151caa85495b1360dbbf3c03bcbc8.zip",
+    "iconUrl": "https://github.com/EndlessSkyCommunity/world-forge/raw/9e6587bbe43151caa85495b1360dbbf3c03bcbc8/icon.png",
+    "autoupdate": {
+      "type": "commit",
+      "url": "https://github.com/EndlessSkyCommunity/world-forge/archive/$version.zip",
+      "iconUrl": "https://github.com/EndlessSkyCommunity/world-forge/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Gaguka",
+    "authors": "MIMSBZ3",
+    "homepage": "https://github.com/MIMSBZ3/Gaguka",
+    "license": "GPL-3.0-or-later",
+    "version": "v0.1",
+    "url": "https://github.com/MIMSBZ3/Gaguka/archive/refs/tags/v0.1.zip",
+    "shortDescription": "Adds a new alien race.",
+    "description": "Adds my alien species the Gaguka. They are located in their own galaxy which can be accessed by a wormhole east of Gegno space.",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/MIMSBZ3/Gaguka/archive/refs/tags/$version.zip"
+    }
+  },
+  {
+    "name": "Celestial Strands",
+    "authors": "Saugia",
+    "homepage": "https://github.com/Saugia/celestial-strands",
+    "license": "GPL-3.0-or-later",
+    "version": "v0.0.2-alpha",
+    "shortDescription": "Celestial Strands is a plug-in for Endless Sky that adds a new area of content based on the original Escape Velocity games, primarily Escape Velocity Override.",
+    "description": "Celestial Strands brings content from the original Escape Velocity series, primarily Escape Velocity Override, to Endless Sky in a new playable area. The plug-in focuses on the various factions of the Crescent, including the Strands, Zachit, and Miranu, and their presence in a new, young galaxy. Will the Strands reunite once more under the same banner, or will inner turmoil be their undoing yet again?",
+    "url": "https://github.com/Saugia/celestial-strands/archive/refs/tags/v0.0.2-alpha.zip",
+    "iconUrl": "https://github.com/Saugia/celestial-strands/raw/v0.0.2-alpha/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Saugia/celestial-strands/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/Saugia/celestial-strands/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "The Quazar Condundrom",
+    "authors": "Anerix(Paradox)CorminQuanadol",
+    "homepage": "https://github.com/AurthorParadoxQ/The-Quazar-Conundrum/",
+    "license": "CC-BY-SA-4.0",
+    "version": "V0.1.5",
+    "shortDescription": "An Odyssey Spanning 100 years",
+    "description": "The Quazar Conundrum is a massive century spanning story involving a galaxy-spanning threat, changing hegemony and new factions rising to power.",
+    "url": "https://github.com/AurthorParadoxQ/The-Quazar-Conundrum/archive/refs/tags/Major_ReleaseV015.zip"
+  },
+  {
+    "name": "Endless Sky Starbridge Pack",
+    "authors": "Autohummer",
+    "homepage": "https://github.com/Autohummer/Endless-Sky-Starbridge-Pack",
+    "license": "GPL-3.0-or-later",
+    "version": "1.0",
+    "shortDescription": "Get Yer Starbridges here! Adds the Starbridge from EVN to Endless Skies, Mod Starbridge and Railgun Starbridge variants included!",
+    "description": "Get Yer Starbridges here! Adds the Starbridge from EVN to Endless Skies, Mod Starbridge and Railgun Starbridge variants included! Also, two types of infinite ammunition railguns have been added for the authentic EVN experience. The ships and weapons can be bought from various advanced shipyards and outfitters. As a fallback, all Starbridge variants and outfits featured in this mod are available at any Syndicate Advanced shipyard.",
+    "url": "https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/1.0.zip",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Autohummer/Endless-Sky-Starbridge-Pack/archive/refs/tags/$version.zip"
+    }
+  },
+  {
     "name": "Quaernan Start",
     "authors": "Zoura the Quaernan Guy",
     "homepage": "https://github.com/AvianGeneticist/QuaernanHardpointsCarries",
@@ -759,51 +241,163 @@
     }
   },
   {
-    "name": "Lemuria's Extra ES Stuff",
-    "authors": "Lemuria",
-    "homepage": "https://lemuria-es.github.io/leest-docs/index.html",
+    "name": "Logbook Help",
+    "authors": "Michael Arsollon",
+    "homepage": "https://github.com/MidnightPlugins/Logbook-Help",
     "license": "GPL-3.0-or-later",
-    "version": "v0.10.16",
-    "shortDescription": "Extra ES Stuff by Lemuria. May contain traces of Sayari.",
-    "description": "A general plugin that adds a new set of systems to explore near the Deep, data drives, and data delivery missions. No ships. As for the Illumina and Illuria systems, beware name confusion! The dockworkers will be very angry.",
-    "url": "https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/v0.10.16.zip",
-    "iconUrl": "https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/v0.10.16/icon.png",
+    "version": "0.10.6.0",
+    "shortDescription": "Adds a Help tab to the Logbook which can be used as a centralized location to review or preview various helpful game tips.",
+    "description": "Adds a Help tab to the Logbook which can be used as a centralized location to review or preview various helpful game tips.",
+    "url": "https://github.com/MidnightPlugins/Logbook-Help/releases/download/0.10.6.0/Logbook.Help-0.10.6.0.zip",
+    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Logbook-Help/0.10.6.0/icon.png",
     "autoupdate": {
       "type": "tag",
-      "url": "https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/$version/icon.png",
-      "update_url": "https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff"
+      "url": "https://github.com/MidnightPlugins/Logbook-Help/releases/download/$version/Logbook.Help-$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Logbook-Help/$version/icon.png"
     }
   },
   {
-    "name": "HyperHue-Studios",
-    "authors": "ChemtrailOperator",
-    "homepage": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky",
+    "name": "Lampyrid Start",
+    "authors": "Zitchas",
+    "homepage": "https://github.com/Zitchas/ES_Lampyrid_Start",
     "license": "GPL-3.0-or-later",
-    "version": "v1.4",
-    "shortDescription": "In-Game access to all 29 vanilla swizzles.",
-    "description": "This plugin creates game play to swizzle your ship to any of the 29 vanilla swizzles. To begin, visit any human planet.",
-    "url": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/releases/download/v1.4/HyperHue-Studios-v1.4.zip",
-    "iconUrl": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/raw/main/v1.4/icon.png",
+    "version": "v1.6",
+    "shortDescription": "Enables an alternate start wherein the player starts with a modified Lampyrid.",
+    "description": "Have you ever wanted to start Endless Sky flying something a bit more unique than the typical shuttle, starbarge, or sparrow? Have you dreamed of having a pilot that starts their carreer with an old ship they've been fixing up for the past few years? Well, Lampyrid Start does that. Choosing this starts has your pilot start their career flying a slighly modified version of the Lampyrid, which is a decent balanced transport/freighter with the capacity to be fairly fast compared to others of its class.",
+    "url": "https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/v1.6/Z_Lampyrid_Start.release.v1.6.zip",
+    "iconUrl": "https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/v1.6/icon.png",
     "autoupdate": {
       "type": "tag",
-      "url": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/releases/download/$version/HyperHue-Studios-$version.zip",
-      "iconUrl": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/raw/main/$version/icon.png"
+      "url": "https://github.com/Zitchas/ES_Lampyrid_Start/releases/download/$version/Z_Lampyrid_Start.release.$version.zip",
+      "update_url": "https://github.com/Zitchas/ES_Lampyrid_Start",
+      "iconUrl": "https://raw.githubusercontent.com/Zitchas/ES_Lampyrid_Start/$version/icon.png"
     }
   },
   {
-    "name": "Crisis in Management",
-    "authors": "leklachu",
-    "homepage": "https://github.com/leklachu/endless-sky-syndicate",
+    "name": "Space Shuttle Start",
+    "authors": "Michael Arsollon",
+    "homepage": "https://github.com/MidnightPlugins/Space-Shuttle-Start",
+    "license": "GPL-3.0-or-later",
+    "version": "0.10.8.0",
+    "shortDescription": "An alternate start plugin featuring an old Earth relic.",
+    "description": "Start in the Sol system with an old Earth relic for your ship. The space shuttle has no weapons, but lots of cargo space.",
+    "url": "https://github.com/MidnightPlugins/Space-Shuttle-Start/releases/download/0.10.8.0/Space.Shuttle.Start-0.10.8.0.zip",
+    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Space-Shuttle-Start/0.10.8.0/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/MidnightPlugins/Space-Shuttle-Start/releases/download/$version/Space.Shuttle.Start-$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Space-Shuttle-Start/$version/icon.png"
+    }
+  },
+  {
+    "name": "SpaceCrate",
+    "authors": "Arnan de Gans",
+    "homepage": "https://github.com/adegans/SpaceCrate",
+    "license": "GPL-3.0",
+    "version": "v0.4.1",
+    "shortDescription": "A trade oriented mod for Endless Sky.",
+    "description": "SpaceCrate adds planet X-283N1 in the Alpha Centauri system. A rapidly developing world obsessed with trade and exports. Run by CEO Arnan de Gans this obsession attracts workers from many planets and results in lucrative trade.",
+    "url": "https://github.com/adegans/SpaceCrate/archive/refs/tags/v0.4.1.zip",
+    "iconUrl": "https://github.com/adegans/SpaceCrate/raw/v0.4.1/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "update_url": "https://github.com/adegans/SpaceCrate",
+      "url": "https://github.com/adegans/SpaceCrate/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/adegans/SpaceCrate/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Midnight Expansion",
+    "authors": "Michael Arsollon",
+    "homepage": "https://github.com/MidnightPlugins/Midnight-Expansion",
+    "license": "GPL-3.0-or-later",
+    "version": "0.10.14.0.0",
+    "shortDescription": "Plugin using ships, outfits, or other resources from plugins by other creators or derivatives of their original creations.",
+    "description": "Expanded content derived from the plugins of other creators. Some contents may require other Midnight Plugins creations.",
+    "url": "https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.10.14.0.0/Midnight.Expansion-0.10.14.0.0.zip",
+    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.10.14.0.0/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/$version/Midnight.Expansion-$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/$version/icon.png"
+    }
+  },
+  {
+    "name": "Outfit Highlighter",
+    "authors": "Michael Arsollon",
+    "homepage": "https://github.com/MidnightPlugins/Outfit-Highlighter",
+    "license": "GPL-3.0-or-later",
+    "version": "0.9.16.3.0",
+    "shortDescription": "Makes the selected outfit stand out more in the outfitter screen.",
+    "description": "Makes the selected outfit stand out more in the outfitter screen. Recommended for those who prefer to navigate the outfitter using the keyboard instead of the mouse. Now includes themed highlighters! To change themes, copy the image from the chosen theme's subfolder and paste into the plugin's ui folder.",
+    "url": "https://github.com/MidnightPlugins/Outfit-Highlighter/releases/download/0.9.16.3.0/Outfit.Highlighter-0.9.16.3.0.zip",
+    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Outfit-Highlighter/0.9.16.3.0/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/MidnightPlugins/Outfit-Highlighter/releases/download/$version/Outfit.Highlighter-$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Outfit-Highlighter/$version/icon.png"
+    }
+  },
+  {
+    "name": "Prism Plugin",
+    "authors": "Startingfresher",
+    "homepage": "https://github.com/Startingfresher/Prism-Plug-in",
+    "license": "GPL-3.0-or-later",
+    "version": "v1.3",
+    "shortDescription": "Allows you to change your ship swizzle(colors, sort of) easily in game.",
+    "description": "The plugin adds missions on every star that let you change your fleet swizzle to a few options. When you start the game you get access to two, eventually you will find all 6. Look in the about.txt file for spoilers on where to get em. It should be mostly lore friendly.",
+    "url": "https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/v1.3.zip",
+    "iconUrl": "https://github.com/Startingfresher/Prism-Plug-in/raw/v1.3/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/Startingfresher/Prism-Plug-in/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Korath Retribution",
+    "authors": "Demolish238",
+    "homepage": "https://github.com/demolish238/Korath-Retribution",
     "license": "CC-BY-SA-4.0",
-    "version": "v0.9.2",
-    "shortDescription": "Alternate start in Syndicate space, with a story parallel to the main plot.",
-    "description": "Crisis in Management is an alternate start in the Syndicate, the story of a manger who quits managing and start piloting. Leave your failing company and take to the stars to escape repercussions, then find yourself in the background, behind the scenes of Endless Sky's main storyline. Beyond that, the same endless sky awaits.",
-    "url": "https://github.com/leklachu/endless-sky-syndicate/releases/download/v0.9.2/crisis-in-management_v0.9.2.zip",
-    "iconUrl": "https://raw.githubusercontent.com/leklachu/endless-sky-syndicate/master/icon.png",
+    "version": "v1.0",
+    "shortDescription": "Hello, this plugin adds consequences for Worldship hunting, from the Quarg being disapproving, to Korath Revenge fleets and the Efreti being angered.",
+    "description": "Hello, this plugin adds consequences for Worldship hunting, from the Quarg being disapproving, to Korath Revenge fleets and the Efreti being angered.\nReccomended Plugins\nhttps://github.com/MidnightPlugins/Lost-in-Midnight (Lost in Midnight) (Allows you a chance to get a capturable Korsmanath A'awoj unlike in vanilla, also just a good plugin)\nhttps://github.com/demolish238/Mil-taj-Protectorate/tree/main (Mil'taj Protectorate) (My other plugin)\nhttps://github.com/demolish238/QOL-Outfits (QOL outfits) (My other plugin)\nhttps://github.com/demolish238/Capitalis-Major (Capitalis Major) (My other plugin)\nIf you have any feedback on balance problems or bugs please message me on discord (demolish238#6398)",
+    "url": "https://github.com/demolish238/Korath-Retribution/archive/refs/tags/v1.0.zip",
+    "iconUrl": "https://github.com/demolish238/Korath-Retribution/raw/v1.0/icon.png",
     "autoupdate": {
       "type": "tag",
-      "url": "https://github.com/leklachu/endless-sky-syndicate/releases/download/$version/crisis-in-management_$version.zip"
+      "url": "https://github.com/demolish238/Korath-Retribution/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/demolish238/Korath-Retribution/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Beccas Endless Expansion",
+    "authors": "beccabunny",
+    "homepage": "https://github.com/beccabunny/Beccas-Endless-Expansion",
+    "license": "GPL-3.0-or-later",
+    "version": "1.2.0",
+    "shortDescription": "New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones!",
+    "description": "New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones! All you have to do is explore, fly in your ship and meet all the factions in the game.",
+    "url": "https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/1.2.0.zip",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/$version.zip"
+    }
+  },
+  {
+    "name": "High DPI Continuous",
+    "authors": "Michael Zahniser",
+    "homepage": "https://github.com/endless-sky/endless-sky-high-dpi",
+    "license": "CC-BY-SA-4.0",
+    "version": "a9e3f00ef2e04fec925980430e07dabaeaf70b6b",
+    "shortDescription": "High-DPI graphics for Endless Sky.",
+    "description": "This plugin contains double resolution graphics, which are only used if you have a high-dpi monitor or if you set the zoom level above 100%. This will roughly double the amount of memory used by the game.",
+    "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/a9e3f00ef2e04fec925980430e07dabaeaf70b6b.zip",
+    "iconUrl": "https://github.com/endless-sky/endless-sky-high-dpi/raw/a9e3f00ef2e04fec925980430e07dabaeaf70b6b/icon.png",
+    "autoupdate": {
+      "type": "commit",
+      "url": "https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip",
+      "iconUrl": "https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png"
     }
   },
   {
@@ -820,22 +414,6 @@
       "type": "tag",
       "url": "https://github.com/kestrel1110/Exporianes/archive/$version.zip",
       "iconUrl": "https://github.com/kestrel1110/Exporianes/raw/$version/icon.png"
-    }
-  },
-  {
-    "name": "Midnight Scrapyard",
-    "authors": "Michael Arsollon",
-    "homepage": "https://github.com/MidnightPlugins/Midnight-Scrapyard",
-    "license": "GPL-3.0-or-later",
-    "version": "0.10.14.0.0",
-    "shortDescription": "A plugin suggesting an epilogue for the Kor Sestor region of Endless Sky. Includes some new ships, outfits, and missions.",
-    "description": "This region of space has abandoned derelicts waiting to be scavenged. But something lurks amongst the wreckage...",
-    "url": "https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.10.14.0.0/Midnight.Scrapyard-0.10.14.0.0.zip",
-    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.10.14.0.0/icon.png",
-    "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/$version/Midnight.Scrapyard-$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/$version/icon.png"
     }
   },
   {
@@ -869,49 +447,174 @@
     }
   },
   {
-    "name": "ES-Advanced-Starts",
-    "authors": "Bereskatuket (Kestrel1110)",
-    "homepage": "https://github.com/kestrel1110/ES-Advanced-Starts",
-    "license": "GPL-3.0-or-later",
-    "version": "1.3",
-    "shortDescription": "Adds more starting options to Endless-Sky.",
-    "description": "Adds several new starts to Endless-Sky including Syndicate and Deep starts.",
-    "url": "https://github.com/kestrel1110/ES-Advanced-Starts/archive/1.3.zip",
-    "iconUrl": "https://github.com/kestrel1110/ES-Advanced-Starts/raw/1.3/icon.jpg",
+    "name": "Ruin The Fun",
+    "authors": "Pshy",
+    "homepage": "https://github.com/pshy0/es-ruin-the-fun",
+    "license": "MPL-2.0-no-copyleft-exception",
+    "version": "v0.0.39",
+    "shortDescription": "Cheat plugin, to ruin your fun, or to assist you in making or testing another plugin. https://github.com/Pshy0/es-ruin-the-fun",
+    "description": "Ruin-The-Fun is a cheat/development plugin. Change your captain's name, choose the color swizzle of your ships, edit your reputation with other governments, set your combat rank, hire a powerful escort, gift yourself pre-outfitted ships, give yourself money, and much more. All ships and outfits are also available from a few added systems. https://github.com/Pshy0/es-ruin-the-fun",
+    "url": "https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/v0.0.39.zip",
+    "iconUrl": "https://github.com/pshy0/es-ruin-the-fun/raw/v0.0.39/icon.png",
     "autoupdate": {
       "type": "tag",
-      "url": "https://github.com/kestrel1110/ES-Advanced-Starts/archive/$version.zip",
-      "iconUrl": "https://github.com/kestrel1110/ES-Advanced-Starts/raw/$version/icon.jpg"
+      "url": "https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/pshy0/es-ruin-the-fun/raw/$version/icon.png"
     }
   },
   {
-    "name": "A Coalition at War",
-    "authors": "Josh Mudge",
-    "homepage": "https://github.com/mathwhiz1212/A-Coalition-At-War",
+    "name": "Tugderic's Addons",
+    "authors": "Tugderic",
+    "homepage": "https://github.com/Tugderic/Tugderics-Addons",
     "license": "GPL-3.0-or-later",
-    "version": "v0.10.4.2.0",
-    "shortDescription": "Pick a side in the war between the Coalition and Quarg. I am looking for story and mission suggestions https://github.com/mathwhiz1212/A-Coalition-At-War/",
-    "description": "You hear a lot about the conflict between the Coalition and the Quarg in Endless Sky, but you never see it. This plugin introduces a storyline that lets you see or join that conflict. You can loot Quarg ships or capture Heliarch ships depending on the side you choose. You can start the few implemented missions by landing on \"Tebuteb's Table\" in the Tebuteb system and accept the anamoly mission. Please consider helping to add more misisons and stories https://github.com/mathwhiz1212/A-Coalition-At-War/issues/new/choose",
-    "url": "https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/v0.10.4.2.0.zip",
+    "version": "v4",
+    "shortDescription": "a plugin i made for fun that adds missions, outfits, wandering fleets, merchant Company and a pirate Gang.",
+    "description": "it's just a lil plugin i made for fun, it adds some fleets to human space, a Government of Friendly Merchant who can Escort you if they like you enough, A strong pirate gang wandering through the galaxy, unlockable outfits, and some missions, also some things out of human space.",
+    "url": "https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/v4.zip",
     "autoupdate": {
       "type": "tag",
-      "url": "https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/$version.zip"
+      "url": "https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/$version.zip"
     }
   },
   {
-    "name": "Sheragi Rebirth",
-    "authors": "Petersupes",
-    "homepage": "https://github.com/Petersupes/sheragi-rebirth",
+    "name": "Old Bounty Hunting Missions",
+    "authors": "fracturedprism",
+    "homepage": "https://github.com/fracturedprism/Old-Bounty-Hunting-Missions",
     "license": "GPL-3.0-or-later",
-    "version": "0.10.1",
-    "shortDescription": "Plugin for Endless Sky that reintroduces the Sheragi.",
-    "description": "Play through a new breath of content reviving the most mysterious species, the Sheragi.",
-    "url": "https://github.com/Petersupes/sheragi-rebirth/archive/0.10.1.zip",
-    "iconUrl": "https://raw.githubusercontent.com/Petersupes/sheragi-rebirth/0.10.1/icon.png",
+    "version": "v0.1.0",
+    "shortDescription": "Replaces timed bounty hunting missions with the old untimed ones.",
+    "description": "Feel like the timed bounty missions in Endless Sky are too fast for your taste? Want to stack those jobs, perhaps as a challenge for a ship build or just for that satisfying feeling of credits rolling in after a long patrol? Then this plugin is for you :)",
+    "url": "https://github.com/fracturedprism/Old-Bounty-Hunting-Missions/archive/refs/tags/v0.1.0.zip",
     "autoupdate": {
       "type": "tag",
-      "url": "https://github.com/Petersupes/sheragi-rebirth/archive/$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/Petersupes/sheragi-rebirth/$version/icon.png"
+      "url": "https://github.com/fracturedprism/Old-Bounty-Hunting-Missions/archive/refs/tags/$version.zip"
+    }
+  },
+  {
+    "name": "Fighter Factory",
+    "authors": "1010todd",
+    "homepage": "https://github.com/1010todd/Fighter-Factory",
+    "license": "GPL-3.0-or-later",
+    "version": "9db8b336882c4b613316c6a4260f56af7ec885cc",
+    "shortDescription": "Add outfit to produce replacement fighters. Updated to latest stable.",
+    "description": "Add outfit to produce replacement fighters. To use, after installing the Fighter Assembler outfit depart and land once then check the job board to record the current number of fighters. Now if the number of fighter ever drop below the recorded number new one will be made to replace it as long as supply is available. Will be updated to latest stable release.",
+    "url": "https://github.com/1010todd/Fighter-Factory/archive/9db8b336882c4b613316c6a4260f56af7ec885cc.zip",
+    "iconUrl": "https://github.com/1010todd/Fighter-Factory/raw/9db8b336882c4b613316c6a4260f56af7ec885cc/icon.png",
+    "autoupdate": {
+      "type": "commit",
+      "url": "https://github.com/1010todd/Fighter-Factory/archive/$version.zip",
+      "iconUrl": "https://github.com/1010todd/Fighter-Factory/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Omnis",
+    "authors": "Darcy Manoel",
+    "homepage": "https://github.com/EndlessSkyCommunity/-Omnis",
+    "license": "GPL-3.0-or-later",
+    "version": "70848d714afe0c10a8d17a9d4f2917e1bfc1844b",
+    "shortDescription": "The most extensive all-content plugin to date, for development or fun.",
+    "description": "The most extensive all-content plugin to date. All vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!\nThis plugin is part of the Adde Endless Sky collection.",
+    "url": "https://github.com/EndlessSkyCommunity/-Omnis/archive/70848d714afe0c10a8d17a9d4f2917e1bfc1844b.zip",
+    "autoupdate": {
+      "type": "commit",
+      "url": "https://github.com/EndlessSkyCommunity/-Omnis/archive/$version.zip"
+    }
+  },
+  {
+    "name": "The Adamas Project",
+    "authors": "toilethinges & Bereskatuket (Kestrel1110)",
+    "homepage": "https://github.com/kestrel1110/Adamas-Project",
+    "license": "GPL-3.0-or-later",
+    "version": "v0.1.4",
+    "shortDescription": "Adds a very advanced race of aliens to the northeast section of the galaxy.",
+    "description": "This plugin adds a race of highly advanced Tier 2 - 3 aliens known as the Adamas to the northeast section of the galaxy, accessible through wormholes. The aliens are friendly, but they have their own versions of pirates. The Scavengers have their own galaxy that they live in, and from which they mount raids upon the Adamas. Be careful you do not get in their way, as some of their ships are armed with stolen quarg tech!",
+    "url": "https://github.com/kestrel1110/Adamas-Project/archive/v0.1.4.zip",
+    "iconUrl": "https://github.com/kestrel1110/Adamas-Project/raw/v0.1.4/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/kestrel1110/Adamas-Project/archive/$version.zip",
+      "iconUrl": "https://github.com/kestrel1110/Adamas-Project/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "HyperHue-Studios",
+    "authors": "ChemtrailOperator",
+    "homepage": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky",
+    "license": "GPL-3.0-or-later",
+    "version": "v1.4",
+    "shortDescription": "In-Game access to all 29 vanilla swizzles.",
+    "description": "This plugin creates game play to swizzle your ship to any of the 29 vanilla swizzles. To begin, visit any human planet.",
+    "url": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/releases/download/v1.4/HyperHue-Studios-v1.4.zip",
+    "iconUrl": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/raw/main/v1.4/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/releases/download/$version/HyperHue-Studios-$version.zip",
+      "iconUrl": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/raw/main/$version/icon.png"
+    }
+  },
+  {
+    "name": "All Content Plugin",
+    "authors": "Michael Zahniser",
+    "homepage": "https://github.com/endless-sky/all-content-plugin",
+    "license": "GPL-3.0-or-later",
+    "version": "v0.10.11",
+    "shortDescription": "Endless Sky plugin giving the player access to all ships and outfits.",
+    "description": "This plugin was made to allow content creators to have access to all outfits in a single place, for the purpose of designing and testing outfit loadouts for new ships. Of course, it can also be used by people who want to ruin the game for themselves by getting a massive fleet without needing to work for it.",
+    "url": "https://github.com/endless-sky/all-content-plugin/archive/refs/tags/v0.10.11.zip",
+    "iconUrl": "https://github.com/endless-sky/all-content-plugin/raw/v0.10.11/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/endless-sky/all-content-plugin/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/endless-sky/all-content-plugin/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "QOL-Outfits",
+    "authors": "Demolish238",
+    "homepage": "https://github.com/demolish238/QOL-Outfits",
+    "license": "CC-BY-SA-4.0",
+    "version": "v1.0",
+    "shortDescription": "An offshoot of my Amalgamation plugin from 4 years ago, I wanted to bring some of the old QOL outfits from that collection of plugins back into the modern Endless Sky landscape. Hope you enjoy.",
+    "description": "Hi I am the original author of the Amalgamation plugin, while I have gotten back into Endless Sky recently my ideas of polish have changed greatly over these 4 years.\nI decided that while I wasn't satisfied with Amalgamation as a whole, many of the outfits from plugins like Shields up were still interesting to me, and something I wanted in the game all these years later.\nSo rather than uploading a massive plugin that turns away many people by its sheer size again, I would upload this, a small quality of life plugin that adds many of the smaller outfits I personally believe make building ships more fun overall.\nI am also working on an independent plugin for the Shields Up 'Mil'taj' race, since that was where I put the most effort and had the most interest when making Amalgamation back in the day.\nThis Plugin adds a new armoury outfit that allows you to equip powerful boarding weaponry, while costing upkeep and space. A smaller outfit space expansion, external fuel pods, extended bunk rooms, a handful of basic human outfits to add a slight bit of variation and huge tier 5 radiant engines along with a small tier 0.\nNo other plugins are needed with this and implementation into the grander game is minimal outside of outfitters, since most of these are mostly for player use rather than to make AI ships more interesting.\nReccomended Plugins\nhttps://github.com/demolish238/Mil-taj-Protectorate/tree/main (Mil'taj Protectorate) (My other plugin)\nhttps://github.com/demolish238/Korath-Retribution (Korath Retribution) (My other plugin)\nhttps://github.com/demolish238/Capitalis-Major (Capitalis Major) (My other plugin)\nUsed Plugins\nhttps://github.com/Amazinite/Shields-Up (Shields Up)\nhttps://github.com/Amazinite/Enigma-Corp (Enigma Corps)\nhttps://www.nexusmods.com/endlesssky/mods/1 (Space Conversion)\nIf you have any feedback on balance problems or bugs please message me on discord (demolish238#6398)",
+    "url": "https://github.com/demolish238/QOL-Outfits/archive/refs/tags/v1.0.zip",
+    "iconUrl": "https://github.com/demolish238/QOL-Outfits/raw/v1.0/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/demolish238/QOL-Outfits/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/demolish238/QOL-Outfits/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Lemuria's Extra ES Stuff",
+    "authors": "Lemuria",
+    "homepage": "https://lemuria-es.github.io/leest-docs/index.html",
+    "license": "GPL-3.0-or-later",
+    "version": "v0.10.16",
+    "shortDescription": "Extra ES Stuff by Lemuria. May contain traces of Sayari.",
+    "description": "A general plugin that adds a new set of systems to explore near the Deep, data drives, and data delivery missions. No ships. As for the Illumina and Illuria systems, beware name confusion! The dockworkers will be very angry.",
+    "url": "https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/v0.10.16.zip",
+    "iconUrl": "https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/v0.10.16/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/archive/refs/tags/$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/$version/icon.png",
+      "update_url": "https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff"
+    }
+  },
+  {
+    "name": "Fire Corporation Plugin",
+    "authors": "Roger Tabris",
+    "homepage": "https://github.com/Cromha-Plugins/Fire-Corporation",
+    "license": "GPL-3.0-or-later",
+    "version": "v0.2",
+    "shortDescription": "A plugin about an manufacturing faction called Fire Corporation that hates pirates and will not allow them to have their ships. Contributions welcome!",
+    "description": "Fire Corporation is a manufacturing faction that makes several human ships. They hate pirates, and will try their best to keep them away from their ships. Please help by contributing to the storyline!",
+    "url": "https://github.com/Cromha-Plugins/Fire-Corporation/archive/refs/tags/v0.2.zip",
+    "iconUrl": "https://github.com/Cromha-Plugins/Fire-Corporation/raw/v0.2/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Cromha-Plugins/Fire-Corporation/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/Cromha-Plugins/Fire-Corporation/raw/$version/icon.png"
     }
   },
   {
@@ -931,6 +634,148 @@
     }
   },
   {
+    "name": "Arc Over",
+    "authors": "Saugia",
+    "homepage": "https://github.com/Saugia/arc-over",
+    "license": "GPL-3.0-or-later",
+    "version": "v0.4",
+    "shortDescription": "Arc Over is a plug-in for Endless Sky that gives vanilla ships limited turret arcs, introducing a new aspect to combat balance.",
+    "description": "Arc Over implements limited turret arcs for turret mounts on vanilla ships, resulting a new balance for ship combat. Smaller ships will enjoy navigating the more limited fields of fire from larger ships, where these arc limits provide more dynamic engagements between ships of any size.",
+    "url": "https://github.com/Saugia/arc-over/archive/refs/tags/v0.4.zip",
+    "iconUrl": "https://github.com/Saugia/arc-over/raw/v0.4/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Saugia/arc-over/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/Saugia/arc-over/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Midnight Scrapyard",
+    "authors": "Michael Arsollon",
+    "homepage": "https://github.com/MidnightPlugins/Midnight-Scrapyard",
+    "license": "GPL-3.0-or-later",
+    "version": "0.10.14.0.0",
+    "shortDescription": "A plugin suggesting an epilogue for the Kor Sestor region of Endless Sky. Includes some new ships, outfits, and missions.",
+    "description": "This region of space has abandoned derelicts waiting to be scavenged. But something lurks amongst the wreckage...",
+    "url": "https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.10.14.0.0/Midnight.Scrapyard-0.10.14.0.0.zip",
+    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.10.14.0.0/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/$version/Midnight.Scrapyard-$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/$version/icon.png"
+    }
+  },
+  {
+    "name": "sensor",
+    "authors": "ORBIT",
+    "homepage": "https://github.com/orbitalsupershell/sensor/",
+    "license": "ALL-RIGHTS-RESERVED",
+    "version": "v0.10.9.3.0.2",
+    "shortDescription": "A small mod, adds SOME weapons.",
+    "description": "Adds a lot of weapons, (:",
+    "url": "https://github.com/orbitalsupershell/sensor/archive/refs/tags/v0.10.9.3.0.2.zip",
+    "iconUrl": "https://github.com/orbitalsupershell/sensor/raw/v0.10.9.3.0.2/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/orbitalsupershell/sensor/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/orbitalsupershell/sensor/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Kinetic Weaponry",
+    "authors": "Bereskatuket (Kestrel1110)",
+    "homepage": "https://github.com/kestrel1110/KineticWeaponry",
+    "license": "GPL-3.0-or-later",
+    "version": "1.2",
+    "shortDescription": "Adds current-day weaponry to Endless Sky",
+    "description": "A plugin adding modern realistic weapons to Endless Sky. They are tier 1 human weapons, already balanced to work as anti-capital ship weapons.",
+    "url": "https://github.com/kestrel1110/KineticWeaponry/archive/1.2.zip",
+    "iconUrl": "https://github.com/kestrel1110/KineticWeaponry/raw/1.2/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/kestrel1110/KineticWeaponry/archive/$version.zip",
+      "iconUrl": "https://github.com/kestrel1110/KineticWeaponry/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Galactic War",
+    "authors": "1010todd",
+    "homepage": "https://github.com/1010todd/Galactic-War",
+    "license": "GPL-3.0-or-later",
+    "version": "da78a1b783535f5752471095b315f707246fe925",
+    "shortDescription": "A large content plugin adding a whole new galaxy with over dozens of aliens with storylines(in progress).",
+    "description": "A large content plugin adding 1 Accessible galaxy, 16+ Races with their own ships and outfits. Technologies ranging from less than human to beyond even the Drak, in total of over 100 Ships, 400 Outfits, and 1500 Systems. To access the galaxy you will need a Jump Drive, head to the north(top) most system in the Wanderer space, wormhole system will be close by.",
+    "url": "https://github.com/1010todd/Galactic-War/archive/da78a1b783535f5752471095b315f707246fe925.zip",
+    "iconUrl": "https://raw.githubusercontent.com/1010todd/Galactic-War/da78a1b783535f5752471095b315f707246fe925/icon.png",
+    "autoupdate": {
+      "type": "commit",
+      "url": "https://github.com/1010todd/Galactic-War/archive/$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/1010todd/Galactic-War/$version/icon.png"
+    }
+  },
+  {
+    "name": "A Coalition at War",
+    "authors": "Josh Mudge",
+    "homepage": "https://github.com/mathwhiz1212/A-Coalition-At-War",
+    "license": "GPL-3.0-or-later",
+    "version": "v0.10.4.2.0",
+    "shortDescription": "Pick a side in the war between the Coalition and Quarg. I am looking for story and mission suggestions https://github.com/mathwhiz1212/A-Coalition-At-War/",
+    "description": "You hear a lot about the conflict between the Coalition and the Quarg in Endless Sky, but you never see it. This plugin introduces a storyline that lets you see or join that conflict. You can loot Quarg ships or capture Heliarch ships depending on the side you choose. You can start the few implemented missions by landing on \"Tebuteb's Table\" in the Tebuteb system and accept the anamoly mission. Please consider helping to add more misisons and stories https://github.com/mathwhiz1212/A-Coalition-At-War/issues/new/choose",
+    "url": "https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/v0.10.4.2.0.zip",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/$version.zip"
+    }
+  },
+  {
+    "name": "The Enclave",
+    "authors": "Storm Crow (maintained by 1010todd)",
+    "homepage": "https://github.com/1010todd/The-Enclave",
+    "license": "GPL-3.0-or-later",
+    "version": "94da5f43fb99f83ca7848ea4e32f6aacacff0e07",
+    "shortDescription": "The Enclave focuses around the discovery of an isolated group of humans in a distant galaxy. Separated from the rest of their species for over half a millennium, how have these people developed?",
+    "description": "The Enclave is a story-driven plugin focused on the discovery of an isolated group of humans stranded, hundreds of years ago, in another galaxy. I'd recommend you have a large Tier 2 fleet at least to complete the (admittedly still in-progress) story. Special thanks to Derpy Horse (https://github.com/Amazinite) for adding the animated stars.",
+    "url": "https://github.com/1010todd/The-Enclave/archive/94da5f43fb99f83ca7848ea4e32f6aacacff0e07.zip",
+    "iconUrl": "https://raw.githubusercontent.com/1010todd/The-Enclave/94da5f43fb99f83ca7848ea4e32f6aacacff0e07/icon.png",
+    "autoupdate": {
+      "type": "commit",
+      "url": "https://github.com/1010todd/The-Enclave/archive/$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/1010todd/The-Enclave/$version/icon.png"
+    }
+  },
+  {
+    "name": "BetterVanillaHai",
+    "authors": "ZBok",
+    "homepage": "https://github.com/ZBok/BetterVanillaHai",
+    "license": "CC-BY-SA-4.0",
+    "version": "0.9.2",
+    "shortDescription": "Adds Hai ships with a wide variety of human/Hai outfits to human fleets in the late-game. Spices up pirate combat and adds variety.",
+    "description": "Check the readme file for detailed information.",
+    "url": "https://github.com/ZBok/BetterVanillaHai/archive/0.9.2.zip",
+    "iconUrl": "https://raw.githubusercontent.com/ZBok/BetterVanillaHai/0.9.2/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/ZBok/BetterVanillaHai/archive/$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/ZBok/BetterVanillaHai/$version/icon.png"
+    }
+  },
+  {
+    "name": "ES-Advanced-Starts",
+    "authors": "Bereskatuket (Kestrel1110)",
+    "homepage": "https://github.com/kestrel1110/ES-Advanced-Starts",
+    "license": "GPL-3.0-or-later",
+    "version": "1.3",
+    "shortDescription": "Adds more starting options to Endless-Sky.",
+    "description": "Adds several new starts to Endless-Sky including Syndicate and Deep starts.",
+    "url": "https://github.com/kestrel1110/ES-Advanced-Starts/archive/1.3.zip",
+    "iconUrl": "https://github.com/kestrel1110/ES-Advanced-Starts/raw/1.3/icon.jpg",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/kestrel1110/ES-Advanced-Starts/archive/$version.zip",
+      "iconUrl": "https://github.com/kestrel1110/ES-Advanced-Starts/raw/$version/icon.jpg"
+    }
+  },
+  {
     "name": "A Conscience Plugin",
     "authors": "Josh Mudge",
     "homepage": "https://github.com/mathwhiz1212/ES-conscience-plugin",
@@ -945,35 +790,190 @@
     }
   },
   {
-    "name": "Celestial Strands",
-    "authors": "Saugia",
-    "homepage": "https://github.com/Saugia/celestial-strands",
-    "license": "GPL-3.0-or-later",
-    "version": "v0.0.2-alpha",
-    "shortDescription": "Celestial Strands is a plug-in for Endless Sky that adds a new area of content based on the original Escape Velocity games, primarily Escape Velocity Override.",
-    "description": "Celestial Strands brings content from the original Escape Velocity series, primarily Escape Velocity Override, to Endless Sky in a new playable area. The plug-in focuses on the various factions of the Crescent, including the Strands, Zachit, and Miranu, and their presence in a new, young galaxy. Will the Strands reunite once more under the same banner, or will inner turmoil be their undoing yet again?",
-    "url": "https://github.com/Saugia/celestial-strands/archive/refs/tags/v0.0.2-alpha.zip",
-    "iconUrl": "https://github.com/Saugia/celestial-strands/raw/v0.0.2-alpha/icon.png",
+    "name": "ES-ui-upgrades",
+    "authors": "Roger Tabris",
+    "homepage": "https://github.com/Cromha-Plugins/es-ui-upgrades",
+    "license": "AGPL-3.0-or-later",
+    "version": "a7b565de29e4b509429ede9abfb8895345a1b27f",
+    "shortDescription": "A plugin that aims to transform the UI.",
+    "description": "This plugin aims to be the first plugin to transform the UI. It tries to make it into a more digital interface, with floating transparent blue windows.",
+    "url": "https://github.com/Cromha-Plugins/es-ui-upgrades/archive/a7b565de29e4b509429ede9abfb8895345a1b27f.zip",
+    "iconUrl": "https://github.com/Cromha-Plugins/es-ui-upgrades/raw/a7b565de29e4b509429ede9abfb8895345a1b27f/icon.png",
     "autoupdate": {
-      "type": "tag",
-      "url": "https://github.com/Saugia/celestial-strands/archive/refs/tags/$version.zip",
-      "iconUrl": "https://github.com/Saugia/celestial-strands/raw/$version/icon.png"
+      "type": "commit",
+      "url": "https://github.com/Cromha-Plugins/es-ui-upgrades/archive/$version.zip",
+      "iconUrl": "https://github.com/Cromha-Plugins/es-ui-upgrades/raw/$version/icon.png"
     }
   },
   {
-    "name": "Spacefarer",
-    "authors": "samrocketman and Airhead",
-    "homepage": "https://github.com/samrocketman/Spacefarer",
-    "license": "GPL-3.0",
-    "version": "55318e263bfd27e9304754c4509c48d44b8e9195",
-    "shortDescription": "One Jump Drive; No ship capturing; No plundering installed outfits.",
-    "description": "As a captain, you're responsible for the lives of your crew.  Loss of life is inevitable in the merciless reaches of space.  You stick to exploration, ferrying, and fleet combat.  If anyone dies, it will be everyone when the ship explodes.  This plugin adds replay value by forcing the player to discover alternate and competing forms of income in order to efficiently obtain a fleet.",
-    "url": "https://github.com/samrocketman/Spacefarer/archive/55318e263bfd27e9304754c4509c48d44b8e9195.zip",
-    "iconUrl": "https://raw.githubusercontent.com/samrocketman/Spacefarer/55318e263bfd27e9304754c4509c48d44b8e9195/icon%402x.png",
+    "name": "Better Vanilla Pirates",
+    "authors": "ZBok",
+    "homepage": "https://github.com/ZBok/BetterVanillaPirates/",
+    "license": "GPL-3.0-or-later",
+    "version": "v2.1.2",
+    "shortDescription": "Makes pirates more interesting, varied, with many more pirate fighting missions.",
+    "description": "Adds 30+ high end variants for human heavy warships and marauders using a wide variety of outfit combinations. These will be seen in pirate fleets, merchant fleets, and adds 30+ new pirate hunting/defence/blockade missions. Adds new \"Bounty Hunted\" fleets that will hunt you down without warning. Adds new \"Korath Raid\" missions in certain Syndicate systems where the Korath will attack with their Sestor/Mereti drones, allowing you to capture these ships post-Wanderer campaign.",
+    "url": "https://github.com/ZBok/BetterVanillaPirates/archive/v2.1.2.zip",
+    "iconUrl": "https://raw.githubusercontent.com/ZBok/BetterVanillaPirates/v2.1.2/icon.png",
     "autoupdate": {
-      "type": "commit",
-      "url": "https://github.com/samrocketman/Spacefarer/archive/$version.zip",
-      "iconUrl": "https://raw.githubusercontent.com/samrocketman/Spacefarer/$version/icon%402x.png"
+      "type": "tag",
+      "url": "https://github.com/ZBok/BetterVanillaPirates/archive/$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/ZBok/BetterVanillaPirates/$version/icon.png"
+    }
+  },
+  {
+    "name": "Main Plot Plus",
+    "authors": "ziproot",
+    "homepage": "https://github.com/ziproot/endless-sky-main-plot-plus",
+    "license": "GPL-3.0-or-later",
+    "version": "1.2",
+    "shortDescription": "A plugin mostly centered around improving the main plot.",
+    "description": "Have you ever had trouble getting the Free Worlds campaign to start, or accidentally failed a key mission? Have you ever thought that all sides were equally bad or wanted to join an unimplemented side? Have you ever wondered what happened to the Mark II Syndicate ships? Well, you will not be able to join the Navy, and joining the Syndicate requires the Crisis in Management plugin, but otherwise, this plugin is for you.",
+    "url": "https://github.com/ziproot/endless-sky-main-plot-plus/archive/refs/tags/1.2.zip",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/ziproot/endless-sky-main-plot-plus/archive/refs/tags/$version.zip"
+    }
+  },
+  {
+    "name": "Core Mining, Inc.",
+    "authors": "DJF113",
+    "homepage": "https://github.com/DJF113/Core-Mining-Inc",
+    "license": "GPL-3.0-or-later",
+    "version": "v0.1.8",
+    "shortDescription": "Adds another storyline in the early game, following a business getting started in Syndicate space.",
+    "description": "The Core Mining, Inc. plugin adds a storyline that offers you the chance to work for a newly started company by the same name. You start with them from the very beginning and help build up the company. Along the way, you can make different choices which may impact the game at a later time, as well as potentially make major changes to the plotline. Not everything is in place at the current time, but this plugin should fit in seamlessly with the the vanilla game.",
+    "url": "https://github.com/DJF113/Core-Mining-Inc/archive/refs/tags/v0.1.8.zip",
+    "iconUrl": "https://github.com/DJF113/Core-Mining-Inc/raw/v0.1.8/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/DJF113/Core-Mining-Inc/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/DJF113/Core-Mining-Inc/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Portraits for News",
+    "authors": "Anarchist2",
+    "homepage": "https://github.com/Anarchist2/ES-news-portraits",
+    "license": "GPL-3.0-or-later",
+    "version": "v1.1",
+    "shortDescription": "This plugin re-activates the portrait system for news in ES.",
+    "description": "This plugin re-activates the portrait system for news in ES. All the images for portraits are already in the game, but became unused after portraits for news was disabled by default. Alien portraits (including transhuman portraits) are not considered canon.",
+    "url": "https://github.com/Anarchist2/ES-news-portraits/archive/v1.1.zip",
+    "iconUrl": "https://github.com/Anarchist2/ES-news-portraits/raw/v1.1/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Anarchist2/ES-news-portraits/archive/$version.zip",
+      "iconUrl": "https://github.com/Anarchist2/ES-news-portraits/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Mil'taj Protectorate",
+    "authors": "Demolish238",
+    "homepage": "https://github.com/demolish238/Mil-taj-Protectorate.git",
+    "license": "CC-BY-SA-4.0",
+    "version": "v1.0",
+    "shortDescription": "This plugin contains the Mil'taj race placed in the right arm of the galaxy, they can be found by exploring the Gegno region of space.",
+    "description": "Hi I am the original author of the Amalgamation plugin, while I have gotten back into Endless Sky recently my ideas of polish have changed greatly over these 4 years.\nI decided that while I wasn't satisfied with Amalgamation as a whole, but a race of aliens from the plugin Shields up were still interesting to me, and something I wanted in the game all these years later.\nThis is my attempt to morph the Mil'taj into their own fully functional developed race, with a simple opening mission chain and plenty of lore.\nIt is recommended to avoid the Mil'taj storyline until you can at least defeat a Wardragon, otherwise you will have a bad time.\nATM you can choose to either align yourself with the Mil'taj against the Quarg, or make them an enemy. I do not plan to ever have a Quarg side to the campaign, they just want you to piss off.\nCurrently something I cannot do myself is art. So the mil'taj licences are just wanderer licences until I can get custom ones.\nFor the rest of the plugin all art assets are taken from dead plugins that years ago I worked on updating to the then current game version.\nThe idealised goal would be to replace them all with custom assets just for this plugin, but I doubt that will happen, so I'm mainly hoping someone will be interested in adding their own custom made Mil'taj licences for the plugin.\nReccomended Plugins\nhttps://github.com/1010todd/Beyond-the-Sky (Beyond the Sky) (Makes the Quarg actually scary as a threat and makes the higher tier Mil'taj ships make sense in comparison)\nhttps://github.com/demolish238/QOL-Outfits (QOL outfits) (My other plugin)\nhttps://github.com/demolish238/Korath-Retribution (Korath Retribution) (My other plugin)\nhttps://github.com/demolish238/Capitalis-Major (Capitalis Major) (My other plugin)\nUsed Plugins\nhttps://github.com/Amazinite/Shields-Up (Shields Up) (The original creator of the Mil'taj)\nhttps://github.com/Makuta-Miras/The-Enclave/tree/master (Enclave) (For Mil'taj weapons and outfits)\nhttps://github.com/mdsmestad/ES-COTSA-Pluggin (Cultures of the Southern Arm) (For the Avendri Ships)\nhttps://tearcellgames.itch.io/cosmic-canidae-assets (Mal'korbra assets)\nhttps://github.com/MidnightPlugins/Lost-in-Midnight (Lost in Midnight) (Damaged Jump Drive Image)\nIf you have any feedback on balance problems or bugs please message me on discord (demolish238#6398)",
+    "url": "https://github.com/demolish238/Mil-taj-Protectorate/archive/refs/tags/v1.0.zip",
+    "iconUrl": "https://github.com/demolish238/Mil-taj-Protectorate/raw/v1.0/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/demolish238/Mil-taj-Protectorate/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/demolish238/Mil-taj-Protectorate/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Rumskib",
+    "authors": "TheGiraffe3",
+    "homepage": "https://github.com/TheGiraffe3/rumskib/",
+    "license": "CC-BY-SA-4.0",
+    "version": "v0.10.13.2",
+    "shortDescription": "Content expansion.",
+    "description": "Rumskib is a large content expansion with ships, planets, missions, and more.",
+    "url": "https://github.com/TheGiraffe3/rumskib/archive/refs/tags/v0.10.13.2.zip",
+    "iconUrl": "https://github.com/TheGiraffe3/rumskib/raw/v0.10.13.2/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/TheGiraffe3/rumskib/archive/refs/tags/$version.zip",
+      "iconUrl": "https://github.com/TheGiraffe3/rumskib/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Crisis in Management",
+    "authors": "leklachu",
+    "homepage": "https://github.com/leklachu/endless-sky-syndicate",
+    "license": "CC-BY-SA-4.0",
+    "version": "v0.9.2",
+    "shortDescription": "Alternate start in Syndicate space, with a story parallel to the main plot.",
+    "description": "Crisis in Management is an alternate start in the Syndicate, the story of a manger who quits managing and start piloting. Leave your failing company and take to the stars to escape repercussions, then find yourself in the background, behind the scenes of Endless Sky's main storyline. Beyond that, the same endless sky awaits.",
+    "url": "https://github.com/leklachu/endless-sky-syndicate/releases/download/v0.9.2/crisis-in-management_v0.9.2.zip",
+    "iconUrl": "https://raw.githubusercontent.com/leklachu/endless-sky-syndicate/master/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/leklachu/endless-sky-syndicate/releases/download/$version/crisis-in-management_$version.zip"
+    }
+  },
+  {
+    "name": "Easier Korath Automatons",
+    "authors": "Bereskatuket (Kestrel1110)",
+    "homepage": "https://github.com/kestrel1110/Easier-Korath-Automatons",
+    "license": "GPL-3.0-or-later",
+    "version": "1.0.0",
+    "shortDescription": "Makes capturing Korath Automata easier.",
+    "description": "Decreases self-destructing chances by half to make capturing the Korath automata ships easier.",
+    "url": "https://github.com/kestrel1110/Easier-Korath-Automatons/archive/1.0.0.zip",
+    "iconUrl": "https://github.com/kestrel1110/Easier-Korath-Automatons/raw/1.0.0/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/kestrel1110/Easier-Korath-Automatons/archive/$version.zip",
+      "iconUrl": "https://github.com/kestrel1110/Easier-Korath-Automatons/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "Lost in Midnight",
+    "authors": "Michael Arsollon",
+    "homepage": "https://github.com/MidnightPlugins/Lost-in-Midnight",
+    "license": "GPL-3.0-or-later",
+    "version": "0.10.14.0.1",
+    "shortDescription": "Lost in Midnight is a mission focused plugin for the Endless Sky game. Features new missions, systems, outfits, ships, and variants.",
+    "description": "Lost technology, Lost knowledge, And people, who have lost their way trying to navigate life in this vast galaxy...",
+    "url": "https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.14.0.1/Lost.in.Midnight-0.10.14.0.1.zip",
+    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.14.0.1/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/$version/icon.png"
+    }
+  },
+  {
+    "name": "Sheragi Rebirth",
+    "authors": "Petersupes",
+    "homepage": "https://github.com/Petersupes/sheragi-rebirth",
+    "license": "GPL-3.0-or-later",
+    "version": "0.10.1",
+    "shortDescription": "Plugin for Endless Sky that reintroduces the Sheragi.",
+    "description": "Play through a new breath of content reviving the most mysterious species, the Sheragi.",
+    "url": "https://github.com/Petersupes/sheragi-rebirth/archive/0.10.1.zip",
+    "iconUrl": "https://raw.githubusercontent.com/Petersupes/sheragi-rebirth/0.10.1/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/Petersupes/sheragi-rebirth/archive/$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/Petersupes/sheragi-rebirth/$version/icon.png"
+    }
+  },
+  {
+    "name": "Endless Cargo",
+    "authors": "YellowApple",
+    "homepage": "https://bitbucket.org/YellowApple/endless-cargo",
+    "license": "GPL-3.0-or-later",
+    "version": "v0.2.0",
+    "shortDescription": "Intermodal shipping containers for Endless Sky",
+    "description": "Adds shipping containers, container ships, and missions involving using the latter to deliver the former to places all over the galaxy.",
+    "url": "https://bitbucket.org/YellowApple/endless-cargo/get/v0.2.0.zip",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://bitbucket.org/YellowApple/endless-cargo/get/$version.zip"
     }
   }
 ]
