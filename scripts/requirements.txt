@@ -1,2 +1,2 @@
 pyyaml == 6.0.*
-dulwich == 0.23.*
+dulwich == 0.24.*
