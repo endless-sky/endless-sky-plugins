@@ -6,6 +6,7 @@
 # $ ./autoupdate.py myPluginFolder/ # update every manifest in this folder
 
 import yaml
+import pcre2
 import sys
 import os
 import dulwich.porcelain
@@ -19,7 +20,7 @@ BASEVERSION = r"^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-z.]+[0-9]*)?$"
 VERSION_COMPONENTS = re.compile(r"(\d+ | [a-z]+ | \.)", re.VERBOSE)
 
 
-def get_latest_versioned_tag_from_refs(refs):
+def get_latest_versioned_tag(tags):
     """
     Given a list of refs (refs/tags/*) containing version numbers with or
     without v prefix.  This function will discover the highest version and
@@ -41,14 +42,11 @@ def get_latest_versioned_tag_from_refs(refs):
     Returns:
         1.2.3
     """
-    # remove refs/tags/ prefix (other refs will exist but will be filtered out
-    # in the next step
-    tags = list(map(lambda x: x.replace("refs/tags/", ""), refs))
     # filter out only valid version numbers (optional v prefix with a set of
     # numbers separated by periods)
     tags = list(filter(lambda x: re.match(BASEVERSION, x), tags))
-    # Sort list from lowest to highest version (last item is highest version)
 
+    # Sort list from lowest to highest version (last item is highest version)
     # This is taken from distutils.version.LooseVersion - we need access to the component list, so we have to reimplement
     def parse_version(vstring):
         vstring = vstring.lstrip("vV")
@@ -91,7 +89,12 @@ def decode_byte_dict(input):
     return output
 
 
-def get_latest_version(au_type, au_url, au_branch):
+def get_latest_version(manifest):
+    au = manifest["autoupdate"]
+    au_type = au["type"]
+    au_branch = au.get("branch")
+
+    au_url = au.get("update_url", manifest["homepage"])
     ls_remote = dulwich.porcelain.ls_remote(au_url)
     refs = decode_byte_dict(ls_remote.refs)
     symrefs = decode_byte_dict(ls_remote.symrefs)
@@ -111,9 +114,18 @@ def get_latest_version(au_type, au_url, au_branch):
         return commit
 
     elif au_type == "tag":
-        # Sort by the second tuple item, which is a parser semver object
-        # Then return the associated string (so any prefix that `coerce` stripped doesn't get discarded)
-        return get_latest_versioned_tag_from_refs(refs)
+        regex = au.get("regex", ".*")  # Default to match-anything
+        pattern = pcre2.compile(regex)
+
+        eligible_tags = []
+        for ref in refs:
+            if not ref.startswith("refs/tags/"):
+                continue
+            tag = ref[10:]
+            if pattern.search(tag) is not None:
+                eligible_tags.append(tag)
+
+        return get_latest_versioned_tag(eligible_tags)
 
     raise NotImplementedError("Unknown autoupdate type '%s'" % au_type)
 
@@ -126,17 +138,12 @@ def update(file):
     if not "autoupdate" in manifest:
         return
 
-    au = manifest["autoupdate"]
-    au_type = au["type"]
-    au_url = au.get("update_url", manifest["homepage"])
-    # TODO: dulwich needs to support this first: https://github.com/dulwich/dulwich/issues/863
-    au_branch = au.get("branch")
     update_kvs = {}
-    for k, v in au.items():
-        if k not in ["type", "update_url", "branch"]:
+    for k, v in manifest["autoupdate"].items():
+        if k not in ["type", "update_url", "branch", "regex"]:
             update_kvs[k] = v
 
-    latest_version = get_latest_version(au_type, au_url, au_branch)
+    latest_version = get_latest_version(manifest)
 
     print("Updating manifest with version '%s'" % latest_version)
     manifest["version"] = latest_version
@@ -163,7 +170,7 @@ for file in files:
         update(file)
     except Exception:
         error = True
-        print("Error while updating {file}, stacktrace follows:")
+        print(f"Error while updating {file}, stacktrace follows:")
         print_exc()
         print("Exit code will be non-zero")
 
