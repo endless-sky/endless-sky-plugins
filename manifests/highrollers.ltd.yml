@@ -1,0 +1,15 @@
+name: highrollers.ltd
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins
+license: MIT
+version: v1.0.2-highrollers.ltd
+shortDescription: This plugin adds some casino space stations where you can gamble.
+description: This plugin adds some casino space stations where you can gamble. See
+  the README for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.2-highrollers.ltd/highrollers.ltd.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.2-highrollers.ltd/myplugins/highrollers.ltd/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-highrollers.ltd$
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/highrollers.ltd.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/highrollers.ltd/icon.png

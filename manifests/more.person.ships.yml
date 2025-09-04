@@ -1,0 +1,16 @@
+name: more.person.ships
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins
+license: MIT
+version: v1.0.3-more.person.ships
+shortDescription: This plugin adds more person ships to the different regions of the
+  galaxy.
+description: This plugin adds more person ships to the different regions of the
+  galaxy. See the README for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-more.person.ships/more.person.ships.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-more.person.ships/myplugins/more.person.ships/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-more.person.ships$
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/more.person.ships.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/more.person.ships/icon.png

@@ -1,0 +1,16 @@
+name: jump.gates
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins
+license: MIT
+version: v1.0.4-jump.gates
+shortDescription: Adds a ring of 'jump gates' at the borders of human space to create
+  shortcuts inside the human space.
+description: Adds a ring of 'jump gates' at the borders of human space to create
+  shortcuts inside the human space. See the README for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.4-jump.gates/jump.gates.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.4-jump.gates/myplugins/jump.gates/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-jump.gates$
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/jump.gates.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/jump.gates/icon.png
