@@ -2,11 +2,11 @@ name: disable.person.ships
 authors: zuckung
 homepage: https://github.com/zuckung/endless-sky-plugins
 license: MIT
-version: v1.0.0-disable.person.ships
+version: v1.0-disable.person.ships
 shortDescription: Disables all person ships.
 description: Disables all person ships. See the README for details.
-url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.0-disable.person.ships/disable.person.ships.zip
-iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.0-disable.person.ships/myplugins/disable.person.ships/icon.png
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0-disable.person.ships/disable.person.ships.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0-disable.person.ships/myplugins/disable.person.ships/icon.png
 autoupdate:
   type: tag
   regex: ^.*-disable.person.ships$
