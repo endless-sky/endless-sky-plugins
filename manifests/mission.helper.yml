@@ -12,4 +12,3 @@ autoupdate:
   regex: ^.*-mission.helper$
   url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version-mission.helper/mission.helper.zip
   iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/master/myplugins/mission.helper/icon.png
-  
