@@ -6,7 +6,7 @@ version: v1.0.7-mission.helper
 shortDescription: Enables a job on every planet's job board, that shows missions you haven't done.
 description: Enables a job on every planet's job board, that shows missions you haven't done. It also shows the 'source' and 'to offer' of these missions, so you can easily find them. See the README for details.
 url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.7-mission.helper/mission.helper.zip
-iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/master/myplugins/mission.helper/icon.png
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.7-mission.helper/myplugins/mission.helper/icon.png
 autoupdate:
   type: tag
   regex: ^.*-mission.helper$
