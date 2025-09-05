@@ -5,8 +5,8 @@ license: MIT
 version: v1.0.3-tribute.republic
 shortDescription: Allows you to tribute all Republic planets, without losing Free
   Worlds or Deep Security reputation.
-description: Allows you to tribute all Republic planets, without losing Free
-  Worlds or Deep Security reputation. See the README for details.
+description: Allows you to tribute all Republic planets, without losing Free Worlds
+  or Deep Security reputation. See the README for details.
 url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-tribute.republic/tribute.republic.zip
 iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-tribute.republic/myplugins/tribute.republic/icon.png
 autoupdate:
