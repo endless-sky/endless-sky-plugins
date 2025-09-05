@@ -698,14 +698,14 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.2-more.arfectas
+  version: v1.0.3-more.arfectas
   shortDescription: Adds the new system 'Mego Pug', in eastern Bunrodea space. There
     you can farm rare spawning Arfectas and other more common Pug ships.
   description: Adds the new system 'Mego Pug', in eastern Bunrodea space. There you
     can farm rare spawning Arfectas and other more common Pug ships, without ruining
     your Pug reputation. See the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.2-more.arfectas/more.arfectas.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.2-more.arfectas/myplugins/more.arfectas/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-more.arfectas/more.arfectas.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-more.arfectas/myplugins/more.arfectas/icon.png
   autoupdate:
     type: tag
     regex: ^.*-more.arfectas$
