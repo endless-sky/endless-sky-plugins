@@ -5,8 +5,8 @@ license: MIT
 version: v1.0.7-coalition.shopping
 shortDescription: Adds all Coalition/Heliarch/Lunarium outfits and ships to 'Far Home'
   in the 'Homeward' system.
-description: Adds all Coalition/Heliarch/Lunarium outfits and ships to 'Far Home' in the
-  'Homeward' system. See the README for details.
+description: Adds all Coalition/Heliarch/Lunarium outfits and ships to 'Far Home'
+  in the 'Homeward' system. See the README for details.
 url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.7-coalition.shopping/coalition.shopping.zip
 iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.7-coalition.shopping/myplugins/coalition.shopping/icon.png
 autoupdate:
