@@ -16,6 +16,23 @@
     }
   },
   {
+    "name": "more.person.ships",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.3-more.person.ships",
+    "shortDescription": "This plugin adds more person ships to the different regions of the galaxy.",
+    "description": "This plugin adds more person ships to the different regions of the galaxy. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-more.person.ships/more.person.ships.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-more.person.ships/myplugins/more.person.ships/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-more.person.ships$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/more.person.ships.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/more.person.ships/icon.png"
+    }
+  },
+  {
     "name": "Mega Freight",
     "authors": "1010todd",
     "homepage": "https://github.com/1010todd/Mega-Freight",
@@ -29,6 +46,23 @@
       "type": "commit",
       "url": "https://github.com/1010todd/Mega-Freight/archive/$version.zip",
       "iconUrl": "https://github.com/1010todd/Mega-Freight/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "more.boarding.missions",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.1.5-more.boarding.missions",
+    "shortDescription": "Adds lots of repeatable boarding and assisting missions for different factions. Boarding bigger ships give higher rewards or higher chances for credits or special items.",
+    "description": "Adds lots of repeatable boarding and assisting missions for different factions. Boarding bigger ships give higher rewards or higher chances for credits or special items. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.5-more.boarding.missions/more.boarding.missions.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.5-more.boarding.missions/myplugins/more.boarding.missions/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-more.boarding.missions$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/more.boarding.missions.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/more.boarding.missions/icon.png"
     }
   },
   {
@@ -97,6 +131,57 @@
     }
   },
   {
+    "name": "licenses",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.1-licenses",
+    "shortDescription": "Adds several side missions to acquire unobtainable licenses.",
+    "description": "Adds several side missions to acquire unobtainable licenses. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-licenses/licenses.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-licenses/myplugins/licenses/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-licenses$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/licenses.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/licenses/icon.png"
+    }
+  },
+  {
+    "name": "human.labels",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.7-human.labels",
+    "shortDescription": "Reworks the Human area labels and adds area borders.",
+    "description": "Reworks the Human area labels and adds area borders. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.7-human.labels/human.labels.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.7-human.labels/myplugins/human.labels/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-human.labels$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/human.labels.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/human.labels/icon.png"
+    }
+  },
+  {
+    "name": "coalition.shopping",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.7-coalition.shopping",
+    "shortDescription": "Adds all Coalition/Heliarch/Lunarium outfits and ships to 'Far Home' in the 'Homeward' system.",
+    "description": "Adds all Coalition/Heliarch/Lunarium outfits and ships to 'Far Home' in the 'Homeward' system. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.7-coalition.shopping/coalition.shopping.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.7-coalition.shopping/myplugins/coalition.shopping/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-coalition.shopping$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/coalition.shopping.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/coalition.shopping/icon.png"
+    }
+  },
+  {
     "name": "Disable Free Worlds",
     "authors": "ziproot",
     "homepage": "https://github.com/ziproot/disable-free-worlds",
@@ -139,6 +224,40 @@
     }
   },
   {
+    "name": "boss.loot",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.1-boss.loot",
+    "shortDescription": "A series of dungeon-like boss encounters for a single ship. With loottables and weapon upgrade mechanism.",
+    "description": "A series of dungeon-like boss encounters for a single ship. With loottables and weapon upgrade mechanism. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-boss.loot/boss.loot.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-boss.loot/myplugins/boss.loot/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-boss.loot$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/boss.loot.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/boss.loot/icon.png"
+    }
+  },
+  {
+    "name": "disable.person.ships",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0-disable.person.ships",
+    "shortDescription": "Disables all person ships.",
+    "description": "Disables all person ships. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0-disable.person.ships/disable.person.ships.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0-disable.person.ships/myplugins/disable.person.ships/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-disable.person.ships$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/disable.person.ships.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/disable.person.ships/icon.png"
+    }
+  },
+  {
     "name": "World Forge",
     "authors": "Amazinite",
     "homepage": "https://github.com/EndlessSkyCommunity/world-forge",
@@ -152,6 +271,23 @@
       "type": "commit",
       "url": "https://github.com/EndlessSkyCommunity/world-forge/archive/$version.zip",
       "iconUrl": "https://github.com/EndlessSkyCommunity/world-forge/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "quarg.farm",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.5-quarg.farm",
+    "shortDescription": "Adds a new system 'Saquerver' (between human and coalition space) where you can farm a new Quarg faction. Also the death sentence from all other Quarg got removed.",
+    "description": "Adds a new system 'Saquerver' (between human and coalition space) where you can farm a new Quarg faction. Also the death sentence from all other Quarg got removed. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.5-quarg.farm/quarg.farm.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.5-quarg.farm/myplugins/quarg.farm/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-quarg.farm$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/quarg.farm.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/quarg.farm/icon.png"
     }
   },
   {
@@ -293,6 +429,23 @@
     "url": "https://github.com/AurthorParadoxQ/The-Quazar-Conundrum/archive/refs/tags/Major_ReleaseV015.zip"
   },
   {
+    "name": "captureable.person.ships",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.1.9-captureable.person.ships",
+    "shortDescription": "Makes person ships capturable.",
+    "description": "Makes person ships capturable. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.9-captureable.person.ships/captureable.person.ships.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.9-captureable.person.ships/myplugins/captureable.person.ships/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-captureable.person.ships$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/captureable.person.ships.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/captureable.person.ships/icon.png"
+    }
+  },
+  {
     "name": "mission.helper",
     "authors": "zuckung",
     "homepage": "https://github.com/zuckung/endless-sky-plugins",
@@ -326,6 +479,23 @@
     }
   },
   {
+    "name": "landing.images.highres",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.3-landing.images.highres",
+    "shortDescription": "High resolution files for landing.images plugin.",
+    "description": "High resolution files for landing.images plugin. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-landing.images.highres/landing.images.highres.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-landing.images.highres/myplugins/landing.images.highres/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-landing.images.highres$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/landing.images.highres.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/landing.images.highres/icon.png"
+    }
+  },
+  {
     "name": "Arion - Air Superiority",
     "authors": "Spectre907",
     "homepage": "https://github.com/Spectre907YT/Arion-Air_Superiority",
@@ -342,6 +512,40 @@
     }
   },
   {
+    "name": "space.fauna",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.1.3-space.fauna",
+    "shortDescription": "Adds space fauna fleets to all systems. Useless but pretty, to make the universe more alive.",
+    "description": "Adds space fauna fleets to all systems. Useless but pretty, to make the universe more alive. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.3-space.fauna/space.fauna.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.3-space.fauna/myplugins/space.fauna/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-space.fauna$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/space.fauna.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/space.fauna/icon.png"
+    }
+  },
+  {
+    "name": "expert.crew.members",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.9-expert.crew.members",
+    "shortDescription": "Adds unique crew members, aquireable through low chance spaceport missions.",
+    "description": "Adds unique crew members, aquireable through low chance spaceport missions. These crew members are technically outfits which require a bunk and a salary, but no outfit space or mass. They add, depending on their technology field, stats to your ship. Like shield regeneration, more thrust, more cargo etc. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.9-expert.crew.members/expert.crew.members.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.9-expert.crew.members/myplugins/expert.crew.members/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-expert.crew.members$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/expert.crew.members.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/expert.crew.members/icon.png"
+    }
+  },
+  {
     "name": "ES-ui-upgrades",
     "authors": "Roger Tabris",
     "homepage": "https://github.com/Cromha-Plugins/es-ui-upgrades",
@@ -355,6 +559,40 @@
       "type": "commit",
       "url": "https://github.com/Cromha-Plugins/es-ui-upgrades/archive/$version.zip",
       "iconUrl": "https://github.com/Cromha-Plugins/es-ui-upgrades/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "more.arfectas",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.2-more.arfectas",
+    "shortDescription": "Adds the new system 'Mego Pug', in eastern Bunrodea space. There you can farm rare spawning Arfectas and other more common Pug ships.",
+    "description": "Adds the new system 'Mego Pug', in eastern Bunrodea space. There you can farm rare spawning Arfectas and other more common Pug ships, without ruining your Pug reputation. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.2-more.arfectas/more.arfectas.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.2-more.arfectas/myplugins/more.arfectas/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-more.arfectas$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/more.arfectas.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/more.arfectas/icon.png"
+    }
+  },
+  {
+    "name": "bunrodea.missions",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.9-bunrodea.missions",
+    "shortDescription": "Adds some missions and jobs to increase the Bunrodea reputation, to get access to all their planets and stuff.  See the README for details.",
+    "description": "Adds some missions and jobs to increase the Bunrodea reputation. The first mission is available after the vanilla first contact mission. Doing more jobs will allow you to get access to all their planets and ships. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.9-bunrodea.missions/bunrodea.missions.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.9-bunrodea.missions/myplugins/bunrodea.missions/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-bunrodea.missions$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/bunrodea.missions.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/bunrodea.missions/icon.png"
     }
   },
   {
@@ -406,6 +644,40 @@
     }
   },
   {
+    "name": "automata.destruction.0percent",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.1-automata.destruction.0percent",
+    "shortDescription": "Modifies the self destruction chance of Sestor and Mereti ships to a value of 0.0 (0%).",
+    "description": "Modifies the self destruction chance of Sestor and Mereti ships to a value of 0.0 (0%). See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-automata.destruction.0percent/automata.destruction.0percent.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-automata.destruction.0percent/myplugins/automata.destruction.0percent/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-automata.destruction.0percent$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/automata.destruction.0percent.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/automata.destruction.0percent/icon.png"
+    }
+  },
+  {
+    "name": "kestrel.unlocks",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.1-kestrel.unlocks",
+    "shortDescription": "Unlocks all Kestrel variants after you have unlocked the first one.",
+    "description": "Unlocks all Kestrel variants after you have unlocked the first one. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-kestrel.unlocks/kestrel.unlocks.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-kestrel.unlocks/myplugins/kestrel.unlocks/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-kestrel.unlocks$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/kestrel.unlocks.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/kestrel.unlocks/icon.png"
+    }
+  },
+  {
     "name": "Crisis in Management",
     "authors": "leklachu",
     "homepage": "https://github.com/leklachu/endless-sky-syndicate",
@@ -418,6 +690,40 @@
     "autoupdate": {
       "type": "tag",
       "url": "https://github.com/leklachu/endless-sky-syndicate/releases/download/$version/crisis-in-management_$version.zip"
+    }
+  },
+  {
+    "name": "uniques",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.11-uniques",
+    "shortDescription": "Removes mass and outfit space from some uniques, puts others into unique category, or gives a png if there isn't one. Also adds lots of new uniques.",
+    "description": "Removes mass and outfit space from some uniques, puts others into unique category, or gives a png if there isn't one. Also adds lots of new uniques. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.11-uniques/uniques.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.11-uniques/myplugins/uniques/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-uniques$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/uniques.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/uniques/icon.png"
+    }
+  },
+  {
+    "name": "ship.merging",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.1-ship.merging",
+    "shortDescription": "This plugin allows you to merge several ships of the same type into one with improved attributes. This can be done several times, up to a T10 ship.",
+    "description": "This plugin allows you to merge several ships of the same type into one with improved attributes. This can be done several times, up to a T10 ship. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-ship.merging/ship.merging.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-ship.merging/myplugins/ship.merging/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-ship.merging$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/ship.merging.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/ship.merging/icon.png"
     }
   },
   {
@@ -448,6 +754,40 @@
     "autoupdate": {
       "type": "tag",
       "url": "https://bitbucket.org/YellowApple/endless-cargo/get/$version.zip"
+    }
+  },
+  {
+    "name": "paint.your.ships",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.3-paint.your.ships",
+    "shortDescription": "Offers a job on Earth to paint your ships.",
+    "description": "Offers a job on Earth to paint your ships. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-paint.your.ships/paint.your.ships.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-paint.your.ships/myplugins/paint.your.ships/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-paint.your.ships$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/paint.your.ships.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/paint.your.ships/icon.png"
+    }
+  },
+  {
+    "name": "highrollers.ltd",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.2-highrollers.ltd",
+    "shortDescription": "This plugin adds some casino space stations where you can gamble.",
+    "description": "This plugin adds some casino space stations where you can gamble. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.2-highrollers.ltd/highrollers.ltd.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.2-highrollers.ltd/myplugins/highrollers.ltd/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-highrollers.ltd$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/highrollers.ltd.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/highrollers.ltd/icon.png"
     }
   },
   {
@@ -500,6 +840,23 @@
     }
   },
   {
+    "name": "combat.ai",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.8-combat.ai",
+    "shortDescription": "Offers a mission to install a combat AI, which increases your ship stats based on combat experience.",
+    "description": "Offers a mission to install a combat AI, which increases your ship stats based on combat experience. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.8-combat.ai/combat.ai.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.8-combat.ai/myplugins/combat.ai/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-combat.ai$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/combat.ai.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/combat.ai/icon.png"
+    }
+  },
+  {
     "name": "Outfit Highlighter",
     "authors": "Michael Arsollon",
     "homepage": "https://github.com/MidnightPlugins/Outfit-Highlighter",
@@ -516,6 +873,40 @@
     }
   },
   {
+    "name": "hai.side.mission.unlocker",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.1.5-hai.side.mission.unlocker",
+    "shortDescription": "Unlocks following hai missions... Unwanted Cargo Trigger, Hiding in Plain Sight, Nanachi 1,Expanding Business 1 and Hai Reveal... Pirate Troubles 0.",
+    "description": "Unlocks following hai missions... Unwanted Cargo Trigger, Hiding in Plain Sight, Nanachi 1,Expanding Business 1 and Hai Reveal... Pirate Troubles 0. If there are followups they work too. Also Devil-Run related systems are shown now. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.5-hai.side.mission.unlocker/hai.side.mission.unlocker.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.5-hai.side.mission.unlocker/myplugins/hai.side.mission.unlocker/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-hai.side.mission.unlocker$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/hai.side.mission.unlocker.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/hai.side.mission.unlocker/icon.png"
+    }
+  },
+  {
+    "name": "additional.command.buttons.radial",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.25-additional.command.buttons.radial",
+    "shortDescription": "Reworks the ui for the ANDROID version of ES.",
+    "description": "Reworks the main buttons ui on the lower right side. Made for the ANDROID version of ES. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.25-additional.command.buttons.radial/additional.command.buttons.radial.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.25-additional.command.buttons.radial/myplugins/additional.command.buttons.radial/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-additional.command.buttons.radial$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/additional.command.buttons.radial.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/additional.command.buttons.radial/icon.png"
+    }
+  },
+  {
     "name": "Tugderic's Addons",
     "authors": "Tugderic",
     "homepage": "https://github.com/Tugderic/Tugderics-Addons",
@@ -527,6 +918,23 @@
     "autoupdate": {
       "type": "tag",
       "url": "https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/$version.zip"
+    }
+  },
+  {
+    "name": "show.reputation",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.5-show.reputation",
+    "shortDescription": "Enables a job on the Earth job board, that shows the reputation values.",
+    "description": "Enables a job on the Earth job board, that shows the reputation values. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.5-show.reputation/show.reputation.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.5-show.reputation/myplugins/show.reputation/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-show.reputation$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/show.reputation.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/show.reputation/icon.png"
     }
   },
   {
@@ -610,6 +1018,23 @@
     }
   },
   {
+    "name": "automata.in.human.space",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.2-automata.in.human.space",
+    "shortDescription": "Brings jump drive equipped automata into human space after the wanderer campaign.",
+    "description": "Brings jump drive equipped automata into human space after the wanderer campaign. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.2-automata.in.human.space/automata.in.human.space.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.2-automata.in.human.space/myplugins/automata.in.human.space/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-automata.in.human.space$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/automata.in.human.space.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/automata.in.human.space/icon.png"
+    }
+  },
+  {
     "name": "Exporianes",
     "authors": "Bereskatuket (Kestrel1110)",
     "homepage": "https://github.com/kestrel1110/Exporianes",
@@ -642,6 +1067,23 @@
     }
   },
   {
+    "name": "planet.map",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.3-planet.map",
+    "shortDescription": "This is a storyline entirely on a planets surface(with fitting visuals). Available at the outfitter on planet Memory.",
+    "description": "This is a storyline entirely on a planets surface(with fitting visuals). Available at the outfitter on planet Memory. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-planet.map/planet.map.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-planet.map/myplugins/planet.map/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-planet.map$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/planet.map.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/planet.map/icon.png"
+    }
+  },
+  {
     "name": "Jibauni",
     "authors": "TheGiraffe3",
     "homepage": "https://github.com/TheGiraffe3/Jibauni",
@@ -653,6 +1095,57 @@
     "autoupdate": {
       "type": "commit",
       "url": "https://github.com/TheGiraffe3/Jibauni/archive/$version.zip"
+    }
+  },
+  {
+    "name": "better.starts",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.5-better.starts",
+    "shortDescription": "Adds several new start options with different ships, background stories, credits and debts.",
+    "description": "Adds several new start options with different ships, background stories, credits and debts. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.5-better.starts/better.starts.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.5-better.starts/myplugins/better.starts/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-better.starts$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/better.starts.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/better.starts/icon.png"
+    }
+  },
+  {
+    "name": "flare.play",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.2-flare.play",
+    "shortDescription": "Adds lots of engine flare outfits to the big shipyards and outfitters. These outfits are just cosmetic.",
+    "description": "Adds lots of engine flare outfits to the big shipyards and outfitters. These outfits are just cosmetic. Idea by 'Thermognuclear Missile' on discord. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.2-flare.play/flare.play.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.2-flare.play/myplugins/flare.play/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-flare.play$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/flare.play.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/flare.play/icon.png"
+    }
+  },
+  {
+    "name": "disable.spaceport.repeatables",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.1.1-disable.spaceport.repeatables",
+    "shortDescription": "Disables all repeatable spaceport missions. I.e. shady passenger transport or drug smuggling.",
+    "description": "Disables all repeatable spaceport missions. I.e. shady passenger transport, drug smuggling, time critical transport or defend planet. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.1-disable.spaceport.repeatables/disable.spaceport.repeatables.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.1-disable.spaceport.repeatables/myplugins/disable.spaceport.repeatables/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-disable.spaceport.repeatables$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/disable.spaceport.repeatables.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/disable.spaceport.repeatables/icon.png"
     }
   },
   {
@@ -685,6 +1178,23 @@
       "type": "tag",
       "url": "https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/$version/Midnight.Expansion-$version.zip",
       "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/$version/icon.png"
+    }
+  },
+  {
+    "name": "outfits.weapon.slot",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.1-outfits.weapon.slot",
+    "shortDescription": "Adds several non-weapon outfits for gun and turret ports.",
+    "description": "Adds several non-weapon outfits for gun and turret ports. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-outfits.weapon.slot/outfits.weapon.slot.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-outfits.weapon.slot/myplugins/outfits.weapon.slot/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-outfits.weapon.slot$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/outfits.weapon.slot.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/outfits.weapon.slot/icon.png"
     }
   },
   {
@@ -778,6 +1288,23 @@
     }
   },
   {
+    "name": "gegno.pirates",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.4-gegno.pirates",
+    "shortDescription": "Adds a new faction of Gegno pirates which lets you capture Gegno ships and gain Gegno/Scin/Vi reputation to open their planets for travel.",
+    "description": "Adds a new faction of Gegno pirates which lets you capture Gegno ships, gain Gegno/Scin/Vi reputation, open their planets for travel, loot Gegno licenses and create an outfitter/shipyard for all their gear. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.4-gegno.pirates/gegno.pirates.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.4-gegno.pirates/myplugins/gegno.pirates/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-gegno.pirates$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/gegno.pirates.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/gegno.pirates/icon.png"
+    }
+  },
+  {
     "name": "Early Starts",
     "authors": "jmelesky",
     "homepage": "https://codeberg.org/jmelesky/endless-sky-early-starts",
@@ -791,6 +1318,40 @@
       "type": "tag",
       "url": "https://codeberg.org/jmelesky/endless-sky-early-starts/archive/$version.zip",
       "iconUrl": "https://codeberg.org/jmelesky/endless-sky-early-starts/raw/tag/$version/icon.png"
+    }
+  },
+  {
+    "name": "kor.efret.shipyard",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.3-kor.efret.shipyard",
+    "shortDescription": "Adds a shipyard with the three Kor Efret ships to Laki Nemparu. Also adds an outfitter with all outfits of these three ships and some Korath Exiles outfits.",
+    "description": "Adds a shipyard with the three Kor Efret ships to Laki Nemparu(Kashikt) in Kor Efret space. Also adds an outfitter with all outfits of these three ships and some Korath Exiles outfits. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-kor.efret.shipyard/kor.efret.shipyard.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-kor.efret.shipyard/myplugins/kor.efret.shipyard/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-kor.efret.shipyard$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/kor.efret.shipyard.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/kor.efret.shipyard/icon.png"
+    }
+  },
+  {
+    "name": "no.more.mereti.mines",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.4-no.more.mereti.mines",
+    "shortDescription": "Removes the mines from Mereti ships and replaces them with Husk-Slice and Shield Disruptor guns to increase game performance.",
+    "description": "Removes the mines from Mereti ships and replaces them with Husk-Slice and Shield Disruptor guns to increase game performance. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.4-no.more.mereti.mines/no.more.mereti.mines.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.4-no.more.mereti.mines/myplugins/no.more.mereti.mines/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-no.more.mereti.mines$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/no.more.mereti.mines.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/no.more.mereti.mines/icon.png"
     }
   },
   {
@@ -916,6 +1477,57 @@
     }
   },
   {
+    "name": "landing.images",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.5-landing.images",
+    "shortDescription": "Replaces all planet landing images with better fitting ones.",
+    "description": "Replaces all planet landing images with better fitting ones. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.5-landing.images/landing.images.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.5-landing.images/myplugins/landing.images/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-landing.images$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/landing.images.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/landing.images/icon.png"
+    }
+  },
+  {
+    "name": "galactic.capital.investment",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.1.9-galactic.capital.investment",
+    "shortDescription": "Implements missions and jobs for banking services and investments.",
+    "description": "Implements missions and jobs for banking services and investments. Available in human, quarg and hai space. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.9-galactic.capital.investment/galactic.capital.investment.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.9-galactic.capital.investment/myplugins/galactic.capital.investment/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-galactic.capital.investment$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/galactic.capital.investment.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/galactic.capital.investment/icon.png"
+    }
+  },
+  {
+    "name": "control.station",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.5-control.station",
+    "shortDescription": "Adds a station to the Sol system that offers administrative functions started by the job board.",
+    "description": "Adds a station to the Sol system that offers administrative functions started by the job board. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.5-control.station/control.station.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.5-control.station/myplugins/control.station/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-control.station$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/control.station.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/control.station/icon.png"
+    }
+  },
+  {
     "name": "Cromha Expansion Plugin",
     "authors": "@OcelotWalrus/Cromha, @Lumbar527",
     "homepage": "https://github.com/OcelotWalrus/Cromha-Expansion-plugin",
@@ -943,6 +1555,23 @@
     "autoupdate": {
       "type": "commit",
       "url": "https://github.com/EndlessSkyCommunity/-Omnis/archive/$version.zip"
+    }
+  },
+  {
+    "name": "tribute.republic",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.3-tribute.republic",
+    "shortDescription": "Allows you to tribute all Republic planets, without losing Free Worlds or Deep Security reputation.",
+    "description": "Allows you to tribute all Republic planets, without losing Free Worlds or Deep Security reputation. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-tribute.republic/tribute.republic.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-tribute.republic/myplugins/tribute.republic/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-tribute.republic$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/tribute.republic.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/tribute.republic/icon.png"
     }
   },
   {
@@ -991,6 +1620,57 @@
       "type": "tag",
       "url": "https://github.com/demolish238/Capitalis-Major/archive/refs/tags/$version.zip",
       "iconUrl": "https://github.com/demolish238/Capitalis-Major/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "snowfeather.robotics",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.6-snowfeather.robotics",
+    "shortDescription": "Adds three missions that lead to adding androids to the outfitter on Snowfeather(Hai space).",
+    "description": "Adds three missions that lead to adding androids to the outfitter on Snowfeather(Hai space). Starts on Snowfeather(Bore Fah) when having at least one android installed. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.6-snowfeather.robotics/snowfeather.robotics.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.6-snowfeather.robotics/myplugins/snowfeather.robotics/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-snowfeather.robotics$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/snowfeather.robotics.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/snowfeather.robotics/icon.png"
+    }
+  },
+  {
+    "name": "too.many.asteroids",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.4-too.many.asteroids",
+    "shortDescription": "Removes all non-mineable asteroids from all systems. Mineable asteroids and asteroid belts are untouched. Increases game performance.",
+    "description": "Removes all non-mineable asteroids from all systems. Mineable asteroids and asteroid belts are untouched. Increases game performance. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.4-too.many.asteroids/too.many.asteroids.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.4-too.many.asteroids/myplugins/too.many.asteroids/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-too.many.asteroids$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/too.many.asteroids.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/too.many.asteroids/icon.png"
+    }
+  },
+  {
+    "name": "jump.gates",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.4-jump.gates",
+    "shortDescription": "Adds a ring of 'jump gates' at the borders of human space to create shortcuts inside the human space.",
+    "description": "Adds a ring of 'jump gates' at the borders of human space to create shortcuts inside the human space. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.4-jump.gates/jump.gates.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.4-jump.gates/myplugins/jump.gates/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-jump.gates$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/jump.gates.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/jump.gates/icon.png"
     }
   }
 ]
