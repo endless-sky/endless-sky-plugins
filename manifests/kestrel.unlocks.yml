@@ -1,0 +1,15 @@
+name: kestrel.unlocks
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins
+license: MIT
+version: v1.0.1-kestrel.unlocks
+shortDescription: Unlocks all Kestrel variants after you have unlocked the first one.
+description: Unlocks all Kestrel variants after you have unlocked the first one. See
+  the README for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-kestrel.unlocks/kestrel.unlocks.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-kestrel.unlocks/myplugins/kestrel.unlocks/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-kestrel.unlocks$
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/kestrel.unlocks.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/kestrel.unlocks/icon.png

@@ -1,0 +1,15 @@
+name: outfits.weapon.slot
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins
+license: MIT
+version: v1.0.1-outfits.weapon.slot
+shortDescription: Adds several non-weapon outfits for gun and turret ports.
+description: Adds several non-weapon outfits for gun and turret ports. See the README
+  for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-outfits.weapon.slot/outfits.weapon.slot.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-outfits.weapon.slot/myplugins/outfits.weapon.slot/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-outfits.weapon.slot$
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/outfits.weapon.slot.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/outfits.weapon.slot/icon.png

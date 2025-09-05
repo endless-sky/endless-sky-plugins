@@ -1,0 +1,16 @@
+name: planet.map
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins
+license: MIT
+version: v1.0.3-planet.map
+shortDescription: This is a storyline entirely on a planets surface(with fitting visuals).
+  Available at the outfitter on planet Memory.
+description: This is a storyline entirely on a planets surface(with fitting visuals).
+  Available at the outfitter on planet Memory. See the README for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-planet.map/planet.map.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-planet.map/myplugins/planet.map/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-planet.map$
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/planet.map.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/planet.map/icon.png

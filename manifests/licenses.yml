@@ -1,0 +1,15 @@
+name: licenses
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins
+license: MIT
+version: v1.0.1-licenses
+shortDescription: Adds several side missions to acquire unobtainable licenses.
+description: Adds several side missions to acquire unobtainable licenses. See the
+  README for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-licenses/licenses.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-licenses/myplugins/licenses/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-licenses$
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/licenses.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/licenses/icon.png

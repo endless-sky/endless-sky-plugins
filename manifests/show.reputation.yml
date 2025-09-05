@@ -1,0 +1,15 @@
+name: show.reputation
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins
+license: MIT
+version: v1.0.5-show.reputation
+shortDescription: Enables a job on the Earth job board, that shows the reputation values.
+description: Enables a job on the Earth job board, that shows the reputation values. See
+  the README for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.5-show.reputation/show.reputation.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.5-show.reputation/myplugins/show.reputation/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-show.reputation$
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/show.reputation.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/show.reputation/icon.png

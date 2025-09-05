@@ -1,0 +1,15 @@
+name: additional.command.buttons.radial
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins
+license: MIT
+version: v1.0.25-additional.command.buttons.radial
+shortDescription: Reworks the ui for the ANDROID version of ES.
+description: Reworks the main buttons ui on the lower right side. Made for the ANDROID version of ES.
+  See the README for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.25-additional.command.buttons.radial/additional.command.buttons.radial.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.25-additional.command.buttons.radial/myplugins/additional.command.buttons.radial/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-additional.command.buttons.radial$
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/additional.command.buttons.radial.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/additional.command.buttons.radial/icon.png

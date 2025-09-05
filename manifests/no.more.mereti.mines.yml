@@ -1,0 +1,16 @@
+name: no.more.mereti.mines
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins
+license: MIT
+version: v1.0.4-no.more.mereti.mines
+shortDescription: Removes the mines from Mereti ships and replaces them with Husk-Slice
+  and Shield Disruptor guns to increase game performance.
+description: Removes the mines from Mereti ships and replaces them with Husk-Slice and
+  Shield Disruptor guns to increase game performance. See the README for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.4-no.more.mereti.mines/no.more.mereti.mines.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.4-no.more.mereti.mines/myplugins/no.more.mereti.mines/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-no.more.mereti.mines$
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/no.more.mereti.mines.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/no.more.mereti.mines/icon.png

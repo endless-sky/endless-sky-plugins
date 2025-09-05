@@ -1,0 +1,14 @@
+name: captureable.person.ships
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins
+license: MIT
+version: v1.1.9-captureable.person.ships
+shortDescription: Makes person ships capturable.
+description: Makes person ships capturable. See the README for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.9-captureable.person.ships/captureable.person.ships.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.9-captureable.person.ships/myplugins/captureable.person.ships/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-captureable.person.ships$
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/captureable.person.ships.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/captureable.person.ships/icon.png
