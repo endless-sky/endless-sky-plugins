@@ -3,11 +3,12 @@ authors: zuckung
 homepage: https://github.com/zuckung/endless-sky-plugins
 license: MIT
 version: v1.0.9-bunrodea.missions
-shortDescription: Adds some missions and jobs to increase the Bunrodea reputation, to
-  get access to all their planets and stuff.  See the README for details.
-description: Adds some missions and jobs to increase the Bunrodea reputation. The first
-  mission is available after the vanilla first contact mission. Doing more jobs will
-  allow you to get access to all their planets and ships. See the README for details.
+shortDescription: Adds some missions and jobs to increase the Bunrodea reputation,
+  to get access to all their planets and stuff.  See the README for details.
+description: Adds some missions and jobs to increase the Bunrodea reputation. The
+  first mission is available after the vanilla first contact mission. Doing more jobs
+  will allow you to get access to all their planets and ships. See the README for
+  details.
 url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.9-bunrodea.missions/bunrodea.missions.zip
 iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.9-bunrodea.missions/myplugins/bunrodea.missions/icon.png
 autoupdate:
