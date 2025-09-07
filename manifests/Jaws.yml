@@ -9,6 +9,7 @@ url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.3-J
 iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.2.3-Jaws/myplugins/Jaws/icon.png
 autoupdate:
   type: tag
+  update_url: https://github.com/LixiChronikouOriou/ES-plugins/
   regex: ^.*-Jaws$
   url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Jaws.zip
   iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Jaws/icon.png
