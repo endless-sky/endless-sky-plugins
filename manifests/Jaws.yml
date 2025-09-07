@@ -1,0 +1,14 @@
+﻿name: Jaws
+authors: Timeout
+homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#Jaws
+license: CC-BY-SA-4.0
+version: v1.2.3-Jaws
+shortDescription: Completely harmless space wildlife, which you can randomly shoot at. Trust me.
+description: Completely harmless space wildlife, which you can randomly shoot at. Trust me.
+url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.3-Jaws/Jaws.zip
+iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.2.3-Jaws/myplugins/Jaws/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-Jaws$
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Jaws.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Jaws/icon.png

@@ -1,0 +1,14 @@
+﻿name: Solar.Sails
+authors: TheronEpic
+homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#SolarSails
+license: CC-BY-SA-4.0
+version: v2.1.0-Solar.Sails
+shortDescription: Epic diffractive solar sails for Human and Coalition space, providing thrust, turn and solar collection, thereby using only outfitspace worth of half the consumed enginespace.
+description: Epic diffractive solar sails for Human and Coalition space, providing thrust, turn and solar collection, thereby using only outfitspace worth of half the consumed enginespace.
+url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.1.0-Solar.Sails/Solar.Sails.zip
+iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v2.1.0-Solar.Sails/myplugins/Solar.Sails/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-Solar.Sails$
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Solar.Sails.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Solar.Sails/icon.png

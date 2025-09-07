@@ -1,0 +1,14 @@
+﻿name: Louise.Conglomerate.Shipyards
+authors: Loyse
+homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards
+license: CC-BY-SA-4.0
+version: v1.2.1-Louise.Conglomerate.Shipyards
+shortDescription: The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty. Requires: Fundamental.Outfit.Expansion.
+description: The ships manufactured by the Louise Conglomerate, based on Follower, are designed for the harsh pirate-infested frontier areas, thereby showing a remarkable sense for beauty. Requires: Fundamental.Outfit.Expansion.
+url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.1-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip
+iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.2.1-Louise.Conglomerate.Shipyards/myplugins/Louise.Conglomerate.Shipyards/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-Louise.Conglomerate.Shipyards$
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Louise.Conglomerate.Shipyards.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Louise.Conglomerate.Shipyards/icon.png
