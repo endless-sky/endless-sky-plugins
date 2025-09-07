@@ -9,6 +9,7 @@ url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.1.0-S
 iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v2.1.0-Solar.Sails/myplugins/Solar.Sails/icon.png
 autoupdate:
   type: tag
+  update_url: https://github.com/LixiChronikouOriou/ES-plugins/
   regex: ^.*-Solar.Sails$
   url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Solar.Sails.zip
   iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Solar.Sails/icon.png
