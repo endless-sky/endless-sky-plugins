@@ -9,6 +9,7 @@ url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Z
 iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.1.0-Zone.of.Control/myplugins/Zone.of.Control/icon.png
 autoupdate:
   type: tag
+  update_url: https://github.com/LixiChronikouOriou/ES-plugins/
   regex: ^.*-Zone.of.Control$
   url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Zone.of.Control.zip
   iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Zone.of.Control/icon.png
