@@ -9,6 +9,7 @@ url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.0-B
 iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.3.0-Bunsen.Burner/myplugins/Bunsen.Burner/icon.png
 autoupdate:
   type: tag
+  repository: https://github.com/LixiChronikouOriou/ES-plugins/
   regex: ^.*-Bunsen.Burner$
   url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Bunsen.Burner.zip
   iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Bunsen.Burner/icon.png
