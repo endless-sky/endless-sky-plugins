@@ -9,6 +9,7 @@ url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.1-L
 iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.2.1-Louise.Conglomerate.Shipyards/myplugins/Louise.Conglomerate.Shipyards/icon.png
 autoupdate:
   type: tag
+  update_url: https://github.com/LixiChronikouOriou/ES-plugins/
   regex: ^.*-Louise.Conglomerate.Shipyards$
   url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Louise.Conglomerate.Shipyards.zip
   iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Louise.Conglomerate.Shipyards/icon.png
