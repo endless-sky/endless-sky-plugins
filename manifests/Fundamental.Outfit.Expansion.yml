@@ -9,6 +9,7 @@ url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.5.1-F
 iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.5.1-Fundamental.Outfit.Expansion/myplugins/Fundamental.Outfit.Expansion/icon.png
 autoupdate:
   type: tag
+  update_url: https://github.com/LixiChronikouOriou/ES-plugins/
   regex: ^.*-Fundamental.Outfit.Expansion$
   url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Fundamental.Outfit.Expansion.zip
   iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Fundamental.Outfit.Expansion/icon.png
