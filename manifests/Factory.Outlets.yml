@@ -9,6 +9,7 @@ url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-F
 iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.1.0-Factory.Outlets/myplugins/Factory.Outlets/icon.png
 autoupdate:
   type: tag
+  update_url: https://github.com/LixiChronikouOriou/ES-plugins/
   regex: ^.*-Factory.Outlets$
   url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Factory.Outlets.zip
   iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Factory.Outlets/icon.png
