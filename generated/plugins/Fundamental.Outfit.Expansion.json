@@ -1,0 +1,18 @@
+{
+  "name": "Fundamental.Outfit.Expansion",
+  "authors": "(many authors)",
+  "homepage": "https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion",
+  "license": "CC-BY-SA-4.0",
+  "version": "v1.5.1-Fundamental.Outfit.Expansion",
+  "shortDescription": "A collection of essential outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.",
+  "description": "A collection of essential outfits from various plugins of various authors which should be vanilla, but incomprehensibly aren't.",
+  "url": "https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.5.1-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip",
+  "iconUrl": "https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.5.1-Fundamental.Outfit.Expansion/myplugins/Fundamental.Outfit.Expansion/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "update_url": "https://github.com/LixiChronikouOriou/ES-plugins/",
+    "regex": "^.*-Fundamental.Outfit.Expansion$",
+    "url": "https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Fundamental.Outfit.Expansion.zip",
+    "iconUrl": "https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Fundamental.Outfit.Expansion/icon.png"
+  }
+}

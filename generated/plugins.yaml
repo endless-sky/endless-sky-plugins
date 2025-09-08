@@ -486,6 +486,25 @@
   description: The Quazar Conundrum is a massive century spanning story involving
     a galaxy-spanning threat, changing hegemony and new factions rising to power.
   url: https://github.com/AurthorParadoxQ/The-Quazar-Conundrum/archive/refs/tags/Major_ReleaseV015.zip
+- name: Factory.Outlets
+  authors: Lifeyouristhis, Timeout
+  homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FactoryOutlets
+  license: CC-BY-SA-4.0
+  version: v1.1.0-Factory.Outlets
+  shortDescription: Adds Factory Outlet Stations around the HQ planets of shipyard
+    companies, where basically only ship hulls with just few essential outfits are
+    sold.
+  description: Adds Factory Outlet Stations around the HQ planets of shipyard companies,
+    where basically only ship hulls (with just few essential outfits) are sold, such
+    reducing the price significantly.
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Factory.Outlets/Factory.Outlets.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.1.0-Factory.Outlets/myplugins/Factory.Outlets/icon.png
+  autoupdate:
+    type: tag
+    update_url: https://github.com/LixiChronikouOriou/ES-plugins/
+    regex: ^.*-Factory.Outlets$
+    url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Factory.Outlets.zip
+    iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Factory.Outlets/icon.png
 - name: captureable.person.ships
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
@@ -997,6 +1016,23 @@
     type: tag
     url: https://github.com/MidnightPlugins/Outfit-Highlighter/releases/download/$version/Outfit.Highlighter-$version.zip
     iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Outfit-Highlighter/$version/icon.png
+- name: Jaws
+  authors: Timeout
+  homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#Jaws
+  license: CC-BY-SA-4.0
+  version: v1.2.3-Jaws
+  shortDescription: Completely harmless space wildlife, which you can randomly shoot
+    at. Trust me.
+  description: Completely harmless space wildlife, which you can randomly shoot at.
+    Trust me.
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.3-Jaws/Jaws.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.2.3-Jaws/myplugins/Jaws/icon.png
+  autoupdate:
+    type: tag
+    update_url: https://github.com/LixiChronikouOriou/ES-plugins/
+    regex: ^.*-Jaws$
+    url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Jaws.zip
+    iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Jaws/icon.png
 - name: hai.side.mission.unlocker
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
@@ -1062,6 +1098,24 @@
     regex: ^.*-show.reputation$
     url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/show.reputation.zip
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/show.reputation/icon.png
+- name: Solar.Sails
+  authors: TheronEpic
+  homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#SolarSails
+  license: CC-BY-SA-4.0
+  version: v2.1.0-Solar.Sails
+  shortDescription: Diffractive solar sails for Human and Coalition space, providing
+    thrust, turn and solar collection, at that being outfitspace-efficient.
+  description: Epic diffractive solar sails for Human and Coalition space, providing
+    thrust, turn and solar collection, at that using only outfitspace worth of half
+    the consumed enginespace.
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v2.1.0-Solar.Sails/Solar.Sails.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v2.1.0-Solar.Sails/myplugins/Solar.Sails/icon.png
+  autoupdate:
+    type: tag
+    update_url: https://github.com/LixiChronikouOriou/ES-plugins/
+    regex: ^.*-Solar.Sails$
+    url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Solar.Sails.zip
+    iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Solar.Sails/icon.png
 - name: Kinetic Weaponry
   authors: Bereskatuket (Kestrel1110)
   homepage: https://github.com/kestrel1110/KineticWeaponry
@@ -1076,6 +1130,23 @@
     type: tag
     url: https://github.com/kestrel1110/KineticWeaponry/archive/$version.zip
     iconUrl: https://github.com/kestrel1110/KineticWeaponry/raw/$version/icon.png
+- name: Bunsen.Burner
+  authors: Nick Barry
+  homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#BunsenBurner
+  license: GPL-3+
+  version: v1.3.0-Bunsen.Burner
+  shortDescription: Next-generation Flamethrower, as gun, turret and h2h. For those
+    who like it hot.
+  description: Next-generation Flamethrower, as gun, turret and h2h. For those who
+    like it hot.
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.0-Bunsen.Burner/Bunsen.Burner.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.3.0-Bunsen.Burner/myplugins/Bunsen.Burner/icon.png
+  autoupdate:
+    type: tag
+    update_url: https://github.com/LixiChronikouOriou/ES-plugins/
+    regex: ^.*-Bunsen.Burner$
+    url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Bunsen.Burner.zip
+    iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Bunsen.Burner/icon.png
 - name: sensor
   authors: ORBIT
   homepage: https://github.com/orbitalsupershell/sensor/
@@ -1253,6 +1324,23 @@
     regex: ^.*-flare.play$
     url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/flare.play.zip
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/flare.play/icon.png
+- name: Korunak.Defense.Drones
+  authors: Starmlerp
+  homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#KorunakDefenseDrones
+  license: CC-BY-SA-4.0
+  version: v1.1.0-Korunak.Defense.Drones
+  shortDescription: Korunak Robotics provides combat drones from primitive missile
+    sponges to innovative fighting machines, popular among merchants, but not only.
+  description: Korunak Robotics provides combat drones from primitive missile sponges
+    to innovative fighting machines, popular among merchants, but not only.
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Korunak.Defense.Drones/Korunak.Defense.Drones.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.1.0-Korunak.Defense.Drones/myplugins/Korunak.Defense.Drones/icon.png
+  autoupdate:
+    type: tag
+    update_url: https://github.com/LixiChronikouOriou/ES-plugins/
+    regex: ^.*-Korunak.Defense.Drones$
+    url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Korunak.Defense.Drones.zip
+    iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Korunak.Defense.Drones/icon.png
 - name: disable.spaceport.repeatables
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
@@ -1429,6 +1517,24 @@
     regex: ^.*-gegno.pirates$
     url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/gegno.pirates.zip
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/gegno.pirates/icon.png
+- name: Louise.Conglomerate.Shipyards
+  authors: Loyse
+  homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#LouiseConglomerateShipyards
+  license: CC-BY-SA-4.0
+  version: v1.2.1-Louise.Conglomerate.Shipyards
+  shortDescription: Ships made by Louise Conglomerate, designed for harsh pirate-infested
+    frontier areas, at that being beautiful. Needs Fundamental.Outfit.Expansion.
+  description: The ships manufactured by the Louise Conglomerate, based on Follower,
+    are designed for the harsh pirate-infested frontier areas, at that showing a remarkable
+    sense for beauty. Requires Fundamental.Outfit.Expansion.
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.1-Louise.Conglomerate.Shipyards/Louise.Conglomerate.Shipyards.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.2.1-Louise.Conglomerate.Shipyards/myplugins/Louise.Conglomerate.Shipyards/icon.png
+  autoupdate:
+    type: tag
+    update_url: https://github.com/LixiChronikouOriou/ES-plugins/
+    regex: ^.*-Louise.Conglomerate.Shipyards$
+    url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Louise.Conglomerate.Shipyards.zip
+    iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Louise.Conglomerate.Shipyards/icon.png
 - name: Early Starts
   authors: jmelesky
   homepage: https://codeberg.org/jmelesky/endless-sky-early-starts
@@ -1446,6 +1552,23 @@
     type: tag
     url: https://codeberg.org/jmelesky/endless-sky-early-starts/archive/$version.zip
     iconUrl: https://codeberg.org/jmelesky/endless-sky-early-starts/raw/tag/$version/icon.png
+- name: Fundamental.Outfit.Expansion
+  authors: (many authors)
+  homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion
+  license: CC-BY-SA-4.0
+  version: v1.5.1-Fundamental.Outfit.Expansion
+  shortDescription: A collection of essential outfits from various plugins of various
+    authors which should be vanilla, but incomprehensibly aren't.
+  description: A collection of essential outfits from various plugins of various authors
+    which should be vanilla, but incomprehensibly aren't.
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.5.1-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.5.1-Fundamental.Outfit.Expansion/myplugins/Fundamental.Outfit.Expansion/icon.png
+  autoupdate:
+    type: tag
+    update_url: https://github.com/LixiChronikouOriou/ES-plugins/
+    regex: ^.*-Fundamental.Outfit.Expansion$
+    url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Fundamental.Outfit.Expansion.zip
+    iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Fundamental.Outfit.Expansion/icon.png
 - name: kor.efret.shipyard
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
@@ -1538,6 +1661,27 @@
   autoupdate:
     type: tag
     url: https://github.com/beccabunny/Beccas-Endless-Expansion/archive/refs/tags/$version.zip
+- name: Zone.of.Control
+  authors: Timeout
+  homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#ZoneofControl
+  license: CC-BY-SA-4.0
+  version: v1.1.0-Zone.of.Control
+  shortDescription: Tribute human space after finishing the main plot without need
+    for save-edits or being dependent on time slots during campaign. Handles special
+    cases.
+  description: Provides a proper way to tribute human space after finishing the main
+    plot without needing to save-edit (Free Worlds) or being dependent on time slots
+    during campaign (Republic & Syndicate). Also handles independent systems by defining
+    own polities to avoid issues with independent mission NPCs. And adds some vanilla
+    mission chain related candy.
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Zone.of.Control/Zone.of.Control.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.1.0-Zone.of.Control/myplugins/Zone.of.Control/icon.png
+  autoupdate:
+    type: tag
+    update_url: https://github.com/LixiChronikouOriou/ES-plugins/
+    regex: ^.*-Zone.of.Control$
+    url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Zone.of.Control.zip
+    iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Zone.of.Control/icon.png
 - name: Endless Sky Starbridge Pack
   authors: Autohummer
   homepage: https://github.com/Autohummer/Endless-Sky-Starbridge-Pack
