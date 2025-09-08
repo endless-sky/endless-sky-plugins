@@ -1,10 +1,12 @@
-﻿name: Korunak.Defense.Drones
+name: Korunak.Defense.Drones
 authors: Starmlerp
 homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#KorunakDefenseDrones
 license: CC-BY-SA-4.0
 version: v1.1.0-Korunak.Defense.Drones
-shortDescription: Korunak Robotics provides combat drones from primitive missile sponges to innovative fighting machines, popular among merchants, but not only.
-description: Korunak Robotics provides combat drones from primitive missile sponges to innovative fighting machines, popular among merchants, but not only.
+shortDescription: Korunak Robotics provides combat drones from primitive missile sponges
+  to innovative fighting machines, popular among merchants, but not only.
+description: Korunak Robotics provides combat drones from primitive missile sponges
+  to innovative fighting machines, popular among merchants, but not only.
 url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Korunak.Defense.Drones/Korunak.Defense.Drones.zip
 iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.1.0-Korunak.Defense.Drones/myplugins/Korunak.Defense.Drones/icon.png
 autoupdate:
