@@ -3,8 +3,10 @@ authors: Nick Barry
 homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#BunsenBurner
 license: GPL-3+
 version: v1.3.0-Bunsen.Burner
-shortDescription: Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.
-description: Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.
+shortDescription: Next-generation Flamethrower, as gun, turret and h2h. For those
+  who like it hot.
+description: Next-generation Flamethrower, as gun, turret and h2h. For those who like
+  it hot.
 url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.0-Bunsen.Burner/Bunsen.Burner.zip
 iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.3.0-Bunsen.Burner/myplugins/Bunsen.Burner/icon.png
 autoupdate:
