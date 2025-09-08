@@ -16,7 +16,7 @@ import itertools
 from traceback import print_exc
 
 
-BASEVERSION = r"^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-z.0-9]+)?$"
+BASEVERSION = r"^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-zA-Z.0-9]+)?$"
 VERSION_COMPONENTS = re.compile(r"(\d+ | [a-z]+ | \.)", re.VERBOSE)
 
 
