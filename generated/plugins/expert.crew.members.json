@@ -1,0 +1,17 @@
+{
+  "name": "expert.crew.members",
+  "authors": "zuckung",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "license": "MIT",
+  "version": "v1.0.9-expert.crew.members",
+  "shortDescription": "Adds unique crew members, aquireable through low chance spaceport missions.",
+  "description": "Adds unique crew members, aquireable through low chance spaceport missions. These crew members are technically outfits which require a bunk and a salary, but no outfit space or mass. They add, depending on their technology field, stats to your ship. Like shield regeneration, more thrust, more cargo etc. See the README for details.",
+  "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.9-expert.crew.members/expert.crew.members.zip",
+  "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.9-expert.crew.members/myplugins/expert.crew.members/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "regex": "^.*-expert.crew.members$",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/expert.crew.members.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/expert.crew.members/icon.png"
+  }
+}

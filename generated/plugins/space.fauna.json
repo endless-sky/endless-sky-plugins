@@ -1,0 +1,17 @@
+{
+  "name": "space.fauna",
+  "authors": "zuckung",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "license": "MIT",
+  "version": "v1.1.3-space.fauna",
+  "shortDescription": "Adds space fauna fleets to all systems. Useless but pretty, to make the universe more alive.",
+  "description": "Adds space fauna fleets to all systems. Useless but pretty, to make the universe more alive. See the README for details.",
+  "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.3-space.fauna/space.fauna.zip",
+  "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.3-space.fauna/myplugins/space.fauna/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "regex": "^.*-space.fauna$",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/space.fauna.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/space.fauna/icon.png"
+  }
+}

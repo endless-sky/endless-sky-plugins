@@ -1,0 +1,17 @@
+{
+  "name": "disable.spaceport.repeatables",
+  "authors": "zuckung",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "license": "MIT",
+  "version": "v1.1.2-disable.spaceport.repeatables",
+  "shortDescription": "Disables all repeatable spaceport missions. I.e. shady passenger transport or drug smuggling.",
+  "description": "Disables all repeatable spaceport missions. I.e. shady passenger transport, drug smuggling, time critical transport or defend planet. See the README for details.",
+  "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.2-disable.spaceport.repeatables/disable.spaceport.repeatables.zip",
+  "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.2-disable.spaceport.repeatables/myplugins/disable.spaceport.repeatables/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "regex": "^.*-disable.spaceport.repeatables$",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/disable.spaceport.repeatables.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/disable.spaceport.repeatables/icon.png"
+  }
+}

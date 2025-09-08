@@ -1,0 +1,17 @@
+{
+  "name": "automata.in.human.space",
+  "authors": "zuckung",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "license": "MIT",
+  "version": "v1.0.2-automata.in.human.space",
+  "shortDescription": "Brings jump drive equipped automata into human space after the wanderer campaign.",
+  "description": "Brings jump drive equipped automata into human space after the wanderer campaign. See the README for details.",
+  "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.2-automata.in.human.space/automata.in.human.space.zip",
+  "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.2-automata.in.human.space/myplugins/automata.in.human.space/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "regex": "^.*-automata.in.human.space$",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/automata.in.human.space.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/automata.in.human.space/icon.png"
+  }
+}

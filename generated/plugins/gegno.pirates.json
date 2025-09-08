@@ -1,0 +1,17 @@
+{
+  "name": "gegno.pirates",
+  "authors": "zuckung",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "license": "MIT",
+  "version": "v1.0.4-gegno.pirates",
+  "shortDescription": "Adds a new faction of Gegno pirates which lets you capture Gegno ships and gain Gegno/Scin/Vi reputation to open their planets for travel.",
+  "description": "Adds a new faction of Gegno pirates which lets you capture Gegno ships, gain Gegno/Scin/Vi reputation, open their planets for travel, loot Gegno licenses and create an outfitter/shipyard for all their gear. See the README for details.",
+  "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.4-gegno.pirates/gegno.pirates.zip",
+  "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.4-gegno.pirates/myplugins/gegno.pirates/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "regex": "^.*-gegno.pirates$",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/gegno.pirates.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/gegno.pirates/icon.png"
+  }
+}

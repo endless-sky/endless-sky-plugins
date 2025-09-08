@@ -1,0 +1,17 @@
+{
+  "name": "landing.images.highres",
+  "authors": "zuckung",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "license": "MIT",
+  "version": "v1.0.3-landing.images.highres",
+  "shortDescription": "High resolution files for landing.images plugin.",
+  "description": "High resolution files for landing.images plugin. See the README for details.",
+  "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-landing.images.highres/landing.images.highres.zip",
+  "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-landing.images.highres/myplugins/landing.images.highres/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "regex": "^.*-landing.images.highres$",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/landing.images.highres.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/landing.images.highres/icon.png"
+  }
+}

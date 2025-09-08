@@ -1,0 +1,17 @@
+{
+  "name": "too.many.asteroids",
+  "authors": "zuckung",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "license": "MIT",
+  "version": "v1.0.5-too.many.asteroids",
+  "shortDescription": "Removes all non-mineable asteroids from all systems. Mineable asteroids and asteroid belts are untouched. Increases game performance.",
+  "description": "Removes all non-mineable asteroids from all systems. Mineable asteroids and asteroid belts are untouched. Increases game performance. See the README for details.",
+  "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.5-too.many.asteroids/too.many.asteroids.zip",
+  "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.5-too.many.asteroids/myplugins/too.many.asteroids/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "regex": "^.*-too.many.asteroids$",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/too.many.asteroids.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/too.many.asteroids/icon.png"
+  }
+}

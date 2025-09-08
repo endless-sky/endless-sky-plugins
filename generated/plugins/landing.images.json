@@ -1,0 +1,17 @@
+{
+  "name": "landing.images",
+  "authors": "zuckung",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "license": "MIT",
+  "version": "v1.0.5-landing.images",
+  "shortDescription": "Replaces all planet landing images with better fitting ones.",
+  "description": "Replaces all planet landing images with better fitting ones. See the README for details.",
+  "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.5-landing.images/landing.images.zip",
+  "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.5-landing.images/myplugins/landing.images/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "regex": "^.*-landing.images$",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/landing.images.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/landing.images/icon.png"
+  }
+}

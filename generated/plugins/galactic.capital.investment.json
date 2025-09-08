@@ -1,15 +1,16 @@
 {
   "name": "galactic.capital.investment",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins/",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins",
   "license": "MIT",
-  "version": "v1.1-galactic.capital.investment",
-  "shortDescription": "Implements a short mission chain that enables repeatable job board investment opportunities which result in small daily income. Available in human, quarg and hai space.",
-  "description": "Implements a short mission chain that enables repeatable job board investment opportunities which result in small daily income. Available in human, quarg and hai space starting with 2 million credits cash and going up to 1000 million credits. See the readme for details.",
-  "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1-galactic.capital.investment/galactic.capital.investment.zip",
-  "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1-galactic.capital.investment/myplugins/galactic.capital.investment/icon.png",
+  "version": "v1.1.9-galactic.capital.investment",
+  "shortDescription": "Implements missions and jobs for banking services and investments.",
+  "description": "Implements missions and jobs for banking services and investments. Available in human, quarg and hai space. See the README for details.",
+  "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.9-galactic.capital.investment/galactic.capital.investment.zip",
+  "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.9-galactic.capital.investment/myplugins/galactic.capital.investment/icon.png",
   "autoupdate": {
     "type": "tag",
+    "regex": "^.*-galactic.capital.investment$",
     "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/galactic.capital.investment.zip",
     "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/galactic.capital.investment/icon.png"
   }
