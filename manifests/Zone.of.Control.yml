@@ -1,0 +1,15 @@
+﻿name: Zone.of.Control
+authors: Timeout
+homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#ZoneofControl
+license: CC-BY-SA-4.0
+version: v1.1.0-Zone.of.Control
+shortDescription: Tribute human space after finishing the main plot without need for save-edits or being dependent on time slots during campaign. Handles special cases.
+description: Provides a proper way to tribute human space after finishing the main plot without needing to save-edit (Free Worlds) or being dependent on time slots during campaign (Republic & Syndicate). Also handles independent systems by defining own polities to avoid issues with independent mission NPCs. And adds some vanilla mission chain related candy.
+url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Zone.of.Control/Zone.of.Control.zip
+iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.1.0-Zone.of.Control/myplugins/Zone.of.Control/icon.png
+autoupdate:
+  type: tag
+  update_url: https://github.com/LixiChronikouOriou/ES-plugins/
+  regex: ^.*-Zone.of.Control$
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Zone.of.Control.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Zone.of.Control/icon.png

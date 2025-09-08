@@ -1,0 +1,15 @@
+﻿name: Factory.Outlets
+authors: Lifeyouristhis, Timeout
+homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FactoryOutlets
+license: CC-BY-SA-4.0
+version: v1.1.0-Factory.Outlets
+shortDescription: Adds Factory Outlet Stations around the HQ planets of shipyard companies, where basically only ship hulls with just few essential outfits are sold.
+description: Adds Factory Outlet Stations around the HQ planets of shipyard companies, where basically only ship hulls (with just few essential outfits) are sold, such reducing the price significantly.
+url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.0-Factory.Outlets/Factory.Outlets.zip
+iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.1.0-Factory.Outlets/myplugins/Factory.Outlets/icon.png
+autoupdate:
+  type: tag
+  update_url: https://github.com/LixiChronikouOriou/ES-plugins/
+  regex: ^.*-Factory.Outlets$
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Factory.Outlets.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Factory.Outlets/icon.png
