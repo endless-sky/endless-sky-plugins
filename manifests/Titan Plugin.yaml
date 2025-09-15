@@ -1,0 +1,13 @@
+name: Titan Plugin
+authors: Mr. Gigabytes, Gigabytes Technology LLC
+homepage: https://gigsplained.com
+license: GPL-3.0
+version: v1.0
+shortDescription: 3 outfits, 2 ships, 1 alternate start
+description: >-
+  This plugin gives you a bespoke, heavily armed, mid-level transport; a modified Boxwing fighter, an AI outfit, a hull plate outfit, a shield algorithm outfit, and a no money/loan/hyperdrive start with a salvaged ship.
+url: https://github.com/mr-gigabytes/mrgigabytes/releases/download/Titan/Titan.zip
+iconUrl: https://gigsplained.com/wp-content/uploads/2024/08/titan3d-G-1.png
+autoupdate:
+  type: tag
+  url: hhttps://github.com/mr-gigabytes/mrgigabytes/releases/tag/Titan/$version.zip
