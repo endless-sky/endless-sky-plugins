@@ -3,14 +3,14 @@
   "authors": "ChemtrailOperator",
   "homepage": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky",
   "license": "GPL-3.0-or-later",
-  "version": "v1.4",
+  "version": "v2.0",
   "shortDescription": "In-Game access to all 29 vanilla swizzles.",
   "description": "This plugin creates game play to swizzle your ship to any of the 29 vanilla swizzles. To begin, visit any human planet.",
-  "url": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/releases/download/v1.4/HyperHue-Studios-v1.4.zip",
-  "iconUrl": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/raw/main/v1.4/icon.png",
+  "url": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/releases/download/v2.0/HyperHue-Studios-v2.0.zip",
+  "iconUrl": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/raw/v2.0/icon.png",
   "autoupdate": {
     "type": "tag",
     "url": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/releases/download/$version/HyperHue-Studios-$version.zip",
-    "iconUrl": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/raw/main/$version/icon.png"
+    "iconUrl": "https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/raw/$version/icon.png"
   }
 }
