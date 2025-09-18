@@ -1311,14 +1311,14 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.2-flare.play
+  version: v1.0.3-flare.play
   shortDescription: Adds lots of engine flare outfits to the big shipyards and outfitters.
     These outfits are just cosmetic.
   description: Adds lots of engine flare outfits to the big shipyards and outfitters.
     These outfits are just cosmetic. Idea by 'Thermognuclear Missile' on discord.
     See the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.2-flare.play/flare.play.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.2-flare.play/myplugins/flare.play/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-flare.play/flare.play.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-flare.play/myplugins/flare.play/icon.png
   autoupdate:
     type: tag
     regex: ^.*-flare.play$
