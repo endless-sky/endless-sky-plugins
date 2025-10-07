@@ -1,0 +1,18 @@
+name: capture.archons
+authors: Nova.
+homepage: https://github.com/Nova1422/archons
+license: Custom
+version: v1.0
+shortDescription: Spawns captureable Archon ships
+description: >
+  Spawns captureable Archon ships in the system "Persitar" every ten minutes.
+  PS - Pre-existing Archons can't be captured nor will they be angered.
+  Capturing the spawned Archons will not be any easier.
+url: https://github.com/Nova1422/archons/archive/refs/heads/main.zip
+iconUrl: https://github.com/Nova1422/archons/blob/main/icon.png
+autoupdate:
+  type: tag
+  update_url: https://github.com/Nova1422/archons/
+  regex: ^v?[0-9.]+$
+  url: https://github.com/Nova1422/archons/releases/download/$version/archons.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/archons/$version/icon.png
