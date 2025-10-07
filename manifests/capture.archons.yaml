@@ -8,7 +8,7 @@ description: >
   Spawns captureable Archon ships in the system "Persitar" every ten minutes.
   PS - Pre-existing Archons can't be captured nor will they be angered.
   Capturing the spawned Archons will not be any easier.
-url: https://github.com/Nova1422/archons/archive/refs/heads/main.zip
+url: https://github.com/Nova1422/archons/archive/refs/tags/$version.zip
 iconUrl: https://github.com/Nova1422/archons/blob/main/icon.png
 autoupdate:
   type: tag
