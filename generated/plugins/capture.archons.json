@@ -1,0 +1,16 @@
+{
+  "name": "Capture Archons",
+  "authors": "Nova.",
+  "homepage": "https://github.com/Nova1422/archons",
+  "license": "ALL-RIGHTS-RESERVED",
+  "version": "v1.0",
+  "shortDescription": "Spawns captureable Archon ships",
+  "description": "Spawns captureable Archon ships in the system \"Persitar\" every ten minutes. PS - Pre-existing Archons can't be captured nor will they be angered. Capturing the spawned Archons will not be any easier.\n",
+  "url": "https://github.com/Nova1422/archons/archive/refs/tags/v1.0.zip",
+  "iconUrl": "https://raw.githubusercontent.com/Nova1422/archons/v1.0/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/Nova1422/archons/archive/refs/tags/$version.zip",
+    "iconUrl": "https://raw.githubusercontent.com/Nova1422/archons/$version/icon.png"
+  }
+}
