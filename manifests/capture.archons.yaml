@@ -14,4 +14,3 @@ autoupdate:
   type: tag
   url: https://github.com/Nova1422/archons/archive/refs/tags/$version.zip
   iconUrl: https://raw.githubusercontent.com/Nova1422/archons/$version/icon.png
- 
