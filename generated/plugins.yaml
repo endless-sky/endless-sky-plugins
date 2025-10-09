@@ -1100,7 +1100,7 @@
     timeout.fu (troubleshooter)
 
     '
-  url: https://github.com/Nova1422/YESTREL/archive/refs/tags/v1.0.zip
+  url: https://github.com/Nova1422/Yestrel/archive/refs/tags/v1.0.zip
   iconUrl: https://raw.githubusercontent.com/Nova1422/YESTREL/v1.0/icon.png
   autoupdate:
     type: tag
