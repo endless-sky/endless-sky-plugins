@@ -115,21 +115,20 @@
     iconUrl: https://github.com/adegans/SpaceCrate/raw/$version/icon.png
 - name: Capture Archons
   authors: Nova.
-  homepage: https://github.com/Nova1422/archons
+  homepage: https://github.com/Nova1422/plugins
   license: ALL-RIGHTS-RESERVED
-  version: v1.0
+  version: v1.0.2-capture.archons
   shortDescription: Spawns captureable Archon ships
-  description: 'Spawns captureable Archon ships in the system "Persitar" every ten
-    minutes. PS - Pre-existing Archons can''t be captured nor will they be angered.
+  description: Spawns captureable Archon ships in the system "Persitar" every ten
+    minutes. PS - Pre-existing Archons can't be captured nor will they be angered.
     Capturing the spawned Archons will not be any easier.
-
-    '
-  url: https://github.com/Nova1422/archons/archive/refs/tags/v1.0.zip
-  iconUrl: https://raw.githubusercontent.com/Nova1422/archons/v1.0/icon.png
+  url: https://github.com/Nova1422/plugins/releases/download/v1.0.2-capture.archons/capture.archons.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.2-capture.archons/myplugins/capture.archons/icon.png
   autoupdate:
     type: tag
-    url: https://github.com/Nova1422/archons/archive/refs/tags/$version.zip
-    iconUrl: https://raw.githubusercontent.com/Nova1422/archons/$version/icon.png
+    regex: ^.*-capture.archons$
+    url: https://github.com/Nova1422/plugins/releases/download/$version/capture.archons.zip
+    iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/capture.archons/icon.png
 - name: Celestial Strands
   authors: Saugia
   homepage: https://github.com/Saugia/celestial-strands
