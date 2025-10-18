@@ -10,4 +10,4 @@ iconUrl: github.com/chemtrailoperator/More-Formations/raw/v1.0/icon.png
 autoupdate:
   type: tag
   url: https://github.com/chemtrailoperator/More-Formations/releases/download/$version/More-Formations-$version.zip
-  iconUrl: github.com/chemtrailoperator/More-Formations/raw/$version/icon.png
+  iconUrl: https://github.com/chemtrailoperator/More-Formations/raw/$version/icon.png
