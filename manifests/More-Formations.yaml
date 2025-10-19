@@ -4,7 +4,8 @@ homepage: https://github.com/chemtrailoperator/More-Formations
 license: GPL-3.0-or-later
 version: v1.0
 shortDescription: More Formations
-description: "This plugin adds more formations to the vanilla list for space flight. Use shift+<Fleet: Gather around me binding>."
+description: 'This plugin adds more formations to the vanilla list for space flight.
+  Use shift+<Fleet: Gather around me binding>.'
 url: https://github.com/chemtrailoperator/More-Formations/releases/download/v1.0/More-Formations-v1.0.zip
 iconUrl: https://github.com/chemtrailoperator/More-Formations/raw/v1.0/icon.png
 autoupdate:
