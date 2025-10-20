@@ -4,7 +4,9 @@ homepage: https://github.com/Nova1422/plugins
 license: ALL-RIGHTS-RESERVED
 version: v1.0.0-1requiredcrew
 shortDescription: Reduces required crew of non pre existing ships to one, with limitations
-description: PS- Due to limitations, the ships you already own, will still have their original crew req, and ships you acquire with this plugin enabled, with retain the low crew requirement, ever after the plugin is disabled
+description: PS- Due to limitations, the ships you already own, will still have their
+  original crew req, and ships you acquire with this plugin enabled, with retain the
+  low crew requirement, ever after the plugin is disabled
 url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-1requiredcrew/1requiredcrew.zip
 iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-1requiredcrew/myplugins/1requiredcrew/icon.png
 autoupdate:
