@@ -378,6 +378,22 @@
     type: commit
     url: https://github.com/1010todd/Fighter-Factory/archive/$version.zip
     iconUrl: https://github.com/1010todd/Fighter-Factory/raw/$version/icon.png
+- name: Capturing Power
+  authors: Nova.
+  homepage: https://github.com/Nova1422/plugins
+  license: ALL-RIGHTS-RESERVED
+  version: v1.0.0-capturingpower
+  shortDescription: adds two purchasable h2h with 100k attack and defense each, on
+    the planet "Pugglemug"
+  description: The H2H outfit cost 2million a piece, And can be used without sufficient
+    crew to wield them, Like pug bio defense
+  url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-capturingpower/capturingpower.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-capturingpower/myplugins/capturingpower/icon.png
+  autoupdate:
+    type: tag
+    regex: ^.*-capturingpower$
+    url: https://github.com/Nova1422/plugins/releases/download/$version/capturingpower.zip
+    iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/capturingpower/icon.png
 - name: kestrel.unlocks
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
@@ -1394,6 +1410,20 @@
     regex: ^.*-Factory.Outlets$
     url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Factory.Outlets.zip
     iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Factory.Outlets/icon.png
+- name: Purchase Bactrian
+  authors: Nova.
+  homepage: https://github.com/Nova1422/plugins
+  license: ALL-RIGHTS-RESERVED
+  version: v1.0.0-purchase.bactrian
+  shortDescription: Sells a license-free bactrian in the northern pirate planet "Haven"
+  description: Sells a license-free bactrian in the northern pirate planet "Haven"
+  url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-purchase.bactrian/purchase.bactrian.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-purchase.bactrian/myplugins/purchase.bactrian/icon.png
+  autoupdate:
+    type: tag
+    regex: ^.*-purchase.bactrian$
+    url: https://github.com/Nova1422/plugins/releases/download/$version/purchase.bactrian.zip
+    iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/purchase.bactrian/icon.png
 - name: ES-Advanced-Starts
   authors: Bereskatuket (Kestrel1110)
   homepage: https://github.com/kestrel1110/ES-Advanced-Starts
@@ -1790,6 +1820,22 @@
     regex: ^.*-expert.crew.members$
     url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/expert.crew.members.zip
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/expert.crew.members/icon.png
+- name: Reduce RequiredCrew to 1
+  authors: Nova.
+  homepage: https://github.com/Nova1422/plugins
+  license: ALL-RIGHTS-RESERVED
+  version: v1.0.0-1requiredcrew
+  shortDescription: Reduces required crew of non pre existing ships to one, with limitations
+  description: PS- Due to limitations, the ships you already own, will still have
+    their original crew req, and ships you acquire with this plugin enabled, with
+    retain the low crew requirement, ever after the plugin is disabled
+  url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-1requiredcrew/1requiredcrew.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-1requiredcrew/myplugins/1requiredcrew/icon.png
+  autoupdate:
+    type: tag
+    regex: ^.*-1requiredcrew$
+    url: https://github.com/Nova1422/plugins/releases/download/$version/1requiredcrew.zip
+    iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/1requiredcrew/icon.png
 - name: Arc Over
   authors: Saugia
   homepage: https://github.com/Saugia/arc-over
