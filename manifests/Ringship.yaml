@@ -1,0 +1,13 @@
+﻿name: Ringship
+authors: Zoura
+homepage: https://github.com/AvianGeneticist/Ringship
+license: CC-BY-SA-4.0
+version: 1.0.0
+shortDescription: Adds a large-scale endgame flagship.
+description: Adds a large-scale endgame flagship.
+url: https://github.com/AvianGeneticist/Ringship/archive/refs/tags/1.0.0.zip
+iconUrl: https://raw.githubusercontent.com/AvianGeneticist/Ringship/1.0.0/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/AvianGeneticist/Ringship/archive/refs/tags/$version.zip
+  iconUrl: https://raw.githubusercontent.com/AvianGeneticist/Ringship/$version/icon.png
