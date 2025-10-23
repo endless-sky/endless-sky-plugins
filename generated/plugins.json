@@ -1850,6 +1850,7 @@
     "autoupdate": {
       "type": "tag",
       "regex": "^.*-tributequarg$",
+      "update_url": "https://github.com/Nova1422/plugins/",
       "url": "https://github.com/Nova1422/plugins/releases/download/$version/tributequarg.zip",
       "iconUrl": "https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/tributequarg/icon.png"
     }
