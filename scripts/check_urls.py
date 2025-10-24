@@ -27,7 +27,7 @@ class PluginChecker:
         print(status)
         return ok
 
-    def check_plugin(self, manifest: str) -> bool:
+    def check_plugin(self, manifest) -> bool:
         icon_url = manifest.get("iconUrl")
 
         url_ok = self.check_url(manifest["url"])
@@ -44,20 +44,21 @@ class PluginChecker:
         self.check_plugin(manifest)
 
 
-target = sys.argv[1]
-files = []
-if os.path.isdir(target):
-    for filename in os.listdir(target):
-        files.append(os.path.join(target, filename))
-else:
-    files = [target]
+if __name__ == "__main__":
+    target = sys.argv[1]
+    files = []
+    if os.path.isdir(target):
+        for filename in os.listdir(target):
+            files.append(os.path.join(target, filename))
+    else:
+        files = [target]
 
-checker = PluginChecker()
-for file in files:
-    checker.check_plugin_file(file)
+    checker = PluginChecker()
+    for file in files:
+        checker.check_plugin_file(file)
 
-if checker.failed_urls:
-    print("\nFailed URLs:")
-    for status in checker.failed_urls:
-        print(status)
-    exit(1)
+    if checker.failed_urls:
+        print("\nFailed URLs:")
+        for status in checker.failed_urls:
+            print(status)
+        exit(1)

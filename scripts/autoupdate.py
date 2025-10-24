@@ -14,6 +14,7 @@ import functools
 import re
 import itertools
 from traceback import print_exc
+import check_urls
 
 
 BASEVERSION = r"^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-zA-Z.0-9]+)?$"
@@ -151,6 +152,12 @@ def update(file):
         value = value.replace("$version", latest_version)
         manifest[key] = value
 
+    print("Checking URLs")
+    checker = check_urls.PluginChecker()
+    if not checker.check_plugin(manifest):
+        print("Rejecting update")
+        raise Exception("New URLs are invalid")
+
     print("Saving manifest")
     with open(file, "w") as f:
         yaml.dump(manifest, f, sort_keys=False)
@@ -170,7 +177,7 @@ for file in files:
         update(file)
     except Exception:
         error = True
-        print(f"Error while updating {file}, stacktrace follows:")
+        print(f"Error while updating {file}, stacktrace follows:", flush=True)
         print_exc()
         print("Exit code will be non-zero")
 
