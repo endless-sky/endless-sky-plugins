@@ -6,31 +6,42 @@
 import os
 import yaml
 import sys
-from urllib.parse import urlparse
 from urllib.error import HTTPError
 from urllib.request import urlopen, Request
 
 
-def check_url(url):
-    try:
-        conn = urlopen(Request(url, method="HEAD"))
-        status = f"  OK {conn.status}\t{url}"
-    except HTTPError as e:
-        status = f"  ERROR {e.code}\t{url}"
-        failed_urls.append(status)
-    
-    print(status)
+class PluginChecker:
 
-def check_plugin(file):
-    print("Checking " + file)
-    with open(file, "r") as f:
-        manifest = yaml.load(f, Loader=yaml.FullLoader)
+    failed_urls = []
 
-    check_url(manifest["url"])
-    if manifest.get("iconUrl"):
-        check_url(manifest["iconUrl"])
+    def check_url(self, url: str) -> bool:
+        try:
+            conn = urlopen(Request(url, method="HEAD"))
+            status = f"  OK {conn.status}\t{url}"
+            ok = True
+        except HTTPError as e:
+            status = f"  ERROR {e.code}\t{url}"
+            self.failed_urls.append(status)
+            ok = False
 
+        print(status)
+        return ok
 
+    def check_plugin(self, manifest: str) -> bool:
+        icon_url = manifest.get("iconUrl")
+
+        url_ok = self.check_url(manifest["url"])
+
+        if icon_url:
+            icon_url_ok = self.check_url(icon_url)
+
+        return url_ok and (icon_url_ok if icon_url else True)
+
+    def check_plugin_file(self, file: str) -> bool:
+        print("Checking " + file)
+        with open(file, "r") as f:
+            manifest = yaml.load(f, Loader=yaml.FullLoader)
+        self.check_plugin(manifest)
 
 
 target = sys.argv[1]
@@ -41,12 +52,12 @@ if os.path.isdir(target):
 else:
     files = [target]
 
-failed_urls = []
+checker = PluginChecker()
 for file in files:
-    check_plugin(file)
+    checker.check_plugin_file(file)
 
-if failed_urls:
+if checker.failed_urls:
     print("\nFailed URLs:")
-    for status in failed_urls:
+    for status in checker.failed_urls:
         print(status)
     exit(1)
