@@ -10,5 +10,6 @@ iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-bunrodeaoutfi
 autoupdate:
   type: tag
   regex: ^.*-bunrodeaoutfitter$
+  update_url: https://github.com/Nova1422/plugins
   url: https://github.com/Nova1422/plugins/releases/download/$version/bunrodeaoutfitter.zip
   iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/bunrodeaoutfitter/icon.png
