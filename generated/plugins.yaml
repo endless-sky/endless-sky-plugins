@@ -410,6 +410,22 @@
     regex: ^.*-kestrel.unlocks$
     url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/kestrel.unlocks.zip
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/kestrel.unlocks/icon.png
+- name: Aberrant Kahet Outfitter
+  authors: Nova.
+  homepage: https://github.com/Nova1422/plugins?tab=readme-ov-file#aberrantkahetoutfitter
+  license: ALL-RIGHTS-RESERVED
+  version: v1.0.2-aberrant.kahet.outfitter
+  shortDescription: Sells Kahet and Aberrant Outfits at Remnants and Avgi planets
+    respectively.
+  description: Sells Kahet and Aberrant Outfits at Remnants and Avgi planets respectively.
+  url: https://github.com/Nova1422/plugins/releases/download/v1.0.2-aberrant.kahet.outfitter/aberrant.kahet.outfitter.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.2-aberrant.kahet.outfitter/myplugins/aberrant.kahet.outfitter/icon.png
+  autoupdate:
+    type: tag
+    regex: ^.*-aberrant.kahet.outfitter$
+    update_url: https://github.com/Nova1422/plugins
+    url: https://github.com/Nova1422/plugins/releases/download/$version/aberrant.kahet.outfitter.zip
+    iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/aberrant.kahet.outfitter/icon.png
 - name: Bunsen.Burner
   authors: Nick Barry
   homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#BunsenBurner
@@ -1066,6 +1082,21 @@
     type: commit
     url: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/archive/$version.zip
     iconUrl: https://github.com/OcelotWalrus/Cromha-Expansion-plugin/raw/$version/icon.png
+- name: Bunrodea Outfitter
+  authors: Nova.
+  homepage: https://github.com/Nova1422/plugins/tree/main?tab=readme-ov-file#bunrodeaoutfitter
+  license: ALL-RIGHTS-RESERVED
+  version: v1.0.0-bunrodeaoutfitter
+  shortDescription: Adds an outfitter on the Bunrodea planet "Kalbai"
+  description: Adds an outfitter on the Bunrodea planet "Kalbai"
+  url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-bunrodeaoutfitter/bunrodeaoutfitter.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-bunrodeaoutfitter/myplugins/bunrodeaoutfitter/icon.png
+  autoupdate:
+    type: tag
+    regex: ^.*-bunrodeaoutfitter$
+    update_url: https://github.com/Nova1422/plugins
+    url: https://github.com/Nova1422/plugins/releases/download/$version/bunrodeaoutfitter.zip
+    iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/bunrodeaoutfitter/icon.png
 - name: captureable.person.ships
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
@@ -1246,6 +1277,23 @@
     type: tag
     url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/$version.zip
     iconUrl: https://raw.githubusercontent.com/Spectre907YT/Arion-Air_Superiority/$version/icon.png
+- name: Quarg Outfitter
+  authors: Nova.
+  homepage: https://github.com/Nova1422/plugins?tab=readme-ov-file#quargoutfitter
+  license: ALL-RIGHTS-RESERVED
+  version: v1.0.0-quargoutfitter
+  shortDescription: Allows Purchase of Quarg Outfits on specific planets.
+  description: Allows Purchase of Quarg Outfits on specific planets. The Planets are,
+    "Smuggler's Den", and "Ring of Power"/"Remote Blue", Depending on which side you
+    chose in coalition space Also removes Quarg Death Sentence.
+  url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-quargoutfitter/quargoutfitter.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-quargoutfitter/myplugins/quargoutfitter/icon.png
+  autoupdate:
+    type: tag
+    regex: ^.*-quargoutfitter$
+    update_url: https://github.com/Nova1422/plugins
+    url: https://github.com/Nova1422/plugins/releases/download/$version/quargoutfitter.zip
+    iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/quargoutfitter/icon.png
 - name: The Quazar Condundrom
   authors: Anerix(Paradox)CorminQuanadol
   homepage: https://github.com/AurthorParadoxQ/The-Quazar-Conundrum/
@@ -1976,7 +2024,7 @@
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/boss.loot/icon.png
 - name: Tribute Quarg
   authors: Nova.
-  homepage: https://github.com/Nova1422/plugins/tree/main/myplugins/tributequarg
+  homepage: https://github.com/Nova1422/plugins?tab=readme-ov-file#tributequarg
   license: ALL-RIGHTS-RESERVED
   version: v1.0.2-tributequarg
   shortDescription: Lets you tribute Quarg planets and ringworlds
