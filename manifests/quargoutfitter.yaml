@@ -4,7 +4,9 @@ homepage: https://github.com/Nova1422/plugins?tab=readme-ov-file#quargoutfitter
 license: ALL-RIGHTS-RESERVED
 version: v1.0.0-quargoutfitter
 shortDescription: Allows Purchase of Quarg Outfits on specific planets.
-description: Allows Purchase of Quarg Outfits on specific planets. The Planets are, "Smuggler's Den", and "Ring of Power"/"Remote Blue", Depending on which side you chose in coalition space Also removes Quarg Death Sentence.
+description: Allows Purchase of Quarg Outfits on specific planets. The Planets are,
+  "Smuggler's Den", and "Ring of Power"/"Remote Blue", Depending on which side you
+  chose in coalition space Also removes Quarg Death Sentence.
 url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-quargoutfitter/quargoutfitter.zip
 iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-quargoutfitter/myplugins/quargoutfitter/icon.png
 autoupdate:
