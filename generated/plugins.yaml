@@ -2154,14 +2154,14 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.8-mission.helper
+  version: v1.0.9-mission.helper
   shortDescription: Enables a job on every planet's job board, that shows missions
     you haven't done.
   description: Enables a job on every planet's job board, that shows missions you
     haven't done. It also shows the 'source' and 'to offer' of these missions, so
     you can easily find them. See the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.8-mission.helper/mission.helper.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.8-mission.helper/myplugins/mission.helper/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.9-mission.helper/mission.helper.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.9-mission.helper/myplugins/mission.helper/icon.png
   autoupdate:
     type: tag
     regex: ^.*-mission.helper$
