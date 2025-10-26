@@ -523,13 +523,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: v0.10.15
+  version: v0.10.16
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.10.15.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.10.15/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.10.16.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.10.16/icon.png
   autoupdate:
     type: tag
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
@@ -678,15 +678,15 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.4-ship.merging
+  version: v1.0.5-ship.merging
   shortDescription: This plugin allows you to merge several ships of the same type
     into one with improved attributes. This can be done several times, up to a T10
     ship.
   description: This plugin allows you to merge several ships of the same type into
     one with improved attributes. This can be done several times, up to a T10 ship.
     See the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.4-ship.merging/ship.merging.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.4-ship.merging/myplugins/ship.merging/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.5-ship.merging/ship.merging.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.5-ship.merging/myplugins/ship.merging/icon.png
   autoupdate:
     type: tag
     regex: ^.*-ship.merging$
@@ -1541,13 +1541,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Scrapyard
   license: GPL-3.0-or-later
-  version: 0.10.14.1.0
+  version: 0.10.16.0.0
   shortDescription: A plugin suggesting an epilogue for the Kor Sestor region of Endless
     Sky. Includes some new ships, outfits, and missions.
   description: This region of space has abandoned derelicts waiting to be scavenged.
     But something lurks amongst the wreckage...
-  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.10.14.1.0/Midnight.Scrapyard-0.10.14.1.0.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.10.14.1.0/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.10.16.0.0/Midnight.Scrapyard-0.10.16.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.10.16.0.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/$version/Midnight.Scrapyard-$version.zip
@@ -1719,13 +1719,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
   license: GPL-3.0-or-later
-  version: 0.10.14.1.1
+  version: 0.10.16.0.0
   shortDescription: Lost in Midnight is a mission focused plugin for the Endless Sky
     game. Features new missions, systems, outfits, ships, and variants.
   description: Lost technology, Lost knowledge, And people, who have lost their way
     trying to navigate life in this vast galaxy...
-  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.14.1.1/Lost.in.Midnight-0.10.14.1.1.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.14.1.1/icon.png
+  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.16.0.0/Lost.in.Midnight-0.10.16.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.16.0.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip
