@@ -2,12 +2,12 @@ name: Rumskib
 authors: TheGiraffe3
 homepage: https://github.com/TheGiraffe3/rumskib/
 license: CC-BY-SA-4.0
-version: v0.10.15
+version: v0.10.16
 shortDescription: Content expansion.
 description: Rumskib is a large content expansion with ships, planets, missions, and
   more.
-url: https://github.com/TheGiraffe3/rumskib/archive/refs/tags/v0.10.15.zip
-iconUrl: https://github.com/TheGiraffe3/rumskib/raw/v0.10.15/icon.png
+url: https://github.com/TheGiraffe3/rumskib/archive/refs/tags/v0.10.16.zip
+iconUrl: https://github.com/TheGiraffe3/rumskib/raw/v0.10.16/icon.png
 autoupdate:
   type: tag
   url: https://github.com/TheGiraffe3/rumskib/archive/refs/tags/$version.zip
