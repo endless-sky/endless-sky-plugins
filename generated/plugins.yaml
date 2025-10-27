@@ -2103,6 +2103,23 @@
     regex: ^.*-galactic.capital.investment$
     url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/galactic.capital.investment.zip
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/galactic.capital.investment/icon.png
+- name: Obtain Heron
+  authors: Nova.
+  homepage: https://github.com/Nova1422/plugins?tab=readme-ov-file#obtainheron
+  license: ALL-RIGHTS-RESERVED
+  version: v1.0.2-obtainheron
+  shortDescription: Obtain the Superheavy Remnant ship, Heron, through a job board
+    mission offered by any of the remnant planets.
+  description: Obtain the Superheavy Remnant ship, Heron, through a job board mission
+    offered by any of the remnant planets.
+  url: https://github.com/Nova1422/plugins/releases/download/v1.0.2-obtainheron/obtainheron.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.2-obtainheron/myplugins/obtainheron/icon.png
+  autoupdate:
+    type: tag
+    regex: ^.*-obtainheron$
+    update_url: https://github.com/Nova1422/plugins
+    url: https://github.com/Nova1422/plugins/releases/download/$version/obtainheron.zip
+    iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/obtainheron/icon.png
 - name: Fire Corporation Plugin
   authors: Roger Tabris
   homepage: https://github.com/Cromha-Plugins/Fire-Corporation
