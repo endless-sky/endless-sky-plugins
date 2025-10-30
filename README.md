@@ -4,4 +4,23 @@ This repository is intended to become the central plug-in index for [Endless Sky
 
 See [Plugins.md](https://github.com/endless-sky/endless-sky-plugins/blob/master/generated/PLUGINS.md) for a list of indexed plugins, or go to the [official page](https://endless-sky.github.io/plugins.html).
 
-Contributions only need to modify their respective plugin manifests. See [the plugin_index RFC](https://github.com/endless-sky/rfcs/blob/main/rfcs/0001-plugin-index.md) for the manifest's specification.
+## How to add a plugin
+To add a new plugin to the repository, you must open a new [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), creating a valid manifest file for your plugin. 
+
+Name your manifest file after your plugin, use the .yaml extension, and place it in the /manifests/ folder.
+For details on all available manifest fields and their usage, see the [manifest documentation](https://github.com/endless-sky/rfcs/blob/main/rfcs/0001-plugin-index.md#the-manifest).
+For sample manifests, refer to the [examples section](https://github.com/endless-sky/rfcs/blob/main/rfcs/0001-plugin-index.md#examples).
+
+You may also use the [manifest generator](https://endless-sky.github.io/plugin-manifest-gen.html) to generate a valid manifest by filling out required fields. For most users, using the manifest generator ensures your manifest is complete and error-free. Only hand-craft your manifest if you need advanced customization.
+
+### Common issues
+Once you have your manifest ready, take a moment to check the following before opening your PR to ensure it's merged promptly and smoothly:
+1. Are all of your URLs valid? Try copying and pasting them into a web browser to ensure they all point to the locations you expect.
+   * Also, check the autoupdate URLs by inserting the current version and ensure it creates a valid URL
+   * If you have included an iconURL, ensure that it is also correctly versioned
+2.  Ensure the version listed on your manifest is a real commit/tag. You should be able to find the same commit on your repository that you have listed in the manifest.
+4.  Ensure the license you're using is valid, either choose one from the [SPDX list](https://spdx.org/licenses/) or enter ALL-RIGHTS-RESERVED
+    * For open source plugins, it’s recommended to use a license from the [OSI-approved list](https://opensource.org/license).
+5. Is your short description too long? It **should** be less than 150 and **must** be less than 200 characters.
+   * Valid (under 150 characters): "Expands the galaxy with three new planets and a unique ship."
+   * Invalid (over 200 characters): "Expands the galaxy by introducing three brand new planets to visit, each with its own unique storyline and missions, and adds one original, custom ship, featuring new art, stats, and unique outfits and weapons."
