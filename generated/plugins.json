@@ -131,11 +131,11 @@
     "authors": "Michael Arsollon",
     "homepage": "https://github.com/MidnightPlugins/Midnight-Expansion",
     "license": "GPL-3.0-or-later",
-    "version": "0.10.16.0.0",
+    "version": "0.10.16.0.1",
     "shortDescription": "Plugin using ships, outfits, or other resources from plugins by other creators or derivatives of their original creations.",
     "description": "Expanded content derived from the plugins of other creators. Some contents may require other Midnight Plugins creations.",
-    "url": "https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.10.16.0.0/Midnight.Expansion-0.10.16.0.0.zip",
-    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.10.16.0.0/icon.png",
+    "url": "https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.10.16.0.1/Midnight.Expansion-0.10.16.0.1.zip",
+    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.10.16.0.1/icon.png",
     "autoupdate": {
       "type": "tag",
       "url": "https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/$version/Midnight.Expansion-$version.zip",
@@ -997,6 +997,20 @@
     }
   },
   {
+    "name": "Ganiom",
+    "authors": "heasdir",
+    "homepage": "https://github.com/heasdir/ganiom-galaxy",
+    "license": "EPL-2.0",
+    "version": "v0.01",
+    "shortDescription": "Adds a galaxy with 13 races, heavily in progress and inspired by Galactic War.",
+    "description": "This plugin adds 13 races.\nCurrently there are about 5\nThe races are\nHuman\nForen\nGainen\nHisair\nThe Between\n",
+    "url": "https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/v0.01.zip",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/$version.zip"
+    }
+  },
+  {
     "name": "Korath Retribution",
     "authors": "Demolish238",
     "homepage": "https://github.com/demolish238/Korath-Retribution",
@@ -1649,11 +1663,11 @@
     "authors": "Michael Arsollon",
     "homepage": "https://github.com/MidnightPlugins/Lost-in-Midnight",
     "license": "GPL-3.0-or-later",
-    "version": "0.10.16.0.1",
+    "version": "0.10.16.0.2",
     "shortDescription": "Lost in Midnight is a mission focused plugin for the Endless Sky game. Features new missions, systems, outfits, ships, and variants.",
     "description": "Lost technology, Lost knowledge, And people, who have lost their way trying to navigate life in this vast galaxy...",
-    "url": "https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.16.0.1/Lost.in.Midnight-0.10.16.0.1.zip",
-    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.16.0.1/icon.png",
+    "url": "https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.16.0.2/Lost.in.Midnight-0.10.16.0.2.zip",
+    "iconUrl": "https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.16.0.2/icon.png",
     "autoupdate": {
       "type": "tag",
       "url": "https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip",
@@ -1962,11 +1976,11 @@
     "authors": "zuckung",
     "homepage": "https://github.com/zuckung/endless-sky-plugins",
     "license": "MIT",
-    "version": "v1.1.9-galactic.capital.investment",
+    "version": "v1.1.10-galactic.capital.investment",
     "shortDescription": "Implements missions and jobs for banking services and investments.",
     "description": "Implements missions and jobs for banking services and investments. Available in human, quarg and hai space. See the README for details.",
-    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.9-galactic.capital.investment/galactic.capital.investment.zip",
-    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.9-galactic.capital.investment/myplugins/galactic.capital.investment/icon.png",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.10-galactic.capital.investment/galactic.capital.investment.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.10-galactic.capital.investment/myplugins/galactic.capital.investment/icon.png",
     "autoupdate": {
       "type": "tag",
       "regex": "^.*-galactic.capital.investment$",
