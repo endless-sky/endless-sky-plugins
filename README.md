@@ -5,11 +5,12 @@ This repository is intended to become the central plug-in index for [Endless Sky
 See [Plugins.md](https://github.com/endless-sky/endless-sky-plugins/blob/master/generated/PLUGINS.md) for a list of indexed plugins, or go to the [official page](https://endless-sky.github.io/plugins.html).
 
 ## How to add a plugin
-To add a new plugin to the repository, you must open a new [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) creating a valid manifest file for your plugin. 
+To add a new plugin to the repository, you must open a new [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) creating a valid manifest file for your plugin.
+For best results, create a new branch when opening a pull request. Avoid opening PRs directly from the master branch, as it can lead to unnecessary resource usage and make maintenance more difficult.
 
 Name your manifest file after your plugin, use the .yaml extension, and place it in the /manifests/ folder.
 For details on all available manifest fields and their usage, see the [manifest documentation](https://github.com/endless-sky/rfcs/blob/main/rfcs/0001-plugin-index.md#the-manifest).
-For sample manifests, refer to the [examples section](https://github.com/endless-sky/rfcs/blob/main/rfcs/0001-plugin-index.md#examples).
+For sample manifests, refer to the [examples section](https://github.com/endless-sky/rfcs/blob/main/rfcs/0001-plugin-index.md#examples) or our [existing manifests](https://github.com/endless-sky/endless-sky-plugins/tree/master/manifests).
 
 You may also use the [manifest generator](https://endless-sky.github.io/plugin-manifest-gen.html) to generate a valid manifest by filling out the required fields. For most users, using the manifest generator ensures your manifest is complete and error-free. Only hand-craft your manifest if you need advanced customization.
 
