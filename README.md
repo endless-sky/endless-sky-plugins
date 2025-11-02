@@ -17,8 +17,8 @@ You may also use the [manifest generator](https://endless-sky.github.io/plugin-m
 ### Common issues
 Once you have your manifest ready, take a moment to check the following before opening your PR to ensure it's merged promptly and smoothly:
 1. Are all of your URLs valid? Try copying and pasting them into a web browser to ensure they all point to the locations you expect.
-   * Also, check the autoupdate URLs by inserting the current version and ensure it creates a valid URL
-   * If you have included an iconURL, ensure that it is also correctly versioned
+   * Also, check the autoupdate URLs by inserting the current version and ensure it creates a valid URL.
+   * If you have included an iconURL, ensure that it is also correctly versioned.
 2. Ensure the version listed on your manifest is a real commit/tag. You should be able to find the same commit on your repository that you have listed in the manifest.
 3. Ensure the license you're using is valid, either choose one from the [SPDX list](https://spdx.org/licenses/) or enter ALL-RIGHTS-RESERVED.
     * For open source plugins, it’s recommended to use a license from the [OSI-approved list](https://opensource.org/license).
