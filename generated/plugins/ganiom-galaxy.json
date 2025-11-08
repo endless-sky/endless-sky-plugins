@@ -1,0 +1,14 @@
+{
+  "name": "Ganiom",
+  "authors": "heasdir",
+  "homepage": "https://github.com/heasdir/ganiom-galaxy",
+  "license": "EPL-2.0",
+  "version": "v0.01",
+  "shortDescription": "Adds a galaxy with 13 races, heavily in progress and inspired by Galactic War.",
+  "description": "This plugin adds 13 races.\nCurrently there are about 5\nThe races are\nHuman\nForen\nGainen\nHisair\nThe Between\n",
+  "url": "https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/v0.01.zip",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/$version.zip"
+  }
+}

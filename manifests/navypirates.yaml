@@ -1,0 +1,15 @@
+name: Navy Pirates
+authors: Nova.
+homepage: https://github.com/Nova1422/plugins/tree/main?tab=readme-ov-file#navypirates
+license: ALL-RIGHTS-RESERVED
+version: v1.0.0-navypirates
+shortDescription: Adds Navy ships into pirate fleets.
+description: Adds Navy ships into pirate fleets.
+url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-navypirates/navypirates.zip
+iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-navypirates/myplugins/navypirates/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-navypirates$
+  update_url: https://github.com/Nova1422/plugins
+  url: https://github.com/Nova1422/plugins/releases/download/$version/navypirates.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/navypirates/icon.png
