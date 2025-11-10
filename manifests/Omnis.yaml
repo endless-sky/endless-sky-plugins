@@ -2,7 +2,7 @@ name: Omnis
 authors: Darcy Manoel
 homepage: https://github.com/EndlessSkyCommunity/-Omnis
 license: GPL-3.0-or-later
-version: ec2edd39ca5989cbdaae1637f014493d3d3c3e3f
+version: 8400c6ed3d57333c4d5dc52694e3cfb9a66b7abe
 shortDescription: The most extensive all-content plugin to date, for development or
   fun.
 description: 'The most extensive all-content plugin to date. All vanilla content and
@@ -10,7 +10,7 @@ description: 'The most extensive all-content plugin to date. All vanilla content
   Many more tools are included into Omnis too!
 
   This plugin is part of the Adde Endless Sky collection.'
-url: https://github.com/EndlessSkyCommunity/-Omnis/archive/ec2edd39ca5989cbdaae1637f014493d3d3c3e3f.zip
+url: https://github.com/EndlessSkyCommunity/-Omnis/archive/8400c6ed3d57333c4d5dc52694e3cfb9a66b7abe.zip
 autoupdate:
   type: commit
   url: https://github.com/EndlessSkyCommunity/-Omnis/archive/$version.zip
