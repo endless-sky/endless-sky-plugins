@@ -4,7 +4,7 @@ homepage: https://github.com/Nova1422/plugins/tree/main?tab=readme-ov-file#unloc
 license: ALL-RIGHTS-RESERVED
 version: v1.0.0-unlock.hai.reveal
 shortDescription: Re-enables the blocked Hai Reveal storyline.
-description: Adds the 2 removed HR mission and re enables the disabled rescue HR missions.
+description: Adds the 2 removed HR mission and re enables some HR missions.
 url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-unlock.hai.reveal/unlock.hai.reveal.zip
 iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-unlock.hai.reveal/myplugins/unlock.hai.reveal/icon.png
 autoupdate:
