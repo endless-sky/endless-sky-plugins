@@ -22,6 +22,9 @@ description: 'This plugin adds 13 races.
   The Between
 
   '
-url: https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/v0.01.zip
+url:
+https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/v0.01.zip
 autoupdate:
   type: tag
+url:
+https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/v0.01.zip
