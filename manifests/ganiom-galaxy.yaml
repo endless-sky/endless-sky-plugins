@@ -23,6 +23,8 @@ description: 'This plugin adds 13 races.
 
   '
 url: https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/v0.01.zip
+iconUrl: https://github.com/heasdir/ganiom-galaxy/blob/e2cf1b16d9457b1b7dca244d6cb93456e868628f/v0.01icon.png
 autoupdate:
   type: tag
   url: https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/$version.zip
+  iconUrl: https://github.com/heasdir/ganiom-galaxy/blob/e2cf1b16d9457b1b7dca244d6cb93456e868628f/$versionicon.png
