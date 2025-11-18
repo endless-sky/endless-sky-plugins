@@ -9,6 +9,6 @@ Currently there are about 6. Those races are human, Foren, Gainen, Hisair, Kem r
 url: https://github.com/heasdir/ganiom-galaxy/releases/tag/v0.03.zip
 iconUrl: https://raw.githubusercontent.com/heasdir/ganiom-galaxy/refs/tags/v0.03/icon.png
 autoupdate:
-  type: commit
+  type: tag
   url: https://github.com/heasdir/ganiom-galaxy/releases/tag/$version.zip
   iconUrl: https://raw.githubusercontent.com/heasdir/ganiom-galaxy/refs/tags/$version/icon.png
