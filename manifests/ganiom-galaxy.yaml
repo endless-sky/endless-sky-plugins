@@ -17,7 +17,8 @@ The Between
 Serbajkil
 Bruchaven
 url: https://github.com/heasdir/ganiom-galaxy/releases/tag/v0.03.zip
-iconUrl: https://github.com/heasdir/ganiom-galaxy/blob/ab0a73d7a607c9ed2d6411219039fff36fa807a9/icon.png
+iconUrl: https://raw.githubusercontent.com/heasdir/ganiom-galaxy/refs/tags/v0.03/icon.png
 autoupdate:
   type: tag
   url: https://github.com/heasdir/ganiom-galaxy/releases/tag/$version.zip
+  iconUrl: https://raw.githubusercontent.com/heasdir/ganiom-galaxy/refs/tags/$version/icon.png
