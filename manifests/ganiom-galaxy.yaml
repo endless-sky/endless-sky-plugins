@@ -3,19 +3,20 @@ authors: heasdir
 homepage: https://github.com/heasdir/ganiom-galaxy
 license: EPL-2.0
 version: v0.03
-shortDescription: Adds a galaxy with 16 races, heavily in progress and inspired by Galactic War.
+shortDescription: 
+Adds a galaxy, with 16 races, heavily in progress and inspired by Galactic War.
 With ships, new systems many more factions etc.
 description: |
 This plugin adds 16 races.
 Currently there are about 6
 The races are
-Human
-Foren
-Gainen
-Hisair
-The Between
-Serbajkil
-Bruchaven
+ Human
+ Foren
+ Gainen
+ Hisair
+ The Between
+ Serbajkil
+ Bruchaven
 url: https://github.com/heasdir/ganiom-galaxy/releases/tag/v0.03.zip
 iconUrl: https://raw.githubusercontent.com/heasdir/ganiom-galaxy/refs/tags/v0.03/icon.png
 autoupdate:
