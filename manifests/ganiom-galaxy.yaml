@@ -3,7 +3,7 @@ authors: heasdir
 homepage: https://github.com/heasdir/ganiom-galaxy
 license: EPL-2.0
 version: v0.03
-shortDescription: Adds a galaxy with 16 races, heavily in progress and inspired by Galactic War.
+shortDescription: | Adds a galaxy with 16 races, heavily in progress and inspired by Galactic War.
 description: |
 This plugin adds 16 races.
 Currently there are about 6
