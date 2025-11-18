@@ -10,4 +10,4 @@ url: https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/v0.03.zip
 iconUrl: https://raw.githubusercontent.com/heasdir/ganiom-galaxy/refs/tags/v0.03/icon.png
 autoupdate:
   type: tag
-  url: https://github.com/heasdir/ganiom-galaxy/releases/tag/$version.zip
+  url: https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/$version.zip
