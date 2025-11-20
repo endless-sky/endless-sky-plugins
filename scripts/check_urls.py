@@ -8,6 +8,7 @@ import yaml
 import sys
 from urllib.error import HTTPError
 from urllib.request import urlopen, Request
+from time import sleep
 
 
 class PluginChecker:
@@ -15,14 +16,20 @@ class PluginChecker:
     failed_urls = []
 
     def check_url(self, url: str) -> bool:
-        try:
-            conn = urlopen(Request(url, method="HEAD"))
-            status = f"  OK {conn.status}\t{url}"
-            ok = True
-        except HTTPError as e:
-            status = f"  ERROR {e.code}\t{url}"
-            self.failed_urls.append(status)
-            ok = False
+        for attempts in range(3):
+            try:
+                conn = urlopen(Request(url, method="HEAD"))
+                status = f"  OK\t{conn.status}\t{url}"
+                ok = True
+                break
+            except HTTPError as e:
+                if e.code < 500 or attempts == 2:
+                    status = f"  ERROR\t{e.code}\t{url}"
+                    self.failed_urls.append(status)
+                    ok = False
+                    break
+                print(f"  RETRY\t{e.code}\t{url}")
+                sleep(5)
 
         print(status)
         return ok
