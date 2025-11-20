@@ -1,0 +1,13 @@
+name: Endgame Alpha
+authors: ChemtrailOperator
+homepage: https://github.com/chemtrailoperator/Endgame-Alpha_EndlessSky
+license: GPL-3.0-or-later
+version: v0.5
+shortDescription: Content Plugin that adds a story line as a Navy officer.
+description: This plugin adds content for a Navy officer story line, in an Alpha war that starts in the South. Includes several new ships and outfits, and adds flavor to the Navy.
+url: https://github.com/chemtrailoperator/Endgame-Alpha_EndlessSky/releases/download/v0.5/Endgame-Alpha_EndlessSky_v0.5.zip
+iconUrl: https://github.com/chemtrailoperator/Endgame-Alpha_EndlessSky/raw/v0.5/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/chemtrailoperator/Endgame-Alpha_EndlessSky/releases/download/$version/Endgame-Alpha_EndlessSky_$version.zip
+  iconUrl: https://github.com/chemtrailoperator/Endgame-Alpha_EndlessSky/raw/$version/icon.png
