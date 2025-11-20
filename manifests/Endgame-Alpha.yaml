@@ -10,4 +10,4 @@ iconUrl: https://github.com/chemtrailoperator/Endgame-Alpha_EndlessSky/raw/v0.5/
 autoupdate:
   type: tag
   url: https://github.com/chemtrailoperator/Endgame-Alpha_EndlessSky/releases/download/$version/Endgame-Alpha_EndlessSky_$version.zip
-  iconUrl: https://github.com/chmetrailoperator/Endgame-Alpha_EndlessSky/raw/$version/icon.png
+  iconUrl: https://github.com/chemtrailoperator/Endgame-Alpha_EndlessSky/raw/$version/icon.png
