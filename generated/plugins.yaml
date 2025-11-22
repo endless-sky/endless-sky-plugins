@@ -574,6 +574,27 @@
     regex: ^.*-automata.in.human.space$
     url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/automata.in.human.space.zip
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/automata.in.human.space/icon.png
+- name: Endless Music (Egg Edition)
+  authors: ziproot et al.
+  homepage: https://git.nixnet.services/ziproot/endless-music-egg-edition
+  license: GPL-3.0-or-later
+  version: 2.0.1
+  shortDescription: Adds 30 CC-BY/CC-BY-SA/GPL songs made by various artists that
+    play in various conditions.
+  description: This plugin adds 30 songs to the game that play in various conditions.
+    I did not make these songs, and they are credited and sourced in the copyright
+    file. Hopefully this will inspire improvements to the antequated music system.
+    No music will play with a new pilot using one of the vanilla starts. Music is
+    unlocked as you progress through the game. Some plugin starts may skip you ahead,
+    which would result in some songs playing. Main Plot Plus and Crisis in Management
+    are supported. No other plugins are officially supported, though plugins that
+    do not add new systems or story content, like Blended Ships, No More Inflation,
+    or LinearHPScaling, should be supported.
+  url: https://git.nixnet.services/ziproot/endless-music-egg-edition/archive/2.0.1.zip
+  iconUrl: https://git.nixnet.services/ziproot/endless-music-egg-edition/raw/branch/main/icon.png
+  autoupdate:
+    type: tag
+    url: https://git.nixnet.services/ziproot/endless-music-egg-edition/archive/$version.zip
 - name: Korunak.Defense.Drones
   authors: Starmlerp
   homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#KorunakDefenseDrones
