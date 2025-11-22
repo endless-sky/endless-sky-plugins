@@ -96,13 +96,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Scrapyard
   license: GPL-3.0-or-later
-  version: 0.10.16.0.0
+  version: 0.10.16.1.0
   shortDescription: A plugin suggesting an epilogue for the Kor Sestor region of Endless
     Sky. Includes some new ships, outfits, and missions.
   description: This region of space has abandoned derelicts waiting to be scavenged.
     But something lurks amongst the wreckage...
-  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.10.16.0.0/Midnight.Scrapyard-0.10.16.0.0.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.10.16.0.0/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.10.16.1.0/Midnight.Scrapyard-0.10.16.1.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.10.16.1.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/$version/Midnight.Scrapyard-$version.zip
@@ -373,13 +373,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
   license: GPL-3.0-or-later
-  version: 0.10.16.0.2
+  version: 0.10.16.1.0
   shortDescription: Lost in Midnight is a mission focused plugin for the Endless Sky
     game. Features new missions, systems, outfits, ships, and variants.
   description: Lost technology, Lost knowledge, And people, who have lost their way
     trying to navigate life in this vast galaxy...
-  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.16.0.2/Lost.in.Midnight-0.10.16.0.2.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.16.0.2/icon.png
+  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.16.1.0/Lost.in.Midnight-0.10.16.1.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.16.1.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip
@@ -1035,7 +1035,7 @@
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/mission.helper/icon.png
 - name: Yestrel
   authors: Kassandra Haruki
-  homepage: https://github.com/Nova1422/YESTREL
+  homepage: https://github.com/Kassandra-haruki/YESTREL2
   license: MIT
   version: v1.0
   shortDescription: Adds a Kestrel variant with all possible upgrades in one (with
@@ -1049,12 +1049,12 @@
     timeout.fu (troubleshooter)
 
     '
-  url: https://github.com/Nova1422/Yestrel/archive/refs/tags/v1.0.zip
-  iconUrl: https://raw.githubusercontent.com/Nova1422/YESTREL/v1.0/icon.png
+  url: https://github.com/Kassandra-haruki/Yestrel2/archive/refs/tags/v1.0.zip
+  iconUrl: https://raw.githubusercontent.com/Kassandra-haruki/YESTREL2/v1.0/icon.png
   autoupdate:
     type: tag
-    url: https://github.com/Nova1422/Yestrel/archive/refs/tags/$version.zip
-    iconUrl: https://raw.githubusercontent.com/Nova1422/YESTREL/$version/icon.png
+    url: https://github.com/Kassandra-haruki/Yestrel2/archive/refs/tags/$version.zip
+    iconUrl: https://raw.githubusercontent.com/Kassandra-haruki/YESTREL2/$version/icon.png
 - name: tribute.republic
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
@@ -1232,15 +1232,15 @@
   authors: Lifeyouristhis, Timeout
   homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FactoryOutlets
   license: CC-BY-SA-4.0
-  version: v1.2.0-Factory.Outlets
+  version: v1.3.0-Factory.Outlets
   shortDescription: Adds Factory Outlet Stations around the HQ planets of shipyard
     companies, where basically only ship hulls with just few essential outfits are
     sold.
   description: Adds Factory Outlet Stations around the HQ planets of shipyard companies,
     where basically only ship hulls (with just few essential outfits) are sold, such
     reducing the price significantly.
-  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.2.0-Factory.Outlets/Factory.Outlets.zip
-  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.2.0-Factory.Outlets/myplugins/Factory.Outlets/icon.png
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.3.0-Factory.Outlets/Factory.Outlets.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.3.0-Factory.Outlets/myplugins/Factory.Outlets/icon.png
   autoupdate:
     type: tag
     update_url: https://github.com/LixiChronikouOriou/ES-plugins/
