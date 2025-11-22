@@ -3,8 +3,17 @@ authors: ziproot et al.
 homepage: https://git.nixnet.services/ziproot/endless-music-egg-edition
 license: GPL-3.0-or-later
 version: 2.0.1
-shortDescription: Adds 30 CC-BY/CC-BY-SA/GPL songs made by various artists that play in various conditions.
-description: This plugin adds 30 songs to the game that play in various conditions. I did not make these songs, and they are credited and sourced in the copyright file. Hopefully this will inspire improvements to the antequated music system. No music will play with a new pilot using one of the vanilla starts. Music is unlocked as you progress through the game. Some plugin starts may skip you ahead, which would result in some songs playing. Main Plot Plus and Crisis in Management are supported. No other plugins are officially supported, though plugins that do not add new systems or story content, like Blended Ships, No More Inflation, or LinearHPScaling, should be supported.
+shortDescription: Adds 30 CC-BY/CC-BY-SA/GPL songs made by various artists that play
+  in various conditions.
+description: This plugin adds 30 songs to the game that play in various conditions.
+  I did not make these songs, and they are credited and sourced in the copyright file.
+  Hopefully this will inspire improvements to the antequated music system. No music
+  will play with a new pilot using one of the vanilla starts. Music is unlocked as
+  you progress through the game. Some plugin starts may skip you ahead, which would
+  result in some songs playing. Main Plot Plus and Crisis in Management are supported.
+  No other plugins are officially supported, though plugins that do not add new systems
+  or story content, like Blended Ships, No More Inflation, or LinearHPScaling, should
+  be supported.
 url: https://git.nixnet.services/ziproot/endless-music-egg-edition/archive/2.0.1.zip
 iconUrl: https://git.nixnet.services/ziproot/endless-music-egg-edition/raw/branch/main/icon.png
 autoupdate:
