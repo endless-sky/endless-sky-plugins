@@ -55,7 +55,7 @@ jobs:
               # the poor man's "does this PR exist?"
               if ! gh pr ready "$branchname"; then
                 gh pr create --fill --label Autoupdate --body "[See the full diff]($diff_url)"
-                gh pr merge "$branchname" -d -r
+                gh pr merge "$branchname" -d -s
               fi
 
             fi
