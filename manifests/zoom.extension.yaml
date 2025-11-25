@@ -4,7 +4,7 @@ homepage: https://github.com/Nova1422/plugins/tree/main?tab=readme-ov-file#zoome
 license: ALL-RIGHTS-RESERVED
 version: v1.0.0-zoom.extension
 shortDescription: Lets you zoom out more.
-description: Lets you zoom out or in, more.
+description: Lets you zoom out or in, more than you can in vanilla.
 url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-zoom.extension/zoom.extension.zip
 iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-zoom.extension/myplugins/zoom.extension/icon.png
 autoupdate:
