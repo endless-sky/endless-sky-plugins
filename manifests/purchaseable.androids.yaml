@@ -1,0 +1,14 @@
+name: Purchaseable Androids
+authors: Nova.
+homepage: https://github.com/Nova1422/plugins/tree/main?tab=readme-ov-file#zoomextension
+license: ALL-RIGHTS-RESERVED
+version: v1.0.0-purchaseable.androids
+shortDescription: Lets you purchase the functional unique "NDR-114 Android", on any remnant planet.
+description: Lets you purchase the functional unique "NDR-114 Android", on any remnant planet.
+url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-purchaseable.androids/purchaseable.androids.zip
+iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-purchaseable.androids/myplugins/purchaseable.androids/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-purchaseable.androids$
+  url: https://github.com/Nova1422/plugins/releases/download/$version/purchaseable.androids.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/purchaseable.androids/icon.png
