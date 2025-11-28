@@ -3,8 +3,10 @@ authors: Nova.
 homepage: https://github.com/Nova1422/plugins/?tab=readme-ov-file#purchaseableandroids
 license: ALL-RIGHTS-RESERVED
 version: v1.0.0-purchaseable.androids
-shortDescription: Lets you purchase the functional unique "NDR-114 Android", on any remnant planet.
-description: Lets you purchase the functional unique "NDR-114 Android", on any remnant planet.
+shortDescription: Lets you purchase the functional unique "NDR-114 Android", on any
+  remnant planet.
+description: Lets you purchase the functional unique "NDR-114 Android", on any remnant
+  planet.
 url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-purchaseable.androids/purchaseable.androids.zip
 iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-purchaseable.androids/myplugins/purchaseable.androids/icon.png
 autoupdate:
