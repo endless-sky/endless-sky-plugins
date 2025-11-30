@@ -1069,13 +1069,13 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.4-boss.loot
+  version: v1.0.6-boss.loot
   shortDescription: A series of dungeon-like boss encounters for a single ship. With
     loottables and weapon upgrade mechanism.
   description: A series of dungeon-like boss encounters for a single ship. With loottables
     and weapon upgrade mechanism. See the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.4-boss.loot/boss.loot.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.4-boss.loot/myplugins/boss.loot/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.6-boss.loot/boss.loot.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.6-boss.loot/myplugins/boss.loot/icon.png
   autoupdate:
     type: tag
     regex: ^.*-boss.loot$
@@ -1264,6 +1264,21 @@
     update_url: https://github.com/Nova1422/plugins/
     url: https://github.com/Nova1422/plugins/releases/download/$version/tributequarg.zip
     iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/tributequarg/icon.png
+- name: Wormholes
+  authors: ChemtrailOperator
+  homepage: https://github.com/chemtrailoperator/Wormholes_EndlessSky
+  license: GPL-3.0-or-later
+  version: v1.0
+  shortDescription: Become a galactic diplomat with wormhole access to anywhere.
+  description: This plugin adds a short storyline (with much more to come) to become
+    a diplomat in Galactic Command, granting you access to a galactic network of wormholes
+    with access to every faction.
+  url: https://github.com/chemtrailoperator/Wormholes_EndlessSky/releases/download/v1.0/Wormholes-v1.0.zip
+  iconUrl: https://github.com/chemtrailoperator/Wormholes_EndlessSky/raw/v1.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/chemtrailoperator/Wormholes_EndlessSky/releases/download/$version/Wormholes-$version.zip
+    iconUrl: https://github.com/chemtrailoperator/Wormholes_EndlessSky/raw/$version/icon.png
 - name: ES-Advanced-Starts
   authors: Bereskatuket (Kestrel1110)
   homepage: https://github.com/kestrel1110/ES-Advanced-Starts
@@ -2170,15 +2185,15 @@
   authors: 1010todd
   homepage: https://github.com/1010todd/Mega-Freight
   license: GPL-3.0-or-later
-  version: 419287a8ca5452dfccd90d0383c8867b1b27b53c
+  version: 7fd47958ef0b3f597e3223f07191f282a3413584
   shortDescription: Adds several mostly civilian ships for you and npc merchants (and
     pirates) to use for more variety in human space. Updated to Unstable releases.
   description: This plugin adds several civilian and some military ships to add some
     more variety to human space and beyond. Mostly focused around larger ships but
     also have smaller freighters and starter-level ships as well. Will be updated
     to be compatible with lastest unstable release.
-  url: https://github.com/1010todd/Mega-Freight/archive/419287a8ca5452dfccd90d0383c8867b1b27b53c.zip
-  iconUrl: https://github.com/1010todd/Mega-Freight/raw/419287a8ca5452dfccd90d0383c8867b1b27b53c/icon.png
+  url: https://github.com/1010todd/Mega-Freight/archive/7fd47958ef0b3f597e3223f07191f282a3413584.zip
+  iconUrl: https://github.com/1010todd/Mega-Freight/raw/7fd47958ef0b3f597e3223f07191f282a3413584/icon.png
   autoupdate:
     type: commit
     url: https://github.com/1010todd/Mega-Freight/archive/$version.zip
