@@ -387,13 +387,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
   license: GPL-3.0-or-later
-  version: 0.10.16.1.0
+  version: 0.10.16.1.1
   shortDescription: Lost in Midnight is a mission focused plugin for the Endless Sky
     game. Features new missions, systems, outfits, ships, and variants.
   description: Lost technology, Lost knowledge, And people, who have lost their way
     trying to navigate life in this vast galaxy...
-  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.16.1.0/Lost.in.Midnight-0.10.16.1.0.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.16.1.0/icon.png
+  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.10.16.1.1/Lost.in.Midnight-0.10.16.1.1.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.10.16.1.1/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip
@@ -762,12 +762,12 @@
   authors: Nova.
   homepage: https://github.com/Nova1422/plugins/?tab=readme-ov-file#purchaseableandroids
   license: ALL-RIGHTS-RESERVED
-  version: v1.0.0-reduce.requiredcrew
+  version: v1.0.1-reduce.requiredcrew
   shortDescription: Adds a free outfit which lets you reduce the required crew by
     1.
   description: Adds a free outfit which lets you reduce the required crew by 1.
-  url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-reduce.requiredcrew/reduce.requiredcrew.zip
-  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-reduce.requiredcrew/myplugins/reduce.requiredcrew/icon.png
+  url: https://github.com/Nova1422/plugins/releases/download/v1.0.1-reduce.requiredcrew/reduce.requiredcrew.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.1-reduce.requiredcrew/myplugins/reduce.requiredcrew/icon.png
   autoupdate:
     type: tag
     regex: ^.*-reduce.requiredcrew$
@@ -2185,15 +2185,15 @@
   authors: 1010todd
   homepage: https://github.com/1010todd/Mega-Freight
   license: GPL-3.0-or-later
-  version: 7fd47958ef0b3f597e3223f07191f282a3413584
+  version: 7b82a1d142c6f93b2bb8261716c2cb1ff96954c6
   shortDescription: Adds several mostly civilian ships for you and npc merchants (and
     pirates) to use for more variety in human space. Updated to Unstable releases.
   description: This plugin adds several civilian and some military ships to add some
     more variety to human space and beyond. Mostly focused around larger ships but
     also have smaller freighters and starter-level ships as well. Will be updated
     to be compatible with lastest unstable release.
-  url: https://github.com/1010todd/Mega-Freight/archive/7fd47958ef0b3f597e3223f07191f282a3413584.zip
-  iconUrl: https://github.com/1010todd/Mega-Freight/raw/7fd47958ef0b3f597e3223f07191f282a3413584/icon.png
+  url: https://github.com/1010todd/Mega-Freight/archive/7b82a1d142c6f93b2bb8261716c2cb1ff96954c6.zip
+  iconUrl: https://github.com/1010todd/Mega-Freight/raw/7b82a1d142c6f93b2bb8261716c2cb1ff96954c6/icon.png
   autoupdate:
     type: commit
     url: https://github.com/1010todd/Mega-Freight/archive/$version.zip
