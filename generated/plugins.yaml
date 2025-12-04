@@ -917,7 +917,7 @@
   authors: 1010todd
   homepage: https://github.com/1010todd/Galactic-War
   license: GPL-3.0-or-later
-  version: 0598e0c9f60d1c336e3123f95811f9a41eb50db1
+  version: b5ee86b2ac36c835f16243ff31d653606b1d33bd
   shortDescription: A large content plugin adding a whole new galaxy with over dozens
     of aliens with storylines(in progress).
   description: A large content plugin adding 1 Accessible galaxy, 16+ Races with their
@@ -925,8 +925,8 @@
     the Drak, in total of over 100 Ships, 400 Outfits, and 1500 Systems. To access
     the galaxy you will need a Jump Drive, head to the north(top) most system in the
     Wanderer space, wormhole system will be close by.
-  url: https://github.com/1010todd/Galactic-War/archive/0598e0c9f60d1c336e3123f95811f9a41eb50db1.zip
-  iconUrl: https://raw.githubusercontent.com/1010todd/Galactic-War/0598e0c9f60d1c336e3123f95811f9a41eb50db1/icon.png
+  url: https://github.com/1010todd/Galactic-War/archive/b5ee86b2ac36c835f16243ff31d653606b1d33bd.zip
+  iconUrl: https://raw.githubusercontent.com/1010todd/Galactic-War/b5ee86b2ac36c835f16243ff31d653606b1d33bd/icon.png
   autoupdate:
     type: commit
     url: https://github.com/1010todd/Galactic-War/archive/$version.zip
@@ -1268,16 +1268,16 @@
   authors: ChemtrailOperator
   homepage: https://github.com/chemtrailoperator/Wormholes_EndlessSky
   license: GPL-3.0-or-later
-  version: v1.0
+  version: v1.1
   shortDescription: Become a galactic diplomat with wormhole access to anywhere.
   description: This plugin adds a short storyline (with much more to come) to become
     a diplomat in Galactic Command, granting you access to a galactic network of wormholes
     with access to every faction.
-  url: https://github.com/chemtrailoperator/Wormholes_EndlessSky/releases/download/v1.0/Wormholes-v1.0.zip
-  iconUrl: https://github.com/chemtrailoperator/Wormholes_EndlessSky/raw/v1.0/icon.png
+  url: https://github.com/chemtrailoperator/Wormholes_EndlessSky/releases/download/v1.1/Wormholes_EndlessSky-v1.1.zip
+  iconUrl: https://github.com/chemtrailoperator/Wormholes_EndlessSky/raw/v1.1/icon.png
   autoupdate:
     type: tag
-    url: https://github.com/chemtrailoperator/Wormholes_EndlessSky/releases/download/$version/Wormholes-$version.zip
+    url: https://github.com/chemtrailoperator/Wormholes_EndlessSky/releases/download/$version/Wormholes_EndlessSky-$version.zip
     iconUrl: https://github.com/chemtrailoperator/Wormholes_EndlessSky/raw/$version/icon.png
 - name: ES-Advanced-Starts
   authors: Bereskatuket (Kestrel1110)
@@ -1754,11 +1754,11 @@
   authors: Nova.
   homepage: https://github.com/Nova1422/plugins/tree/main?tab=readme-ov-file#navypirates
   license: ALL-RIGHTS-RESERVED
-  version: v1.0.0-navypirates
+  version: v1.0.1-navypirates
   shortDescription: Adds Navy ships into pirate fleets.
   description: Adds Navy ships into pirate fleets.
-  url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-navypirates/navypirates.zip
-  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-navypirates/myplugins/navypirates/icon.png
+  url: https://github.com/Nova1422/plugins/releases/download/v1.0.1-navypirates/navypirates.zip
+  iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.1-navypirates/myplugins/navypirates/icon.png
   autoupdate:
     type: tag
     regex: ^.*-navypirates$
@@ -2006,7 +2006,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/EndlessSkyCommunity/-Omnis
   license: GPL-3.0-or-later
-  version: 4d80888603ca82b6e5e47790f84ea44793d3b5bf
+  version: d91daa090ac436c0dee6b0a69205e7f79ecccd29
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: 'The most extensive all-content plugin to date. All vanilla content
@@ -2014,7 +2014,7 @@
     builds. Many more tools are included into Omnis too!
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/4d80888603ca82b6e5e47790f84ea44793d3b5bf.zip
+  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/d91daa090ac436c0dee6b0a69205e7f79ecccd29.zip
   autoupdate:
     type: commit
     url: https://github.com/EndlessSkyCommunity/-Omnis/archive/$version.zip
@@ -2185,15 +2185,15 @@
   authors: 1010todd
   homepage: https://github.com/1010todd/Mega-Freight
   license: GPL-3.0-or-later
-  version: 7b82a1d142c6f93b2bb8261716c2cb1ff96954c6
+  version: 9a0348d3dd6f169b540bf7019da53cc86172f5a5
   shortDescription: Adds several mostly civilian ships for you and npc merchants (and
     pirates) to use for more variety in human space. Updated to Unstable releases.
   description: This plugin adds several civilian and some military ships to add some
     more variety to human space and beyond. Mostly focused around larger ships but
     also have smaller freighters and starter-level ships as well. Will be updated
     to be compatible with lastest unstable release.
-  url: https://github.com/1010todd/Mega-Freight/archive/7b82a1d142c6f93b2bb8261716c2cb1ff96954c6.zip
-  iconUrl: https://github.com/1010todd/Mega-Freight/raw/7b82a1d142c6f93b2bb8261716c2cb1ff96954c6/icon.png
+  url: https://github.com/1010todd/Mega-Freight/archive/9a0348d3dd6f169b540bf7019da53cc86172f5a5.zip
+  iconUrl: https://github.com/1010todd/Mega-Freight/raw/9a0348d3dd6f169b540bf7019da53cc86172f5a5/icon.png
   autoupdate:
     type: commit
     url: https://github.com/1010todd/Mega-Freight/archive/$version.zip
