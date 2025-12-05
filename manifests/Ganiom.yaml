@@ -2,12 +2,12 @@ name: Ganiom
 authors: heasdir
 homepage: https://github.com/heasdir/ganiom-galaxy
 license: EPL-2.0
-version: v0.04
+version: v0.05
 shortDescription: Galaxy plugin for endless sky.
 description: This plugin adds 16 races. Currently there are about 6. Those races are
   human, Foren, Gainen, Hisair, Kem relicnain, the between and Bruchaven.
-url: https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/v0.04.zip
-iconUrl: https://raw.githubusercontent.com/heasdir/ganiom-galaxy/refs/tags/v0.04/icon.png
+url: https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/v0.05.zip
+iconUrl: https://raw.githubusercontent.com/heasdir/ganiom-galaxy/refs/tags/v0.05/icon.png
 autoupdate:
   type: tag
   url: https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/$version.zip
