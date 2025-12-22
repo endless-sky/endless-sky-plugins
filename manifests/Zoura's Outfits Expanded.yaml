@@ -1,0 +1,13 @@
+﻿name: Zoura's Outfits Expanded
+authors: Zoura
+homepage: https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded
+license: CC-BY-SA-4.0
+version: v1.4.1
+shortDescription: Increases the variety of weapons and other outfits on a vanilla-ish level of balance.
+description: Increases the variety of weapons and other outfits on a vanilla-ish level of balance.
+url: https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded/archive/refs/tags/v1.4.1.zip
+iconUrl: https://raw.githubusercontent.com/AvianGeneticist/Zoura-s-Outfits-Expanded/v1.4.1/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded/archive/refs/tags/$version.zip
+  iconUrl: https://raw.githubusercontent.com/AvianGeneticist/Zoura-s-Outfits-Expanded/$version/icon.png
