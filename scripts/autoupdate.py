@@ -17,7 +17,7 @@ from traceback import print_exc
 import check_urls
 
 
-BASEVERSION = r"^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-zA-Z.0-9]+)?$"
+BASEVERSION = r"^[vV]?([0-9]+(\.[0-9]+)*)[a-z]?(-?[a-zA-Z._0-9]+)?$"
 VERSION_COMPONENTS = re.compile(r"(\d+ | [a-z]+ | \.)", re.VERBOSE)
 
 
