@@ -3,8 +3,12 @@ authors: Nova.
 homepage: https://github.com/Nova1422/plugins/?tab=readme-ov-file#easiergroundassault
 license: ALL-RIGHTS-RESERVED
 version: v1.0.0-easier.ground.assault
-shortDescription: Removes the offer requirement for ground assault Rano'erek's job. The job will now be available on any remnant planet, ignoring the 5% offer rate and independent of your story progression.
-description: Removes the offer requirement for ground assault Rano'erek's job. The job will now be available on any remnant planet, ignoring the 5% offer rate and independent of your story progression.
+shortDescription: Removes the offer requirement for ground assault Rano'erek's job.
+  The job will now be available on any remnant planet, ignoring the 5% offer rate
+  and independent of your story progression.
+description: Removes the offer requirement for ground assault Rano'erek's job. The
+  job will now be available on any remnant planet, ignoring the 5% offer rate and
+  independent of your story progression.
 url: https://github.com/Nova1422/plugins/releases/download/v1.0.0-easier.ground.assault/easier.ground.assault.zip
 iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/v1.0.0-easier.ground.assault/myplugins/easier.ground.assault/icon.png
 autoupdate:
