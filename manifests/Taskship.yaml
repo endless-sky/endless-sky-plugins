@@ -1,0 +1,19 @@
+name: Taskship
+authors: mOctave
+homepage: https://github.com/mOctave/taskship/
+license: AGPL-3.0-or-later
+version: v3.0.0
+shortDescription: A vanilla-plus content plugin that offers jobs for captains of
+  certain ships.
+description: What if people actually looked at your ship and gave you appropriate
+  jobs? What if you could turn a profit using your old Flivver for hauling joyriders
+  up to orbit, or join mock battles in your Osprey to thrill the galaxy's dedicated
+  31st-century-television-equivalent viewers? Well, now you can. Taskship is a pure
+  content plugin designed to improve the vanilla experience by offering jobs aimed
+  specifically at captains of certain ships.
+url: https://github.com/mOctave/taskship/archive/refs/tags/v3.0.0.zip
+iconUrl: https://raw.githubusercontent.com/mOctave/taskship/v3.0.0/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/mOctave/taskship/archive/refs/tags/$version.zip
+  iconUrl: https://raw.githubusercontent.com/mOctave/taskship/$version/icon.png
