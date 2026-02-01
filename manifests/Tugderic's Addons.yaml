@@ -2,14 +2,14 @@ name: Tugderic's Addons
 authors: Tugderic
 homepage: https://github.com/Tugderic/Tugderics-Addons
 license: GPL-3.0-or-later
-version: v5
+version: v5.1
 shortDescription: a plugin i made for fun that adds missions, outfits, wandering fleets,
   merchant Company and a pirate Gang.
 description: it's just a lil plugin i made for fun, it adds some fleets to human space,
   a Government of Friendly Merchant who can Escort you if they like you enough, A
   strong pirate gang wandering through the galaxy, unlockable outfits, and some missions,
   also some things out of human space.
-url: https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/v5.zip
+url: https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/v5.1.zip
 autoupdate:
   type: tag
   url: https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/$version.zip
