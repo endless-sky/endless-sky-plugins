@@ -2,13 +2,13 @@ name: boss.loot
 authors: zuckung
 homepage: https://github.com/zuckung/endless-sky-plugins
 license: MIT
-version: v1.0.7-boss.loot
+version: v1.0.8-boss.loot
 shortDescription: A series of dungeon-like boss encounters for a single ship. With
   loottables and weapon upgrade mechanism.
 description: A series of dungeon-like boss encounters for a single ship. With loottables
   and weapon upgrade mechanism. See the README for details.
-url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.7-boss.loot/boss.loot.zip
-iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.7-boss.loot/myplugins/boss.loot/icon.png
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.8-boss.loot/boss.loot.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.8-boss.loot/myplugins/boss.loot/icon.png
 autoupdate:
   type: tag
   regex: ^.*-boss.loot$
