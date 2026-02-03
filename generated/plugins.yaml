@@ -131,13 +131,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: v0.10.16
+  version: v0.11.0
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.10.16.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.10.16/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.11.0.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.11.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
@@ -344,13 +344,13 @@
   authors: (many authors)
   homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansion
   license: CC-BY-SA-4.0
-  version: v1.7.0-Fundamental.Outfit.Expansion
+  version: v1.8.0-Fundamental.Outfit.Expansion
   shortDescription: A collection of essential outfits from various plugins of various
     authors which should be vanilla, but incomprehensibly aren't.
   description: A collection of essential outfits from various plugins of various authors
     which should be vanilla, but incomprehensibly aren't.
-  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.7.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip
-  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.7.0-Fundamental.Outfit.Expansion/myplugins/Fundamental.Outfit.Expansion/icon.png
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.8.0-Fundamental.Outfit.Expansion/Fundamental.Outfit.Expansion.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.8.0-Fundamental.Outfit.Expansion/myplugins/Fundamental.Outfit.Expansion/icon.png
   autoupdate:
     type: tag
     update_url: https://github.com/LixiChronikouOriou/ES-plugins/
@@ -467,7 +467,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/EndlessSkyCommunity/-Omnis
   license: GPL-3.0-or-later
-  version: ea48ccaf41193e32efe197eba4785c81e353b618
+  version: 080ef6f1cc94e1fd3f959bdcfd743245b3dce5e6
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: 'The most extensive all-content plugin to date. All vanilla content
@@ -475,7 +475,7 @@
     builds. Many more tools are included into Omnis too!
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/ea48ccaf41193e32efe197eba4785c81e353b618.zip
+  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/080ef6f1cc94e1fd3f959bdcfd743245b3dce5e6.zip
   autoupdate:
     type: commit
     url: https://github.com/EndlessSkyCommunity/-Omnis/archive/$version.zip
@@ -660,13 +660,13 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.7-boss.loot
+  version: v1.0.8-boss.loot
   shortDescription: A series of dungeon-like boss encounters for a single ship. With
     loottables and weapon upgrade mechanism.
   description: A series of dungeon-like boss encounters for a single ship. With loottables
     and weapon upgrade mechanism. See the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.7-boss.loot/boss.loot.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.7-boss.loot/myplugins/boss.loot/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.8-boss.loot/boss.loot.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.8-boss.loot/myplugins/boss.loot/icon.png
   autoupdate:
     type: tag
     regex: ^.*-boss.loot$
@@ -1219,17 +1219,32 @@
   authors: Tugderic
   homepage: https://github.com/Tugderic/Tugderics-Addons
   license: GPL-3.0-or-later
-  version: v4
+  version: v5.1
   shortDescription: a plugin i made for fun that adds missions, outfits, wandering
     fleets, merchant Company and a pirate Gang.
   description: it's just a lil plugin i made for fun, it adds some fleets to human
     space, a Government of Friendly Merchant who can Escort you if they like you enough,
     A strong pirate gang wandering through the galaxy, unlockable outfits, and some
     missions, also some things out of human space.
-  url: https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/v4.zip
+  url: https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/v5.1.zip
   autoupdate:
     type: tag
     url: https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/$version.zip
+- name: Asteroid Expansion Pack
+  authors: ChemtrailOperator & Living_Adblocker
+  homepage: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky
+  license: GPL-3.0-or-later
+  version: v1.0
+  shortDescription: Adds many more elements, minerals, and compounds to mine.
+  description: This plugin adds many more elements, minerals, and compounds to the
+    game, expanding the mining options. Also included are short, mineral related storylines
+    and mining technology.
+  url: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/releases/download/v1.0/Asteroid-Expansion_EndlessSky-v1.0.zip
+  iconUrl: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/raw/v1.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/releases/download/$version/Asteroid-Expansion_EndlessSky-$version.zip
+    iconUrl: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/raw/$version/icon.png
 - name: Ganiom
   authors: heasdir
   homepage: https://github.com/heasdir/ganiom-galaxy
@@ -1597,14 +1612,14 @@
   authors: mOctave
   homepage: https://github.com/mOctave/blended-ships/
   license: AGPL-3.0-or-later
-  version: v1.3.0
+  version: v1.3.1
   shortDescription: A spliced ships plugin for Endless Sky where all the ships are
     made in Blender.
   description: Blended Ships is the realistic spliced ship plugin. All these ships
     have thumbnails, believeable stats, and actual potential uses! There is also a
     greater variety of civilian ships available, to support various playstyles.
-  url: https://github.com/mOctave/blended-ships/archive/refs/tags/v1.3.0.zip
-  iconUrl: https://raw.githubusercontent.com/mOctave/blended-ships/v1.3.0/icon.png
+  url: https://github.com/mOctave/blended-ships/archive/refs/tags/v1.3.1.zip
+  iconUrl: https://raw.githubusercontent.com/mOctave/blended-ships/v1.3.1/icon.png
   autoupdate:
     type: tag
     url: https://github.com/mOctave/blended-ships/archive/refs/tags/$version.zip
@@ -1631,13 +1646,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: fad04d1399eaf576ad6b0cc22b3f62617f2f2eab
+  version: 9c9c987c2b212db0fc2b107da3e76bf3189df513
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/fad04d1399eaf576ad6b0cc22b3f62617f2f2eab.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/fad04d1399eaf576ad6b0cc22b3f62617f2f2eab/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/9c9c987c2b212db0fc2b107da3e76bf3189df513.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/9c9c987c2b212db0fc2b107da3e76bf3189df513/icon.png
   autoupdate:
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
@@ -2086,13 +2101,13 @@
   authors: ChemtrailOperator
   homepage: https://github.com/chemtrailoperator/Wormholes_EndlessSky
   license: GPL-3.0-or-later
-  version: v1.1
+  version: v2.0
   shortDescription: Become a galactic diplomat with wormhole access to anywhere.
   description: This plugin adds a short storyline (with much more to come) to become
     a diplomat in Galactic Command, granting you access to a galactic network of wormholes
     with access to every faction.
-  url: https://github.com/chemtrailoperator/Wormholes_EndlessSky/releases/download/v1.1/Wormholes_EndlessSky-v1.1.zip
-  iconUrl: https://github.com/chemtrailoperator/Wormholes_EndlessSky/raw/v1.1/icon.png
+  url: https://github.com/chemtrailoperator/Wormholes_EndlessSky/releases/download/v2.0/Wormholes_EndlessSky-v2.0.zip
+  iconUrl: https://github.com/chemtrailoperator/Wormholes_EndlessSky/raw/v2.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/chemtrailoperator/Wormholes_EndlessSky/releases/download/$version/Wormholes_EndlessSky-$version.zip
@@ -2412,12 +2427,12 @@
   authors: TheGiraffe3
   homepage: https://github.com/TheGiraffe3/rumskib/
   license: CC-BY-SA-4.0
-  version: v0.10.16
+  version: v0.11.0.1
   shortDescription: Content expansion.
   description: Rumskib is a large content expansion with ships, planets, missions,
     and more.
-  url: https://github.com/TheGiraffe3/rumskib/archive/refs/tags/v0.10.16.zip
-  iconUrl: https://github.com/TheGiraffe3/rumskib/raw/v0.10.16/icon.png
+  url: https://github.com/TheGiraffe3/rumskib/archive/refs/tags/v0.11.0.1.zip
+  iconUrl: https://github.com/TheGiraffe3/rumskib/raw/v0.11.0.1/icon.png
   autoupdate:
     type: tag
     url: https://github.com/TheGiraffe3/rumskib/archive/refs/tags/$version.zip
@@ -2426,13 +2441,13 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.6-control.station
+  version: v1.0.7-control.station
   shortDescription: Adds a station to the Sol system that offers administrative functions
     started by the job board.
   description: Adds a station to the Sol system that offers administrative functions
     started by the job board. See the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.6-control.station/control.station.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.6-control.station/myplugins/control.station/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.7-control.station/control.station.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.7-control.station/myplugins/control.station/icon.png
   autoupdate:
     type: tag
     regex: ^.*-control.station$
