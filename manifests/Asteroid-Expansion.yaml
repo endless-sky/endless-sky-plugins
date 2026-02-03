@@ -9,5 +9,5 @@ url: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/releases
 iconUrl: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/raw/v1.0/icon.png
 autoupdate:
   type: tag
-  url: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/releases/download/$version/Asteroid-Expansion_EndlessSky_$version.zip
+  url: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/releases/download/$version/Asteroid-Expansion_EndlessSky-$version.zip
   iconUrl: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/raw/$version/icon.png
