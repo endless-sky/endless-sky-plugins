@@ -1,0 +1,13 @@
+name: Asteroid Expansion Pack
+authors: ChemtrailOperator & Living_Adblocker
+homepage: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky
+license: GPL-3.0-or-later
+version: v1.0
+shortDescription: Adds many more elements, minerals, and compounds to mine.
+description: This plugin adds many more elements, minerals, and compounds to the game, expanding the mining options. Also included are short, mineral related storylines and mining technology.
+url: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/releases/download/v1.0/Asteroid-Expansion_EndlessSky-v1.0.zip
+iconUrl: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/raw/v1.0/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/releases/download/$version/Asteroid-Expansion_EndlessSky-$version.zip
+  iconUrl: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/raw/$version/icon.png
