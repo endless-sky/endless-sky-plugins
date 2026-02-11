@@ -2,11 +2,11 @@ name: Buyable Faes'mar
 authors: kaiboy
 homepage: https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_faesmar
 license: ALL-RIGHTS-RESERVED
-version: v1.0.1-buyable_faesmar
+version: v1.1.0-buyable_faesmar
 shortDescription: Lets you buy the Faes'mar.
 description: Adds the Faes'mar to all Remnant shipyards.
-url: https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.1-buyable_faesmar/buyable_faesmar.zip
-iconUrl: https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v1.0.1-buyable_faesmar/myplugins/buyable_faesmar/icon.png
+url: https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_faesmar/buyable_faesmar.zip
+iconUrl: https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v1.1.0-buyable_faesmar/myplugins/buyable_faesmar/icon.png
 autoupdate:
   update_url: https://github.com/kaiboyjiang/endless-sky-plugins.git
   type: tag
