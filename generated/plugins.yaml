@@ -47,7 +47,7 @@
     url: https://github.com/mathwhiz1212/A-Coalition-At-War/archive/refs/tags/$version.zip
 - name: Buyable Faes'mar
   authors: kaiboy
-  homepage: https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_faesmar
+  homepage: https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar
   license: CC-BY-SA-4.0
   version: v1.1.0-buyable_faesmar
   shortDescription: Allows you to buy the Faes'mar.
