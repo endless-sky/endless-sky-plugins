@@ -156,7 +156,7 @@
   authors: Amazinite
   homepage: https://github.com/EndlessSkyCommunity/world-forge
   license: GPL-3.0-or-later
-  version: b62b95b08db8736941c52df7e3e469f2b30eb182
+  version: f453ce779612353bfa21c4093dd4905affd30230
   shortDescription: A plugin for Endless Sky that allows the player to access everything
     in the game in one place.
   description: A plugin for Endless Sky that allows the player to access everything
@@ -164,8 +164,8 @@
     have such as the ability to boost your combat rating and change your friendly/hostile
     status with factions of the game without having to save-edit. Intended to help
     content creators test their plugins.
-  url: https://github.com/EndlessSkyCommunity/world-forge/archive/b62b95b08db8736941c52df7e3e469f2b30eb182.zip
-  iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/b62b95b08db8736941c52df7e3e469f2b30eb182/icon.png
+  url: https://github.com/EndlessSkyCommunity/world-forge/archive/f453ce779612353bfa21c4093dd4905affd30230.zip
+  iconUrl: https://github.com/EndlessSkyCommunity/world-forge/raw/f453ce779612353bfa21c4093dd4905affd30230/icon.png
   autoupdate:
     type: commit
     url: https://github.com/EndlessSkyCommunity/world-forge/archive/$version.zip
@@ -572,14 +572,14 @@
   authors: Tugderic
   homepage: https://github.com/Tugderic/Tugderics-Addons
   license: GPL-3.0-or-later
-  version: v5.1
+  version: v6
   shortDescription: a plugin i made for fun that adds missions, outfits, wandering
     fleets, merchant Company and a pirate Gang.
   description: it's just a lil plugin i made for fun, it adds some fleets to human
     space, a Government of Friendly Merchant who can Escort you if they like you enough,
     A strong pirate gang wandering through the galaxy, unlockable outfits, and some
     missions, also some things out of human space.
-  url: https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/v5.1.zip
+  url: https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/v6.zip
   autoupdate:
     type: tag
     url: https://github.com/Tugderic/Tugderics-Addons/archive/refs/tags/$version.zip
@@ -847,6 +847,22 @@
     update_url: https://github.com/Nova1422/plugins
     url: https://github.com/Nova1422/plugins/releases/download/$version/quargoutfitter.zip
     iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/quargoutfitter/icon.png
+- name: Wanderer Reverse Thrusters
+  authors: Ubrief, kaiboy
+  homepage: https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/wanderer_reverse_thrusters
+  license: CC-BY-SA-4.0
+  version: v1.0.0-wanderer_reverse_thrusters
+  shortDescription: Adds Wanderer reverse thrusters.
+  description: Adds Wanderer reverse thrusters wherever the corresponding thrusters
+    are sold.
+  url: https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-wanderer_reverse_thrusters/wanderer_reverse_thrusters.zip
+  iconUrl: https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v1.0.0-wanderer_reverse_thrusters/myplugins/wanderer_reverse_thrusters/icon.png
+  autoupdate:
+    update_url: https://github.com/kaiboyjiang/endless-sky-plugins.git
+    type: tag
+    regex: ^.*-wanderer_reverse_thrusters$
+    url: https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/$version/wanderer_reverse_thrusters.zip
+    iconUrl: https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/$version/myplugins/wanderer_reverse_thrusters/icon.png
 - name: Endgame Alpha
   authors: ChemtrailOperator
   homepage: https://github.com/chemtrailoperator/Endgame-Alpha_EndlessSky
