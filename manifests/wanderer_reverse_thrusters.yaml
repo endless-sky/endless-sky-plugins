@@ -4,7 +4,8 @@ homepage: https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins
 license: CC-BY-SA-4.0
 version: v1.0.0-wanderer_reverse_thrusters
 shortDescription: Adds Wanderer reverse thrusters.
-description: Adds Wanderer reverse thrusters wherever the corresponding thrusters are sold.
+description: Adds Wanderer reverse thrusters wherever the corresponding thrusters
+  are sold.
 url: https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-wanderer_reverse_thrusters/wanderer_reverse_thrusters.zip
 iconUrl: https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v1.0.0-wanderer_reverse_thrusters/myplugins/wanderer_reverse_thrusters/icon.png
 autoupdate:
