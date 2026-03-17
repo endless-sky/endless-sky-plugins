@@ -1776,6 +1776,27 @@
     regex: ^.*-disable.spaceport.repeatables$
     url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/disable.spaceport.repeatables.zip
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/disable.spaceport.repeatables/icon.png
+- name: corellian-shipyard
+  authors: LinearPerk
+  homepage: https://github.com/LinearPerk/corellian-shipyard
+  license: GPL-3.0-or-later
+  version: v1.0.0
+  shortDescription: 10 Star Wars-inspired Corellian ships with NPC fleets, pirate
+    variants, and an alternative start scenario.
+  description: "Adds 10 ships and a beam drone from the Corellian Engineering Corporation\
+    \ (CEC) \u2014 a line of modular freighters and combat variants designed around\
+    \ hull durability and cargo capacity rather than raw firepower. These ships carry\
+    \ fewer hardpoints than their vanilla counterparts but compensate with better\
+    \ stats per ton: thicker hulls, more cargo space, and generous outfit capacity\
+    \ for customization. They slot into the Light Freighter through Heavy Warship\
+    \ range, giving independent traders, escorts, and pirates a distinct alternative\
+    \ to standard human ships."
+  url: https://github.com/LinearPerk/corellian-shipyard/archive/refs/tags/v1.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/LinearPerk/corellian-shipyard/v1.0.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/LinearPerk/corellian-shipyard/archive/refs/tags/$version.zip
+    iconUrl: https://raw.githubusercontent.com/LinearPerk/corellian-shipyard/$version/icon.png
 - name: Space Shuttle Start
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Space-Shuttle-Start
