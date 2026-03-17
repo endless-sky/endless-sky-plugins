@@ -680,10 +680,10 @@
     "authors": "Darcy Manoel",
     "homepage": "https://github.com/EndlessSkyCommunity/-Omnis",
     "license": "GPL-3.0-or-later",
-    "version": "c096b11a0529ded43bb8067b79442176cb23bce4",
+    "version": "11c6b8ba30844160d558b895ad12f00829807cd2",
     "shortDescription": "The most extensive all-content plugin to date, for development or fun.",
     "description": "The most extensive all-content plugin to date. All vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!\nThis plugin is part of the Adde Endless Sky collection.",
-    "url": "https://github.com/EndlessSkyCommunity/-Omnis/archive/c096b11a0529ded43bb8067b79442176cb23bce4.zip",
+    "url": "https://github.com/EndlessSkyCommunity/-Omnis/archive/11c6b8ba30844160d558b895ad12f00829807cd2.zip",
     "autoupdate": {
       "type": "commit",
       "url": "https://github.com/EndlessSkyCommunity/-Omnis/archive/$version.zip"
@@ -1227,6 +1227,22 @@
     }
   },
   {
+    "name": "bits-to-boulders",
+    "authors": "LinearPerk",
+    "homepage": "https://github.com/LinearPerk/bits-to-boulders",
+    "license": "GPL-3.0-or-later",
+    "version": "v1.0.0",
+    "shortDescription": "A size-tiered mining overhaul with seven asteroid sizes, unique sprites, bonus drops, and legendary destinations.",
+    "description": "Seven sizes of asteroid — from pebbles to motherlodes — re-balanced across every system in human space. Every mineral gets the full tier treatment with unique sprites, toughness scaling, and secondary bonus drops based on real-world geology. Bigger rocks take proportionally more time to crack, and mining weapons punch above their weight against the largest asteroids. Eleven legendary mining destinations are scattered across human space, each with a bespoke asteroid field and a spaceport tip that points the way. A prospector named Dusty Vein haunts bars with coordinates to wandering motherlodes on a 12-day rotation. Works with existing saves. Story-critical systems left untouched.",
+    "url": "https://github.com/LinearPerk/bits-to-boulders/archive/refs/tags/v1.0.0.zip",
+    "iconUrl": "https://raw.githubusercontent.com/LinearPerk/bits-to-boulders/v1.0.0/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/LinearPerk/bits-to-boulders/archive/refs/tags/$version.zip",
+      "iconUrl": "https://raw.githubusercontent.com/LinearPerk/bits-to-boulders/$version/icon.png"
+    }
+  },
+  {
     "name": "The Adamas Project",
     "authors": "toilethinges & Bereskatuket (Kestrel1110)",
     "homepage": "https://github.com/kestrel1110/Adamas-Project",
@@ -1413,11 +1429,11 @@
     "authors": "zuckung",
     "homepage": "https://github.com/zuckung/endless-sky-plugins",
     "license": "MIT",
-    "version": "v1.1.11-galactic.capital.investment",
+    "version": "v1.1.13-galactic.capital.investment",
     "shortDescription": "Implements missions and jobs for banking services and investments.",
     "description": "Implements missions and jobs for banking services and investments. Available in human, quarg and hai space. See the README for details.",
-    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.11-galactic.capital.investment/galactic.capital.investment.zip",
-    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.11-galactic.capital.investment/myplugins/galactic.capital.investment/icon.png",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.13-galactic.capital.investment/galactic.capital.investment.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.13-galactic.capital.investment/myplugins/galactic.capital.investment/icon.png",
     "autoupdate": {
       "type": "tag",
       "regex": "^.*-galactic.capital.investment$",
