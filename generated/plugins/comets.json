@@ -1,0 +1,17 @@
+{
+  "name": "comets",
+  "authors": "zuckung",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "license": "MIT",
+  "version": "v1.0.1-comets",
+  "shortDescription": "Adds 10 different comet types, as rare spawns to changing systems. These comets are minable and high profitable. See the README for details.",
+  "description": "Adds 10 different comet types, as rare spawns to changing systems. These comets are minable and high profitable. See the README for details.",
+  "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-comets/comets.zip",
+  "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-comets/myplugins/comets/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "regex": "^.*-comets$",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/comets.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/comets/icon.png"
+  }
+}

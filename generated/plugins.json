@@ -46,6 +46,23 @@
     }
   },
   {
+    "name": "vague.improvements",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.2-vague.improvements",
+    "shortDescription": "A bunch of small QoL adjustment plugins. Just delete the unwanted and enjoy the wanted tweaks. See the README for details.",
+    "description": "A bunch of small QoL adjustment plugins. Just delete the unwanted and enjoy the wanted tweaks. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.2-vague.improvements/vague.improvements.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.2-vague.improvements/myplugins/vague.improvements/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-vague.improvements$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/vague.improvements.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/vague.improvements/icon.png"
+    }
+  },
+  {
     "name": "Buyable Faes'mar",
     "authors": "kaiboy",
     "homepage": "https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar",
@@ -510,6 +527,23 @@
     }
   },
   {
+    "name": "heavy.traffic",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.0-heavy.traffic",
+    "shortDescription": "Offers thousands of new jobs with high cargo and passengers. See the README for details",
+    "description": "Offers thousands of new jobs with high cargo and passengers. See the README for details",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.0-heavy.traffic/heavy.traffic.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.0-heavy.traffic/myplugins/heavy.traffic/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-heavy.traffic$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/heavy.traffic.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/heavy.traffic/icon.png"
+    }
+  },
+  {
     "name": "Buyable Wanderer Ships",
     "authors": "kaiboy",
     "homepage": "https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_wanderer_ships",
@@ -579,11 +613,11 @@
     "authors": "Pshy",
     "homepage": "https://github.com/pshy0/es-ruin-the-fun",
     "license": "MPL-2.0-no-copyleft-exception",
-    "version": "v0.0.39",
+    "version": "v0.0.40",
     "shortDescription": "Cheat plugin, to ruin your fun, or to assist you in making or testing another plugin. https://github.com/Pshy0/es-ruin-the-fun",
     "description": "Ruin-The-Fun is a cheat/development plugin. Change your captain's name, choose the color swizzle of your ships, edit your reputation with other governments, set your combat rank, hire a powerful escort, gift yourself pre-outfitted ships, give yourself money, and much more. All ships and outfits are also available from a few added systems. https://github.com/Pshy0/es-ruin-the-fun",
-    "url": "https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/v0.0.39.zip",
-    "iconUrl": "https://github.com/pshy0/es-ruin-the-fun/raw/v0.0.39/icon.png",
+    "url": "https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/v0.0.40.zip",
+    "iconUrl": "https://github.com/pshy0/es-ruin-the-fun/raw/v0.0.40/icon.png",
     "autoupdate": {
       "type": "tag",
       "url": "https://github.com/pshy0/es-ruin-the-fun/archive/refs/tags/$version.zip",
@@ -1489,6 +1523,23 @@
     }
   },
   {
+    "name": "comets",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.1-comets",
+    "shortDescription": "Adds 10 different comet types, as rare spawns to changing systems. These comets are minable and high profitable. See the README for details.",
+    "description": "Adds 10 different comet types, as rare spawns to changing systems. These comets are minable and high profitable. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-comets/comets.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-comets/myplugins/comets/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-comets$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/comets.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/comets/icon.png"
+    }
+  },
+  {
     "name": "Better Vanilla Pirates",
     "authors": "ZBok",
     "homepage": "https://github.com/ZBok/BetterVanillaPirates/",
@@ -2204,6 +2255,23 @@
       "type": "tag",
       "url": "https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/$version.zip",
       "iconUrl": "https://raw.githubusercontent.com/heasdir/ganiom-galaxy/refs/tags/$version/icon.png"
+    }
+  },
+  {
+    "name": "job.coloring",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "license": "MIT",
+    "version": "v1.0.3-job.coloring",
+    "shortDescription": "Recolors all jobs to sort them by category(cargo/passenger/escort/etc). See the README for details.",
+    "description": "Recolors all jobs to sort them by category(cargo/passenger/escort/etc). See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-job.coloring/job.coloring.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-job.coloring/myplugins/job.coloring/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-job.coloring$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/job.coloring.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/job.coloring/icon.png"
     }
   },
   {
