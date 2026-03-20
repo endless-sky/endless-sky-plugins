@@ -2,13 +2,13 @@ name: heavy.traffic
 authors: zuckung
 homepage: https://github.com/zuckung/endless-sky-plugins
 license: MIT
-version: v1.0.0-heavy.traffic
+version: v1.0.1-heavy.traffic
 shortDescription: Offers thousands of new jobs with high cargo and passengers. See
   the README for details
 description: Offers thousands of new jobs with high cargo and passengers. See the
   README for details
-url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.0-heavy.traffic/heavy.traffic.zip
-iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.0-heavy.traffic/myplugins/heavy.traffic/icon.png
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-heavy.traffic/heavy.traffic.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-heavy.traffic/myplugins/heavy.traffic/icon.png
 autoupdate:
   type: tag
   regex: ^.*-heavy.traffic$
