@@ -2,7 +2,7 @@ name: Yestrel
 authors: Kassandra Haruki
 homepage: https://github.com/Kassandra-haruki/YESTREL2
 license: MIT
-version: v1.0
+version: v2.0
 shortDescription: Adds a Kestrel variant with all possible upgrades in one (with 18
   gun ports!)
 description: 'Adds a Kestrel variant with all possible upgrades in one (with 18 gun
@@ -14,8 +14,8 @@ description: 'Adds a Kestrel variant with all possible upgrades in one (with 18 
   timeout.fu (troubleshooter)
 
   '
-url: https://github.com/Kassandra-haruki/Yestrel2/archive/refs/tags/v1.0.zip
-iconUrl: https://raw.githubusercontent.com/Kassandra-haruki/YESTREL2/v1.0/icon.png
+url: https://github.com/Kassandra-haruki/Yestrel2/archive/refs/tags/v2.0.zip
+iconUrl: https://raw.githubusercontent.com/Kassandra-haruki/YESTREL2/v2.0/icon.png
 autoupdate:
   type: tag
   url: https://github.com/Kassandra-haruki/Yestrel2/archive/refs/tags/$version.zip
