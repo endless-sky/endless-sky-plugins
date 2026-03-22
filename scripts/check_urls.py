@@ -24,12 +24,13 @@ class PluginChecker:
                 break
             except (HTTPError, TimeoutError) as e:
                 code = getattr(e, "code", None)
+                code_str = str(code) or "TIMEOUT"
                 if (code or 999) < 500 or attempts == 2:
-                    status = f"  ERROR\t{code or "TIMEOUT"}\t{url}"
+                    status = f"  ERROR\t{code_str}\t{url}"
                     self.failed_urls.append(status)
                     ok = False
                     break
-                print(f"  RETRY\t{code or "TIMEOUT"}\t{url}")
+                print(f"  RETRY\t{code_str}\t{url}")
                 sleep(5)
 
         print(status)
