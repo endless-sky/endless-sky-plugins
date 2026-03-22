@@ -553,13 +553,13 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.0-heavy.traffic
+  version: v1.0.1-heavy.traffic
   shortDescription: Offers thousands of new jobs with high cargo and passengers. See
     the README for details
   description: Offers thousands of new jobs with high cargo and passengers. See the
     README for details
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.0-heavy.traffic/heavy.traffic.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.0-heavy.traffic/myplugins/heavy.traffic/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.1-heavy.traffic/heavy.traffic.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.1-heavy.traffic/myplugins/heavy.traffic/icon.png
   autoupdate:
     type: tag
     regex: ^.*-heavy.traffic$
@@ -1684,13 +1684,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: 1f7a94dfe72f53a464636f28ad792a8f43caaff6
+  version: 85641b1d3cd36700922d94bb557d214a35c888d8
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/1f7a94dfe72f53a464636f28ad792a8f43caaff6.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/1f7a94dfe72f53a464636f28ad792a8f43caaff6/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/85641b1d3cd36700922d94bb557d214a35c888d8.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/85641b1d3cd36700922d94bb557d214a35c888d8/icon.png
   autoupdate:
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
@@ -1744,7 +1744,7 @@
   authors: Timeout
   homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#ZoneofControl
   license: CC-BY-SA-4.0
-  version: v1.1.1-Zone.of.Control
+  version: v1.1.2-Zone.of.Control
   shortDescription: Tribute human space after finishing the main plot without need
     for save-edits or being dependent on time slots during campaign. Handles special
     cases.
@@ -1753,8 +1753,8 @@
     during campaign (Republic & Syndicate). Also handles independent systems by defining
     own polities to avoid issues with independent mission NPCs. And adds some vanilla
     mission chain related candy.
-  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.1-Zone.of.Control/Zone.of.Control.zip
-  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.1.1-Zone.of.Control/myplugins/Zone.of.Control/icon.png
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.2-Zone.of.Control/Zone.of.Control.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.1.2-Zone.of.Control/myplugins/Zone.of.Control/icon.png
   autoupdate:
     type: tag
     update_url: https://github.com/LixiChronikouOriou/ES-plugins/
