@@ -22,13 +22,14 @@ class PluginChecker:
                 status = f"  OK\t{conn.status}\t{url}"
                 ok = True
                 break
-            except HTTPError as e:
-                if e.code < 500 or attempts == 2:
-                    status = f"  ERROR\t{e.code}\t{url}"
+            except (HTTPError, TimeoutError) as e:
+                code = getattr(e, "code", None)
+                if (code or 999) < 500 or attempts == 2:
+                    status = f"  ERROR\t{code or "TIMEOUT"}\t{url}"
                     self.failed_urls.append(status)
                     ok = False
                     break
-                print(f"  RETRY\t{e.code}\t{url}")
+                print(f"  RETRY\t{code or "TIMEOUT"}\t{url}")
                 sleep(5)
 
         print(status)
