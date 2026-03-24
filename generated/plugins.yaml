@@ -1021,7 +1021,7 @@
   authors: Kassandra Haruki
   homepage: https://github.com/Kassandra-haruki/YESTREL2
   license: MIT
-  version: v1.0
+  version: v2.0.2
   shortDescription: Adds a Kestrel variant with all possible upgrades in one (with
     18 gun ports!)
   description: 'Adds a Kestrel variant with all possible upgrades in one (with 18
@@ -1033,8 +1033,8 @@
     timeout.fu (troubleshooter)
 
     '
-  url: https://github.com/Kassandra-haruki/Yestrel2/archive/refs/tags/v1.0.zip
-  iconUrl: https://raw.githubusercontent.com/Kassandra-haruki/YESTREL2/v1.0/icon.png
+  url: https://github.com/Kassandra-haruki/Yestrel2/archive/refs/tags/v2.0.2.zip
+  iconUrl: https://raw.githubusercontent.com/Kassandra-haruki/YESTREL2/v2.0.2/icon.png
   autoupdate:
     type: tag
     url: https://github.com/Kassandra-haruki/Yestrel2/archive/refs/tags/$version.zip
@@ -1684,13 +1684,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: 85641b1d3cd36700922d94bb557d214a35c888d8
+  version: e97298d69e54d9762560c40c8189de6dc1896d27
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/85641b1d3cd36700922d94bb557d214a35c888d8.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/85641b1d3cd36700922d94bb557d214a35c888d8/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/e97298d69e54d9762560c40c8189de6dc1896d27.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/e97298d69e54d9762560c40c8189de6dc1896d27/icon.png
   autoupdate:
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
@@ -2361,12 +2361,12 @@
   authors: heasdir
   homepage: https://github.com/heasdir/ganiom-galaxy
   license: EPL-2.0
-  version: v0.05
+  version: v0.06
   shortDescription: Galaxy plugin for endless sky.
   description: This plugin adds 16 races. Currently there are about 6. Those races
     are human, Foren, Gainen, Hisair, Kem relicnain, the between and Bruchaven.
-  url: https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/v0.05.zip
-  iconUrl: https://raw.githubusercontent.com/heasdir/ganiom-galaxy/refs/tags/v0.05/icon.png
+  url: https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/v0.06.zip
+  iconUrl: https://raw.githubusercontent.com/heasdir/ganiom-galaxy/refs/tags/v0.06/icon.png
   autoupdate:
     type: tag
     url: https://github.com/heasdir/ganiom-galaxy/archive/refs/tags/$version.zip
