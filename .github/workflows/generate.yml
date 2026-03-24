@@ -1,6 +1,8 @@
 name: Generate files
 
 on:
+  schedule:
+  - cron: "15 * * * *"
   push:
     branches:
     - master
