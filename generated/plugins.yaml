@@ -758,7 +758,7 @@
   authors: Timeout
   homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#ZoneofControl
   license: CC-BY-SA-4.0
-  version: v1.1.2-Zone.of.Control
+  version: v1.1.3-Zone.of.Control
   shortDescription: Tribute human space after finishing the main plot without need
     for save-edits or being dependent on time slots during campaign. Handles special
     cases.
@@ -767,8 +767,8 @@
     during campaign (Republic & Syndicate). Also handles independent systems by defining
     own polities to avoid issues with independent mission NPCs. And adds some vanilla
     mission chain related candy.
-  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.2-Zone.of.Control/Zone.of.Control.zip
-  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.1.2-Zone.of.Control/myplugins/Zone.of.Control/icon.png
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.1.3-Zone.of.Control/Zone.of.Control.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.1.3-Zone.of.Control/myplugins/Zone.of.Control/icon.png
   autoupdate:
     type: tag
     update_url: https://github.com/LixiChronikouOriou/ES-plugins/
@@ -1474,13 +1474,13 @@
   authors: Nick Barry
   homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#BunsenBurner
   license: GPL-3+
-  version: v1.4.0-Bunsen.Burner
+  version: v1.4.1-Bunsen.Burner
   shortDescription: Next-generation Flamethrower, as gun, turret and h2h. For those
     who like it hot.
   description: Next-generation Flamethrower, as gun, turret and h2h. For those who
     like it hot.
-  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.0-Bunsen.Burner/Bunsen.Burner.zip
-  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.4.0-Bunsen.Burner/myplugins/Bunsen.Burner/icon.png
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.1-Bunsen.Burner/Bunsen.Burner.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.4.1-Bunsen.Burner/myplugins/Bunsen.Burner/icon.png
   autoupdate:
     type: tag
     update_url: https://github.com/LixiChronikouOriou/ES-plugins/
