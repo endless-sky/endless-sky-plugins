@@ -2,13 +2,13 @@ name: Bunsen.Burner
 authors: Nick Barry
 homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#BunsenBurner
 license: GPL-3+
-version: v1.4.1-Bunsen.Burner
+version: v1.4.2-Bunsen.Burner
 shortDescription: Next-generation Flamethrower, as gun, turret and h2h. For those
   who like it hot.
 description: Next-generation Flamethrower, as gun, turret and h2h. For those who like
   it hot.
-url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.1-Bunsen.Burner/Bunsen.Burner.zip
-iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.4.1-Bunsen.Burner/myplugins/Bunsen.Burner/icon.png
+url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.4.2-Bunsen.Burner/Bunsen.Burner.zip
+iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.4.2-Bunsen.Burner/myplugins/Bunsen.Burner/icon.png
 autoupdate:
   type: tag
   update_url: https://github.com/LixiChronikouOriou/ES-plugins/
