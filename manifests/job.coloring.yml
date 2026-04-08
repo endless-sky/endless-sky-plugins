@@ -2,13 +2,13 @@ name: job.coloring
 authors: zuckung
 homepage: https://github.com/zuckung/endless-sky-plugins
 license: MIT
-version: v1.0.3-job.coloring
+version: v1.0.4-job.coloring
 shortDescription: Recolors all jobs to sort them by category(cargo/passenger/escort/etc).
   See the README for details.
 description: Recolors all jobs to sort them by category(cargo/passenger/escort/etc).
   See the README for details.
-url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-job.coloring/job.coloring.zip
-iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-job.coloring/myplugins/job.coloring/icon.png
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.4-job.coloring/job.coloring.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.4-job.coloring/myplugins/job.coloring/icon.png
 autoupdate:
   type: tag
   regex: ^.*-job.coloring$
