@@ -1,8 +1,8 @@
 {
   "name": "Buyable Wanderer Ships",
   "authors": "kaiboy",
-  "homepage": "https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_wanderer_ships",
-  "license": "ALL-RIGHTS-RESERVED",
+  "homepage": "https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_wanderer_ships",
+  "license": "CC-BY-SA-4.0",
   "version": "v1.1.0-buyable_wanderer_ships",
   "shortDescription": "Allows you to buy the Cool Breeze and Winter Gale.",
   "description": "Adds the Cool Breeze and Winter Gale to all Wanderer shipyards with the Strong Wind.",
