@@ -4,7 +4,8 @@ homepage: https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins
 license: CC-BY-SA-4.0
 version: v1.1.0-buyable_unfettered_weapons
 shortDescription: Allows you to buy Unfettered weapons.
-description: Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype to Darkcloak in the Wah Yoot system.
+description: Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret
+  Prototype to Darkcloak in the Wah Yoot system.
 url: https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_unfettered_weapons/buyable_unfettered_weapons.zip
 iconUrl: https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v1.1.0-buyable_unfettered_weapons/myplugins/buyable_unfettered_weapons/icon.png
 autoupdate:
