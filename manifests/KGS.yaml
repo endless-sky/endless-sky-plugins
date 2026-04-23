@@ -1,10 +1,10 @@
 name: KGS
 authors: kaiboy
-homepage: https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#KGS
-license: ALL-RIGHTS-RESERVED
+homepage: https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS
+license: CC-BY-SA-4.0
 version: v2.0.0-KGS
-shortDescription: Adds various items kitbashed in GIMP.
-description: Adds lots of ships and outfits, all kitbashed in GIMP and GIMP only.
+shortDescription: A vanilla+ content expansion plugin.
+description: A vanilla+ content expansion plugin, adding many ships and outfits.
 url: https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v2.0.0-KGS/KGS.zip
 iconUrl: https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v2.0.0-KGS/myplugins/KGS/icon.png
 autoupdate:
