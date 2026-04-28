@@ -570,11 +570,11 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.1.10-captureable.person.ships
+  version: v1.1.11-captureable.person.ships
   shortDescription: Makes person ships capturable.
   description: Makes person ships capturable. See the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.10-captureable.person.ships/captureable.person.ships.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.10-captureable.person.ships/myplugins/captureable.person.ships/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.1.11-captureable.person.ships/captureable.person.ships.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.1.11-captureable.person.ships/myplugins/captureable.person.ships/icon.png
   autoupdate:
     type: tag
     regex: ^.*-captureable.person.ships$
@@ -1996,13 +1996,13 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.7-control.station
+  version: v1.0.8-control.station
   shortDescription: Adds a station to the Sol system that offers administrative functions
     started by the job board.
   description: Adds a station to the Sol system that offers administrative functions
     started by the job board. See the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.7-control.station/control.station.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.7-control.station/myplugins/control.station/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.8-control.station/control.station.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.8-control.station/myplugins/control.station/icon.png
   autoupdate:
     type: tag
     regex: ^.*-control.station$
