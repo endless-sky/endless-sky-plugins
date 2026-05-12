@@ -810,14 +810,14 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.13-uniques
+  version: v1.0.14-uniques
   shortDescription: Removes mass and outfit space from some uniques, puts others into
     unique category, or gives a png if there isn't one. Also adds lots of new uniques.
   description: Removes mass and outfit space from some uniques, puts others into unique
     category, or gives a png if there isn't one. Also adds lots of new uniques. See
     the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.13-uniques/uniques.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.13-uniques/myplugins/uniques/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.14-uniques/uniques.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.14-uniques/myplugins/uniques/icon.png
   autoupdate:
     type: tag
     regex: ^.*-uniques$
@@ -1179,15 +1179,15 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.6-ship.merging
+  version: v1.0.7-ship.merging
   shortDescription: This plugin allows you to merge several ships of the same type
     into one with improved attributes. This can be done several times, up to a T10
     ship.
   description: This plugin allows you to merge several ships of the same type into
     one with improved attributes. This can be done several times, up to a T10 ship.
     See the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.6-ship.merging/ship.merging.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.6-ship.merging/myplugins/ship.merging/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.7-ship.merging/ship.merging.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.7-ship.merging/myplugins/ship.merging/icon.png
   autoupdate:
     type: tag
     regex: ^.*-ship.merging$
@@ -1274,13 +1274,13 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.2-vague.improvements
+  version: v1.0.4-vague.improvements
   shortDescription: A bunch of small QoL adjustment plugins. Just delete the unwanted
     and enjoy the wanted tweaks. See the README for details.
   description: A bunch of small QoL adjustment plugins. Just delete the unwanted and
     enjoy the wanted tweaks. See the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.2-vague.improvements/vague.improvements.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.2-vague.improvements/myplugins/vague.improvements/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.4-vague.improvements/vague.improvements.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.4-vague.improvements/myplugins/vague.improvements/icon.png
   autoupdate:
     type: tag
     regex: ^.*-vague.improvements$
@@ -2180,14 +2180,14 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.10-mission.helper
+  version: v1.0.11-mission.helper
   shortDescription: Enables a job on every planet's job board, that shows missions
     you haven't done.
   description: Enables a job on every planet's job board, that shows missions you
     haven't done. It also shows the 'source' and 'to offer' of these missions, so
     you can easily find them. See the README for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.10-mission.helper/mission.helper.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.10-mission.helper/myplugins/mission.helper/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.11-mission.helper/mission.helper.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.11-mission.helper/myplugins/mission.helper/icon.png
   autoupdate:
     type: tag
     regex: ^.*-mission.helper$
@@ -2482,7 +2482,7 @@
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
   license: MIT
-  version: v1.0.9-expert.crew.members
+  version: v1.0.10-expert.crew.members
   shortDescription: Adds unique crew members, aquireable through low chance spaceport
     missions.
   description: Adds unique crew members, aquireable through low chance spaceport missions.
@@ -2490,8 +2490,8 @@
     but no outfit space or mass. They add, depending on their technology field, stats
     to your ship. Like shield regeneration, more thrust, more cargo etc. See the README
     for details.
-  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.9-expert.crew.members/expert.crew.members.zip
-  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.9-expert.crew.members/myplugins/expert.crew.members/icon.png
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.10-expert.crew.members/expert.crew.members.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.10-expert.crew.members/myplugins/expert.crew.members/icon.png
   autoupdate:
     type: tag
     regex: ^.*-expert.crew.members$
