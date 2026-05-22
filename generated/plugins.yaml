@@ -2390,6 +2390,24 @@
     regex: ^.*-1requiredcrew$
     url: https://github.com/Nova1422/plugins/releases/download/$version/1requiredcrew.zip
     iconUrl: https://raw.githubusercontent.com/Nova1422/plugins/$version/myplugins/1requiredcrew/icon.png
+- name: fleet.mercy
+  authors: zuckung
+  homepage: https://github.com/zuckung/endless-sky-plugins
+  license: MIT
+  version: v1.0.0-fleet.mercy
+  shortDescription: Adds the disables personality to all fleets that do not already
+    have it, increasing the likelihood of ships being disabled rather than destroyed
+    during AI vs. AI combat.
+  description: Adds the disables personality to all fleets that do not already have
+    it, increasing the likelihood of ships being disabled rather than destroyed during
+    AI vs. AI combat. See the README for more details.
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.0-fleet.mercy/fleet.mercy.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.0-fleet.mercy/myplugins/fleet.mercy/icon.png
+  autoupdate:
+    type: tag
+    regex: ^.*-fleet.mercy$
+    url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/fleet.mercy.zip
+    iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/fleet.mercy/icon.png
 - name: Factory.Outlets
   authors: Lifeyouristhis & Timeout
   homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FactoryOutlets
