@@ -1,0 +1,13 @@
+name: Glory to the CCOR
+authors: Arachi
+homepage: https://github.com/Arachi-Lover/Glory-to-the-CCOR
+license: CC-BY-SA-4.0
+version: v1.0.0
+shortDescription: Help the Politburo reconquer their lost territory, and establish the glorious CCOR as a sovereign power once again.
+description: Help the Politburo reconquer their lost territory, and establish the glorious Confederated Councils of the Outer Rim as a sovereign power once again. Ferry in volunteer recruits, transport supply donations, and combat the wretched Pirates that have occupied the worlds of the CCOR.
+url: https://github.com/Arachi-Lover/Glory-to-the-CCOR/archive/refs/tags/v1.0.0.zip
+iconUrl: https://raw.githubusercontent.com/Arachi-Lover/glory-to-the-ccor/v1.0.0/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/Arachi-Lover/Glory-to-the-CCOR/archive/refs/tags/$version.zip
+  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/glory-to-the-ccor/$version/icon.png
