@@ -1,0 +1,16 @@
+{
+  "name": "SmolEngines",
+  "authors": "Arachi",
+  "homepage": "https://github.com/Arachi-Lover/SmolEngines",
+  "license": "CC-BY-SA-4.0",
+  "version": "v1.0.0",
+  "shortDescription": "Adds plasma and atomic engines, complementing the ion one.",
+  "description": "Adds plasma and atomic engines, complementing the ion one. Now carriers and carriables can share the same style of engines, which is important especially with regard to the engine flares.",
+  "url": "https://github.com/Arachi-Lover/SmolEngines/archive/refs/tags/v1.0.0.zip",
+  "iconUrl": "https://raw.githubusercontent.com/Arachi-Lover/smolengines/v1.0.0/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/Arachi-Lover/SmolEngines/archive/refs/tags/$version.zip",
+    "iconUrl": "https://raw.githubusercontent.com/Arachi-Lover/smolengines/$version/icon.png"
+  }
+}
