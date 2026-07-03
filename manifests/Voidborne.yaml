@@ -3,6 +3,9 @@ authors: heasdir
 homepage: https://github.com/heasdir/voidborne-plugin
 license: Apache-2.0
 version: v0.9.14
-shortDescription: Voidborne is a plugin with 2 ailen factions.
-description: Voidborne is a plugin with 2 ailen factions. Voidborne and Devourers. 
-url: https://github.com/heasdir/voidborne-plugin/archive/refs/tags/v1.0.zip
+shortDescription: Adds two new alien factions: the Voidborne Collective and the Devourer Swarm.
+description: Voidborne is a plugin that adds two new alien factions—the mysterious Voidborne Collective and the hostile Devourer Swarm—complete with new ships, outfits, systems, and a story-driven mission chain.
+url: https://github.com/heasdir/voidborne-plugin/archive/refs/tags/v0.9.14.zip
+autoupdate:
+  type: tag
+  url: https://github.com/heasdir/voidborne-plugin/archive/refs/tags/$version.zip
