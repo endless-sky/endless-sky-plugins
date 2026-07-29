@@ -1183,15 +1183,15 @@
   authors: Arachi
   homepage: https://github.com/Arachi-Lover/Glory-to-the-CCOR
   license: CC-BY-SA-4.0
-  version: v1.0.0
+  version: v1.0.1
   shortDescription: Help the Politburo reconquer their lost territory, and establish
     the glorious CCOR as a sovereign power once again.
   description: Help the Politburo reconquer their lost territory, and establish the
     glorious Confederated Councils of the Outer Rim as a sovereign power once again.
     Ferry in volunteer recruits, transport supply donations, and combat the wretched
     Pirates that have occupied the worlds of the CCOR.
-  url: https://github.com/Arachi-Lover/Glory-to-the-CCOR/archive/refs/tags/v1.0.0.zip
-  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/glory-to-the-ccor/v1.0.0/icon.png
+  url: https://github.com/Arachi-Lover/Glory-to-the-CCOR/archive/refs/tags/v1.0.1.zip
+  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/glory-to-the-ccor/v1.0.1/icon.png
   autoupdate:
     type: tag
     url: https://github.com/Arachi-Lover/Glory-to-the-CCOR/archive/refs/tags/$version.zip
@@ -1393,13 +1393,13 @@
   authors: Arachi
   homepage: https://github.com/Arachi-Lover/SmolEngines
   license: CC-BY-SA-4.0
-  version: v1.0.0
+  version: v1.0.1
   shortDescription: Adds plasma and atomic engines, complementing the ion one.
   description: Adds plasma and atomic engines, complementing the ion one. Now carriers
     and carriables can share the same style of engines, which is important especially
     with regard to the engine flares.
-  url: https://github.com/Arachi-Lover/SmolEngines/archive/refs/tags/v1.0.0.zip
-  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/smolengines/v1.0.0/icon.png
+  url: https://github.com/Arachi-Lover/SmolEngines/archive/refs/tags/v1.0.1.zip
+  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/smolengines/v1.0.1/icon.png
   autoupdate:
     type: tag
     url: https://github.com/Arachi-Lover/SmolEngines/archive/refs/tags/$version.zip
