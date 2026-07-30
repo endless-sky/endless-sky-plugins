@@ -1,0 +1,13 @@
+name: LinearHPScaling
+authors: Arachi
+homepage: https://github.com/Arachi-Lover/LinearHPScaling
+license: CC-BY-SA-4.0
+version: v1.0.1
+shortDescription: Scales the shields and hull values of many non-human ships linearily to the species tier to make the development of HP throughout ES's tiers less steep.
+description: Scales the shields and hull values of many non-human ships linearily to the species tier to make the development of HP throughout ES's tiers less steep.
+url: https://github.com/Arachi-Lover/LinearHPScaling/archive/refs/tags/v1.0.1.zip
+iconUrl: https://raw.githubusercontent.com/Arachi-Lover/linearhpscaling/v1.0.1/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/Arachi-Lover/LinearHPScaling/archive/refs/tags/$version.zip
+  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/linearhpscaling/$version/icon.png
