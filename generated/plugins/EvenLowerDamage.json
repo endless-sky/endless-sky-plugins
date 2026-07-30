@@ -1,0 +1,16 @@
+{
+  "name": "EvenLowerDamage",
+  "authors": "Arachi",
+  "homepage": "https://github.com/Arachi-Lover/EvenLowerDamage",
+  "license": "CC-BY-SA-4.0",
+  "version": "v1.0.1",
+  "shortDescription": "Lowers the damage of all weapons in the game even more to make combat even slower, halving the values in comparison to the LowerDamage plugin.",
+  "description": "Lowers the damage of all weapons in the game even more to make combat even slower, halving the values in comparison to the LowerDamage plugin. This affects shield, hull, discharge, and corrosion damage.",
+  "url": "https://github.com/Arachi-Lover/EvenLowerDamage/archive/refs/tags/v1.0.1.zip",
+  "iconUrl": "https://raw.githubusercontent.com/Arachi-Lover/evenlowerdamage/v1.0.1/icon.png",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/Arachi-Lover/EvenLowerDamage/archive/refs/tags/$version.zip",
+    "iconUrl": "https://raw.githubusercontent.com/Arachi-Lover/evenlowerdamage/$version/icon.png"
+  }
+}

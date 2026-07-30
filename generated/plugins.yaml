@@ -169,6 +169,22 @@
     regex: ^.*-ship.merging$
     url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/ship.merging.zip
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/ship.merging/icon.png
+- name: LowerDamage
+  authors: Arachi
+  homepage: https://github.com/Arachi-Lover/LowerDamage
+  license: CC-BY-SA-4.0
+  version: v1.0.1
+  shortDescription: Lowers the damage of all weapons in the game to make combat slower.
+  description: Lowers the damage of all weapons in the game to make combat slower.
+    This affects shield, hull, discharge, and corrosion damage. The damage values
+    were reduced by applying decimal multipliers, with varying values across tech
+    Tiers.
+  url: https://github.com/Arachi-Lover/LowerDamage/archive/refs/tags/v1.0.1.zip
+  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/lowerdamage/v1.0.1/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/Arachi-Lover/LowerDamage/archive/refs/tags/$version.zip
+    iconUrl: https://raw.githubusercontent.com/Arachi-Lover/lowerdamage/$version/icon.png
 - name: Unlimited Dragonflame Cannon(DFC)
   authors: Nova.
   homepage: https://github.com/Nova1422/plugins
@@ -201,6 +217,22 @@
     type: tag
     url: https://github.com/mOctave/blended-ships/archive/refs/tags/$version.zip
     iconUrl: https://raw.githubusercontent.com/mOctave/blended-ships/$version/icon.png
+- name: EvenLowerDamage
+  authors: Arachi
+  homepage: https://github.com/Arachi-Lover/EvenLowerDamage
+  license: CC-BY-SA-4.0
+  version: v1.0.1
+  shortDescription: Lowers the damage of all weapons in the game even more to make
+    combat even slower, halving the values in comparison to the LowerDamage plugin.
+  description: Lowers the damage of all weapons in the game even more to make combat
+    even slower, halving the values in comparison to the LowerDamage plugin. This
+    affects shield, hull, discharge, and corrosion damage.
+  url: https://github.com/Arachi-Lover/EvenLowerDamage/archive/refs/tags/v1.0.1.zip
+  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/evenlowerdamage/v1.0.1/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/Arachi-Lover/EvenLowerDamage/archive/refs/tags/$version.zip
+    iconUrl: https://raw.githubusercontent.com/Arachi-Lover/evenlowerdamage/$version/icon.png
 - name: Solar.Sails
   authors: TheronEpic
   homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#SolarSails
@@ -493,6 +525,38 @@
     type: tag
     url: https://github.com/Spectre907YT/Arion-Air_Superiority/archive/refs/tags/$version.zip
     iconUrl: https://raw.githubusercontent.com/Spectre907YT/Arion-Air_Superiority/$version/icon.png
+- name: RacingFlivverModifications
+  authors: Arachi
+  homepage: https://github.com/Arachi-Lover/RacingFlivverModifications
+  license: CC-BY-SA-4.0
+  version: v1.0.1
+  shortDescription: Expansion of the Artemis Renard story which adds custom modifications
+    to the Racing Flivver.
+  description: Expansion of the Artemis Renard story on Glory which adds custom modifications
+    to the Racing Flivver. Requires acquiring the Racing Flivver after having this
+    plugin active, as the modifications need an attribute to be added to the ship
+    model.
+  url: https://github.com/Arachi-Lover/RacingFlivverModifications/archive/refs/tags/v1.0.1.zip
+  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/racingflivvermodifications/v1.0.1/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/Arachi-Lover/RacingFlivverModifications/archive/refs/tags/$version.zip
+    iconUrl: https://raw.githubusercontent.com/Arachi-Lover/racingflivvermodifications/$version/icon.png
+- name: LinearHPScaling
+  authors: Arachi
+  homepage: https://github.com/Arachi-Lover/LinearHPScaling
+  license: CC-BY-SA-4.0
+  version: v1.0.1
+  shortDescription: Scales the shields and hull values of many non-human ships linearily
+    to the species tier to make the development of HP throughout ES's tiers less steep.
+  description: Scales the shields and hull values of many non-human ships linearily
+    to the species tier to make the development of HP throughout ES's tiers less steep.
+  url: https://github.com/Arachi-Lover/LinearHPScaling/archive/refs/tags/v1.0.1.zip
+  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/linearhpscaling/v1.0.1/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/Arachi-Lover/LinearHPScaling/archive/refs/tags/$version.zip
+    iconUrl: https://raw.githubusercontent.com/Arachi-Lover/linearhpscaling/$version/icon.png
 - name: The Quazar Condundrom
   authors: Anerix(Paradox)CorminQuanadol
   homepage: https://github.com/AurthorParadoxQ/The-Quazar-Conundrum/
@@ -771,6 +835,21 @@
     regex: ^.*-disable.spaceport.repeatables$
     url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/disable.spaceport.repeatables.zip
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/disable.spaceport.repeatables/icon.png
+- name: PirateVariantsHPFix
+  authors: Arachi
+  homepage: https://github.com/Arachi-Lover/PirateVariantsHPFix
+  license: CC-BY-SA-4.0
+  version: v1.0.1
+  shortDescription: Modifies the HP of Pirate variants of ships such that they have
+    the maximum shield/hull HP values of the Pirate and the civilian versions.
+  description: Modifies the HP of Pirate variants of ships such that they have the
+    maximum shield/hull HP values of the Pirate and the civilian versions.
+  url: https://github.com/Arachi-Lover/PirateVariantsHPFix/archive/refs/tags/v1.0.1.zip
+  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/piratevariantshpfix/v1.0.1/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/Arachi-Lover/PirateVariantsHPFix/archive/refs/tags/$version.zip
+    iconUrl: https://raw.githubusercontent.com/Arachi-Lover/piratevariantshpfix/$version/icon.png
 - name: Tribute Quarg
   authors: Nova.
   homepage: https://github.com/Nova1422/plugins?tab=readme-ov-file#tributequarg
