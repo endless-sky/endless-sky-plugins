@@ -1,0 +1,13 @@
+name: RacingFlivverModifications
+authors: Arachi
+homepage: https://github.com/Arachi-Lover/RacingFlivverModifications
+license: CC-BY-SA-4.0
+version: v1.0.1
+shortDescription: Expansion of the Artemis Renard story which adds custom modifications to the Racing Flivver.
+description: Expansion of the Artemis Renard story on Glory which adds custom modifications to the Racing Flivver. Requires acquiring the Racing Flivver after having this plugin active, as the modifications need an attribute to be added to the ship model.
+url: https://github.com/Arachi-Lover/RacingFlivverModifications/archive/refs/tags/v1.0.1.zip
+iconUrl: https://raw.githubusercontent.com/Arachi-Lover/racingflivvermodifications/v1.0.1/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/Arachi-Lover/RacingFlivverModifications/archive/refs/tags/$version.zip
+  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/racingflivvermodifications/$version/icon.png

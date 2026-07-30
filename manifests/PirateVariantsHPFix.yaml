@@ -1,0 +1,13 @@
+name: PirateVariantsHPFix
+authors: Arachi
+homepage: https://github.com/Arachi-Lover/PirateVariantsHPFix
+license: CC-BY-SA-4.0
+version: v1.0.1
+shortDescription: Modifies the HP of Pirate variants of ships such that they have the maximum shield/hull HP values of the Pirate and the civilian versions.
+description: Modifies the HP of Pirate variants of ships such that they have the maximum shield/hull HP values of the Pirate and the civilian versions.
+url: https://github.com/Arachi-Lover/PirateVariantsHPFix/archive/refs/tags/v1.0.1.zip
+iconUrl: https://raw.githubusercontent.com/Arachi-Lover/piratevariantshpfix/v1.0.1/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/Arachi-Lover/PirateVariantsHPFix/archive/refs/tags/$version.zip
+  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/piratevariantshpfix/$version/icon.png

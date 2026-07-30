@@ -1,0 +1,13 @@
+name: LowerDamage
+authors: Arachi
+homepage: https://github.com/Arachi-Lover/LowerDamage
+license: CC-BY-SA-4.0
+version: v1.0.1
+shortDescription: Lowers the damage of all weapons in the game to make combat slower.
+description: Lowers the damage of all weapons in the game to make combat slower. This affects shield, hull, discharge, and corrosion damage. The damage values were reduced by applying decimal multipliers, with varying values across tech Tiers.
+url: https://github.com/Arachi-Lover/LowerDamage/archive/refs/tags/v1.0.1.zip
+iconUrl: https://raw.githubusercontent.com/Arachi-Lover/lowerdamage/v1.0.1/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/Arachi-Lover/LowerDamage/archive/refs/tags/$version.zip
+  iconUrl: https://raw.githubusercontent.com/Arachi-Lover/lowerdamage/$version/icon.png
