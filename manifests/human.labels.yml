@@ -2,12 +2,12 @@ name: human.labels
 authors: zuckung
 homepage: https://github.com/zuckung/endless-sky-plugins
 license: MIT
-version: v1.0.7-human.labels
+version: v1.0.8-human.labels
 shortDescription: Reworks the Human area labels and adds area borders.
 description: Reworks the Human area labels and adds area borders. See the README for
   details.
-url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.7-human.labels/human.labels.zip
-iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.7-human.labels/myplugins/human.labels/icon.png
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.8-human.labels/human.labels.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.8-human.labels/myplugins/human.labels/icon.png
 autoupdate:
   type: tag
   regex: ^.*-human.labels$
