@@ -2223,7 +2223,7 @@
   authors: Yanncha
   homepage: https://github.com/Yanncha/ES_plugins
   license: GPL-3.0-or-later
-  version: v1.0.1
+  version: v1.0.1-mark.system
   shortDescription: Mark current system on map and add short note to logbook
   description: This plugin adds a mission to the job board allowing the user to mark
     current planet on map and add a short pager-like note to the logbook, selected
