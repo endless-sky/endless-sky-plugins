@@ -2235,8 +2235,8 @@
   autoupdate:
     type: tag
     regex: ^.*-mark.system$
-    url: https://github.com/Yanncha/ES_plugins/releases/download/$version-mark.system/mark.system.zip
-    iconUrl: https://raw.githubusercontent.com/Yanncha/ES_plugins/$version-mark.system/myplugins/mark.system/icon.png
+    url: https://github.com/Yanncha/ES_plugins/releases/download/$version/mark.system.zip
+    iconUrl: https://raw.githubusercontent.com/Yanncha/ES_plugins/$version/myplugins/mark.system/icon.png
 - name: fleet.mercy
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins
