@@ -10,5 +10,5 @@ iconUrl: https://raw.githubusercontent.com/Yanncha/ES_plugins/v1.0.1-mark.system
 autoupdate:
   type: tag
   regex: ^.*-mark.system$
-  url: https://github.com/Yanncha/ES_plugins/releases/download/$version-mark.system/mark.system.zip
-  iconUrl: https://raw.githubusercontent.com/Yanncha/ES_plugins/$version-mark.system/myplugins/mark.system/icon.png
+  url: https://github.com/Yanncha/ES_plugins/releases/download/$version/mark.system.zip
+  iconUrl: https://raw.githubusercontent.com/Yanncha/ES_plugins/$version/myplugins/mark.system/icon.png
