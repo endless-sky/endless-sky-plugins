@@ -1,0 +1,11 @@
+name: Endless B5
+authors: Corey Reichle
+homepage: https://codeberg.org/ubergeek/Endless-B5
+license: AGPL-3.0-or-later
+version: 23b8ad568a312ee7bded36190ed7987b23714c30
+shortDescription: A fan made Babylon 5 mod for Endless Sky
+description: This is a fan-made, unofficial Babylon 5 project for Endless Sky and is not affiliated with, endorsed by, or officially connected to Babylon 5, Warner Bros., Endless Sky, or their respective rights holders.
+url: https://codeberg.org/ubergeek/Endless-B5/archive/23b8ad568a312ee7bded36190ed7987b23714c30.zip
+autoupdate:
+  type: commit
+  url: https://codeberg.org/ubergeek/Endless-B5/archive/$version.zip
