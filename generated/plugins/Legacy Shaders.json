@@ -1,0 +1,13 @@
+{
+  "name": "Legacy Shaders",
+  "authors": "Endless Sky contributors & TomGoodIdea",
+  "homepage": "https://github.com/TomGoodIdea/endless-sky-legacy-shaders",
+  "license": "GPL-3.0-or-later",
+  "version": "v1.3.1",
+  "shortDescription": "Unofficial support for OpenGL 2, based on the vanilla Endless Sky shaders.",
+  "url": "https://github.com/TomGoodIdea/endless-sky-legacy-shaders/releases/download/v1.3.1/legacy-shaders.zip",
+  "autoupdate": {
+    "type": "tag",
+    "url": "https://github.com/TomGoodIdea/endless-sky-legacy-shaders/releases/download/$version/legacy-shaders.zip"
+  }
+}
