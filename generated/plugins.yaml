@@ -964,18 +964,6 @@
     main plot, along with the Pact Recon mission chain.
   url: https://github.com/ziproot/disable-free-worlds/archive/3dd174e3391fb00c44f4cc2f12149de709f95c5c.zip
   iconURL: https://github.com/ziproot/disable-free-worlds/raw/3dd174e3391fb00c44f4cc2f12149de709f95c5c/icon.png
-- name: Jibauni
-  authors: TheGiraffe3
-  homepage: https://github.com/TheGiraffe3/Jibauni
-  license: CC-BY-SA-4.0
-  version: 296360df61d15531ebea19ebfac920f07f735eb1
-  shortDescription: Adds three new alien species.
-  description: Adds the Jibauni, Diba, and re-adds the Sheragi. The Jibauni are dinosaurs,
-    the Diba are robots, and the Sheragi are dragons.
-  url: https://github.com/TheGiraffe3/Jibauni/archive/296360df61d15531ebea19ebfac920f07f735eb1.zip
-  autoupdate:
-    type: commit
-    url: https://github.com/TheGiraffe3/Jibauni/archive/$version.zip
 - name: Midnight Scrapyard
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Scrapyard
