@@ -1,6 +1,6 @@
 name: comets
 authors: zuckung
-homepage: https://github.com/zuckung/endless-sky-plugins
+homepage: https://github.com/zuckung/endless-sky-plugins#comets
 license: MIT
 version: v1.0.1-comets
 shortDescription: Adds 10 different comet types, as rare spawns to changing systems.

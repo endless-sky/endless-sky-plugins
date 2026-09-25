@@ -1,6 +1,6 @@
 name: uniques
 authors: zuckung
-homepage: https://github.com/zuckung/endless-sky-plugins
+homepage: https://github.com/zuckung/endless-sky-plugins#uniques
 license: MIT
 version: v1.0.15-uniques
 shortDescription: Removes mass and outfit space from some uniques, puts others into
