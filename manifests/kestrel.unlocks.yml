@@ -1,6 +1,6 @@
 name: kestrel.unlocks
 authors: zuckung
-homepage: https://github.com/zuckung/endless-sky-plugins
+homepage: https://github.com/zuckung/endless-sky-plugins#kestrelunlocks
 license: MIT
 version: v1.0.1-kestrel.unlocks
 shortDescription: Unlocks all Kestrel variants after you have unlocked the first one.

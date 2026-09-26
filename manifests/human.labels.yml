@@ -1,6 +1,6 @@
 name: human.labels
 authors: zuckung
-homepage: https://github.com/zuckung/endless-sky-plugins
+homepage: https://github.com/zuckung/endless-sky-plugins#humanlabels
 license: MIT
 version: v1.0.8-human.labels
 shortDescription: Reworks the Human area labels and adds area borders.

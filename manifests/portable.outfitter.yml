@@ -1,0 +1,14 @@
+name: portable.outfitter
+authors: zuckung
+homepage: https://github.com/zuckung/endless-sky-plugins#portableoutfitter
+license: MIT
+version: v1.0.0-portable.outfitter
+shortDescription: RAdds a new ship, the Turtle, to human shipyards. With that ship in your fleet, you can use an outfitter on every planet you land on. See the README for details.
+description: Adds a new ship, the Turtle, to human shipyards. With that ship in your fleet, you can use an outfitter on every planet you land on. See the README for details.
+url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.0-portable.outfitter/portable.outfitter.zip
+iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.0-portable.outfitter/myplugins/portable.outfitter/icon.png
+autoupdate:
+  type: tag
+  regex: ^.*-portable.outfitter$
+  url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/portable.outfitter.zip
+  iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/portable.outfitter/icon.png
