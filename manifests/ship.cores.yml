@@ -3,8 +3,11 @@ authors: zuckung
 homepage: https://github.com/zuckung/endless-sky-plugins#shipcores
 license: MIT
 version: v1.0.3-ship.cores
-shortDescription: This plugin removes most attributes from ships and puts them into an outfit. You can exchange these core outfits between ships. See the README for details.
-description: This plugin removes most attributes from ships and puts them into an outfit. You can exchange these core outfits between ships. See the README for details.
+shortDescription: This plugin removes most attributes from ships and puts them into
+  an outfit. You can exchange these core outfits between ships. See the README for
+  details.
+description: This plugin removes most attributes from ships and puts them into an
+  outfit. You can exchange these core outfits between ships. See the README for details.
 url: https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-ship.cores/ship.cores.zip
 iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-ship.cores/myplugins/ship.cores/icon.png
 autoupdate:
