@@ -1,7 +1,7 @@
 {
   "name": "automata.destruction.0percent",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#automatadestruction0percent",
   "license": "MIT",
   "version": "v1.0.2-automata.destruction.0percent",
   "shortDescription": "Modifies the self destruction chance of Sestor and Mereti ships to a value of 0.0 (0%).",

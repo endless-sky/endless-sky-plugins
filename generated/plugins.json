@@ -64,7 +64,7 @@
   {
     "name": "ship.merging",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#shipmerging-1",
     "license": "MIT",
     "version": "v1.0.7-ship.merging",
     "shortDescription": "This plugin allows you to merge several ships of the same type into one with improved attributes. This can be done several times, up to a T10 ship.",
@@ -81,7 +81,7 @@
   {
     "name": "additional.command.buttons.radial",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#additionalcommandbuttonsradial",
     "license": "MIT",
     "version": "v1.0.29-additional.command.buttons.radial",
     "shortDescription": "Reworks the ui for the ANDROID version of ES.",
@@ -164,7 +164,7 @@
   {
     "name": "control.station",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#controlstation",
     "license": "MIT",
     "version": "v1.0.9-control.station",
     "shortDescription": "Adds a station to the Sol system that offers administrative functions started by the job board.",
@@ -197,7 +197,7 @@
   {
     "name": "job.coloring",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#jobcoloring",
     "license": "MIT",
     "version": "v1.0.4-job.coloring",
     "shortDescription": "Recolors all jobs to sort them by category(cargo/passenger/escort/etc). See the README for details.",
@@ -372,7 +372,7 @@
   {
     "name": "outfits.weapon.slot",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#outfitsweaponslot",
     "license": "MIT",
     "version": "v1.0.1-outfits.weapon.slot",
     "shortDescription": "Adds several non-weapon outfits for gun and turret ports.",
@@ -406,7 +406,7 @@
   {
     "name": "landing.images",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#landingimages",
     "license": "MIT",
     "version": "v1.0.5-landing.images",
     "shortDescription": "Replaces all planet landing images with better fitting ones.",
@@ -467,7 +467,7 @@
   {
     "name": "boss.loot",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#bossloot",
     "license": "MIT",
     "version": "v1.0.10-boss.loot",
     "shortDescription": "A series of dungeon-like boss encounters for a single ship. With loottables and weapon upgrade mechanism.",
@@ -484,7 +484,7 @@
   {
     "name": "disable.person.ships",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#disablepersonships",
     "license": "MIT",
     "version": "v1.0.1-disable.person.ships",
     "shortDescription": "Disables all person ships.",
@@ -634,7 +634,7 @@
   {
     "name": "kor.efret.shipyard",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#korefretshipyard",
     "license": "MIT",
     "version": "v1.0.3-kor.efret.shipyard",
     "shortDescription": "Adds a shipyard with the three Kor Efret ships to Laki Nemparu. Also adds an outfitter with all outfits of these three ships and some Korath Exiles outfits.",
@@ -667,7 +667,7 @@
   {
     "name": "automata.in.human.space",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#automatainhumanspace",
     "license": "MIT",
     "version": "v1.0.2-automata.in.human.space",
     "shortDescription": "Brings jump drive equipped automata into human space after the wanderer campaign.",
@@ -700,7 +700,7 @@
   {
     "name": "planet.map",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#planetmap",
     "license": "MIT",
     "version": "v1.0.4-planet.map",
     "shortDescription": "This is a storyline entirely on a planets surface(with fitting visuals). Available at the outfitter on planet Memory.",
@@ -763,7 +763,7 @@
   {
     "name": "gegno.pirates",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#gegnopirates",
     "license": "MIT",
     "version": "v1.0.6-gegno.pirates",
     "shortDescription": "Adds a new faction of Gegno pirates which lets you capture Gegno ships and gain Gegno/Scin/Vi reputation to open their planets for travel.",
@@ -780,7 +780,7 @@
   {
     "name": "space.fauna",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#spacefauna",
     "license": "MIT",
     "version": "v1.1.4-space.fauna",
     "shortDescription": "Adds space fauna fleets to all systems. Useless but pretty, to make the universe more alive.",
@@ -797,7 +797,7 @@
   {
     "name": "vague.improvements",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#vagueimprovements",
     "license": "MIT",
     "version": "v1.0.5-vague.improvements",
     "shortDescription": "A bunch of small QoL adjustment plugins. Just delete the unwanted and enjoy the wanted tweaks. See the README for details.",
@@ -830,7 +830,7 @@
   {
     "name": "mission.helper",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#missionhelper",
     "license": "MIT",
     "version": "v1.0.12-mission.helper",
     "shortDescription": "Enables a job on every planet's job board, that shows missions you haven't done.",
@@ -879,7 +879,7 @@
   {
     "name": "captureable.person.ships",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#captureablepersonships",
     "license": "MIT",
     "version": "v1.1.11-captureable.person.ships",
     "shortDescription": "Makes person ships capturable.",
@@ -972,7 +972,7 @@
   {
     "name": "hai.side.mission.unlocker",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#haisidemissionunlocker",
     "license": "MIT",
     "version": "v1.1.8-hai.side.mission.unlocker",
     "shortDescription": "Unlocks following hai missions... Unwanted Cargo Trigger, Hiding in Plain Sight, Nanachi 1,Expanding Business 1 and Hai Reveal... Pirate Troubles 0.",
@@ -1000,6 +1000,23 @@
       "type": "tag",
       "url": "https://github.com/Cromha-Plugins/Fire-Corporation/archive/refs/tags/$version.zip",
       "iconUrl": "https://github.com/Cromha-Plugins/Fire-Corporation/raw/$version/icon.png"
+    }
+  },
+  {
+    "name": "portable.outfitter",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#portableoutfitter",
+    "license": "MIT",
+    "version": "v1.0.0-portable.outfitter",
+    "shortDescription": "RAdds a new ship, the Turtle, to human shipyards. With that ship in your fleet, you can use an outfitter on every planet you land on. See the README for details.",
+    "description": "Adds a new ship, the Turtle, to human shipyards. With that ship in your fleet, you can use an outfitter on every planet you land on. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.0-portable.outfitter/portable.outfitter.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.0-portable.outfitter/myplugins/portable.outfitter/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-portable.outfitter$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/portable.outfitter.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/portable.outfitter/icon.png"
     }
   },
   {
@@ -1055,7 +1072,7 @@
   {
     "name": "licenses",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#licenses",
     "license": "MIT",
     "version": "v1.0.1-licenses",
     "shortDescription": "Adds several side missions to acquire unobtainable licenses.",
@@ -1153,7 +1170,7 @@
   {
     "name": "kestrel.unlocks",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#kestrelunlocks",
     "license": "MIT",
     "version": "v1.0.1-kestrel.unlocks",
     "shortDescription": "Unlocks all Kestrel variants after you have unlocked the first one.",
@@ -1170,7 +1187,7 @@
   {
     "name": "automata.destruction.0percent",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#automatadestruction0percent",
     "license": "MIT",
     "version": "v1.0.2-automata.destruction.0percent",
     "shortDescription": "Modifies the self destruction chance of Sestor and Mereti ships to a value of 0.0 (0%).",
@@ -1203,7 +1220,7 @@
   {
     "name": "no.more.mereti.mines",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#nomoremeretimines",
     "license": "MIT",
     "version": "v1.0.4-no.more.mereti.mines",
     "shortDescription": "Removes the mines from Mereti ships and replaces them with Husk-Slice and Shield Disruptor guns to increase game performance.",
@@ -1323,7 +1340,7 @@
   {
     "name": "better.starts",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#betterstarts",
     "license": "MIT",
     "version": "v1.0.5-better.starts",
     "shortDescription": "Adds several new start options with different ships, background stories, credits and debts.",
@@ -1340,7 +1357,7 @@
   {
     "name": "tribute.republic",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#tributerepublic",
     "license": "MIT",
     "version": "v1.0.3-tribute.republic",
     "shortDescription": "Allows you to tribute all Republic planets, without losing Free Worlds or Deep Security reputation.",
@@ -1422,7 +1439,7 @@
   {
     "name": "snowfeather.robotics",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#snowfeatherrobotics",
     "license": "MIT",
     "version": "v1.0.6-snowfeather.robotics",
     "shortDescription": "Adds three missions that lead to adding androids to the outfitter on Snowfeather(Hai space).",
@@ -1497,7 +1514,7 @@
   {
     "name": "show.reputation",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#showreputation",
     "license": "MIT",
     "version": "v1.0.7-show.reputation",
     "shortDescription": "Enables a job on the Earth job board, that shows the reputation values.",
@@ -1528,7 +1545,7 @@
   {
     "name": "coalition.shopping",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#coalitionshopping",
     "license": "MIT",
     "version": "v1.0.8-coalition.shopping",
     "shortDescription": "Adds all Coalition/Heliarch/Lunarium outfits and ships to 'Far Home' in the 'Homeward' system.",
@@ -1561,7 +1578,7 @@
   {
     "name": "jump.gates",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#jumpgates",
     "license": "MIT",
     "version": "v1.0.4-jump.gates",
     "shortDescription": "Adds a ring of 'jump gates' at the borders of human space to create shortcuts inside the human space.",
@@ -1578,7 +1595,7 @@
   {
     "name": "combat.ai",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#combatai",
     "license": "MIT",
     "version": "v1.0.13-combat.ai",
     "shortDescription": "Offers a mission to install a combat AI, which increases your ship stats based on combat experience.",
@@ -1611,7 +1628,7 @@
   {
     "name": "paint.your.ships",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#paintyourships",
     "license": "MIT",
     "version": "v1.0.4-paint.your.ships",
     "shortDescription": "Offers a job on Earth to paint your ships.",
@@ -1678,7 +1695,7 @@
   {
     "name": "landing.images.highres",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#landingimageshighres",
     "license": "MIT",
     "version": "v1.0.3-landing.images.highres",
     "shortDescription": "High resolution files for landing.images plugin.",
@@ -1695,7 +1712,7 @@
   {
     "name": "flare.play",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#flareplay",
     "license": "MIT",
     "version": "v1.0.4-flare.play",
     "shortDescription": "Adds lots of engine flare outfits to the big shipyards and outfitters. These outfits are just cosmetic.",
@@ -1791,7 +1808,7 @@
   {
     "name": "comets",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#comets",
     "license": "MIT",
     "version": "v1.0.1-comets",
     "shortDescription": "Adds 10 different comet types, as rare spawns to changing systems. These comets are minable and high profitable. See the README for details.",
@@ -1890,7 +1907,7 @@
   {
     "name": "bunrodea.missions",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#bunrodeamissions",
     "license": "MIT",
     "version": "v1.0.9-bunrodea.missions",
     "shortDescription": "Adds some missions and jobs to increase the Bunrodea reputation, to get access to all their planets and stuff.  See the README for details.",
@@ -1907,7 +1924,7 @@
   {
     "name": "disable.spaceport.repeatables",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#disablespaceportrepeatables",
     "license": "MIT",
     "version": "v1.1.2-disable.spaceport.repeatables",
     "shortDescription": "Disables all repeatable spaceport missions. I.e. shady passenger transport or drug smuggling.",
@@ -1975,7 +1992,7 @@
   {
     "name": "more.boarding.missions",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#moreboardingmissions",
     "license": "MIT",
     "version": "v1.1.6-more.boarding.missions",
     "shortDescription": "Adds lots of repeatable boarding and assisting missions for different factions. Boarding bigger ships give higher rewards or higher chances for credits or special items.",
@@ -2010,7 +2027,7 @@
   {
     "name": "highrollers.ltd",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#highrollersltd",
     "license": "MIT",
     "version": "v1.0.2-highrollers.ltd",
     "shortDescription": "This plugin adds some casino space stations where you can gamble.",
@@ -2027,7 +2044,7 @@
   {
     "name": "quarg.farm",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#quargfarm",
     "license": "MIT",
     "version": "v1.0.6-quarg.farm",
     "shortDescription": "Adds a new system 'Saquerver' (between human and coalition space) where you can farm a new Quarg faction. Also the death sentence from all other Quarg got removed.",
@@ -2094,7 +2111,7 @@
   {
     "name": "more.person.ships",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#morepersonships",
     "license": "MIT",
     "version": "v1.0.3-more.person.ships",
     "shortDescription": "This plugin adds more person ships to the different regions of the galaxy.",
@@ -2144,7 +2161,7 @@
   {
     "name": "galactic.capital.investment",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#galacticcapitalinvestment",
     "license": "MIT",
     "version": "v1.1.14-galactic.capital.investment",
     "shortDescription": "Implements missions and jobs for banking services and investments.",
@@ -2208,7 +2225,7 @@
   {
     "name": "fleet.mercy",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#fleetmercy",
     "license": "MIT",
     "version": "v1.0.2-fleet.mercy",
     "shortDescription": "Adds the disables personality to all fleets that do not already have it, increasing the likelihood of ships being disabled rather than destroyed during AI vs. AI combat.",
@@ -2275,7 +2292,7 @@
   {
     "name": "more.arfectas",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#morearfectas",
     "license": "MIT",
     "version": "v1.0.3-more.arfectas",
     "shortDescription": "Adds the new system 'Mego Pug', in eastern Bunrodea space. There you can farm rare spawning Arfectas and other more common Pug ships.",
@@ -2356,7 +2373,7 @@
   {
     "name": "uniques",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#uniques",
     "license": "MIT",
     "version": "v1.0.15-uniques",
     "shortDescription": "Removes mass and outfit space from some uniques, puts others into unique category, or gives a png if there isn't one. Also adds lots of new uniques.",
@@ -2440,7 +2457,7 @@
   {
     "name": "too.many.asteroids",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#toomanyasteroids",
     "license": "MIT",
     "version": "v1.0.5-too.many.asteroids",
     "shortDescription": "Removes all non-mineable asteroids from all systems. Mineable asteroids and asteroid belts are untouched. Increases game performance.",
@@ -2457,7 +2474,7 @@
   {
     "name": "expert.crew.members",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#expertcrewmembers",
     "license": "MIT",
     "version": "v1.0.10-expert.crew.members",
     "shortDescription": "Adds unique crew members, aquireable through low chance spaceport missions.",
@@ -2538,6 +2555,23 @@
     }
   },
   {
+    "name": "ship.cores",
+    "authors": "zuckung",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#shipcores",
+    "license": "MIT",
+    "version": "v1.0.3-ship.cores",
+    "shortDescription": "This plugin removes most attributes from ships and puts them into an outfit. You can exchange these core outfits between ships. See the README for details.",
+    "description": "This plugin removes most attributes from ships and puts them into an outfit. You can exchange these core outfits between ships. See the README for details.",
+    "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/v1.0.3-ship.cores/ship.cores.zip",
+    "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/v1.0.3-ship.cores/myplugins/ship.cores/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "regex": "^.*-ship.cores$",
+      "url": "https://github.com/zuckung/endless-sky-plugins/releases/download/$version/ship.cores.zip",
+      "iconUrl": "https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/ship.cores/icon.png"
+    }
+  },
+  {
     "name": "Capture Archons",
     "authors": "Nova.",
     "homepage": "https://github.com/Nova1422/plugins",
@@ -2573,7 +2607,7 @@
   {
     "name": "heavy.traffic",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#heavytraffic",
     "license": "MIT",
     "version": "v1.0.2-heavy.traffic",
     "shortDescription": "Offers thousands of new jobs with high cargo and passengers. See the README for details",
@@ -2607,7 +2641,7 @@
   {
     "name": "human.labels",
     "authors": "zuckung",
-    "homepage": "https://github.com/zuckung/endless-sky-plugins",
+    "homepage": "https://github.com/zuckung/endless-sky-plugins#humanlabels",
     "license": "MIT",
     "version": "v1.0.8-human.labels",
     "shortDescription": "Reworks the Human area labels and adds area borders.",

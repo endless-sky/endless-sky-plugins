@@ -1,7 +1,7 @@
 {
   "name": "licenses",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#licenses",
   "license": "MIT",
   "version": "v1.0.1-licenses",
   "shortDescription": "Adds several side missions to acquire unobtainable licenses.",

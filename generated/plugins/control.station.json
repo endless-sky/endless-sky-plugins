@@ -1,7 +1,7 @@
 {
   "name": "control.station",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#controlstation",
   "license": "MIT",
   "version": "v1.0.9-control.station",
   "shortDescription": "Adds a station to the Sol system that offers administrative functions started by the job board.",
