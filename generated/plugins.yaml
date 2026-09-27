@@ -1617,7 +1617,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/EndlessSkyCommunity/-Omnis
   license: GPL-3.0-or-later
-  version: a1d8a553b857bdd5215612f59a320d97ff94e2df
+  version: b37fb6c86c7840409f49eb3ed6511a39c7ab5f3e
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: 'The most extensive all-content plugin to date. All vanilla content
@@ -1625,7 +1625,7 @@
     builds. Many more tools are included into Omnis too!
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/a1d8a553b857bdd5215612f59a320d97ff94e2df.zip
+  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/b37fb6c86c7840409f49eb3ed6511a39c7ab5f3e.zip
   autoupdate:
     type: commit
     url: https://github.com/EndlessSkyCommunity/-Omnis/archive/$version.zip
@@ -1962,12 +1962,12 @@
   authors: TheGiraffe3
   homepage: https://github.com/TheGiraffe3/rumskib/
   license: CC-BY-SA-4.0
-  version: v0.11.2
+  version: v0.11.3
   shortDescription: Content expansion.
   description: Rumskib is a large content expansion with ships, planets, missions,
     and more.
-  url: https://github.com/TheGiraffe3/rumskib/archive/refs/tags/v0.11.2.zip
-  iconUrl: https://github.com/TheGiraffe3/rumskib/raw/v0.11.2/icon.png
+  url: https://github.com/TheGiraffe3/rumskib/archive/refs/tags/v0.11.3.zip
+  iconUrl: https://github.com/TheGiraffe3/rumskib/raw/v0.11.3/icon.png
   autoupdate:
     type: tag
     url: https://github.com/TheGiraffe3/rumskib/archive/refs/tags/$version.zip
