@@ -1,7 +1,7 @@
 {
   "name": "kor.efret.shipyard",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#korefretshipyard",
   "license": "MIT",
   "version": "v1.0.3-kor.efret.shipyard",
   "shortDescription": "Adds a shipyard with the three Kor Efret ships to Laki Nemparu. Also adds an outfitter with all outfits of these three ships and some Korath Exiles outfits.",

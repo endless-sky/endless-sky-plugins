@@ -1,7 +1,7 @@
 {
   "name": "quarg.farm",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#quargfarm",
   "license": "MIT",
   "version": "v1.0.6-quarg.farm",
   "shortDescription": "Adds a new system 'Saquerver' (between human and coalition space) where you can farm a new Quarg faction. Also the death sentence from all other Quarg got removed.",

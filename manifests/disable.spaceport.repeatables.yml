@@ -1,6 +1,6 @@
 name: disable.spaceport.repeatables
 authors: zuckung
-homepage: https://github.com/zuckung/endless-sky-plugins
+homepage: https://github.com/zuckung/endless-sky-plugins#disablespaceportrepeatables
 license: MIT
 version: v1.1.2-disable.spaceport.repeatables
 shortDescription: Disables all repeatable spaceport missions. I.e. shady passenger

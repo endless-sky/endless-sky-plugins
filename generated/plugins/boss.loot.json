@@ -1,7 +1,7 @@
 {
   "name": "boss.loot",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#bossloot",
   "license": "MIT",
   "version": "v1.0.10-boss.loot",
   "shortDescription": "A series of dungeon-like boss encounters for a single ship. With loottables and weapon upgrade mechanism.",

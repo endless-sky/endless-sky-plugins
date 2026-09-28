@@ -1,6 +1,6 @@
 name: too.many.asteroids
 authors: zuckung
-homepage: https://github.com/zuckung/endless-sky-plugins
+homepage: https://github.com/zuckung/endless-sky-plugins#toomanyasteroids
 license: MIT
 version: v1.0.5-too.many.asteroids
 shortDescription: Removes all non-mineable asteroids from all systems. Mineable asteroids

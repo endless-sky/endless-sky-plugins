@@ -1,6 +1,6 @@
 name: space.fauna
 authors: zuckung
-homepage: https://github.com/zuckung/endless-sky-plugins
+homepage: https://github.com/zuckung/endless-sky-plugins#spacefauna
 license: MIT
 version: v1.1.4-space.fauna
 shortDescription: Adds space fauna fleets to all systems. Useless but pretty, to make

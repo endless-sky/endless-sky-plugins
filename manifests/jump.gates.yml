@@ -1,6 +1,6 @@
 name: jump.gates
 authors: zuckung
-homepage: https://github.com/zuckung/endless-sky-plugins
+homepage: https://github.com/zuckung/endless-sky-plugins#jumpgates
 license: MIT
 version: v1.0.4-jump.gates
 shortDescription: Adds a ring of 'jump gates' at the borders of human space to create

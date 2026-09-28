@@ -1,7 +1,7 @@
 {
   "name": "fleet.mercy",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#fleetmercy",
   "license": "MIT",
   "version": "v1.0.2-fleet.mercy",
   "shortDescription": "Adds the disables personality to all fleets that do not already have it, increasing the likelihood of ships being disabled rather than destroyed during AI vs. AI combat.",

@@ -1,7 +1,7 @@
 {
   "name": "combat.ai",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#combatai",
   "license": "MIT",
   "version": "v1.0.13-combat.ai",
   "shortDescription": "Offers a mission to install a combat AI, which increases your ship stats based on combat experience.",

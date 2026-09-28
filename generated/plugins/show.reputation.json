@@ -1,7 +1,7 @@
 {
   "name": "show.reputation",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#showreputation",
   "license": "MIT",
   "version": "v1.0.7-show.reputation",
   "shortDescription": "Enables a job on the Earth job board, that shows the reputation values.",

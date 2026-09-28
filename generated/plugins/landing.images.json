@@ -1,7 +1,7 @@
 {
   "name": "landing.images",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#landingimages",
   "license": "MIT",
   "version": "v1.0.5-landing.images",
   "shortDescription": "Replaces all planet landing images with better fitting ones.",

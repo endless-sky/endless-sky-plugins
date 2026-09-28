@@ -1,7 +1,7 @@
 {
   "name": "snowfeather.robotics",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#snowfeatherrobotics",
   "license": "MIT",
   "version": "v1.0.6-snowfeather.robotics",
   "shortDescription": "Adds three missions that lead to adding androids to the outfitter on Snowfeather(Hai space).",

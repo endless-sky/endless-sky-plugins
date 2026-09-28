@@ -1,7 +1,7 @@
 {
   "name": "planet.map",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#planetmap",
   "license": "MIT",
   "version": "v1.0.4-planet.map",
   "shortDescription": "This is a storyline entirely on a planets surface(with fitting visuals). Available at the outfitter on planet Memory.",

@@ -1,6 +1,6 @@
 name: job.coloring
 authors: zuckung
-homepage: https://github.com/zuckung/endless-sky-plugins
+homepage: https://github.com/zuckung/endless-sky-plugins#jobcoloring
 license: MIT
 version: v1.0.4-job.coloring
 shortDescription: Recolors all jobs to sort them by category(cargo/passenger/escort/etc).

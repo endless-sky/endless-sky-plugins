@@ -1,7 +1,7 @@
 {
   "name": "expert.crew.members",
   "authors": "zuckung",
-  "homepage": "https://github.com/zuckung/endless-sky-plugins",
+  "homepage": "https://github.com/zuckung/endless-sky-plugins#expertcrewmembers",
   "license": "MIT",
   "version": "v1.0.10-expert.crew.members",
   "shortDescription": "Adds unique crew members, aquireable through low chance spaceport missions.",
