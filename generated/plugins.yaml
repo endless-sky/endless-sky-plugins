@@ -203,13 +203,13 @@
   authors: Daeridanii
   homepage: https://github.com/Daeridanii1/DAIS
   license: GPL-3.0-or-later
-  version: 1.0.0
+  version: 1.0.1
   shortDescription: An additional ships plugin for Endless Sky.
   description: DAIS provides a collection of lovingly-modeled ships with thumbnails
     and well-balanced stats, along with the fleet and shipyard additions to make them
     appear in the course of gameplay.
-  url: https://github.com/Daeridanii1/DAIS/archive/refs/tags/1.0.0.zip
-  iconUrl: https://raw.githubusercontent.com/Daeridanii1/DAIS/1.0.0/icon.png
+  url: https://github.com/Daeridanii1/DAIS/archive/refs/tags/1.0.1.zip
+  iconUrl: https://raw.githubusercontent.com/Daeridanii1/DAIS/1.0.1/icon.png
   autoupdate:
     type: tag
     url: https://github.com/Daeridanii1/DAIS/archive/refs/tags/$version.zip
@@ -1617,7 +1617,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/EndlessSkyCommunity/-Omnis
   license: GPL-3.0-or-later
-  version: b37fb6c86c7840409f49eb3ed6511a39c7ab5f3e
+  version: 4987a5c535ed40544c06c029d65686f3cd5013e4
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: 'The most extensive all-content plugin to date. All vanilla content
@@ -1625,7 +1625,7 @@
     builds. Many more tools are included into Omnis too!
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/b37fb6c86c7840409f49eb3ed6511a39c7ab5f3e.zip
+  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/4987a5c535ed40544c06c029d65686f3cd5013e4.zip
   autoupdate:
     type: commit
     url: https://github.com/EndlessSkyCommunity/-Omnis/archive/$version.zip
