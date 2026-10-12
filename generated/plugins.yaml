@@ -1958,6 +1958,19 @@
     regex: ^.*-Louise.Conglomerate.Shipyards$
     url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Louise.Conglomerate.Shipyards.zip
     iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Louise.Conglomerate.Shipyards/icon.png
+- name: combat.bi.no.clankerslop
+  authors: Living_Adblocker
+  homepage: https://github.com/LivingAdblocker
+  license: GPL-3.0-or-later
+  version: v1.0
+  shortDescription: Plugin for the combat.ai plugin (fractal plugins?!) that replaces
+    the AI images with real images that better fit the style of outfits.
+  url: https://github.com/LivingAdblocker/combat.bi.no.clankerslop/releases/download/v1.0/combat.bi.no.clankerslop.zip
+  iconUrl: https://github.com/LivingAdblocker/combat.bi.no.clankerslop/raw/v1.0/icon.png
+  autoupdate:
+    type: tag
+    url: https://github.com/LivingAdblocker/combat.bi.no.clankerslop/download/$version/combat.bi.no.clankerslop.zip
+    iconUrl: https://github.com/LivingAdblocker/combat.bi.no.clankerslop/raw/$version/icon.png
 - name: Rumskib
   authors: TheGiraffe3
   homepage: https://github.com/TheGiraffe3/rumskib/
@@ -2211,13 +2224,13 @@
   authors: Michael Zahniser
   homepage: https://github.com/endless-sky/endless-sky-high-dpi
   license: CC-BY-SA-4.0
-  version: e7f189579a9e2f4e49513dcadb8c9b285a88e837
+  version: 360b6ceec6b69c8609320d6d421094228f314663
   shortDescription: High-DPI graphics for Endless Sky.
   description: This plugin contains double resolution graphics, which are only used
     if you have a high-dpi monitor or if you set the zoom level above 100%. This will
     roughly double the amount of memory used by the game.
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/e7f189579a9e2f4e49513dcadb8c9b285a88e837.zip
-  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/e7f189579a9e2f4e49513dcadb8c9b285a88e837/icon.png
+  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/360b6ceec6b69c8609320d6d421094228f314663.zip
+  iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/360b6ceec6b69c8609320d6d421094228f314663/icon.png
   autoupdate:
     type: commit
     url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
