@@ -1,0 +1,13 @@
+name: Void Expansion
+authors: Living_Adblocker
+homepage: https://github.com/LivingAdblocker/Void-Expansion
+license: GPL-3.0-or-later
+version: v1.1
+shortDescription: Expands uninhabited systems in the Graveyard, Tangled Shroud, and Predecessor spaces
+description: This plugin adds a bunch of uninhabited systems in the Graveyard, Tangled Shroud, and Predecessor spaces.
+url: https://github.com/LivingAdblocker/Void-Expansion/releases/download/v1.1/Void-Expansion-main.zip
+iconUrl: https://github.com/LivingAdblocker/Void-Expansion/raw/v1.1/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/LivingAdblocker/Void-Expansion/releases/download/$version/Void-Expansion-main.zip
+  iconUrl: https://github.com/LivingAdblocker/Void-Expansion/raw/$version/icon.png
