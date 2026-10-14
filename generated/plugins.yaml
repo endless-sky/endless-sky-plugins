@@ -1960,7 +1960,7 @@
     iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Louise.Conglomerate.Shipyards/icon.png
 - name: combat.bi.no.clankerslop
   authors: Living_Adblocker
-  homepage: https://github.com/LivingAdblocker
+  homepage: https://github.com/LivingAdblocker/combat.bi.no.clankerslop
   license: GPL-3.0-or-later
   version: v1.0
   shortDescription: Plugin for the combat.ai plugin (fractal plugins?!) that replaces
