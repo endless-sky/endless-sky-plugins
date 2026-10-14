@@ -8,5 +8,5 @@ url: https://github.com/LivingAdblocker/combat.bi.no.clankerslop/releases/downlo
 iconUrl: https://github.com/LivingAdblocker/combat.bi.no.clankerslop/raw/v1.0/icon.png
 autoupdate:
   type: tag
-  url: https://github.com/LivingAdblocker/combat.bi.no.clankerslop/download/$version/combat.bi.no.clankerslop.zip
+  url: https://github.com/LivingAdblocker/combat.bi.no.clankerslop/releases/download/$version/combat.bi.no.clankerslop.zip
   iconUrl: https://github.com/LivingAdblocker/combat.bi.no.clankerslop/raw/$version/icon.png
