@@ -1560,6 +1560,22 @@
     }
   },
   {
+    "name": "Dominate-Tech",
+    "authors": "ChemtrailOperator",
+    "homepage": "https://github.com/chemtrailoperator/Dominate-Tech_EndlessSky",
+    "license": "GPL-3.0-or-later",
+    "version": "v1.0",
+    "shortDescription": "Gives licenses of dominated factions and adds outfitters and shipyards for those who do not have them already.",
+    "description": "This plugin solves the balancing problem of not being able to access tech of domianted planets that should not be able to resist you.",
+    "url": "https://github.com/chemtrailoperator/Dominate-Tech_EndlessSky/releases/download/v1.0/Dominate-Tech.zip",
+    "iconUrl": "https://github.com/chemtrailoperator/Dominate-Tech_EndlessSky/raw/v1.0/icon.png",
+    "autoupdate": {
+      "type": "tag",
+      "url": "https://github.com/chemtrailoperator/Dominate-Tech_EndlessSky/releases/download/$version/Dominate-Tech.zip",
+      "iconUrl": "https://github.com/chemtrailoperator/Dominate-Tech_EndlessSky/raw/$version/icon.png"
+    }
+  },
+  {
     "name": "Easier Korath Automatons",
     "authors": "Bereskatuket (Kestrel1110)",
     "homepage": "https://github.com/kestrel1110/Easier-Korath-Automatons",
