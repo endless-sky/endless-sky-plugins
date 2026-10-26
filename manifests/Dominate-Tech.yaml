@@ -3,8 +3,10 @@ authors: ChemtrailOperator
 homepage: https://github.com/chemtrailoperator/Dominate-Tech_EndlessSky
 license: GPL-3.0-or-later
 version: v1.0
-shortDescription: Gives licenses of dominated factions and adds outfitters and shipyards for those who do not have them already.
-description: This plugin solves the balancing problem of not being able to access tech of domianted planets that should not be able to resist you.
+shortDescription: Gives licenses of dominated factions and adds outfitters and shipyards
+  for those who do not have them already.
+description: This plugin solves the balancing problem of not being able to access
+  tech of domianted planets that should not be able to resist you.
 url: https://github.com/chemtrailoperator/Dominate-Tech_EndlessSky/releases/download/v1.0/Dominate-Tech.zip
 iconUrl: https://github.com/chemtrailoperator/Dominate-Tech_EndlessSky/raw/v1.0/icon.png
 autoupdate:
