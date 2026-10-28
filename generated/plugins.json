@@ -1923,7 +1923,7 @@
     "name": "Rumskib",
     "authors": "TheGiraffe3",
     "homepage": "https://github.com/TheGiraffe3/rumskib/",
-    "license": "CC-BY-SA-4.0",
+    "license": "GPL-3.0-or-later",
     "version": "v0.11.3",
     "shortDescription": "Content expansion.",
     "description": "Rumskib is a large content expansion with ships, planets, missions, and more.",
