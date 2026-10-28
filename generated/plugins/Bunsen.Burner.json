@@ -2,7 +2,7 @@
   "name": "Bunsen.Burner",
   "authors": "Nick Barry",
   "homepage": "https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#BunsenBurner",
-  "license": "GPL-3+",
+  "license": "GPL-3.0-or-later",
   "version": "v1.4.7-Bunsen.Burner",
   "shortDescription": "Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.",
   "description": "Next-generation Flamethrower, as gun, turret and h2h. For those who like it hot.",
