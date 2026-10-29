@@ -3,8 +3,11 @@ authors: Arachi
 homepage: https://github.com/Arachi-Lover/galactic_layers_POC
 license: CC-BY-SA-4.0
 version: v1.0.0
-shortDescription: A proof of concept plugin to test "layers" to the milky way galaxy map.
-description: This is a proof of concept (POC) plugin to demonstrate the possibility of using the map mechanics to create pseudo "layers" to the Milky Way galaxy map of Endless Sky.
+shortDescription: A proof of concept plugin to test "layers" to the milky way galaxy
+  map.
+description: This is a proof of concept (POC) plugin to demonstrate the possibility
+  of using the map mechanics to create pseudo "layers" to the Milky Way galaxy map
+  of Endless Sky.
 url: https://github.com/Arachi-Lover/galactic_layers_POC/archive/refs/tags/v1.0.0.zip
 iconUrl: https://raw.githubusercontent.com/Arachi-Lover/galactic_layers_POC/v1.0.0/icon.png
 autoupdate:
