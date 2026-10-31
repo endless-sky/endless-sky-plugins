@@ -181,13 +181,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Lost-in-Midnight
   license: GPL-3.0-or-later
-  version: 0.11.2.1.5
+  version: 0.11.4.0.0
   shortDescription: Lost in Midnight is a mission focused plugin for the Endless Sky
     game. Features new missions, systems, outfits, ships, and variants.
   description: Lost technology, Lost knowledge, And people, who have lost their way
     trying to navigate life in this vast galaxy...
-  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.11.2.1.5/Lost.in.Midnight-0.11.2.1.5.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.11.2.1.5/icon.png
+  url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/0.11.4.0.0/Lost.in.Midnight-0.11.4.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Lost-in-Midnight/0.11.4.0.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Lost-in-Midnight/releases/download/$version/Lost.in.Midnight-$version.zip
@@ -894,13 +894,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Scrapyard
   license: GPL-3.0-or-later
-  version: 0.11.2.0.4
+  version: 0.11.4.0.0
   shortDescription: A plugin suggesting an epilogue for the Kor Sestor region of Endless
     Sky. Includes some new ships, outfits, and missions.
   description: This region of space has abandoned derelicts waiting to be scavenged.
     But something lurks amongst the wreckage...
-  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.11.2.0.4/Midnight.Scrapyard-0.11.2.0.4.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.11.2.0.4/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/0.11.4.0.0/Midnight.Scrapyard-0.11.4.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Scrapyard/0.11.4.0.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Scrapyard/releases/download/$version/Midnight.Scrapyard-$version.zip
@@ -2053,7 +2053,7 @@
   authors: Darcy Manoel
   homepage: https://github.com/EndlessSkyCommunity/-Omnis
   license: GPL-3.0-or-later
-  version: 643d565d4109619ef1a8b9de346c90dd9fcd1b2c
+  version: 42541cc8031146dbc19e971cae872cb1f8242f8b
   shortDescription: The most extensive all-content plugin to date, for development
     or fun.
   description: 'The most extensive all-content plugin to date. All vanilla content
@@ -2061,7 +2061,7 @@
     builds. Many more tools are included into Omnis too!
 
     This plugin is part of the Adde Endless Sky collection.'
-  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/643d565d4109619ef1a8b9de346c90dd9fcd1b2c.zip
+  url: https://github.com/EndlessSkyCommunity/-Omnis/archive/42541cc8031146dbc19e971cae872cb1f8242f8b.zip
   autoupdate:
     type: commit
     url: https://github.com/EndlessSkyCommunity/-Omnis/archive/$version.zip
@@ -2424,13 +2424,13 @@
   authors: Michael Arsollon
   homepage: https://github.com/MidnightPlugins/Midnight-Expansion
   license: GPL-3.0-or-later
-  version: 0.11.2.0.2
+  version: 0.11.4.0.0
   shortDescription: Plugin using ships, outfits, or other resources from plugins by
     other creators or derivatives of their original creations.
   description: Expanded content derived from the plugins of other creators. Some contents
     may require other Midnight Plugins creations.
-  url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.11.2.0.2/Midnight.Expansion-0.11.2.0.2.zip
-  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.11.2.0.2/icon.png
+  url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/0.11.4.0.0/Midnight.Expansion-0.11.4.0.0.zip
+  iconUrl: https://raw.githubusercontent.com/MidnightPlugins/Midnight-Expansion/0.11.4.0.0/icon.png
   autoupdate:
     type: tag
     url: https://github.com/MidnightPlugins/Midnight-Expansion/releases/download/$version/Midnight.Expansion-$version.zip
