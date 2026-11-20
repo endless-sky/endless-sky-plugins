@@ -13,4 +13,3 @@ autoupdate:
   regex: ^.*-Fundamental.Outfit.Expansion.Alien$
   url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Fundamental.Outfit.Expansion.Alien.zip
   iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Fundamental.Outfit.Expansion.Alien/icon.png
-  
