@@ -1970,6 +1970,21 @@
     regex: ^.*-mission.helper$
     url: https://github.com/zuckung/endless-sky-plugins/releases/download/$version/mission.helper.zip
     iconUrl: https://raw.githubusercontent.com/zuckung/endless-sky-plugins/$version/myplugins/mission.helper/icon.png
+- name: Fundamental.Outfit.Expansion.Alien
+  authors: (many authors)
+  homepage: https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#FundamentalOutfitExpansionAlien
+  license: CC-BY-SA-4.0
+  version: v1.0.1-Fundamental.Outfit.Expansion.Alien
+  shortDescription: Alien add-on for FOE.
+  description: Alien add-on for FOE.
+  url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/v1.0.1-Fundamental.Outfit.Expansion.Alien/Fundamental.Outfit.Expansion.Alien.zip
+  iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/v1.0.1-Fundamental.Outfit.Expansion.Alien/myplugins/Fundamental.Outfit.Expansion.Alien/icon.png
+  autoupdate:
+    type: tag
+    update_url: https://github.com/LixiChronikouOriou/ES-plugins/
+    regex: ^.*-Fundamental.Outfit.Expansion.Alien$
+    url: https://github.com/LixiChronikouOriou/ES-plugins/releases/download/$version/Fundamental.Outfit.Expansion.Alien.zip
+    iconUrl: https://raw.githubusercontent.com/LixiChronikouOriou/ES-plugins/$version/myplugins/Fundamental.Outfit.Expansion.Alien/icon.png
 - name: coalition.shopping
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins#coalitionshopping
