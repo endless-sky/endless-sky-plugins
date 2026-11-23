@@ -2523,11 +2523,8 @@
     are supported. No other plugins are officially supported, though plugins that
     do not add new systems or story content, like Blended Ships, No More Inflation,
     or LinearHPScaling, should be supported.
-  url: https://git.nixnet.services/ziproot/endless-music-egg-edition/archive/2.0.1.zip
-  iconUrl: https://git.nixnet.services/ziproot/endless-music-egg-edition/raw/branch/main/icon.png
-  autoupdate:
-    type: tag
-    url: https://git.nixnet.services/ziproot/endless-music-egg-edition/archive/$version.zip
+  url: https://web.archive.org/web/20251129183238/https://git.nixnet.services/ziproot/endless-music-egg-edition/archive/2.0.1.zip
+  iconUrl: https://web.archive.org/web/20251204111256if_/https://git.nixnet.services/ziproot/endless-music-egg-edition/raw/branch/main/icon.png
 - name: Buyable Faes'mar
   authors: kaiboy
   homepage: https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar
