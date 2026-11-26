@@ -1949,10 +1949,6 @@
     and mining technology.
   url: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/releases/download/v1.0.1/Asteroid-Expansion_EndlessSky-v1.0.1.zip
   iconUrl: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/raw/v1.0.1/icon.png
-  autoupdate:
-    type: tag
-    url: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/releases/download/$version/Asteroid-Expansion_EndlessSky-$version.zip
-    iconUrl: https://github.com/chemtrailoperator/Asteroid-Expansion_EndlessSky/raw/$version/icon.png
 - name: mission.helper
   authors: zuckung
   homepage: https://github.com/zuckung/endless-sky-plugins#missionhelper
